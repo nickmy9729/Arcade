@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Nintendo 64</listname>
+		<lastlistupdate>11/15/2011</lastlistupdate>
+		<listversion>1.1 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="Tony Hawk&apos;s Pro Skater (USA) (Rev A)" index="true" image="t">
+		<description>Tony Hawk&apos;s Pro Skater (USA) (Rev A)</description>
+		<cloneof></cloneof>
+		<crc>1BE278C1</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2000</year>
+		<genre>Skateboarding/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tony Hawk&apos;s Pro Skater 2 (USA)" index="" image="">
+		<description>Tony Hawk&apos;s Pro Skater 2 (USA)</description>
+		<cloneof></cloneof>
+		<crc>6DF2D58E</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2001</year>
+		<genre>Skateboarding/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tony Hawk&apos;s Pro Skater 3 (USA)" index="" image="">
+		<description>Tony Hawk&apos;s Pro Skater 3 (USA)</description>
+		<cloneof></cloneof>
+		<crc>ED73272E</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2002</year>
+		<genre>Skateboarding/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

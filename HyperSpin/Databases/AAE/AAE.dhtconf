@@ -1,0 +1,8 @@
+<DonsHyperSpinListGenerator VersionMajor="4">
+  <Wheel>AAE</Wheel>
+  <OutputFile>M:\Arcade\HyperSpin\Databases\AAE\AAE.xml</OutputFile>
+  <SourceFile>M:\Hyperlists\AAE.xml</SourceFile>
+  <ExcludeFile>M:\Arcade\HyperSpin\Databases\AAE\AAE_excluded.xml</ExcludeFile>
+  <MameXmlFile>
+  </MameXmlFile>
+</DonsHyperSpinListGenerator>

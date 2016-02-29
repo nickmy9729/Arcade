@@ -1,0 +1,8 @@
+<DonsHyperSpinListGenerator VersionMajor="4">
+  <Wheel>Nintendo Famicom Disk System</Wheel>
+  <OutputFile>M:\Arcade\HyperSpin\Databases\Nintendo Famicom Disk System\Nintendo Famicom Disk System.xml</OutputFile>
+  <SourceFile>M:\Hyperlists\Nintendo Famicom Disk System.xml</SourceFile>
+  <ExcludeFile>M:\Arcade\HyperSpin\Databases\Nintendo Famicom Disk System\Nintendo Famicom Disk System_excluded.xml</ExcludeFile>
+  <MameXmlFile>
+  </MameXmlFile>
+</DonsHyperSpinListGenerator>

@@ -1,0 +1,979 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Nintendo Game Boy Advance</listname>
+		<lastlistupdate>10/27/2011</lastlistupdate>
+		<listversion>1.1 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="2 Games in 1 - Bionicle + Knights&apos; Kingdom (Europe) (En,Fr,De,Da+En,De)" index="true" image="2">
+		<description>2 Games in 1 - Bionicle + Knights&apos; Kingdom (Europe) (En,Fr,De,Da+En,De)</description>
+		<cloneof></cloneof>
+		<crc>D720BDCA</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2005</year>
+		<genre>Action/Adventure</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="2 Games in 1 - Disney Princess + Lizzie McGuire (Europe)" index="" image="">
+		<description>2 Games in 1 - Disney Princess + Lizzie McGuire (Europe)</description>
+		<cloneof></cloneof>
+		<crc>99C96067</crc>
+		<manufacturer>Disney Interactive</manufacturer>
+		<year>2006</year>
+		<genre>Adventure/Platform</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="2 Games in 1 - Finding Nemo + The Incredibles (Europe)" index="" image="">
+		<description>2 Games in 1 - Finding Nemo + The Incredibles (Europe)</description>
+		<cloneof></cloneof>
+		<crc>9702ABCE</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2007</year>
+		<genre>Adventure/Platform</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="2 Games in 1 - Finding Nemo - The Continuing Adventures + The Incredibles (USA)" index="" image="">
+		<description>2 Games in 1 - Finding Nemo - The Continuing Adventures + The Incredibles (USA)</description>
+		<cloneof></cloneof>
+		<crc>D5A37AA8</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2007</year>
+		<genre>Adventure/Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="2 Games in 1 - Scooby-Doo! - Mystery Mayhem + Scooby-Doo and the Cyber Chase (USA) (En,Fr,De+En)" index="" image="">
+		<description>2 Games in 1 - Scooby-Doo! - Mystery Mayhem + Scooby-Doo and the Cyber Chase (USA) (En,Fr,De+En)</description>
+		<cloneof></cloneof>
+		<crc>5318DF13</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2005</year>
+		<genre>Action/Adventure</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="2 Games in 1 - SpongeBob SquarePants - Battle for Bikini Bottom + Nicktoons - Freeze Frame Frenzy (USA)" index="" image="">
+		<description>2 Games in 1 - SpongeBob SquarePants - Battle for Bikini Bottom + Nicktoons - Freeze Frame Frenzy (USA)</description>
+		<cloneof></cloneof>
+		<crc>5802CAFD</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2005</year>
+		<genre>Adventure/Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="2 Games in 1 - The SpongeBob SquarePants Movie + SpongeBob SquarePants and Friends in Freeze Frame Frenzy (Europe) (En,Fr,De,Es,It,Nl+En,Fr,De,Es,Nl)" index="" image="">
+		<description>2 Games in 1 - The SpongeBob SquarePants Movie + SpongeBob SquarePants and Friends in Freeze Frame Frenzy (Europe) (En,Fr,De,Es,It,Nl+En,Fr,De,Es,Nl)</description>
+		<cloneof></cloneof>
+		<crc>A04CEBFE</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2005</year>
+		<genre>Adventure/Platform</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Arctic Tale (USA)" index="true" image="a">
+		<description>Arctic Tale (USA)</description>
+		<cloneof></cloneof>
+		<crc>81397AC0</crc>
+		<manufacturer>DSI Games</manufacturer>
+		<year>2007</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Around the World in 80 Days (USA)" index="" image="">
+		<description>Around the World in 80 Days (USA)</description>
+		<cloneof></cloneof>
+		<crc>C2C22AF2</crc>
+		<manufacturer>Hip Games</manufacturer>
+		<year>2004</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Arthur and the Invisibles (USA) (En,Fr,Es)" index="" image="">
+		<description>Arthur and the Invisibles (USA) (En,Fr,Es)</description>
+		<cloneof></cloneof>
+		<crc>87C25055</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>2007</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Avatar - The Last Airbender (USA)" index="" image="">
+		<description>Avatar - The Last Airbender (USA)</description>
+		<cloneof></cloneof>
+		<crc>946787C0</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2006</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Barbie - The Princess and the Pauper (USA)" index="true" image="b">
+		<description>Barbie - The Princess and the Pauper (USA)</description>
+		<cloneof></cloneof>
+		<crc>F508A7B7</crc>
+		<manufacturer>VU Games</manufacturer>
+		<year>2004</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Barbie Diaries, The - High School Mystery (USA)" index="" image="">
+		<description>Barbie Diaries, The - High School Mystery (USA)</description>
+		<cloneof></cloneof>
+		<crc>5C704CBE</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2006</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bee Game, The (USA)" index="" image="">
+		<description>Bee Game, The (USA)</description>
+		<cloneof></cloneof>
+		<crc>DA747C99</crc>
+		<manufacturer>Midway</manufacturer>
+		<year>2007</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bionicle Heroes (USA) (En,Fr,De,Es,It,Da)" index="" image="">
+		<description>Bionicle Heroes (USA) (En,Fr,De,Es,It,Da)</description>
+		<cloneof></cloneof>
+		<crc>F4FAFCCF</crc>
+		<manufacturer>Eidos Interactive</manufacturer>
+		<year>2006</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bratz - Forever Diamondz (USA)" index="" image="">
+		<description>Bratz - Forever Diamondz (USA)</description>
+		<cloneof></cloneof>
+		<crc>9E389908</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2006</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Broken Sword - The Shadow of the Templars (USA) (En,Fr,De,Es,It)" index="" image="">
+		<description>Broken Sword - The Shadow of the Templars (USA) (En,Fr,De,Es,It)</description>
+		<cloneof></cloneof>
+		<crc>3278CE51</crc>
+		<manufacturer>Bam Entertainment</manufacturer>
+		<year>2002</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Catwoman (USA, Europe) (En,Fr,De,Es,It,Nl)" index="true" image="c">
+		<description>Catwoman (USA, Europe) (En,Fr,De,Es,It,Nl)</description>
+		<cloneof></cloneof>
+		<crc>1ADB373D</crc>
+		<manufacturer>EA Games</manufacturer>
+		<year>2004</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Charlie and the Chocolate Factory (USA) (En,Fr,Es,Nl)" index="" image="">
+		<description>Charlie and the Chocolate Factory (USA) (En,Fr,Es,Nl)</description>
+		<cloneof></cloneof>
+		<crc>4E90884D</crc>
+		<manufacturer>Global Star Software</manufacturer>
+		<year>2005</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Chronicles of Narnia, The - The Lion, the Witch and the Wardrobe (USA, Europe) (En,Fr,De,Es,It,Nl,Sv,Da)" index="" image="">
+		<description>Chronicles of Narnia, The - The Lion, the Witch and the Wardrobe (USA, Europe) (En,Fr,De,Es,It,Nl,Sv,Da)</description>
+		<cloneof></cloneof>
+		<crc>7E198522</crc>
+		<manufacturer>Buena Vista Games</manufacturer>
+		<year>2005</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Classic NES Series - Metroid (USA, Europe)" index="" image="">
+		<description>Classic NES Series - Metroid (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>B2A153C3</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2004</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Curious George (USA)" index="" image="">
+		<description>Curious George (USA)</description>
+		<cloneof></cloneof>
+		<crc>F6B549DD</crc>
+		<manufacturer>Namco</manufacturer>
+		<year>2006</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dexter&apos;s Laboratory - Deesaster Strikes! (USA) (En,Fr,De,Es,It)" index="true" image="d">
+		<description>Dexter&apos;s Laboratory - Deesaster Strikes! (USA) (En,Fr,De,Es,It)</description>
+		<cloneof></cloneof>
+		<crc>E948D412</crc>
+		<manufacturer>Bam Entertainment</manufacturer>
+		<year>2001</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Disney&apos;s Game + TV Episode - Lizzie McGuire 2 - Lizzie Diaries (USA) (En,Fr)" index="" image="">
+		<description>Disney&apos;s Game + TV Episode - Lizzie McGuire 2 - Lizzie Diaries (USA) (En,Fr)</description>
+		<cloneof></cloneof>
+		<crc>2706B300</crc>
+		<manufacturer>Disney Interactive</manufacturer>
+		<year>2004</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dora the Explorer - Dora&apos;s World Adventure! (USA)" index="" image="">
+		<description>Dora the Explorer - Dora&apos;s World Adventure! (USA)</description>
+		<cloneof></cloneof>
+		<crc>7B311C5C</crc>
+		<manufacturer>Global Star Software</manufacturer>
+		<year>2006</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dora the Explorer - Super Star Adventures! (USA)" index="" image="">
+		<description>Dora the Explorer - Super Star Adventures! (USA)</description>
+		<cloneof></cloneof>
+		<crc>2CEE050F</crc>
+		<manufacturer>Global Star Software</manufacturer>
+		<year>2004</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dora the Explorer - The Search for the Pirate Pig&apos;s Treasure (USA)" index="" image="">
+		<description>Dora the Explorer - The Search for the Pirate Pig&apos;s Treasure (USA)</description>
+		<cloneof></cloneof>
+		<crc>9439541C</crc>
+		<manufacturer>NewKidCo</manufacturer>
+		<year>2002</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dora the Explorer Double Pack (USA)" index="" image="">
+		<description>Dora the Explorer Double Pack (USA)</description>
+		<cloneof></cloneof>
+		<crc>1F9D002E</crc>
+		<manufacturer>Global Star Software</manufacturer>
+		<year>2007</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fear Factor Unleashed (USA)" index="true" image="f">
+		<description>Fear Factor Unleashed (USA)</description>
+		<cloneof></cloneof>
+		<crc>BF91C27D</crc>
+		<manufacturer>Hip Games</manufacturer>
+		<year>2004</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Foster&apos;s Home for Imaginary Friends (USA)" index="" image="">
+		<description>Foster&apos;s Home for Imaginary Friends (USA)</description>
+		<cloneof></cloneof>
+		<crc>D7C80592</crc>
+		<manufacturer>Crave</manufacturer>
+		<year>2006</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Frogger&apos;s Adventures - Temple of the Frog (USA) (En,Fr,De,Es,It)" index="" image="">
+		<description>Frogger&apos;s Adventures - Temple of the Frog (USA) (En,Fr,De,Es,It)</description>
+		<cloneof></cloneof>
+		<crc>2EB9EEE6</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>2001</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Frogger&apos;s Adventures 2 - The Lost Wand (USA) (En,Es)" index="" image="">
+		<description>Frogger&apos;s Adventures 2 - The Lost Wand (USA) (En,Es)</description>
+		<cloneof></cloneof>
+		<crc>27B95C01</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>2002</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Frogger&apos;s Journey - The Forgotten Relic (USA)" index="" image="">
+		<description>Frogger&apos;s Journey - The Forgotten Relic (USA)</description>
+		<cloneof></cloneof>
+		<crc>6F8BFDBC</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>2003</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Grand Theft Auto Advance (USA)" index="true" image="g">
+		<description>Grand Theft Auto Advance (USA)</description>
+		<cloneof></cloneof>
+		<crc>1FA131E8</crc>
+		<manufacturer>Rockstar Games</manufacturer>
+		<year>2004</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - M (Mature)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Happy Feet (USA) (En,Fr)" index="true" image="h">
+		<description>Happy Feet (USA) (En,Fr)</description>
+		<cloneof></cloneof>
+		<crc>682617CF</crc>
+		<manufacturer>Warner Bros. Interactive Entertainment</manufacturer>
+		<year>2006</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Harry Potter and the Chamber of Secrets (USA, Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da)" index="" image="">
+		<description>Harry Potter and the Chamber of Secrets (USA, Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da)</description>
+		<cloneof></cloneof>
+		<crc>342816DB</crc>
+		<manufacturer>EA Games</manufacturer>
+		<year>2002</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Harry Potter and the Goblet of Fire (USA, Europe) (En,Fr,De,Es,It,Nl,Da)" index="" image="">
+		<description>Harry Potter and the Goblet of Fire (USA, Europe) (En,Fr,De,Es,It,Nl,Da)</description>
+		<cloneof></cloneof>
+		<crc>052708D7</crc>
+		<manufacturer>Electronic Arts</manufacturer>
+		<year>2005</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Harry Potter and the Order of the Phoenix (Europe) (En,Fr,De,Es,It,Nl,Da)" index="" image="">
+		<description>Harry Potter and the Order of the Phoenix (Europe) (En,Fr,De,Es,It,Nl,Da)</description>
+		<cloneof></cloneof>
+		<crc>302B8B3D</crc>
+		<manufacturer>EA Games</manufacturer>
+		<year>2007</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Harry Potter and the Prisoner of Azkaban (USA, Europe) (En,Fr,De,Es,It,Nl,Da)" index="" image="">
+		<description>Harry Potter and the Prisoner of Azkaban (USA, Europe) (En,Fr,De,Es,It,Nl,Da)</description>
+		<cloneof></cloneof>
+		<crc>C0BCCAAD</crc>
+		<manufacturer>EA Games</manufacturer>
+		<year>2004</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Harry Potter and the Sorcerer&apos;s Stone (USA, Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da)" index="" image="">
+		<description>Harry Potter and the Sorcerer&apos;s Stone (USA, Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da)</description>
+		<cloneof></cloneof>
+		<crc>F755065C</crc>
+		<manufacturer>Electronic Arts</manufacturer>
+		<year>2001</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Harry Potter Collection (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da)" index="" image="">
+		<description>Harry Potter Collection (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da)</description>
+		<cloneof></cloneof>
+		<crc>FFA9F4FB</crc>
+		<manufacturer>Electronic Arts</manufacturer>
+		<year>2008</year>
+		<genre>Adventure</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hi Hi Puffy AmiYumi - Kaznapped! (USA)" index="" image="">
+		<description>Hi Hi Puffy AmiYumi - Kaznapped! (USA)</description>
+		<cloneof></cloneof>
+		<crc>E613AA43</crc>
+		<manufacturer>D3</manufacturer>
+		<year>2005</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Incredibles, The (USA, Europe)" index="true" image="i">
+		<description>Incredibles, The (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>194D5F6C</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2004</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Juka and the Monophonic Menace (USA) (En,Fr,Es)" index="true" image="j">
+		<description>Juka and the Monophonic Menace (USA) (En,Fr,Es)</description>
+		<cloneof></cloneof>
+		<crc>0C04A2F9</crc>
+		<manufacturer>SouthPeak Games</manufacturer>
+		<year>2006</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Knights&apos; Kingdom (USA)" index="true" image="k">
+		<description>Knights&apos; Kingdom (USA)</description>
+		<cloneof></cloneof>
+		<crc>88FE3F31</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2004</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Kong - The 8th Wonder of the World (USA) (En,Fr,Es)" index="" image="">
+		<description>Kong - The 8th Wonder of the World (USA) (En,Fr,Es)</description>
+		<cloneof></cloneof>
+		<crc>06079C42</crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>2005</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lara Croft Tomb Raider - Legend (USA) (En,Fr,De,Es,It)" index="true" image="l">
+		<description>Lara Croft Tomb Raider - Legend (USA) (En,Fr,De,Es,It)</description>
+		<cloneof></cloneof>
+		<crc>5A3DFB37</crc>
+		<manufacturer>Eidos Interactive</manufacturer>
+		<year>2006</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lara Croft Tomb Raider - The Prophecy (USA) (En,Fr,De,Es,It)" index="" image="">
+		<description>Lara Croft Tomb Raider - The Prophecy (USA) (En,Fr,De,Es,It)</description>
+		<cloneof></cloneof>
+		<crc>556F40FA</crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>2002</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Legend of Zelda, The - A Link to the Past &amp; Four Swords (USA, Australia)" index="" image="">
+		<description>Legend of Zelda, The - A Link to the Past &amp; Four Swords (USA, Australia)</description>
+		<cloneof></cloneof>
+		<crc>8E91CD13</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2002</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Legend of Zelda, The - The Minish Cap (USA)" index="" image="">
+		<description>Legend of Zelda, The - The Minish Cap (USA)</description>
+		<cloneof></cloneof>
+		<crc>ABCEBBB1</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2005</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="LEGO Star Wars - The Video Game (USA, Europe) (En,Fr,De,Es,It,Nl,Da)" index="" image="">
+		<description>LEGO Star Wars - The Video Game (USA, Europe) (En,Fr,De,Es,It,Nl,Da)</description>
+		<cloneof></cloneof>
+		<crc>AEABFA5F</crc>
+		<manufacturer>Eidos Interactive</manufacturer>
+		<year>2005</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="LEGO Star Wars II - The Original Trilogy (USA)" index="" image="">
+		<description>LEGO Star Wars II - The Original Trilogy (USA)</description>
+		<cloneof></cloneof>
+		<crc>DA1E9444</crc>
+		<manufacturer>LucasArts</manufacturer>
+		<year>2006</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Let&apos;s Ride! - Dreamer (USA)" index="" image="">
+		<description>Let&apos;s Ride! - Dreamer (USA)</description>
+		<cloneof></cloneof>
+		<crc>1D96366C</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2006</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lizzie McGuire 2 - Lizzie Diaries (USA) (En,Fr)" index="" image="">
+		<description>Lizzie McGuire 2 - Lizzie Diaries (USA) (En,Fr)</description>
+		<cloneof></cloneof>
+		<crc>F11009F9</crc>
+		<manufacturer>Disney Interactive</manufacturer>
+		<year>2004</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Meet the Robinsons (USA)" index="true" image="m">
+		<description>Meet the Robinsons (USA)</description>
+		<cloneof></cloneof>
+		<crc>3787C93C</crc>
+		<manufacturer>Disney Interactive Studios</manufacturer>
+		<year>2007</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Monster House (USA) (En,Fr)" index="" image="">
+		<description>Monster House (USA) (En,Fr)</description>
+		<cloneof></cloneof>
+		<crc>148B5072</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2006</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="My Little Pony - Crystal Princess - The Runaway Rainbow (USA)" index="" image="">
+		<description>My Little Pony - Crystal Princess - The Runaway Rainbow (USA)</description>
+		<cloneof></cloneof>
+		<crc>90DBD5EB</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2006</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Nancy Drew - Message in a Haunted Mansion (USA)" index="true" image="n">
+		<description>Nancy Drew - Message in a Haunted Mansion (USA)</description>
+		<cloneof></cloneof>
+		<crc>7652CD25</crc>
+		<manufacturer>DreamCatcher Interactive</manufacturer>
+		<year>2001</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Nicktoons - Freeze Frame Frenzy (USA)" index="" image="">
+		<description>Nicktoons - Freeze Frame Frenzy (USA)</description>
+		<cloneof></cloneof>
+		<crc>A8B6766E</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2004</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Nicktoons Unite! (USA)" index="" image="">
+		<description>Nicktoons Unite! (USA)</description>
+		<cloneof></cloneof>
+		<crc>75C35F7C</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2005</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Peter Pan - The Motion Picture Event (USA)" index="true" image="p">
+		<description>Peter Pan - The Motion Picture Event (USA)</description>
+		<cloneof></cloneof>
+		<crc>8AC558CE</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>2003</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pirates of the Caribbean - Dead Man&apos;s Chest (USA, Europe) (En,Fr,De,Es,It)" index="" image="">
+		<description>Pirates of the Caribbean - Dead Man&apos;s Chest (USA, Europe) (En,Fr,De,Es,It)</description>
+		<cloneof></cloneof>
+		<crc>D1A67BE8</crc>
+		<manufacturer>Buena Vista Games</manufacturer>
+		<year>2006</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pirates of the Caribbean - The Curse of the Black Pearl (USA) (En,Fr,De,Es,It)" index="" image="">
+		<description>Pirates of the Caribbean - The Curse of the Black Pearl (USA) (En,Fr,De,Es,It)</description>
+		<cloneof></cloneof>
+		<crc>8F15BF4C</crc>
+		<manufacturer>TDK Mediactive</manufacturer>
+		<year>2003</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pocky &amp; Rocky with Becky (USA)" index="" image="">
+		<description>Pocky &amp; Rocky with Becky (USA)</description>
+		<cloneof></cloneof>
+		<crc>53A8EE86</crc>
+		<manufacturer>Natsume</manufacturer>
+		<year>2002</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Polar Express, The (USA, Europe) (En,Fr,De,Es,It)" index="" image="">
+		<description>Polar Express, The (USA, Europe) (En,Fr,De,Es,It)</description>
+		<cloneof></cloneof>
+		<crc>62CA5620</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2004</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Power Rangers - Dino Thunder (USA, Europe)" index="" image="">
+		<description>Power Rangers - Dino Thunder (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>BC193EE7</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2004</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Prince of Persia - The Sands of Time &amp; Lara Croft Tomb Raider - The Prophecy (Europe) (En,Fr,De,Es,It,Nl+En,Fr,De,Es,It)" index="" image="">
+		<description>Prince of Persia - The Sands of Time &amp; Lara Croft Tomb Raider - The Prophecy (Europe) (En,Fr,De,Es,It,Nl+En,Fr,De,Es,It)</description>
+		<cloneof></cloneof>
+		<crc>2A3E1A8D</crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>2006</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Prince of Persia - The Sands of Time (USA) (En,Fr,Es)" index="" image="">
+		<description>Prince of Persia - The Sands of Time (USA) (En,Fr,Es)</description>
+		<cloneof></cloneof>
+		<crc>0C043BA6</crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>2003</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Robots (USA)" index="true" image="r">
+		<description>Robots (USA)</description>
+		<cloneof></cloneof>
+		<crc>5370AE1F</crc>
+		<manufacturer>Sierra Entertainment</manufacturer>
+		<year>2005</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sabre Wulf (USA)" index="true" image="s">
+		<description>Sabre Wulf (USA)</description>
+		<cloneof></cloneof>
+		<crc>73787A16</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2004</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Scurge - Hive (USA) (En,Fr,Es)" index="" image="">
+		<description>Scurge - Hive (USA) (En,Fr,Es)</description>
+		<cloneof></cloneof>
+		<crc>1AE38AC0</crc>
+		<manufacturer>SouthPeak Games</manufacturer>
+		<year>2006</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Shaman King - Legacy of the Spirits - Soaring Hawk (USA)" index="" image="">
+		<description>Shaman King - Legacy of the Spirits - Soaring Hawk (USA)</description>
+		<cloneof></cloneof>
+		<crc>798593A5</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>2005</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Shaman King - Legacy of the Spirits - Sprinting Wolf (USA)" index="" image="">
+		<description>Shaman King - Legacy of the Spirits - Sprinting Wolf (USA)</description>
+		<cloneof></cloneof>
+		<crc>FA1AA3F6</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>2005</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Shaman King - Master of Spirits (USA)" index="" image="">
+		<description>Shaman King - Master of Spirits (USA)</description>
+		<cloneof></cloneof>
+		<crc>10E554AE</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>2004</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Shaman King - Master of Spirits 2 (USA)" index="" image="">
+		<description>Shaman King - Master of Spirits 2 (USA)</description>
+		<cloneof></cloneof>
+		<crc>201E3412</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>2005</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Shrek 2 - Beg for Mercy (USA, Europe)" index="" image="">
+		<description>Shrek 2 - Beg for Mercy (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>F1861610</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2004</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sound of Thunder, A (USA) (En,Fr,De,Es,It)" index="" image="">
+		<description>Sound of Thunder, A (USA) (En,Fr,De,Es,It)</description>
+		<cloneof></cloneof>
+		<crc>72894E1B</crc>
+		<manufacturer>Bam Entertainment</manufacturer>
+		<year>2005</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Spirits &amp; Spells (USA)" index="" image="">
+		<description>Spirits &amp; Spells (USA)</description>
+		<cloneof></cloneof>
+		<crc>2FA6DB95</crc>
+		<manufacturer>DreamCatcher Interactive</manufacturer>
+		<year>2003</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Spy Kids 3-D - Game Over (USA)" index="" image="">
+		<description>Spy Kids 3-D - Game Over (USA)</description>
+		<cloneof></cloneof>
+		<crc>96128B31</crc>
+		<manufacturer>Disney Interactive</manufacturer>
+		<year>2003</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Star Wars - Episode III - Revenge of the Sith (USA) (En,Fr,Es)" index="" image="">
+		<description>Star Wars - Episode III - Revenge of the Sith (USA) (En,Fr,Es)</description>
+		<cloneof></cloneof>
+		<crc>3E34AAB7</crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>2005</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Star Wars Trilogy - Apprentice of the Force (USA) (En,Fr,Es)" index="" image="">
+		<description>Star Wars Trilogy - Apprentice of the Force (USA) (En,Fr,Es)</description>
+		<cloneof></cloneof>
+		<crc>714A0D3A</crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>2004</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Strawberry Shortcake - Summertime Adventure (USA)" index="" image="">
+		<description>Strawberry Shortcake - Summertime Adventure (USA)</description>
+		<cloneof></cloneof>
+		<crc>7FEC3419</crc>
+		<manufacturer>Majesco Games</manufacturer>
+		<year>2004</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Strawberry Shortcake - Summertime Adventure - Special Edition (USA)" index="" image="">
+		<description>Strawberry Shortcake - Summertime Adventure - Special Edition (USA)</description>
+		<cloneof></cloneof>
+		<crc>5A66CAFA</crc>
+		<manufacturer>Majesco Games</manufacturer>
+		<year>2005</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Strawberry Shortcake - Sweet Dreams (USA)" index="" image="">
+		<description>Strawberry Shortcake - Sweet Dreams (USA)</description>
+		<cloneof></cloneof>
+		<crc>53384966</crc>
+		<manufacturer>Majesco Games</manufacturer>
+		<year>2006</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sum of All Fears, The (USA) (En,Fr,De,Es,It)" index="" image="">
+		<description>Sum of All Fears, The (USA) (En,Fr,De,Es,It)</description>
+		<cloneof></cloneof>
+		<crc>166391D1</crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>2002</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Teen Titans (USA) (En,Fr)" index="true" image="t">
+		<description>Teen Titans (USA) (En,Fr)</description>
+		<cloneof></cloneof>
+		<crc>12A0442C</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2005</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Teen Titans 2 (USA) (En,Fr)" index="" image="">
+		<description>Teen Titans 2 (USA) (En,Fr)</description>
+		<cloneof></cloneof>
+		<crc>CCACD823</crc>
+		<manufacturer>Majesco Games</manufacturer>
+		<year>2006</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Thunderbirds (USA, Europe)" index="" image="">
+		<description>Thunderbirds (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>F09B7BB0</crc>
+		<manufacturer>VU Games</manufacturer>
+		<year>2004</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tom Clancy&apos;s Splinter Cell (USA) (En,Fr,Es)" index="" image="">
+		<description>Tom Clancy&apos;s Splinter Cell (USA) (En,Fr,Es)</description>
+		<cloneof></cloneof>
+		<crc>308BA69C</crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>2003</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tom Clancy&apos;s Splinter Cell - Pandora Tomorrow (USA) (En,Fr,Es)" index="" image="">
+		<description>Tom Clancy&apos;s Splinter Cell - Pandora Tomorrow (USA) (En,Fr,Es)</description>
+		<cloneof></cloneof>
+		<crc>AEFB7B54</crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>2004</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tootuff - The Gagmachine (Europe) (En,Fr,De,Es,It)" index="" image="">
+		<description>Tootuff - The Gagmachine (Europe) (En,Fr,De,Es,It)</description>
+		<cloneof></cloneof>
+		<crc>3E69A610</crc>
+		<manufacturer>Infogrames</manufacturer>
+		<year>2002</year>
+		<genre>Adventure</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tron 2.0 - Killer App (USA)" index="" image="">
+		<description>Tron 2.0 - Killer App (USA)</description>
+		<cloneof></cloneof>
+		<crc>77D50EC6</crc>
+		<manufacturer>Buena Vista Interactive</manufacturer>
+		<year>2004</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ty the Tasmanian Tiger 3 - Night of the Quinkan (USA)" index="" image="">
+		<description>Ty the Tasmanian Tiger 3 - Night of the Quinkan (USA)</description>
+		<cloneof></cloneof>
+		<crc>CF467E1B</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2005</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Urban Yeti! (USA, Europe)" index="true" image="u">
+		<description>Urban Yeti! (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>4C53BA49</crc>
+		<manufacturer>Telegames, Inc.</manufacturer>
+		<year>2002</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="WinX Club - Quest for the Codex (USA)" index="true" image="w">
+		<description>WinX Club - Quest for the Codex (USA)</description>
+		<cloneof></cloneof>
+		<crc>29DFFF34</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>2006</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Yu Yu Hakusho - Ghostfiles - Spirit Detective (USA)" index="true" image="y">
+		<description>Yu Yu Hakusho - Ghostfiles - Spirit Detective (USA)</description>
+		<cloneof></cloneof>
+		<crc>D3784B52</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>2003</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Zoey 101 (USA)" index="true" image="z">
+		<description>Zoey 101 (USA)</description>
+		<cloneof></cloneof>
+		<crc>9CF348A8</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2007</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

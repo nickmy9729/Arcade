@@ -1,0 +1,1159 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Atari 2600</listname>
+		<lastlistupdate>07/20/2013</lastlistupdate>
+		<listversion>1.0 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="Air-Sea Battle (USA)" index="true" image="a">
+		<description>Air-Sea Battle (USA)</description>
+		<cloneof></cloneof>
+		<crc>1FC6C0F1</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1977</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Armor Ambush (USA)" index="" image="">
+		<description>Armor Ambush (USA)</description>
+		<cloneof></cloneof>
+		<crc>FC35704B</crc>
+		<manufacturer>M Network - INTV</manufacturer>
+		<year>1982</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Artillery Duel (USA)" index="" image="">
+		<description>Artillery Duel (USA)</description>
+		<cloneof></cloneof>
+		<crc>1D0F7E8D</crc>
+		<manufacturer>Xonox - K-Tel Software</manufacturer>
+		<year>1983</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Asteroids (USA)" index="" image="">
+		<description>Asteroids (USA)</description>
+		<cloneof></cloneof>
+		<crc>C7D64C94</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1981</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Astroblast (USA)" index="" image="">
+		<description>Astroblast (USA)</description>
+		<cloneof></cloneof>
+		<crc>1DE25331</crc>
+		<manufacturer>M Network - INTV</manufacturer>
+		<year>1982</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Astrowar (Europe)" index="" image="">
+		<description>Astrowar (Europe)</description>
+		<cloneof></cloneof>
+		<crc>E83F5848</crc>
+		<manufacturer>Dimax - Sinmax</manufacturer>
+		<year>1983</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Atom Smasher (USA) (Proto)" index="" image="">
+		<description>Atom Smasher (USA) (Proto)</description>
+		<cloneof></cloneof>
+		<crc>1712423A</crc>
+		<manufacturer>Video Soft</manufacturer>
+		<year>1983</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Backfire (USA) (Unl)" index="true" image="b">
+		<description>Backfire (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>DCEAD99A</crc>
+		<manufacturer>AtariAge - Chad Lare</manufacturer>
+		<year>2003</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Base Attack (Europe)" index="" image="">
+		<description>Base Attack (Europe)</description>
+		<cloneof></cloneof>
+		<crc>81F1E5DD</crc>
+		<manufacturer>Homevision - Gem International Corp.</manufacturer>
+		<year>1983</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Beamrider (USA)" index="" image="">
+		<description>Beamrider (USA)</description>
+		<cloneof></cloneof>
+		<crc>1618565B</crc>
+		<manufacturer>Activision - Cheshire Engineering</manufacturer>
+		<year>1984</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Beany Bopper (USA)" index="" image="">
+		<description>Beany Bopper (USA)</description>
+		<cloneof></cloneof>
+		<crc>B722BC8F</crc>
+		<manufacturer>20th Century Fox Video Games - Sirius Software</manufacturer>
+		<year>1982</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bermuda Triangle (USA)" index="" image="">
+		<description>Bermuda Triangle (USA)</description>
+		<cloneof></cloneof>
+		<crc>0FCB5B94</crc>
+		<manufacturer>Data Age</manufacturer>
+		<year>1982</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Buck Rogers - Planet of Zoom (USA)" index="" image="">
+		<description>Buck Rogers - Planet of Zoom (USA)</description>
+		<cloneof></cloneof>
+		<crc>2030F686</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1983</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bugs (USA)" index="" image="">
+		<description>Bugs (USA)</description>
+		<cloneof></cloneof>
+		<crc>1202427C</crc>
+		<manufacturer>Data Age</manufacturer>
+		<year>1982</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Canyon Bomber (USA)" index="true" image="c">
+		<description>Canyon Bomber (USA)</description>
+		<cloneof></cloneof>
+		<crc>E914B8CA</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1978</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Carnival (USA)" index="" image="">
+		<description>Carnival (USA)</description>
+		<cloneof></cloneof>
+		<crc>7AC3C700</crc>
+		<manufacturer>Coleco</manufacturer>
+		<year>1982</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Centipede (USA)" index="" image="">
+		<description>Centipede (USA)</description>
+		<cloneof></cloneof>
+		<crc>77396102</crc>
+		<manufacturer>Atari - GCC</manufacturer>
+		<year>1982</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Chopper Command (USA)" index="" image="">
+		<description>Chopper Command (USA)</description>
+		<cloneof></cloneof>
+		<crc>1DFA64DF</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>1982</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Colony 7 (USA) (Unl)" index="" image="">
+		<description>Colony 7 (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>1C7EDAE7</crc>
+		<manufacturer>AtariAge - Manuel Rotschkar</manufacturer>
+		<year>2007</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Combat (USA)" index="" image="">
+		<description>Combat (USA)</description>
+		<cloneof></cloneof>
+		<crc>9C326A97</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1977</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Combat Two (USA) (Proto)" index="" image="">
+		<description>Combat Two (USA) (Proto)</description>
+		<cloneof></cloneof>
+		<crc>8CABE1FD</crc>
+		<manufacturer>Atari - GCC</manufacturer>
+		<year>1982</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Commando (USA)" index="" image="">
+		<description>Commando (USA)</description>
+		<cloneof></cloneof>
+		<crc>8D3025DC</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>1988</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Commando Raid (USA)" index="" image="">
+		<description>Commando Raid (USA)</description>
+		<cloneof></cloneof>
+		<crc>E46583E6</crc>
+		<manufacturer>U.S. Games Corporation</manufacturer>
+		<year>1982</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Communist Mutants from Space (USA)" index="" image="">
+		<description>Communist Mutants from Space (USA)</description>
+		<cloneof></cloneof>
+		<crc>D64EC816</crc>
+		<manufacturer>Arcadia Corporation</manufacturer>
+		<year>1982</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Condor Attack (USA)" index="" image="">
+		<description>Condor Attack (USA)</description>
+		<cloneof></cloneof>
+		<crc>B6C582EB</crc>
+		<manufacturer>Ultravision</manufacturer>
+		<year>1982</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Conquest of Mars (USA) (Unl)" index="" image="">
+		<description>Conquest of Mars (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>6E88A7D6</crc>
+		<manufacturer>AtariAge - John W. Champeau</manufacturer>
+		<year>2006</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cosmic Ark (USA)" index="" image="">
+		<description>Cosmic Ark (USA)</description>
+		<cloneof></cloneof>
+		<crc>CB374F0E</crc>
+		<manufacturer>Imagic</manufacturer>
+		<year>1982</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Crack&apos;ed (USA) (Proto)" index="" image="">
+		<description>Crack&apos;ed (USA) (Proto)</description>
+		<cloneof></cloneof>
+		<crc>1B5E52A7</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1988</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dark Cavern (USA)" index="true" image="d">
+		<description>Dark Cavern (USA)</description>
+		<cloneof></cloneof>
+		<crc>0481078C</crc>
+		<manufacturer>M Network</manufacturer>
+		<year>1982</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Deadly Duck (USA)" index="" image="">
+		<description>Deadly Duck (USA)</description>
+		<cloneof></cloneof>
+		<crc>F33A9A2D</crc>
+		<manufacturer>20th Century Fox Video Games - Sirius Software</manufacturer>
+		<year>1982</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Defender (USA)" index="" image="">
+		<description>Defender (USA)</description>
+		<cloneof></cloneof>
+		<crc>0DF43D8E</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1981</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Demon Attack (USA)" index="" image="">
+		<description>Demon Attack (USA)</description>
+		<cloneof></cloneof>
+		<crc>31C9DF5E</crc>
+		<manufacturer>Imagic</manufacturer>
+		<year>1982</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Desert Falcon (USA)" index="" image="">
+		<description>Desert Falcon (USA)</description>
+		<cloneof></cloneof>
+		<crc>CAA0054E</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1987</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dragon Defender (Europe)" index="" image="">
+		<description>Dragon Defender (Europe)</description>
+		<cloneof>Magic Carpet (Europe)</cloneof>
+		<crc>0D57E23D</crc>
+		<manufacturer>Suntek</manufacturer>
+		<year>1983</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Exocet (Europe)" index="true" image="e">
+		<description>Exocet (Europe)</description>
+		<cloneof></cloneof>
+		<crc>5CC39028</crc>
+		<manufacturer>Sancho - Tang&apos;s Electronic Co.</manufacturer>
+		<year>1982</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Front Line (USA)" index="true" image="f">
+		<description>Front Line (USA)</description>
+		<cloneof></cloneof>
+		<crc>C352F290</crc>
+		<manufacturer>Coleco</manufacturer>
+		<year>1984</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="G.I. Joe - Cobra Strike (USA)" index="true" image="g">
+		<description>G.I. Joe - Cobra Strike (USA)</description>
+		<cloneof></cloneof>
+		<crc>6BCBCD37</crc>
+		<manufacturer>Parker Brothers</manufacturer>
+		<year>1983</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gangster Alley (USA)" index="" image="">
+		<description>Gangster Alley (USA)</description>
+		<cloneof></cloneof>
+		<crc>03C2452C</crc>
+		<manufacturer>Spectravision - Spectravideo</manufacturer>
+		<year>1982</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gravitar (USA)" index="" image="">
+		<description>Gravitar (USA)</description>
+		<cloneof></cloneof>
+		<crc>C87FCCBE</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1983</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gunfight (USA) (Unl)" index="" image="">
+		<description>Gunfight (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>C3D655AD</crc>
+		<manufacturer>XYPE &amp; AtariAge - Manuel Rotschkar</manufacturer>
+		<year>2001</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Halo 2600 (USA) (Unl)" index="true" image="h">
+		<description>Halo 2600 (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>3978A823</crc>
+		<manufacturer>CGE - Ed Fries</manufacturer>
+		<year>2010</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Human Cannonball (USA)" index="" image="">
+		<description>Human Cannonball (USA)</description>
+		<cloneof></cloneof>
+		<crc>F05A41E1</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1978</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ikari Warriors (USA)" index="true" image="i">
+		<description>Ikari Warriors (USA)</description>
+		<cloneof></cloneof>
+		<crc>5B7CE555</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1989</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Immies &amp; Aggies (USA) (Proto)" index="" image="">
+		<description>Immies &amp; Aggies (USA) (Proto)</description>
+		<cloneof></cloneof>
+		<crc>86244C24</crc>
+		<manufacturer>ZiMAG - Emag - Vidco</manufacturer>
+		<year>1983</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ixion (USA) (Proto)" index="" image="">
+		<description>Ixion (USA) (Proto)</description>
+		<cloneof></cloneof>
+		<crc>B311E13F</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1984</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Laser Blast (USA)" index="true" image="l">
+		<description>Laser Blast (USA)</description>
+		<cloneof></cloneof>
+		<crc>99365F26</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>1981</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lasercade (USA) (Proto)" index="" image="">
+		<description>Lasercade (USA) (Proto)</description>
+		<cloneof></cloneof>
+		<crc>EF4FF656</crc>
+		<manufacturer>20th Century Fox Video Games - Videa</manufacturer>
+		<year>1983</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Last Starfighter, The (USA) (Proto)" index="" image="">
+		<description>Last Starfighter, The (USA) (Proto)</description>
+		<cloneof></cloneof>
+		<crc>7E30DDC0</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1984</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lead (USA) (Unl)" index="" image="">
+		<description>Lead (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>6D494ECE</crc>
+		<manufacturer>AtariAge - Simone Serra</manufacturer>
+		<year>2008</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="M.A.S.H (USA)" index="true" image="m">
+		<description>M.A.S.H (USA)</description>
+		<cloneof></cloneof>
+		<crc>13E1C83D</crc>
+		<manufacturer>20th Century Fox Video Games</manufacturer>
+		<year>1983</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Marauder (USA)" index="" image="">
+		<description>Marauder (USA)</description>
+		<cloneof></cloneof>
+		<crc>F8A8B470</crc>
+		<manufacturer>Tigervision</manufacturer>
+		<year>1982</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Marine Wars (USA)" index="" image="">
+		<description>Marine Wars (USA)</description>
+		<cloneof></cloneof>
+		<crc>4D281EE3</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1983</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Missile Command (USA)" index="" image="">
+		<description>Missile Command (USA)</description>
+		<cloneof></cloneof>
+		<crc>CFF14904</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1981</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Missile Control (Europe)" index="" image="">
+		<description>Missile Control (Europe)</description>
+		<cloneof></cloneof>
+		<crc>AC80976B</crc>
+		<manufacturer>Video Gems</manufacturer>
+		<year>1983</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mission Survive (Europe)" index="" image="">
+		<description>Mission Survive (Europe)</description>
+		<cloneof></cloneof>
+		<crc>B70F52DC</crc>
+		<manufacturer>Video Gems</manufacturer>
+		<year>1983</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Moon Patrol (USA)" index="" image="">
+		<description>Moon Patrol (USA)</description>
+		<cloneof></cloneof>
+		<crc>D641EF2D</crc>
+		<manufacturer>Atari - GCC</manufacturer>
+		<year>1983</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Name This Game (USA)" index="true" image="n">
+		<description>Name This Game (USA)</description>
+		<cloneof></cloneof>
+		<crc>A86E1AD8</crc>
+		<manufacturer>U.S. Games Corporation</manufacturer>
+		<year>1982</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Nuts (Europe)" index="" image="">
+		<description>Nuts (Europe)</description>
+		<cloneof></cloneof>
+		<crc>D76D5F14</crc>
+		<manufacturer>TechnoVision</manufacturer>
+		<year>1983</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Outlaw (USA)" index="true" image="o">
+		<description>Outlaw (USA)</description>
+		<cloneof></cloneof>
+		<crc>68DD7ACD</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1978</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Phantom Tank (Europe)" index="true" image="p">
+		<description>Phantom Tank (Europe)</description>
+		<cloneof></cloneof>
+		<crc>9213493B</crc>
+		<manufacturer>Puzzy - Bit Corporation</manufacturer>
+		<year>1982</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Phaser Patrol (USA)" index="" image="">
+		<description>Phaser Patrol (USA)</description>
+		<cloneof></cloneof>
+		<crc>EAF31BD7</crc>
+		<manufacturer>Arcadia Corporation</manufacturer>
+		<year>1982</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Polaris (USA)" index="" image="">
+		<description>Polaris (USA)</description>
+		<cloneof></cloneof>
+		<crc>25B78F89</crc>
+		<manufacturer>Tigervision</manufacturer>
+		<year>1983</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pooyan (USA)" index="" image="">
+		<description>Pooyan (USA)</description>
+		<cloneof></cloneof>
+		<crc>FE24BE60</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1983</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Quadrun (USA)" index="true" image="q">
+		<description>Quadrun (USA)</description>
+		<cloneof></cloneof>
+		<crc>8D3C887B</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1983</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Radar Lock (USA)" index="true" image="r">
+		<description>Radar Lock (USA)</description>
+		<cloneof></cloneof>
+		<crc>C29F7285</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1989</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ram It (USA)" index="" image="">
+		<description>Ram It (USA)</description>
+		<cloneof></cloneof>
+		<crc>582D5B62</crc>
+		<manufacturer>Telesys</manufacturer>
+		<year>1982</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rescue Terra I (USA)" index="" image="">
+		<description>Rescue Terra I (USA)</description>
+		<cloneof></cloneof>
+		<crc>A509AD53</crc>
+		<manufacturer>VentureVision</manufacturer>
+		<year>1982</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Revenge of the Beefsteak Tomatoes (USA)" index="" image="">
+		<description>Revenge of the Beefsteak Tomatoes (USA)</description>
+		<cloneof></cloneof>
+		<crc>243A36DF</crc>
+		<manufacturer>20th Century Fox Video Games</manufacturer>
+		<year>1982</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Robin Hood (USA)" index="" image="">
+		<description>Robin Hood (USA)</description>
+		<cloneof></cloneof>
+		<crc>DF96102B</crc>
+		<manufacturer>Xonox - K-Tel Software</manufacturer>
+		<year>1983</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Robot Tank (USA)" index="" image="">
+		<description>Robot Tank (USA)</description>
+		<cloneof></cloneof>
+		<crc>E127C012</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>1983</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Room of Doom (USA)" index="" image="">
+		<description>Room of Doom (USA)</description>
+		<cloneof></cloneof>
+		<crc>F27FC3BE</crc>
+		<manufacturer>CommaVid</manufacturer>
+		<year>1982</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rush Hour (USA) (Proto)" index="" image="">
+		<description>Rush Hour (USA) (Proto)</description>
+		<cloneof></cloneof>
+		<crc>E681F62E</crc>
+		<manufacturer>CommaVid</manufacturer>
+		<year>1983</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Saboteur (USA) (Proto)" index="true" image="s">
+		<description>Saboteur (USA) (Proto)</description>
+		<cloneof></cloneof>
+		<crc>7EFE0286</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1983</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Save the Whales (USA) (Proto)" index="" image="">
+		<description>Save the Whales (USA) (Proto)</description>
+		<cloneof></cloneof>
+		<crc>9A346CE2</crc>
+		<manufacturer>20th Century Fox Video Games</manufacturer>
+		<year>1983</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sea Monster (Europe)" index="" image="">
+		<description>Sea Monster (Europe)</description>
+		<cloneof></cloneof>
+		<crc>3A1A392B</crc>
+		<manufacturer>Puzzy - Bit Corporation</manufacturer>
+		<year>1982</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Seawolf (USA) (Unl)" index="" image="">
+		<description>Seawolf (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>B157A5C3</crc>
+		<manufacturer>XYPE &amp; AtariAge - Manuel Rotschkar</manufacturer>
+		<year>2004</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Shootin&apos; Gallery (USA)" index="" image="">
+		<description>Shootin&apos; Gallery (USA)</description>
+		<cloneof></cloneof>
+		<crc>B89AFF8B</crc>
+		<manufacturer>Imagic</manufacturer>
+		<year>1982</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sir Lancelot (USA)" index="" image="">
+		<description>Sir Lancelot (USA)</description>
+		<cloneof></cloneof>
+		<crc>EB792891</crc>
+		<manufacturer>Xonox - K-Tel Software</manufacturer>
+		<year>1983</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Skeet Shoot (USA)" index="" image="">
+		<description>Skeet Shoot (USA)</description>
+		<cloneof></cloneof>
+		<crc>57D69B13</crc>
+		<manufacturer>Apollo - Games by Apollo</manufacturer>
+		<year>1981</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Snoopy and the Red Baron (USA)" index="" image="">
+		<description>Snoopy and the Red Baron (USA)</description>
+		<cloneof></cloneof>
+		<crc>D1039967</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1983</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Solaris (USA)" index="" image="">
+		<description>Solaris (USA)</description>
+		<cloneof></cloneof>
+		<crc>2B87850E</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1986</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sorcerer (USA)" index="" image="">
+		<description>Sorcerer (USA)</description>
+		<cloneof></cloneof>
+		<crc>C7734BE6</crc>
+		<manufacturer>Mythicon</manufacturer>
+		<year>1983</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Space Attack (USA)" index="" image="">
+		<description>Space Attack (USA)</description>
+		<cloneof></cloneof>
+		<crc>B34A3E57</crc>
+		<manufacturer>M Network - INTV</manufacturer>
+		<year>1982</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Space Cavern (USA)" index="" image="">
+		<description>Space Cavern (USA)</description>
+		<cloneof></cloneof>
+		<crc>3B0FFD89</crc>
+		<manufacturer>Apollo - Games by Apollo</manufacturer>
+		<year>1981</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Space War (USA)" index="" image="">
+		<description>Space War (USA)</description>
+		<cloneof></cloneof>
+		<crc>65622F2A</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1978</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="SpaceMaster X-7 (USA)" index="" image="">
+		<description>SpaceMaster X-7 (USA)</description>
+		<cloneof></cloneof>
+		<crc>E554D7D0</crc>
+		<manufacturer>20th Century Fox Video Games</manufacturer>
+		<year>1983</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Spectracube Invasion (Europe)" index="" image="">
+		<description>Spectracube Invasion (Europe)</description>
+		<cloneof>Immies &amp; Aggies (USA) (Proto)</cloneof>
+		<crc>6D842F66</crc>
+		<manufacturer>Suntek</manufacturer>
+		<year>1985</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Spitfire Attack (USA)" index="" image="">
+		<description>Spitfire Attack (USA)</description>
+		<cloneof></cloneof>
+		<crc>093507D8</crc>
+		<manufacturer>Milton Bradley Company</manufacturer>
+		<year>1983</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Squeeze Box (USA)" index="" image="">
+		<description>Squeeze Box (USA)</description>
+		<cloneof></cloneof>
+		<crc>D37F3FB3</crc>
+		<manufacturer>U.S. Games Corporation</manufacturer>
+		<year>1982</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Star Raiders (USA)" index="" image="">
+		<description>Star Raiders (USA)</description>
+		<cloneof></cloneof>
+		<crc>2AE193EE</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1982</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Star Ship (USA)" index="" image="">
+		<description>Star Ship (USA)</description>
+		<cloneof></cloneof>
+		<crc>6609267E</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1977</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Star Strike (USA)" index="" image="">
+		<description>Star Strike (USA)</description>
+		<cloneof></cloneof>
+		<crc>936A596D</crc>
+		<manufacturer>M Network - INTV</manufacturer>
+		<year>1983</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Star Trek - Strategic Operations Simulator (USA)" index="" image="">
+		<description>Star Trek - Strategic Operations Simulator (USA)</description>
+		<cloneof></cloneof>
+		<crc>820EA8A2</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1983</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Star Voyager (USA)" index="" image="">
+		<description>Star Voyager (USA)</description>
+		<cloneof></cloneof>
+		<crc>4FE8477F</crc>
+		<manufacturer>Imagic</manufacturer>
+		<year>1982</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Star Wars - Return of the Jedi - Death Star Battle (USA)" index="" image="">
+		<description>Star Wars - Return of the Jedi - Death Star Battle (USA)</description>
+		<cloneof></cloneof>
+		<crc>0886A55D</crc>
+		<manufacturer>Parker Brothers</manufacturer>
+		<year>1983</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Star Wars - The Arcade Game (USA)" index="" image="">
+		<description>Star Wars - The Arcade Game (USA)</description>
+		<cloneof></cloneof>
+		<crc>65C31CA4</crc>
+		<manufacturer>Parker Brothers</manufacturer>
+		<year>1984</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="StarMaster (USA)" index="" image="">
+		<description>StarMaster (USA)</description>
+		<cloneof></cloneof>
+		<crc>25248B4B</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>1982</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Strategy X (USA)" index="" image="">
+		<description>Strategy X (USA)</description>
+		<cloneof></cloneof>
+		<crc>2AF91A81</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1983</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Stronghold (USA)" index="" image="">
+		<description>Stronghold (USA)</description>
+		<cloneof></cloneof>
+		<crc>BB91FFA6</crc>
+		<manufacturer>CommaVid</manufacturer>
+		<year>1983</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sub-Scan (USA)" index="" image="">
+		<description>Sub-Scan (USA)</description>
+		<cloneof></cloneof>
+		<crc>5069D7DA</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1982</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Targ (USA) (Proto)" index="true" image="t">
+		<description>Targ (USA) (Proto)</description>
+		<cloneof></cloneof>
+		<crc>676CC394</crc>
+		<manufacturer>CBS Electronics</manufacturer>
+		<year>1983</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Thunderground (USA)" index="" image="">
+		<description>Thunderground (USA)</description>
+		<cloneof></cloneof>
+		<crc>9E67C699</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1983</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Time Pilot (USA)" index="" image="">
+		<description>Time Pilot (USA)</description>
+		<cloneof></cloneof>
+		<crc>21EE7DB4</crc>
+		<manufacturer>Coleco</manufacturer>
+		<year>1983</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Turmoil (USA)" index="" image="">
+		<description>Turmoil (USA)</description>
+		<cloneof></cloneof>
+		<crc>8C65298A</crc>
+		<manufacturer>20th Century Fox Video Games</manufacturer>
+		<year>1982</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tutankham (USA)" index="" image="">
+		<description>Tutankham (USA)</description>
+		<cloneof></cloneof>
+		<crc>EC959BF2</crc>
+		<manufacturer>Parker Brothers</manufacturer>
+		<year>1983</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Universal Chaos (USA)" index="true" image="u">
+		<description>Universal Chaos (USA)</description>
+		<cloneof></cloneof>
+		<crc>25EFA169</crc>
+		<manufacturer>Telegames</manufacturer>
+		<year>1989</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Vanguard (USA)" index="true" image="v">
+		<description>Vanguard (USA)</description>
+		<cloneof></cloneof>
+		<crc>C4BEC521</crc>
+		<manufacturer>Atari - GCC</manufacturer>
+		<year>1982</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Vault Assault (USA) (Unl)" index="" image="">
+		<description>Vault Assault (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>856A6EFB</crc>
+		<manufacturer>CGE &amp; AtariAge - Brian Prescott</manufacturer>
+		<year>2001</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Wabbit (USA)" index="true" image="w">
+		<description>Wabbit (USA)</description>
+		<cloneof></cloneof>
+		<crc>2D07ED77</crc>
+		<manufacturer>Apollo</manufacturer>
+		<year>1982</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Wall Break (Europe)" index="" image="">
+		<description>Wall Break (Europe)</description>
+		<cloneof></cloneof>
+		<crc>727408CD</crc>
+		<manufacturer>Homevision - Gem International Corp.</manufacturer>
+		<year>1983</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Wing War (Europe)" index="" image="">
+		<description>Wing War (Europe)</description>
+		<cloneof></cloneof>
+		<crc>CFEBEF9E</crc>
+		<manufacturer>Imagic</manufacturer>
+		<year>1983</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Wizard of Wor (USA)" index="" image="">
+		<description>Wizard of Wor (USA)</description>
+		<cloneof></cloneof>
+		<crc>926F6F11</crc>
+		<manufacturer>CBS Electronics</manufacturer>
+		<year>1982</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Word Zapper (USA)" index="" image="">
+		<description>Word Zapper (USA)</description>
+		<cloneof></cloneof>
+		<crc>A11EEEAB</crc>
+		<manufacturer>U.S. Games Corporation - Vidtec</manufacturer>
+		<year>1982</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Xenophobe (USA)" index="true" image="x">
+		<description>Xenophobe (USA)</description>
+		<cloneof></cloneof>
+		<crc>F875C406</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1990</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Yars&apos; Revenge (USA)" index="true" image="y">
+		<description>Yars&apos; Revenge (USA)</description>
+		<cloneof></cloneof>
+		<crc>DFA1C825</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1982</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

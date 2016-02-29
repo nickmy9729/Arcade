@@ -1,0 +1,119 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Super Nintendo Entertainment System</listname>
+		<lastlistupdate>11/26/2011</lastlistupdate>
+		<listversion>1.3 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="Addams Family Values (USA)" index="true" image="a">
+		<description>Addams Family Values (USA)</description>
+		<cloneof></cloneof>
+		<crc>98b07db8</crc>
+		<manufacturer>Ocean</manufacturer>
+		<year>1995</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Beavis and Butt-Head (USA)" index="true" image="b">
+		<description>Beavis and Butt-Head (USA)</description>
+		<cloneof></cloneof>
+		<crc>15cf4bd5</crc>
+		<manufacturer>Viacom New Media</manufacturer>
+		<year>1994</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Equinox (USA)" index="true" image="e">
+		<description>Equinox (USA)</description>
+		<cloneof></cloneof>
+		<crc>96a4d1c0</crc>
+		<manufacturer>Epic Sony Record</manufacturer>
+		<year>1993</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Firemen, The (Europe)" index="true" image="f">
+		<description>Firemen, The (Europe)</description>
+		<cloneof></cloneof>
+		<crc>def665af</crc>
+		<manufacturer>Human Entertainment</manufacturer>
+		<year>1994</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Jurassic Park (USA) (Rev 1)" index="true" image="j">
+		<description>Jurassic Park (USA) (Rev 1)</description>
+		<cloneof></cloneof>
+		<crc>8bfde0b7</crc>
+		<manufacturer>Ocean</manufacturer>
+		<year>1993</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Legend of the Mystical Ninja, The (USA)" index="true" image="l">
+		<description>Legend of the Mystical Ninja, The (USA)</description>
+		<cloneof></cloneof>
+		<crc>82479d6a</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1992</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Legend of Zelda, The - A Link to the Past (USA)" index="" image="">
+		<description>Legend of Zelda, The - A Link to the Past (USA)</description>
+		<cloneof></cloneof>
+		<crc>777aac2f</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1992</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mickey&apos;s Playtown Adventure - A Day of Discovery! (USA) (Proto)" index="true" image="m">
+		<description>Mickey&apos;s Playtown Adventure - A Day of Discovery! (USA) (Proto)</description>
+		<cloneof></cloneof>
+		<crc>53524952</crc>
+		<manufacturer>Hi-Tech</manufacturer>
+		<year>1994</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Musya (USA)" index="" image="">
+		<description>Musya (USA)</description>
+		<cloneof></cloneof>
+		<crc>011907a4</crc>
+		<manufacturer>Seta Corporation</manufacturer>
+		<year>1992</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Star Trek - The Next Generation - Future&apos;s Past (USA)" index="true" image="s">
+		<description>Star Trek - The Next Generation - Future&apos;s Past (USA)</description>
+		<cloneof></cloneof>
+		<crc>8de80428</crc>
+		<manufacturer>Spectrum Holobyte</manufacturer>
+		<year>1995</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Young Merlin (USA)" index="true" image="y">
+		<description>Young Merlin (USA)</description>
+		<cloneof></cloneof>
+		<crc>7ea1afe8</crc>
+		<manufacturer>Virgin Interactive</manufacturer>
+		<year>1993</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

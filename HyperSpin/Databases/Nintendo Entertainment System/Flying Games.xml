@@ -1,0 +1,129 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Nintendo Entertainment System</listname>
+		<lastlistupdate>07/28/2013</lastlistupdate>
+		<listversion>1.1 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="After Burner (USA) (Unl)" index="true" image="a">
+		<description>After Burner (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>F699EE7E</crc>
+		<manufacturer>Tengen</manufacturer>
+		<year>1989</year>
+		<genre>Flying</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Airwolf (USA)" index="" image="">
+		<description>Airwolf (USA)</description>
+		<cloneof></cloneof>
+		<crc>489EF6A2</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1989</year>
+		<genre>Flying</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Destination Earthstar (USA)" index="true" image="d">
+		<description>Destination Earthstar (USA)</description>
+		<cloneof></cloneof>
+		<crc>EB9960EE</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1990</year>
+		<genre>Flying</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="F-117A - Stealth Fighter (USA)" index="true" image="f">
+		<description>F-117A - Stealth Fighter (USA)</description>
+		<cloneof></cloneof>
+		<crc>0A7E62D4</crc>
+		<manufacturer>MicroProse</manufacturer>
+		<year>1992</year>
+		<genre>Flying</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="F-15 Strike Eagle (USA)" index="" image="">
+		<description>F-15 Strike Eagle (USA)</description>
+		<cloneof></cloneof>
+		<crc>0BCAA4D7</crc>
+		<manufacturer>MicroProse</manufacturer>
+		<year>1993</year>
+		<genre>Flying</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="F15 City War (USA) (v1.1) (Unl)" index="" image="">
+		<description>F15 City War (USA) (v1.1) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>F3841DCD</crc>
+		<manufacturer>American Video Entertainment</manufacturer>
+		<year>1990</year>
+		<genre>Flying</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Flight of the Intruder (USA)" index="" image="">
+		<description>Flight of the Intruder (USA)</description>
+		<cloneof></cloneof>
+		<crc>F92BE7F2</crc>
+		<manufacturer>Mindscape Inc.</manufacturer>
+		<year>1991</year>
+		<genre>Flying</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="MiG 29 - Soviet Fighter (USA) (Unl)" index="true" image="m">
+		<description>MiG 29 - Soviet Fighter (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>E62E3382</crc>
+		<manufacturer>Camerica</manufacturer>
+		<year>1992</year>
+		<genre>Flying</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Stealth ATF (USA)" index="true" image="s">
+		<description>Stealth ATF (USA)</description>
+		<cloneof></cloneof>
+		<crc>C6DD7E69</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>1989</year>
+		<genre>Flying</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Top Gun (USA) (Rev A)" index="true" image="t">
+		<description>Top Gun (USA) (Rev A)</description>
+		<cloneof></cloneof>
+		<crc>CF6D0D7A</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1987</year>
+		<genre>Flying</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Top Gun - The Second Mission (USA)" index="" image="">
+		<description>Top Gun - The Second Mission (USA)</description>
+		<cloneof></cloneof>
+		<crc>6F8AF3E8</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1990</year>
+		<genre>Flying</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ultimate Air Combat (USA)" index="true" image="u">
+		<description>Ultimate Air Combat (USA)</description>
+		<cloneof></cloneof>
+		<crc>E387C77F</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>1992</year>
+		<genre>Flying</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

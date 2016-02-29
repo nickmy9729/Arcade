@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Super Nintendo Entertainment System</listname>
+		<lastlistupdate>11/26/2011</lastlistupdate>
+		<listversion>1.3 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="Boxing Legends of the Ring (USA)" index="true" image="b">
+		<description>Boxing Legends of the Ring (USA)</description>
+		<cloneof></cloneof>
+		<crc>c0b632c0</crc>
+		<manufacturer>Electro Brain</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Boxing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Foreman For Real (USA)" index="true" image="f">
+		<description>Foreman For Real (USA)</description>
+		<cloneof></cloneof>
+		<crc>5fa4d051</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Boxing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="George Foreman&apos;s KO Boxing (USA) (Rev 1)" index="true" image="g">
+		<description>George Foreman&apos;s KO Boxing (USA) (Rev 1)</description>
+		<cloneof></cloneof>
+		<crc>15194fc9</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Boxing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Riddick Bowe Boxing (USA)" index="true" image="r">
+		<description>Riddick Bowe Boxing (USA)</description>
+		<cloneof></cloneof>
+		<crc>a967a041</crc>
+		<manufacturer>Extreme Entertainment Group</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Boxing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Punch-Out!! (USA)" index="true" image="s">
+		<description>Super Punch-Out!! (USA)</description>
+		<cloneof></cloneof>
+		<crc>e2f92f84</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Boxing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="TKO Super Championship Boxing (USA)" index="true" image="t">
+		<description>TKO Super Championship Boxing (USA)</description>
+		<cloneof></cloneof>
+		<crc>fd4af462</crc>
+		<manufacturer>Sofel</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Boxing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

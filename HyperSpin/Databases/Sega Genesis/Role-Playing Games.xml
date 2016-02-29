@@ -1,0 +1,229 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Sega Genesis</listname>
+		<lastlistupdate>02/21/2013</lastlistupdate>
+		<listversion>1.2 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="Addams Family Values (Europe)" index="true" image="a">
+		<description>Addams Family Values (Europe)</description>
+		<cloneof></cloneof>
+		<crc>b906b992</crc>
+		<manufacturer>Ocean</manufacturer>
+		<year>1994</year>
+		<genre>Role-Playing</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Beyond Oasis (USA)" index="true" image="b">
+		<description>Beyond Oasis (USA)</description>
+		<cloneof></cloneof>
+		<crc>c4728225</crc>
+		<manufacturer>Ancient</manufacturer>
+		<year>1994</year>
+		<genre>Role-Playing</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Crusader of Centy (USA)" index="true" image="c">
+		<description>Crusader of Centy (USA)</description>
+		<cloneof></cloneof>
+		<crc>41858f6f</crc>
+		<manufacturer>NexTech</manufacturer>
+		<year>1994</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dungeons &amp; Dragons - Warriors of the Eternal Sun (USA, Europe)" index="true" image="d">
+		<description>Dungeons &amp; Dragons - Warriors of the Eternal Sun (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>af4a9cd7</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1992</year>
+		<genre>Role-Playing</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ex-Mutants (USA, Europe)" index="true" image="e">
+		<description>Ex-Mutants (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>33b1979f</crc>
+		<manufacturer>Telenet</manufacturer>
+		<year>1991</year>
+		<genre>Role-Playing</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Faery Tale Adventure, The (USA, Europe)" index="true" image="f">
+		<description>Faery Tale Adventure, The (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>963f4969</crc>
+		<manufacturer>New World Computing</manufacturer>
+		<year>1991</year>
+		<genre>Role-Playing</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fatal Labyrinth (USA, Europe)" index="" image="">
+		<description>Fatal Labyrinth (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>5f0bd984</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1991</year>
+		<genre>Role-Playing</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Landstalker (USA)" index="true" image="l">
+		<description>Landstalker (USA)</description>
+		<cloneof></cloneof>
+		<crc>fbbb5b97</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1992</year>
+		<genre>Role-Playing</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Light Crusader (USA)" index="" image="">
+		<description>Light Crusader (USA)</description>
+		<cloneof></cloneof>
+		<crc>beb715dc</crc>
+		<manufacturer>Treasure</manufacturer>
+		<year>1995</year>
+		<genre>Role-Playing</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Might and Magic - Gates to Another World (USA, Europe)" index="true" image="m">
+		<description>Might and Magic - Gates to Another World (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>f509145f</crc>
+		<manufacturer>New World Computing</manufacturer>
+		<year>1991</year>
+		<genre>Role-Playing</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Phantasy Star II (USA, Europe) (Rev A)" index="true" image="p">
+		<description>Phantasy Star II (USA, Europe) (Rev A)</description>
+		<cloneof></cloneof>
+		<crc>904fa047</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1989</year>
+		<genre>Role-Playing</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Phantasy Star III - Generations of Doom (USA, Europe)" index="" image="">
+		<description>Phantasy Star III - Generations of Doom (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>c6b42b0f</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1990</year>
+		<genre>Role-Playing</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Phantasy Star IV (USA)" index="" image="">
+		<description>Phantasy Star IV (USA)</description>
+		<cloneof></cloneof>
+		<crc>fe236442</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1994</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rings of Power (USA, Europe)" index="true" image="r">
+		<description>Rings of Power (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>41fcc497</crc>
+		<manufacturer>Naughty Dog</manufacturer>
+		<year>1991</year>
+		<genre>Role-Playing</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Shadowrun (USA)" index="true" image="s">
+		<description>Shadowrun (USA)</description>
+		<cloneof></cloneof>
+		<crc>fbb92909</crc>
+		<manufacturer>Blue Sky Software</manufacturer>
+		<year>1994</year>
+		<genre>Role-Playing</genre>
+		<rating>HSRS - PG (Parental Guidance)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Shining in the Darkness (USA, Europe)" index="" image="">
+		<description>Shining in the Darkness (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>4d2785bc</crc>
+		<manufacturer>Climax Entertainment</manufacturer>
+		<year>1991</year>
+		<genre>Role-Playing</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sorcerer&apos;s Kingdom (USA) (v1.1)" index="" image="">
+		<description>Sorcerer\&apos;s Kingdom (USA) (v1.1)</description>
+		<cloneof></cloneof>
+		<crc>bb1fc9ce</crc>
+		<manufacturer>Treco</manufacturer>
+		<year>1992</year>
+		<genre>Role-Playing</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Spiritual Warfare (USA) (Unl)" index="" image="">
+		<description>Spiritual Warfare (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>d9a364ff</crc>
+		<manufacturer>Wisdom Tree</manufacturer>
+		<year>1994</year>
+		<genre>Role-Playing</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Hydlide (USA)" index="" image="">
+		<description>Super Hydlide (USA)</description>
+		<cloneof></cloneof>
+		<crc>1335ddaa</crc>
+		<manufacturer>T&amp;E Soft</manufacturer>
+		<year>1989</year>
+		<genre>Role-Playing</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sword of Vermilion (USA, Europe)" index="" image="">
+		<description>Sword of Vermilion (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>ea1bc9ab</crc>
+		<manufacturer>Sega-AM2</manufacturer>
+		<year>1989</year>
+		<genre>Role-Playing</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Traysia (USA)" index="true" image="t">
+		<description>Traysia (USA)</description>
+		<cloneof></cloneof>
+		<crc>96184f4f</crc>
+		<manufacturer>Riot</manufacturer>
+		<year>1992</year>
+		<genre>Role-Playing</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ys III (USA)" index="true" image="y">
+		<description>Ys III (USA)</description>
+		<cloneof></cloneof>
+		<crc>ea27976e</crc>
+		<manufacturer>Riot</manufacturer>
+		<year>1991</year>
+		<genre>Role-Playing</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

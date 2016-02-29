@@ -1,0 +1,2009 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>MAME</listname>
+		<lastlistupdate>07/02/2011</lastlistupdate>
+		<listversion>.143 Ongoing</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="aceattac" index="true" image="a">
+		<description>Ace Attacker (FD1094 317-0059)</description>
+		<cloneof></cloneof>
+		<crc>f3c19c36</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1988</year>
+		<genre>Sports/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="aceattaca" index="" image="">
+		<description>Ace Attacker (Japan, System 16A, FD1094 317-0060)</description>
+		<cloneof>aceattac</cloneof>
+		<crc>ca116367</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1988</year>
+		<genre>Sports/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="alphaone" index="" image="">
+		<description>Alpha One (prototype, 3 lives)</description>
+		<cloneof>mhavoc</cloneof>
+		<crc>2a4c149f</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1983</year>
+		<genre>Shooter/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="alphaonea" index="" image="">
+		<description>Alpha One (prototype, 5 lives)</description>
+		<cloneof>mhavoc</cloneof>
+		<crc>2a4c149f</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1983</year>
+		<genre>Shooter/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="amspdwy" index="" image="">
+		<description>American Speedway (set 1)</description>
+		<cloneof></cloneof>
+		<crc>88233b59</crc>
+		<manufacturer>Enerdyne Technologies Inc.</manufacturer>
+		<year>1987</year>
+		<genre>Driving/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="amspdwya" index="" image="">
+		<description>American Speedway (set 2)</description>
+		<cloneof>amspdwy</cloneof>
+		<crc>facab102</crc>
+		<manufacturer>Enerdyne Technologies Inc.</manufacturer>
+		<year>1987</year>
+		<genre>Driving/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="apbf" index="" image="">
+		<description>APB - All Points Bulletin (French)</description>
+		<cloneof>apb</cloneof>
+		<crc>8edf4726</crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1987</year>
+		<genre>Driving/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="apbg" index="" image="">
+		<description>APB - All Points Bulletin (German)</description>
+		<cloneof>apb</cloneof>
+		<crc>8edf4726</crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1987</year>
+		<genre>Driving/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="apb1" index="" image="">
+		<description>APB - All Points Bulletin (rev 1)</description>
+		<cloneof>apb</cloneof>
+		<crc>d385994c</crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1987</year>
+		<genre>Driving/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="apb2" index="" image="">
+		<description>APB - All Points Bulletin (rev 2)</description>
+		<cloneof>apb</cloneof>
+		<crc>8edf4726</crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1987</year>
+		<genre>Driving/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="apb3" index="" image="">
+		<description>APB - All Points Bulletin (rev 3)</description>
+		<cloneof>apb</cloneof>
+		<crc>8edf4726</crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1987</year>
+		<genre>Driving/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="apb4" index="" image="">
+		<description>APB - All Points Bulletin (rev 4)</description>
+		<cloneof>apb</cloneof>
+		<crc>8edf4726</crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1987</year>
+		<genre>Driving/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="apb5" index="" image="">
+		<description>APB - All Points Bulletin (rev 5)</description>
+		<cloneof>apb</cloneof>
+		<crc>8edf4726</crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1987</year>
+		<genre>Driving/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="apb6" index="" image="">
+		<description>APB - All Points Bulletin (rev 6)</description>
+		<cloneof>apb</cloneof>
+		<crc>8edf4726</crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1987</year>
+		<genre>Driving/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="apb" index="" image="">
+		<description>APB - All Points Bulletin (rev 7)</description>
+		<cloneof></cloneof>
+		<crc>8edf4726</crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1987</year>
+		<genre>Driving/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="arkgcbl" index="" image="">
+		<description>Arkanoid (bootleg on Block hardware, set 1)</description>
+		<cloneof>arkanoid</cloneof>
+		<crc>b0f73900</crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1986</year>
+		<genre>Breakout/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="arkgcbla" index="" image="">
+		<description>Arkanoid (bootleg on Block hardware, set 2)</description>
+		<cloneof>arkanoid</cloneof>
+		<crc>892a556e</crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1986</year>
+		<genre>Breakout/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="arkmcubl" index="" image="">
+		<description>Arkanoid (bootleg with MCU)</description>
+		<cloneof>arkanoid</cloneof>
+		<crc>dd4f2b72</crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1986</year>
+		<genre>Breakout/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ark1ball" index="" image="">
+		<description>Arkanoid (bootleg with MCU, harder)</description>
+		<cloneof>arkanoid</cloneof>
+		<crc>dd4f2b72</crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1986</year>
+		<genre>Breakout/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="arkangc" index="" image="">
+		<description>Arkanoid (Game Corporation bootleg, set 1)</description>
+		<cloneof>arkanoid</cloneof>
+		<crc>c54232e6</crc>
+		<manufacturer>bootleg (Game Corporation)</manufacturer>
+		<year>1986</year>
+		<genre>Breakout/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="arkangc2" index="" image="">
+		<description>Arkanoid (Game Corporation bootleg, set 2)</description>
+		<cloneof>arkanoid</cloneof>
+		<crc>bd6eb996</crc>
+		<manufacturer>bootleg (Game Corporation)</manufacturer>
+		<year>1986</year>
+		<genre>Breakout/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="arkanoidj" index="" image="">
+		<description>Arkanoid (Japan)</description>
+		<cloneof>arkanoid</cloneof>
+		<crc>bf0455fc</crc>
+		<manufacturer>Taito Corporation</manufacturer>
+		<year>1986</year>
+		<genre>Breakout/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="arkatayt" index="" image="">
+		<description>Arkanoid (Tayto bootleg)</description>
+		<cloneof>arkanoid</cloneof>
+		<crc>154e2c6f</crc>
+		<manufacturer>bootleg (Tayto)</manufacturer>
+		<year>1986</year>
+		<genre>Breakout/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="arktayt2" index="" image="">
+		<description>Arkanoid (Tayto bootleg, harder)</description>
+		<cloneof>arkanoid</cloneof>
+		<crc>6e0a2b6f</crc>
+		<manufacturer>bootleg (Tayto)</manufacturer>
+		<year>1986</year>
+		<genre>Breakout/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="arkanoidu" index="" image="">
+		<description>Arkanoid (US)</description>
+		<cloneof>arkanoid</cloneof>
+		<crc>d3ad37d7</crc>
+		<manufacturer>Taito America Corporation (Romstar license)</manufacturer>
+		<year>1986</year>
+		<genre>Breakout/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="arkanoiduo" index="" image="">
+		<description>Arkanoid (US, older)</description>
+		<cloneof>arkanoid</cloneof>
+		<crc>5bcda3b0</crc>
+		<manufacturer>Taito America Corporation (Romstar license)</manufacturer>
+		<year>1986</year>
+		<genre>Breakout/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="arkanoid" index="" image="">
+		<description>Arkanoid (World)</description>
+		<cloneof></cloneof>
+		<crc>5bcda3b0</crc>
+		<manufacturer>Taito Corporation Japan</manufacturer>
+		<year>1986</year>
+		<genre>Breakout/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="arknoid2j" index="" image="">
+		<description>Arkanoid - Revenge of DOH (Japan)</description>
+		<cloneof>arknoid2</cloneof>
+		<crc>136edf9d</crc>
+		<manufacturer>Taito Corporation</manufacturer>
+		<year>1987</year>
+		<genre>Breakout/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="arknoid2u" index="" image="">
+		<description>Arkanoid - Revenge of DOH (US)</description>
+		<cloneof>arknoid2</cloneof>
+		<crc>99555231</crc>
+		<manufacturer>Taito America Corporation (Romstar license)</manufacturer>
+		<year>1987</year>
+		<genre>Breakout/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="arknoid2" index="" image="">
+		<description>Arkanoid - Revenge of DOH (World)</description>
+		<cloneof></cloneof>
+		<crc>136edf9d</crc>
+		<manufacturer>Taito Corporation Japan</manufacturer>
+		<year>1987</year>
+		<genre>Breakout/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="armchmp2o" index="" image="">
+		<description>Arm Champs II v1.7</description>
+		<cloneof>armchmp2</cloneof>
+		<crc>aaa11bc7</crc>
+		<manufacturer>Jaleco</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Wrestling/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="armchmp2" index="" image="">
+		<description>Arm Champs II v2.6</description>
+		<cloneof></cloneof>
+		<crc>e0cec032</crc>
+		<manufacturer>Jaleco</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Wrestling/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mgolf" index="" image="">
+		<description>Atari Mini Golf (prototype)</description>
+		<cloneof></cloneof>
+		<crc>9ea98f39</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1978</year>
+		<genre>Sports/Golf/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="badlands" index="true" image="b">
+		<description>Bad Lands</description>
+		<cloneof></cloneof>
+		<crc>a3da5774</crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1989</year>
+		<genre>Driving/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="badlandsb" index="" image="">
+		<description>Bad Lands (bootleg)</description>
+		<cloneof>badlands</cloneof>
+		<crc>dffb025d</crc>
+		<manufacturer>bootleg (Playmark)</manufacturer>
+		<year>1989</year>
+		<genre>Driving/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="bm1stmix" index="true" image="b">
+		<description>beatmania (ver JA-B)</description>
+		<cloneof></cloneof>
+		<crc>25bf8629</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1997</year>
+		<genre>Rhythm/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="bm2ndmxa" index="" image="">
+		<description>beatmania 2nd MIX (ver JA-A)</description>
+		<cloneof>bm2ndmix</cloneof>
+		<crc>4f0bf5d0</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1998</year>
+		<genre>Rhythm/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="bm2ndmix" index="" image="">
+		<description>beatmania 2nd MIX (ver JA-B)</description>
+		<cloneof></cloneof>
+		<crc>c8df72c0</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1998</year>
+		<genre>Rhythm/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="bm3rdmix" index="" image="">
+		<description>beatmania 3rd MIX (ver JA-A)</description>
+		<cloneof></cloneof>
+		<crc>cf7494a5</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1998</year>
+		<genre>Rhythm/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="bm4thmix" index="" image="">
+		<description>beatmania 4th MIX (ver JA-A)</description>
+		<cloneof></cloneof>
+		<crc>81138a1b</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1999</year>
+		<genre>Rhythm/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="bm5thmix" index="" image="">
+		<description>beatmania 5th MIX (ver JA-A)</description>
+		<cloneof></cloneof>
+		<crc>03bbe7e3</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1999</year>
+		<genre>Rhythm/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="bm6thmix" index="" image="">
+		<description>beatmania 6th MIX (ver JA-A)</description>
+		<cloneof></cloneof>
+		<crc>6d7ccbe3</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>2001</year>
+		<genre>Rhythm/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="bm7thmix" index="" image="">
+		<description>beatmania 7th MIX (ver JA-B)</description>
+		<cloneof></cloneof>
+		<crc>433d0074</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>2001</year>
+		<genre>Rhythm/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="bmclubmx" index="" image="">
+		<description>beatmania Club MIX (ver JA-A)</description>
+		<cloneof></cloneof>
+		<crc>b314af94</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>2000</year>
+		<genre>Rhythm/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="bmcompmx" index="" image="">
+		<description>beatmania complete MIX (ver JA-B)</description>
+		<cloneof></cloneof>
+		<crc>92841eb5</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1999</year>
+		<genre>Rhythm/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="bmcompm2" index="" image="">
+		<description>beatmania complete MIX 2 (ver JA-A)</description>
+		<cloneof></cloneof>
+		<crc>31be1d4c</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>2000</year>
+		<genre>Rhythm/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="bmcorerm" index="" image="">
+		<description>beatmania CORE REMIX (ver JA-A)</description>
+		<cloneof></cloneof>
+		<crc>cd6f1fc5</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>2000</year>
+		<genre>Rhythm/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="bmdct" index="" image="">
+		<description>beatmania featuring Dreams Come True (ver JA-A)</description>
+		<cloneof></cloneof>
+		<crc>2c224169</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>2000</year>
+		<genre>Rhythm/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="bmfinal" index="" image="">
+		<description>beatmania THE FINAL (ver JA-A)</description>
+		<cloneof></cloneof>
+		<crc>a64eeff7</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>2002</year>
+		<genre>Rhythm/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="blstroidg" index="true" image="b">
+		<description>Blasteroids (German, rev 2)</description>
+		<cloneof>blstroid</cloneof>
+		<crc>cc82108b</crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1987</year>
+		<genre>Shooter/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="blstroid2" index="" image="">
+		<description>Blasteroids (rev 2)</description>
+		<cloneof>blstroid</cloneof>
+		<crc>5a092513</crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1987</year>
+		<genre>Shooter/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="blstroid3" index="" image="">
+		<description>Blasteroids (rev 3)</description>
+		<cloneof>blstroid</cloneof>
+		<crc>8fb050f5</crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1987</year>
+		<genre>Shooter/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="blstroid" index="" image="">
+		<description>Blasteroids (rev 4)</description>
+		<cloneof></cloneof>
+		<crc>d14badc4</crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1987</year>
+		<genre>Shooter/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="blstroidh" index="" image="">
+		<description>Blasteroids (with heads)</description>
+		<cloneof>blstroid</cloneof>
+		<crc>061f0898</crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1987</year>
+		<genre>Shooter/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="arkblock" index="" image="">
+		<description>Block (Game Corporation bootleg, set 1)</description>
+		<cloneof>arkanoid</cloneof>
+		<crc>0be015de</crc>
+		<manufacturer>bootleg (Game Corporation)</manufacturer>
+		<year>1986</year>
+		<genre>Breakout/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="arkbloc2" index="" image="">
+		<description>Block (Game Corporation bootleg, set 2)</description>
+		<cloneof>arkanoid</cloneof>
+		<crc>5be667e1</crc>
+		<manufacturer>bootleg (Game Corporation)</manufacturer>
+		<year>1986</year>
+		<genre>Breakout/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="arkbloc3" index="" image="">
+		<description>Block (Game Corporation bootleg, set 3)</description>
+		<cloneof>arkanoid</cloneof>
+		<crc>bf7197a0</crc>
+		<manufacturer>bootleg (Game Corporation)</manufacturer>
+		<year>1986</year>
+		<genre>Breakout/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="block2" index="" image="">
+		<description>Block 2 (S.P.A. Co. bootleg)</description>
+		<cloneof>arkanoid</cloneof>
+		<crc>2b026cae</crc>
+		<manufacturer>bootleg (S.P.A. Co.)</manufacturer>
+		<year>1986</year>
+		<genre>Breakout/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="blockbl" index="" image="">
+		<description>Block Block (bootleg)</description>
+		<cloneof>block</cloneof>
+		<crc>3b576fd9</crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1991</year>
+		<genre>Breakout/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="blockj" index="" image="">
+		<description>Block Block (Japan 910910)</description>
+		<cloneof>block</cloneof>
+		<crc>3b55969a</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1991</year>
+		<genre>Breakout/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="block" index="" image="">
+		<description>Block Block (World 910910)</description>
+		<cloneof></cloneof>
+		<crc>c12e7f4c</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1991</year>
+		<genre>Breakout/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="blockgalb" index="" image="">
+		<description>Block Gal (bootleg)</description>
+		<cloneof>blockgal</cloneof>
+		<crc>65c47676</crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1987</year>
+		<genre>Breakout/Mature/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="blockgal" index="" image="">
+		<description>Block Gal (MC-8123B, 317-0029)</description>
+		<cloneof></cloneof>
+		<crc>a99b231a</crc>
+		<manufacturer>Sega / Vic Tokai</manufacturer>
+		<year>1987</year>
+		<genre>Breakout/Mature/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="boxingb" index="" image="">
+		<description>Boxing Bugs</description>
+		<cloneof></cloneof>
+		<crc>d3115b0f</crc>
+		<manufacturer>Cinematronics</manufacturer>
+		<year>1981</year>
+		<genre>Shooter/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="buggyboyjr" index="" image="">
+		<description>Buggy Boy Junior/Speed Buggy (upright)</description>
+		<cloneof>buggyboy</cloneof>
+		<crc>92797c25</crc>
+		<manufacturer>Tatsumi</manufacturer>
+		<year>1986</year>
+		<genre>Driving/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="buggyboy" index="" image="">
+		<description>Buggy Boy/Speed Buggy (cockpit)</description>
+		<cloneof></cloneof>
+		<crc>92797c25</crc>
+		<manufacturer>Tatsumi</manufacturer>
+		<year>1985</year>
+		<genre>Driving/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="buggychl" index="" image="">
+		<description>Buggy Challenge</description>
+		<cloneof></cloneof>
+		<crc>16445a6a</crc>
+		<manufacturer>Taito Corporation</manufacturer>
+		<year>1984</year>
+		<genre>Driving/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="buggychlt" index="" image="">
+		<description>Buggy Challenge (Tecfri)</description>
+		<cloneof>buggychl</cloneof>
+		<crc>f90ab854</crc>
+		<manufacturer>Taito Corporation (Tecfri license)</manufacturer>
+		<year>1984</year>
+		<genre>Driving/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="cameltryj" index="true" image="c">
+		<description>Cameltry (Japan, YM2610)</description>
+		<cloneof>cameltry</cloneof>
+		<crc>2ae01120</crc>
+		<manufacturer>Taito Corporation</manufacturer>
+		<year>1989</year>
+		<genre>Maze/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="cameltryau" index="" image="">
+		<description>Cameltry (US, YM2203 + M6295)</description>
+		<cloneof>cameltry</cloneof>
+		<crc>be172da0</crc>
+		<manufacturer>Taito America Corporation</manufacturer>
+		<year>1989</year>
+		<genre>Maze/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="cameltry" index="" image="">
+		<description>Cameltry (US, YM2610)</description>
+		<cloneof></cloneof>
+		<crc>be172da0</crc>
+		<manufacturer>Taito America Corporation</manufacturer>
+		<year>1989</year>
+		<genre>Maze/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="cameltrya" index="" image="">
+		<description>Cameltry (World, YM2203 + M6295)</description>
+		<cloneof>cameltry</cloneof>
+		<crc>be172da0</crc>
+		<manufacturer>Taito America Corporation</manufacturer>
+		<year>1989</year>
+		<genre>Maze/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="carpolo" index="" image="">
+		<description>Car Polo</description>
+		<cloneof></cloneof>
+		<crc>9d2e75a5</crc>
+		<manufacturer>Exidy</manufacturer>
+		<year>1977</year>
+		<genre>Sports/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="cerberus" index="" image="">
+		<description>Cerberus</description>
+		<cloneof></cloneof>
+		<crc>d78210df</crc>
+		<manufacturer>Cinematronics</manufacturer>
+		<year>1985</year>
+		<genre>Shooter/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="csprintf" index="" image="">
+		<description>Championship Sprint (French)</description>
+		<cloneof>csprint</cloneof>
+		<crc>f9d4fbd3</crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1986</year>
+		<genre>Driving/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="csprintg1" index="" image="">
+		<description>Championship Sprint (German, rev 1)</description>
+		<cloneof>csprint</cloneof>
+		<crc>becfc276</crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1986</year>
+		<genre>Driving/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="csprintg" index="" image="">
+		<description>Championship Sprint (German, rev 2)</description>
+		<cloneof>csprint</cloneof>
+		<crc>1f437a3f</crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1986</year>
+		<genre>Driving/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="csprint1" index="" image="">
+		<description>Championship Sprint (rev 1)</description>
+		<cloneof>csprint</cloneof>
+		<crc>a04ecbac</crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1986</year>
+		<genre>Driving/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="csprint2" index="" image="">
+		<description>Championship Sprint (rev 2)</description>
+		<cloneof>csprint</cloneof>
+		<crc>0ff83de8</crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1986</year>
+		<genre>Driving/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="csprint" index="" image="">
+		<description>Championship Sprint (rev 3)</description>
+		<cloneof></cloneof>
+		<crc>1dcf8b98</crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1986</year>
+		<genre>Driving/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="csprints1" index="" image="">
+		<description>Championship Sprint (Spanish, rev 1)</description>
+		<cloneof>csprint</cloneof>
+		<crc>cfa673a6</crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1986</year>
+		<genre>Driving/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="csprints" index="" image="">
+		<description>Championship Sprint (Spanish, rev 2)</description>
+		<cloneof>csprint</cloneof>
+		<crc>fd4ed0d3</crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1986</year>
+		<genre>Driving/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="changela" index="" image="">
+		<description>Change Lanes</description>
+		<cloneof></cloneof>
+		<crc>38530a60</crc>
+		<manufacturer>Taito Corporation</manufacturer>
+		<year>1983</year>
+		<genre>Driving/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="cchasm" index="" image="">
+		<description>Cosmic Chasm (set 1)</description>
+		<cloneof></cloneof>
+		<crc>19244f25</crc>
+		<manufacturer>Cinematronics / GCE</manufacturer>
+		<year>1983</year>
+		<genre>Shooter/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="cchasm1" index="" image="">
+		<description>Cosmic Chasm (set 2)</description>
+		<cloneof>cchasm</cloneof>
+		<crc>19244f25</crc>
+		<manufacturer>Cinematronics / GCE</manufacturer>
+		<year>1983</year>
+		<genre>Shooter/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="indyheat" index="true" image="d">
+		<description>Danny Sullivan&apos;s Indy Heat</description>
+		<cloneof></cloneof>
+		<crc>2b97a347</crc>
+		<manufacturer>Leland Corp.</manufacturer>
+		<year>1991</year>
+		<genre>Driving/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="darkplnt" index="" image="">
+		<description>Dark Planet</description>
+		<cloneof></cloneof>
+		<crc>5a0ca559</crc>
+		<manufacturer>Stern Electronics</manufacturer>
+		<year>1982</year>
+		<genre>Shooter/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="deltrace" index="" image="">
+		<description>Delta Race</description>
+		<cloneof>omegrace</cloneof>
+		<crc>0424d46e</crc>
+		<manufacturer>bootleg (Allied Leisure)</manufacturer>
+		<year>1981</year>
+		<genre>Shooter/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="demoderb" index="" image="">
+		<description>Demolition Derby</description>
+		<cloneof></cloneof>
+		<crc>8781b367</crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>1984</year>
+		<genre>Driving/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="demoderm" index="" image="">
+		<description>Demolition Derby (2-Player Mono Board Version)</description>
+		<cloneof>demoderb</cloneof>
+		<crc>2e24527b</crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>1984</year>
+		<genre>Driving/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="dominob" index="" image="">
+		<description>Domino Block</description>
+		<cloneof></cloneof>
+		<crc>709b7a29</crc>
+		<manufacturer>Wonwoo Systems</manufacturer>
+		<year>1996</year>
+		<genre>Breakout/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="dominobv2" index="" image="">
+		<description>Domino Block ver.2</description>
+		<cloneof>dominob</cloneof>
+		<crc>a27473c0</crc>
+		<manufacturer>Wonwoo Systems</manufacturer>
+		<year>1996</year>
+		<genre>Breakout/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="dcheese" index="" image="">
+		<description>Double Cheese</description>
+		<cloneof></cloneof>
+		<crc>5b6233d8</crc>
+		<manufacturer>HAR</manufacturer>
+		<year>1993</year>
+		<genre>Casino/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="embargo" index="true" image="e">
+		<description>Embargo</description>
+		<cloneof></cloneof>
+		<crc>00dcbc24</crc>
+		<manufacturer>Cinematronics</manufacturer>
+		<year>1977</year>
+		<genre>Maze/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="firetrk" index="true" image="f">
+		<description>Fire Truck / Smokey Joe</description>
+		<cloneof></cloneof>
+		<crc>9570bdd3</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1978</year>
+		<genre>Driving/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="polepos2bi" index="true" image="g">
+		<description>Gran Premio F1 (Italian bootleg of Pole Position II)</description>
+		<cloneof>polepos2</cloneof>
+		<crc>1a6412a1</crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1984</year>
+		<genre>Driving/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="grudge" index="" image="">
+		<description>Grudge Match (prototype)</description>
+		<cloneof></cloneof>
+		<crc>260965ca</crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>198?</year>
+		<genre>Driving/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="spinkick" index="true" image="h">
+		<description>Hec&apos;s Spinkick</description>
+		<cloneof>sfkick</cloneof>
+		<crc>1dcaec5e</crc>
+		<manufacturer>Haesung/Seojin</manufacturer>
+		<year>1988</year>
+		<genre>Breakout/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hmcompmx" index="true" image="h">
+		<description>hiphopmania complete MIX (ver UA-B)</description>
+		<cloneof>bmcompmx</cloneof>
+		<crc>f9c16675</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1999</year>
+		<genre>Rhythm/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hmcompm2" index="" image="">
+		<description>hiphopmania complete MIX 2 (ver UA-A)</description>
+		<cloneof>bmcompm2</cloneof>
+		<crc>5e5cc6c0</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>2000</year>
+		<genre>Rhythm/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hotrodj" index="true" image="h">
+		<description>Hot Rod (Japan, 4 Players, Floppy Based)</description>
+		<cloneof>hotrod</cloneof>
+		<crc>75130e73</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1988</year>
+		<genre>Driving/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hotrod" index="" image="">
+		<description>Hot Rod (World, 3 Players, Turbo set 1, Floppy Based)</description>
+		<cloneof></cloneof>
+		<crc>75130e73</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1988</year>
+		<genre>Driving/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hotroda" index="" image="">
+		<description>Hot Rod (World, 3 Players, Turbo set 2, Floppy Based)</description>
+		<cloneof>hotrod</cloneof>
+		<crc>75130e73</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1988</year>
+		<genre>Driving/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="imolagp" index="true" image="i">
+		<description>Imola Grand Prix</description>
+		<cloneof></cloneof>
+		<crc>5eb61bb7</crc>
+		<manufacturer>Alberici</manufacturer>
+		<year>1981</year>
+		<genre>Driving/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="offroad" index="" image="">
+		<description>Ironman Ivan Stewart&apos;s Super Off-Road</description>
+		<cloneof></cloneof>
+		<crc>c5790988</crc>
+		<manufacturer>Leland Corp.</manufacturer>
+		<year>1989</year>
+		<genre>Driving/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="offroadt" index="" image="">
+		<description>Ironman Ivan Stewart&apos;s Super Off-Road Track-Pak</description>
+		<cloneof></cloneof>
+		<crc>adbc6211</crc>
+		<manufacturer>Leland Corp.</manufacturer>
+		<year>1989</year>
+		<genre>Driving/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="offroadt2p" index="" image="">
+		<description>Ironman Ivan Stewart&apos;s Super Off-Road Track-Pak (2 Players)</description>
+		<cloneof>offroadt</cloneof>
+		<crc>8a785b66</crc>
+		<manufacturer>Leland Corp.</manufacturer>
+		<year>1989</year>
+		<genre>Driving/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="jpopnics" index="true" image="j">
+		<description>Jumping Pop (Nics, Korean bootleg of Plump Pop)</description>
+		<cloneof></cloneof>
+		<crc>649e951c</crc>
+		<manufacturer>bootleg (Nics)</manufacturer>
+		<year>1992</year>
+		<genre>Breakout/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="kickc" index="true" image="k">
+		<description>Kick (cocktail)</description>
+		<cloneof>kick</cloneof>
+		<crc>22fa42ed</crc>
+		<manufacturer>Midway</manufacturer>
+		<year>1981</year>
+		<genre>Miscellaneous/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="kick" index="" image="">
+		<description>Kick (upright)</description>
+		<cloneof></cloneof>
+		<crc>65924917</crc>
+		<manufacturer>Midway</manufacturer>
+		<year>1981</year>
+		<genre>Miscellaneous/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="kickman" index="" image="">
+		<description>Kickman (upright)</description>
+		<cloneof>kick</cloneof>
+		<crc>d8cd9f0f</crc>
+		<manufacturer>Midway</manufacturer>
+		<year>1981</year>
+		<genre>Miscellaneous/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="jongbou" index="true" image="m">
+		<description>Mahjong Block Jongbou (Japan)</description>
+		<cloneof></cloneof>
+		<crc>ee59e67a</crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1987</year>
+		<genre>Breakout/Mature/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mhavocp" index="" image="">
+		<description>Major Havoc (prototype)</description>
+		<cloneof>mhavoc</cloneof>
+		<crc>3050c0e6</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1983</year>
+		<genre>Shooter/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mhavocrv" index="" image="">
+		<description>Major Havoc (Return to Vax)</description>
+		<cloneof>mhavoc</cloneof>
+		<crc>c67284ca</crc>
+		<manufacturer>Atari / JMA</manufacturer>
+		<year>1983</year>
+		<genre>Shooter/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mhavoc2" index="" image="">
+		<description>Major Havoc (rev 2)</description>
+		<cloneof>mhavoc</cloneof>
+		<crc>16eef583</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1983</year>
+		<genre>Shooter/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mhavoc" index="" image="">
+		<description>Major Havoc (rev 3)</description>
+		<cloneof></cloneof>
+		<crc>c67284ca</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1983</year>
+		<genre>Shooter/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="montecar" index="" image="">
+		<description>Monte Carlo</description>
+		<cloneof></cloneof>
+		<crc>d3695f09</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1979</year>
+		<genre>Driving/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="moonwar" index="" image="">
+		<description>Moonwar</description>
+		<cloneof></cloneof>
+		<crc>7c11b4d9</crc>
+		<manufacturer>Stern Electronics</manufacturer>
+		<year>1981</year>
+		<genre>Shooter/Flying/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="moonwara" index="" image="">
+		<description>Moonwar (older)</description>
+		<cloneof>moonwar</cloneof>
+		<crc>bc20b734</crc>
+		<manufacturer>Stern Electronics</manufacturer>
+		<year>1981</year>
+		<genre>Shooter/Flying/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="nitedrvr" index="true" image="n">
+		<description>Night Driver</description>
+		<cloneof></cloneof>
+		<crc>7afa7542</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1976</year>
+		<genre>Driving/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="nstocker" index="" image="">
+		<description>Night Stocker (set 1)</description>
+		<cloneof></cloneof>
+		<crc>a635f973</crc>
+		<manufacturer>Bally/Sente</manufacturer>
+		<year>1986</year>
+		<genre>Shooter/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="nstocker2" index="" image="">
+		<description>Night Stocker (set 2)</description>
+		<cloneof>nstocker</cloneof>
+		<crc>a635f973</crc>
+		<manufacturer>Bally/Sente</manufacturer>
+		<year>1986</year>
+		<genre>Shooter/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="omegrace" index="true" image="o">
+		<description>Omega Race (set 1)</description>
+		<cloneof></cloneof>
+		<crc>0424d46e</crc>
+		<manufacturer>Midway</manufacturer>
+		<year>1981</year>
+		<genre>Shooter/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="paddle2" index="true" image="p">
+		<description>Paddle 2 (bootleg on Block hardware)</description>
+		<cloneof>arkanoid</cloneof>
+		<crc>a286333c</crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1988</year>
+		<genre>Breakout/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pegglet" index="" image="">
+		<description>Peggle (Trackball, v1.0)</description>
+		<cloneof>peggle</cloneof>
+		<crc>d2694868</crc>
+		<manufacturer>Strata/Incredible Technologies</manufacturer>
+		<year>1991</year>
+		<genre>Miscellaneous/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="plumppop" index="" image="">
+		<description>Plump Pop (Japan)</description>
+		<cloneof></cloneof>
+		<crc>107f9e06</crc>
+		<manufacturer>Taito Corporation</manufacturer>
+		<year>1987</year>
+		<genre>Breakout/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="polepos" index="" image="">
+		<description>Pole Position</description>
+		<cloneof></cloneof>
+		<crc>94436b70</crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1982</year>
+		<genre>Driving/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="polepos1" index="" image="">
+		<description>Pole Position (Atari version 1)</description>
+		<cloneof>polepos</cloneof>
+		<crc>c918c043</crc>
+		<manufacturer>Namco (Atari license)</manufacturer>
+		<year>1982</year>
+		<genre>Driving/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="poleposa" index="" image="">
+		<description>Pole Position (Atari version 2)</description>
+		<cloneof>polepos</cloneof>
+		<crc>c918c043</crc>
+		<manufacturer>Namco (Atari license)</manufacturer>
+		<year>1982</year>
+		<genre>Driving/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="polepos2" index="" image="">
+		<description>Pole Position II</description>
+		<cloneof></cloneof>
+		<crc>bcf87004</crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1983</year>
+		<genre>Driving/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="polepos2a" index="" image="">
+		<description>Pole Position II (Atari)</description>
+		<cloneof>polepos2</cloneof>
+		<crc>f85212c4</crc>
+		<manufacturer>Namco (Atari license)</manufacturer>
+		<year>1983</year>
+		<genre>Driving/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="polepos2b" index="" image="">
+		<description>Pole Position II (bootleg)</description>
+		<cloneof>polepos2</cloneof>
+		<crc>f85212c4</crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1983</year>
+		<genre>Driving/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pbillian" index="" image="">
+		<description>Prebillian</description>
+		<cloneof></cloneof>
+		<crc>d379fe23</crc>
+		<manufacturer>Taito</manufacturer>
+		<year>1986</year>
+		<genre>Sports/Pool and Dart/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="quester" index="true" image="q">
+		<description>Quester (Japan)</description>
+		<cloneof></cloneof>
+		<crc>c2ef3af9</crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1987</year>
+		<genre>Breakout/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="razmataz" index="true" image="r">
+		<description>Razzmatazz</description>
+		<cloneof></cloneof>
+		<crc>254f350f</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1983</year>
+		<genre>Shooter/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="redlin2p" index="" image="">
+		<description>Redline Racer (2 players)</description>
+		<cloneof></cloneof>
+		<crc>ecdf0fbe</crc>
+		<manufacturer>Cinematronics (Tradewest license)</manufacturer>
+		<year>1987</year>
+		<genre>Driving/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ridleofp" index="" image="">
+		<description>Riddle of Pythagoras (Japan)</description>
+		<cloneof></cloneof>
+		<crc>4404c7e7</crc>
+		<manufacturer>Sega / Nasco</manufacturer>
+		<year>1986</year>
+		<genre>Breakout/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="roadblstcg" index="" image="">
+		<description>Road Blasters (cockpit, German, rev 1)</description>
+		<cloneof>roadblst</cloneof>
+		<crc>88d0be26</crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1987</year>
+		<genre>Shooter/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="roadblstc1" index="" image="">
+		<description>Road Blasters (cockpit, rev 1)</description>
+		<cloneof>roadblst</cloneof>
+		<crc>88d0be26</crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1987</year>
+		<genre>Shooter/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="roadblstc" index="" image="">
+		<description>Road Blasters (cockpit, rev 2)</description>
+		<cloneof>roadblst</cloneof>
+		<crc>88d0be26</crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1987</year>
+		<genre>Shooter/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="roadblstg1" index="" image="">
+		<description>Road Blasters (upright, German, rev 1)</description>
+		<cloneof>roadblst</cloneof>
+		<crc>88d0be26</crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1987</year>
+		<genre>Shooter/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="roadblstg2" index="" image="">
+		<description>Road Blasters (upright, German, rev 2)</description>
+		<cloneof>roadblst</cloneof>
+		<crc>88d0be26</crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1987</year>
+		<genre>Shooter/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="roadblstg" index="" image="">
+		<description>Road Blasters (upright, German, rev 3)</description>
+		<cloneof>roadblst</cloneof>
+		<crc>88d0be26</crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1987</year>
+		<genre>Shooter/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="roadblst1" index="" image="">
+		<description>Road Blasters (upright, rev 1)</description>
+		<cloneof>roadblst</cloneof>
+		<crc>88d0be26</crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1987</year>
+		<genre>Shooter/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="roadblst2" index="" image="">
+		<description>Road Blasters (upright, rev 2)</description>
+		<cloneof>roadblst</cloneof>
+		<crc>88d0be26</crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1987</year>
+		<genre>Shooter/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="roadblst3" index="" image="">
+		<description>Road Blasters (upright, rev 3)</description>
+		<cloneof>roadblst</cloneof>
+		<crc>88d0be26</crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1987</year>
+		<genre>Shooter/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="roadblst" index="" image="">
+		<description>Road Blasters (upright, rev 4)</description>
+		<cloneof></cloneof>
+		<crc>88d0be26</crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1987</year>
+		<genre>Shooter/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sprint1" index="true" image="s">
+		<description>Sprint 1</description>
+		<cloneof></cloneof>
+		<crc>41fc985e</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1978</year>
+		<genre>Driving/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sprint2" index="" image="">
+		<description>Sprint 2 (set 1)</description>
+		<cloneof>sprint1</cloneof>
+		<crc>41fc985e</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1976</year>
+		<genre>Driving/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sprint2a" index="" image="">
+		<description>Sprint 2 (set 2)</description>
+		<cloneof>sprint1</cloneof>
+		<crc>41fc985e</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1976</year>
+		<genre>Driving/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sprint4" index="" image="">
+		<description>Sprint 4 (set 1)</description>
+		<cloneof></cloneof>
+		<crc>017ee7c4</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1977</year>
+		<genre>Driving/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sprint4a" index="" image="">
+		<description>Sprint 4 (set 2)</description>
+		<cloneof>sprint4</cloneof>
+		<crc>017ee7c4</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1977</year>
+		<genre>Driving/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sprint8" index="" image="">
+		<description>Sprint 8</description>
+		<cloneof></cloneof>
+		<crc>1231f944</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1977</year>
+		<genre>Driving/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sprint8a" index="" image="">
+		<description>Sprint 8 (play tag &amp; chase)</description>
+		<cloneof>sprint8</cloneof>
+		<crc>3926de69</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1977</year>
+		<genre>Driving/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="startrek" index="" image="">
+		<description>Star Trek</description>
+		<cloneof></cloneof>
+		<crc>be46f5d9</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1982</year>
+		<genre>Shooter/Flying/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="stocker" index="" image="">
+		<description>Stocker (3/19/85)</description>
+		<cloneof></cloneof>
+		<crc>6a914d99</crc>
+		<manufacturer>Bally/Sente</manufacturer>
+		<year>1984</year>
+		<genre>Driving/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="subs" index="" image="">
+		<description>Subs</description>
+		<cloneof></cloneof>
+		<crc>7c7a04c3</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1977</year>
+		<genre>Shooter/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="superbug" index="" image="">
+		<description>Super Bug</description>
+		<cloneof></cloneof>
+		<crc>350df308</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1977</year>
+		<genre>Driving/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sfkick" index="" image="">
+		<description>Super Free Kick (set 1)</description>
+		<cloneof></cloneof>
+		<crc>1dcaec5e</crc>
+		<manufacturer>Haesung/HJ Corp</manufacturer>
+		<year>1988</year>
+		<genre>Breakout/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sfkicka" index="" image="">
+		<description>Super Free Kick (set 2)</description>
+		<cloneof>sfkick</cloneof>
+		<crc>1dcaec5e</crc>
+		<manufacturer>Haesung</manufacturer>
+		<year>198?</year>
+		<genre>Breakout/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ssrj" index="" image="">
+		<description>Super Speed Race Junior (Japan)</description>
+		<cloneof></cloneof>
+		<crc>1ff7dbff</crc>
+		<manufacturer>Taito Corporation</manufacturer>
+		<year>1985</year>
+		<genre>Driving/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ssprintf" index="" image="">
+		<description>Super Sprint (French)</description>
+		<cloneof>ssprint</cloneof>
+		<crc>b7757b44</crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1986</year>
+		<genre>Driving/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ssprintg1" index="" image="">
+		<description>Super Sprint (German, rev 1)</description>
+		<cloneof>ssprint</cloneof>
+		<crc>e5b2da29</crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1986</year>
+		<genre>Driving/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ssprintg" index="" image="">
+		<description>Super Sprint (German, rev 2)</description>
+		<cloneof>ssprint</cloneof>
+		<crc>c21df5f5</crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1986</year>
+		<genre>Driving/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ssprint1" index="" image="">
+		<description>Super Sprint (rev 1)</description>
+		<cloneof>ssprint</cloneof>
+		<crc>b1edc688</crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1986</year>
+		<genre>Driving/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ssprint3" index="" image="">
+		<description>Super Sprint (rev 3)</description>
+		<cloneof>ssprint</cloneof>
+		<crc>ee312027</crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1986</year>
+		<genre>Driving/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ssprint" index="" image="">
+		<description>Super Sprint (rev 4)</description>
+		<cloneof></cloneof>
+		<crc>ee312027</crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1986</year>
+		<genre>Driving/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ssprints" index="" image="">
+		<description>Super Sprint (Spanish)</description>
+		<cloneof>ssprint</cloneof>
+		<crc>234a7c65</crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1986</year>
+		<genre>Driving/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tacscan" index="true" image="t">
+		<description>Tac/Scan</description>
+		<cloneof></cloneof>
+		<crc>0da13158</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1982</year>
+		<genre>Shooter/Flying/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="teetert" index="" image="">
+		<description>Teeter Torture (prototype)</description>
+		<cloneof></cloneof>
+		<crc>f4e4d991</crc>
+		<manufacturer>Exidy</manufacturer>
+		<year>1982</year>
+		<genre>Shooter/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tempest1" index="" image="">
+		<description>Tempest (rev 1)</description>
+		<cloneof>tempest</cloneof>
+		<crc>65d61fe7</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1980</year>
+		<genre>Shooter/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tempest2" index="" image="">
+		<description>Tempest (rev 2)</description>
+		<cloneof>tempest</cloneof>
+		<crc>65d61fe7</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1980</year>
+		<genre>Shooter/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tempest3" index="" image="">
+		<description>Tempest (rev 2, Revised Hardware)</description>
+		<cloneof>tempest</cloneof>
+		<crc>1d0cc503</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1980</year>
+		<genre>Shooter/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tempest" index="" image="">
+		<description>Tempest (rev 3)</description>
+		<cloneof></cloneof>
+		<crc>65d61fe7</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1980</year>
+		<genre>Shooter/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="temptube" index="" image="">
+		<description>Tempest Tubes</description>
+		<cloneof>tempest</cloneof>
+		<crc>65d61fe7</crc>
+		<manufacturer>hack</manufacturer>
+		<year>1980</year>
+		<genre>Shooter/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="topracern" index="" image="">
+		<description>Top Racer (no MB8841 + MB8842)</description>
+		<cloneof>polepos</cloneof>
+		<crc>caab829a</crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1982</year>
+		<genre>Driving/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="topracera" index="" image="">
+		<description>Top Racer (with MB8841 + MB8842, 1983)</description>
+		<cloneof>polepos</cloneof>
+		<crc>94436b70</crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1983</year>
+		<genre>Driving/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="topracer" index="" image="">
+		<description>Top Racer (with MB8841 + MB8842, 1984)</description>
+		<cloneof>polepos</cloneof>
+		<crc>94436b70</crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1984</year>
+		<genre>Driving/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="topsecex" index="" image="">
+		<description>Top Secret (Exidy) (version 1.0)</description>
+		<cloneof></cloneof>
+		<crc>30ff2142</crc>
+		<manufacturer>Exidy</manufacturer>
+		<year>1986</year>
+		<genre>Shooter/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="arkatour" index="" image="">
+		<description>Tournament Arkanoid (US)</description>
+		<cloneof>arkanoid</cloneof>
+		<crc>e3b8faf5</crc>
+		<manufacturer>Taito America Corporation (Romstar license)</manufacturer>
+		<year>1987</year>
+		<genre>Breakout/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="turbo" index="" image="">
+		<description>Turbo</description>
+		<cloneof></cloneof>
+		<crc>0326adfc</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1981</year>
+		<genre>Driving/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="turboa" index="" image="">
+		<description>Turbo (encrypted set 1)</description>
+		<cloneof>turbo</cloneof>
+		<crc>1951b83a</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1981</year>
+		<genre>Driving/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="turbob" index="" image="">
+		<description>Turbo (encrypted set 2)</description>
+		<cloneof>turbo</cloneof>
+		<crc>5c110fb6</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1981</year>
+		<genre>Driving/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="twinsqua" index="" image="">
+		<description>Twin Squash</description>
+		<cloneof></cloneof>
+		<crc>becbb1a1</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1991</year>
+		<genre>Breakout/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="2mindril" index="" image="">
+		<description>Two Minute Drill</description>
+		<cloneof></cloneof>
+		<crc>c58e8e4f</crc>
+		<manufacturer>Taito</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Football/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="twotigerc" index="" image="">
+		<description>Two Tigers (Tron conversion)</description>
+		<cloneof>twotiger</cloneof>
+		<crc>e77a924b</crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>1984</year>
+		<genre>Shooter/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tx1" index="" image="">
+		<description>TX-1</description>
+		<cloneof></cloneof>
+		<crc>eedcee83</crc>
+		<manufacturer>Tatsumi</manufacturer>
+		<year>1983</year>
+		<genre>Driving/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tx1a" index="" image="">
+		<description>TX-1 (Atari/Namco/Taito license)</description>
+		<cloneof>tx1</cloneof>
+		<crc>2e9cefa2</crc>
+		<manufacturer>Tatsumi (Atari/Namco/Taito license)</manufacturer>
+		<year>1983</year>
+		<genre>Driving/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="victorba" index="true" image="v">
+		<description>Victor Banana</description>
+		<cloneof>victory</cloneof>
+		<crc>dd788e93</crc>
+		<manufacturer>Exidy</manufacturer>
+		<year>1982</year>
+		<genre>Shooter/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="victory" index="" image="">
+		<description>Victory</description>
+		<cloneof></cloneof>
+		<crc>4b614440</crc>
+		<manufacturer>Exidy</manufacturer>
+		<year>1982</year>
+		<genre>Shooter/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hotsmash" index="" image="">
+		<description>Vs. Hot Smash</description>
+		<cloneof></cloneof>
+		<crc>981bde2c</crc>
+		<manufacturer>Taito</manufacturer>
+		<year>1987</year>
+		<genre>Sports/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="wallc" index="true" image="w">
+		<description>Wall Crash (set 1)</description>
+		<cloneof></cloneof>
+		<crc>ab6e472e</crc>
+		<manufacturer>Midcoin</manufacturer>
+		<year>1984</year>
+		<genre>Breakout/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="wallca" index="" image="">
+		<description>Wall Crash (set 2)</description>
+		<cloneof>wallc</cloneof>
+		<crc>ce43af1b</crc>
+		<manufacturer>Midcoin</manufacturer>
+		<year>1984</year>
+		<genre>Breakout/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="wfortune" index="" image="">
+		<description>Wheel Of Fortune</description>
+		<cloneof></cloneof>
+		<crc>bd984654</crc>
+		<manufacturer>GameTek</manufacturer>
+		<year>1989</year>
+		<genre>Quiz/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="wfortunea" index="" image="">
+		<description>Wheel Of Fortune (alternate)</description>
+		<cloneof>wfortune</cloneof>
+		<crc>c3d3eb21</crc>
+		<manufacturer>GameTek</manufacturer>
+		<year>1989</year>
+		<genre>Quiz/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="wheelrun" index="" image="">
+		<description>Wheels Runner</description>
+		<cloneof></cloneof>
+		<crc>359303df</crc>
+		<manufacturer>International Games</manufacturer>
+		<year>19??</year>
+		<genre>Driving/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="wink" index="" image="">
+		<description>Wink (set 1)</description>
+		<cloneof></cloneof>
+		<crc>044f82d6</crc>
+		<manufacturer>Midcoin</manufacturer>
+		<year>1985</year>
+		<genre>Breakout/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="winka" index="" image="">
+		<description>Wink (set 2)</description>
+		<cloneof>wink</cloneof>
+		<crc>554d86e5</crc>
+		<manufacturer>Midcoin</manufacturer>
+		<year>1985</year>
+		<genre>Breakout/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="wolfpack" index="" image="">
+		<description>Wolf Pack (prototype)</description>
+		<cloneof></cloneof>
+		<crc>b4d30b33</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1978</year>
+		<genre>Shooter/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="zektor" index="true" image="z">
+		<description>Zektor (revision B)</description>
+		<cloneof></cloneof>
+		<crc>6245aa23</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1982</year>
+		<genre>Shooter/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

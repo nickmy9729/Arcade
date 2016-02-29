@@ -1,0 +1,239 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Nintendo Entertainment System</listname>
+		<lastlistupdate>07/28/2013</lastlistupdate>
+		<listversion>1.1 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="Adventures of Dino Riki (USA)" index="true" image="a">
+		<description>Adventures of Dino Riki (USA)</description>
+		<cloneof></cloneof>
+		<crc>9BDE3267</crc>
+		<manufacturer>Hudson Soft</manufacturer>
+		<year>1989</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="BreakThru (USA)" index="true" image="b">
+		<description>BreakThru (USA)</description>
+		<cloneof></cloneof>
+		<crc>A5E8D2CD</crc>
+		<manufacturer>Data East</manufacturer>
+		<year>1987</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cabal (USA)" index="true" image="c">
+		<description>Cabal (USA)</description>
+		<cloneof></cloneof>
+		<crc>BDF046EF</crc>
+		<manufacturer>Milton Bradley</manufacturer>
+		<year>1990</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Contra (USA)" index="" image="">
+		<description>Contra (USA)</description>
+		<cloneof></cloneof>
+		<crc>F6035030</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1988</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Contra Force (USA)" index="" image="">
+		<description>Contra Force (USA)</description>
+		<cloneof></cloneof>
+		<crc>A94591B0</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1992</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cybernoid - The Fighting Machine (USA)" index="" image="">
+		<description>Cybernoid - The Fighting Machine (USA)</description>
+		<cloneof></cloneof>
+		<crc>AC8DCDEA</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1989</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Galactic Crusader (USA) (Unl)" index="true" image="g">
+		<description>Galactic Crusader (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>09C31CD4</crc>
+		<manufacturer>Bunch Games, Inc.</manufacturer>
+		<year>1990</year>
+		<genre>Shoot-&apos;Em-Up/Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Guerrilla War (USA)" index="" image="">
+		<description>Guerrilla War (USA)</description>
+		<cloneof></cloneof>
+		<crc>6DECD886</crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1989</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gun.Smoke (USA)" index="" image="">
+		<description>Gun.Smoke (USA)</description>
+		<cloneof></cloneof>
+		<crc>A8784932</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1988</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Heavy Barrel (USA)" index="true" image="h">
+		<description>Heavy Barrel (USA)</description>
+		<cloneof></cloneof>
+		<crc>34EAB034</crc>
+		<manufacturer>Data East</manufacturer>
+		<year>1990</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ikari Warriors (USA) (Rev A)" index="true" image="i">
+		<description>Ikari Warriors (USA) (Rev A)</description>
+		<cloneof></cloneof>
+		<crc>2D273AA4</crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1987</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ikari Warriors II - Victory Road (USA)" index="" image="">
+		<description>Ikari Warriors II - Victory Road (USA)</description>
+		<cloneof></cloneof>
+		<crc>4F467410</crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1988</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ikari Warriors III - The Rescue (USA)" index="" image="">
+		<description>Ikari Warriors III - The Rescue (USA)</description>
+		<cloneof></cloneof>
+		<crc>567E1620</crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1991</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Metal Gear (USA)" index="true" image="m">
+		<description>Metal Gear (USA)</description>
+		<cloneof></cloneof>
+		<crc>817431EC</crc>
+		<manufacturer>Ultra</manufacturer>
+		<year>1988</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Millipede (USA)" index="" image="">
+		<description>Millipede (USA)</description>
+		<cloneof></cloneof>
+		<crc>AE52DECE</crc>
+		<manufacturer>Hal</manufacturer>
+		<year>1988</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mission Cobra (USA) (Unl)" index="" image="">
+		<description>Mission Cobra (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>5DA9CEC8</crc>
+		<manufacturer>Bunch Games, Inc.</manufacturer>
+		<year>1990</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NARC (USA)" index="true" image="n">
+		<description>NARC (USA)</description>
+		<cloneof></cloneof>
+		<crc>0537322A</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1990</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Platoon (USA) (Rev A)" index="true" image="p">
+		<description>Platoon (USA) (Rev A)</description>
+		<cloneof></cloneof>
+		<crc>695515A2</crc>
+		<manufacturer>SunSoft</manufacturer>
+		<year>1988</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Raid on Bungeling Bay (USA)" index="true" image="r">
+		<description>Raid on Bungeling Bay (USA)</description>
+		<cloneof></cloneof>
+		<crc>D308D52C</crc>
+		<manufacturer>Hudson</manufacturer>
+		<year>1987</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rescue - The Embassy Mission (USA)" index="" image="">
+		<description>Rescue - The Embassy Mission (USA)</description>
+		<cloneof></cloneof>
+		<crc>63FCC0DD</crc>
+		<manufacturer>Kemco</manufacturer>
+		<year>1990</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rolling Thunder (USA) (Unl)" index="" image="">
+		<description>Rolling Thunder (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>F92BE3EC</crc>
+		<manufacturer>Tengen</manufacturer>
+		<year>1989</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super C (USA)" index="true" image="s">
+		<description>Super C (USA)</description>
+		<cloneof></cloneof>
+		<crc>305B4E62</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1990</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Zombie Nation (USA)" index="true" image="z">
+		<description>Zombie Nation (USA)</description>
+		<cloneof></cloneof>
+		<crc>03FB57B6</crc>
+		<manufacturer>Meldac</manufacturer>
+		<year>1991</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

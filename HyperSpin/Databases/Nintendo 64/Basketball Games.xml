@@ -1,0 +1,139 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Nintendo 64</listname>
+		<lastlistupdate>11/15/2011</lastlistupdate>
+		<listversion>1.1 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="Fox Sports College Hoops &apos;99 (USA)" index="true" image="f">
+		<description>Fox Sports College Hoops &apos;99 (USA)</description>
+		<cloneof></cloneof>
+		<crc>FEDE3EF8</crc>
+		<manufacturer>Fox Interactive</manufacturer>
+		<year>1998</year>
+		<genre>Basketball/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Kobe Bryant&apos;s NBA Courtside (USA)" index="true" image="k">
+		<description>Kobe Bryant&apos;s NBA Courtside (USA)</description>
+		<cloneof></cloneof>
+		<crc>0FF8C439</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1999</year>
+		<genre>Basketball/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mike Piazza&apos;s StrikeZone (USA)" index="true" image="m">
+		<description>Mike Piazza&apos;s StrikeZone (USA)</description>
+		<cloneof></cloneof>
+		<crc>9042CB8E</crc>
+		<manufacturer>GT Interactive</manufacturer>
+		<year>1998</year>
+		<genre>Basketball/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NBA Courtside 2 featuring Kobe Bryant (USA)" index="true" image="n">
+		<description>NBA Courtside 2 featuring Kobe Bryant (USA)</description>
+		<cloneof></cloneof>
+		<crc>7A8FD7D3</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1999</year>
+		<genre>Basketball/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NBA Hangtime (USA)" index="" image="">
+		<description>NBA Hangtime (USA)</description>
+		<cloneof></cloneof>
+		<crc>72E2ACA9</crc>
+		<manufacturer>Midway</manufacturer>
+		<year>1997</year>
+		<genre>Basketball/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NBA in the Zone &apos;98 (USA)" index="" image="">
+		<description>NBA in the Zone &apos;98 (USA)</description>
+		<cloneof></cloneof>
+		<crc>2BB83C0E</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1998</year>
+		<genre>Basketball/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NBA in the Zone &apos;99 (USA)" index="" image="">
+		<description>NBA in the Zone &apos;99 (USA)</description>
+		<cloneof></cloneof>
+		<crc>C15AFC69</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1999</year>
+		<genre>Basketball/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NBA in the Zone 2000 (USA)" index="" image="">
+		<description>NBA in the Zone 2000 (USA)</description>
+		<cloneof></cloneof>
+		<crc>D850CFA3</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>2000</year>
+		<genre>Basketball/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NBA Jam 2000 (USA)" index="" image="">
+		<description>NBA Jam 2000 (USA)</description>
+		<cloneof></cloneof>
+		<crc>65A3BD1C</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1999</year>
+		<genre>Basketball/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NBA Jam 99 (USA)" index="" image="">
+		<description>NBA Jam 99 (USA)</description>
+		<cloneof></cloneof>
+		<crc>F40C871A</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1998</year>
+		<genre>Basketball/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NBA Live 2000 (USA) (En,Fr,De,Es)" index="" image="">
+		<description>NBA Live 2000 (USA) (En,Fr,De,Es)</description>
+		<cloneof></cloneof>
+		<crc>94FC12D3</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>2000</year>
+		<genre>Basketball/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NBA Live 99 (USA) (En,Fr,De,Es,It)" index="" image="">
+		<description>NBA Live 99 (USA) (En,Fr,De,Es,It)</description>
+		<cloneof></cloneof>
+		<crc>74BC96BE</crc>
+		<manufacturer>EA Sports</manufacturer>
+		<year>1998</year>
+		<genre>Basketball/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NBA Showtime - NBA on NBC (USA)" index="" image="">
+		<description>NBA Showtime - NBA on NBC (USA)</description>
+		<cloneof></cloneof>
+		<crc>A9302DEE</crc>
+		<manufacturer>Midway</manufacturer>
+		<year>1999</year>
+		<genre>Basketball/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

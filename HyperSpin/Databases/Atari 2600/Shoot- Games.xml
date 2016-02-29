@@ -1,0 +1,889 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Atari 2600</listname>
+		<lastlistupdate>07/20/2013</lastlistupdate>
+		<listversion>1.0 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="Air Raid (USA)" index="true" image="a">
+		<description>Air Raid (USA)</description>
+		<cloneof>Space Jockey (USA)</cloneof>
+		<crc>B0E53814</crc>
+		<manufacturer>Men-A-Vision</manufacturer>
+		<year>1982</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Allia Quest (France) (Unl)" index="" image="">
+		<description>Allia Quest (France) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>0D6C9729</crc>
+		<manufacturer>Ebivision</manufacturer>
+		<year>2001</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Aquaventure (USA) (Proto)" index="" image="">
+		<description>Aquaventure (USA) (Proto)</description>
+		<cloneof></cloneof>
+		<crc>87A8CB8B</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1983</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Asteroid Fire (Europe)" index="" image="">
+		<description>Asteroid Fire (Europe)</description>
+		<cloneof></cloneof>
+		<crc>58010BE3</crc>
+		<manufacturer>Homevision - Gem International Corp.</manufacturer>
+		<year>1983</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Atlantis (USA)" index="" image="">
+		<description>Atlantis (USA)</description>
+		<cloneof></cloneof>
+		<crc>92560498</crc>
+		<manufacturer>Imagic</manufacturer>
+		<year>1982</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Atlantis II (USA)" index="" image="">
+		<description>Atlantis II (USA)</description>
+		<cloneof>Atlantis (USA)</cloneof>
+		<crc>BA5566AA</crc>
+		<manufacturer>Imagic</manufacturer>
+		<year>1982</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cosmic Invaders (USA) (Unl)" index="true" image="c">
+		<description>Cosmic Invaders (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>5FBB70B0</crc>
+		<manufacturer>Neotokeo2001 &amp; Atari2600land</manufacturer>
+		<year>2008</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cosmic Swarm (USA)" index="" image="">
+		<description>Cosmic Swarm (USA)</description>
+		<cloneof></cloneof>
+		<crc>27F1AE48</crc>
+		<manufacturer>CommaVid</manufacturer>
+		<year>1982</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Crackpots (USA)" index="" image="">
+		<description>Crackpots (USA)</description>
+		<cloneof></cloneof>
+		<crc>ECD891B3</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>1983</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Crash Dive (USA)" index="" image="">
+		<description>Crash Dive (USA)</description>
+		<cloneof></cloneof>
+		<crc>59FE4666</crc>
+		<manufacturer>20th Century Fox Video Games</manufacturer>
+		<year>1983</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cross Force (USA)" index="" image="">
+		<description>Cross Force (USA)</description>
+		<cloneof></cloneof>
+		<crc>41B0D615</crc>
+		<manufacturer>Spectravision - Spectravideo</manufacturer>
+		<year>1982</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Death Trap (USA)" index="true" image="d">
+		<description>Death Trap (USA)</description>
+		<cloneof></cloneof>
+		<crc>FDF79A60</crc>
+		<manufacturer>Avalon Hill</manufacturer>
+		<year>1983</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Demons to Diamonds (USA)" index="" image="">
+		<description>Demons to Diamonds (USA)</description>
+		<cloneof></cloneof>
+		<crc>9B97C3DA</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1982</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Earth Dies Screaming, The (USA)" index="true" image="e">
+		<description>Earth Dies Screaming, The (USA)</description>
+		<cloneof></cloneof>
+		<crc>8A6C65F0</crc>
+		<manufacturer>20th Century Fox Video Games</manufacturer>
+		<year>1983</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Encounter at L-5 (USA)" index="" image="">
+		<description>Encounter at L-5 (USA)</description>
+		<cloneof></cloneof>
+		<crc>E78FE552</crc>
+		<manufacturer>Data Age</manufacturer>
+		<year>1982</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Espial (USA)" index="" image="">
+		<description>Espial (USA)</description>
+		<cloneof></cloneof>
+		<crc>1F95351A</crc>
+		<manufacturer>Tigervision</manufacturer>
+		<year>1984</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fantastic Voyage (USA)" index="true" image="f">
+		<description>Fantastic Voyage (USA)</description>
+		<cloneof></cloneof>
+		<crc>A60E153F</crc>
+		<manufacturer>20th Century Fox Video Games</manufacturer>
+		<year>1982</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fire Fly (USA)" index="" image="">
+		<description>Fire Fly (USA)</description>
+		<cloneof></cloneof>
+		<crc>7A8E4EC7</crc>
+		<manufacturer>Mythicon</manufacturer>
+		<year>1983</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Flash Gordon (USA)" index="" image="">
+		<description>Flash Gordon (USA)</description>
+		<cloneof></cloneof>
+		<crc>0D61CE7D</crc>
+		<manufacturer>20th Century Fox Video Games</manufacturer>
+		<year>1983</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Funky Fish (USA) (Proto)" index="" image="">
+		<description>Funky Fish (USA) (Proto)</description>
+		<cloneof></cloneof>
+		<crc>B53B33F1</crc>
+		<manufacturer>UA Limited</manufacturer>
+		<year>1983</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Galaxian (USA)" index="true" image="g">
+		<description>Galaxian (USA)</description>
+		<cloneof></cloneof>
+		<crc>4E9FE271</crc>
+		<manufacturer>Atari - GCC</manufacturer>
+		<year>1983</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gamma-Attack (USA)" index="" image="">
+		<description>Gamma-Attack (USA)</description>
+		<cloneof></cloneof>
+		<crc>D1EFE8BB</crc>
+		<manufacturer>Gammation</manufacturer>
+		<year>1983</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gas Hog (USA)" index="" image="">
+		<description>Gas Hog (USA)</description>
+		<cloneof></cloneof>
+		<crc>40699CA5</crc>
+		<manufacturer>Spectravideo</manufacturer>
+		<year>1983</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Glacier Patrol (USA)" index="" image="">
+		<description>Glacier Patrol (USA)</description>
+		<cloneof></cloneof>
+		<crc>44E77FD6</crc>
+		<manufacturer>Telesys</manufacturer>
+		<year>1989</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gorf (USA)" index="" image="">
+		<description>Gorf (USA)</description>
+		<cloneof></cloneof>
+		<crc>9BD137AA</crc>
+		<manufacturer>CBS Electronics</manufacturer>
+		<year>1982</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Guardian (USA)" index="" image="">
+		<description>Guardian (USA)</description>
+		<cloneof></cloneof>
+		<crc>121738F5</crc>
+		<manufacturer>Apollo</manufacturer>
+		<year>1982</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gyruss (USA)" index="" image="">
+		<description>Gyruss (USA)</description>
+		<cloneof></cloneof>
+		<crc>0D78E8A9</crc>
+		<manufacturer>Parker Brothers</manufacturer>
+		<year>1984</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Innerspace (USA) (Proto)" index="true" image="i">
+		<description>Innerspace (USA) (Proto)</description>
+		<cloneof></cloneof>
+		<crc>02D00DAD</crc>
+		<manufacturer>VentureVision</manufacturer>
+		<year>1983</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="INV (USA) (Unl)" index="" image="">
+		<description>INV (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>DCF35785</crc>
+		<manufacturer>AtariAge - Erik Mooney &amp; Piero Cavina</manufacturer>
+		<year>1998</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="INV+ (USA) (Unl)" index="" image="">
+		<description>INV+ (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>8EBDE037</crc>
+		<manufacturer>AtariAge - Erik Mooney &amp; Piero Cavina</manufacturer>
+		<year>2004</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="James Bond 007 (USA)" index="true" image="j">
+		<description>James Bond 007 (USA)</description>
+		<cloneof></cloneof>
+		<crc>34D3FFC8</crc>
+		<manufacturer>Parker Brothers</manufacturer>
+		<year>1983</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Juno First (USA) (Unl)" index="" image="">
+		<description>Juno First (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>30BAA209</crc>
+		<manufacturer>AtariAge - Chris Walton</manufacturer>
+		<year>2008</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Kamikaze Saucers (USA) (Proto)" index="true" image="k">
+		<description>Kamikaze Saucers (USA) (Proto)</description>
+		<cloneof></cloneof>
+		<crc>85CB187C</crc>
+		<manufacturer>Syncro</manufacturer>
+		<year>1983</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Killer Satellites (USA)" index="" image="">
+		<description>Killer Satellites (USA)</description>
+		<cloneof></cloneof>
+		<crc>BDD932DC</crc>
+		<manufacturer>Starpath Corporation</manufacturer>
+		<year>1983</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Laser Gates (USA)" index="true" image="l">
+		<description>Laser Gates (USA)</description>
+		<cloneof></cloneof>
+		<crc>4B7865AF</crc>
+		<manufacturer>Imagic</manufacturer>
+		<year>1983</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="M.A.D. (USA)" index="true" image="m">
+		<description>M.A.D. (USA)</description>
+		<cloneof></cloneof>
+		<crc>5CB68FE5</crc>
+		<manufacturer>U.S. Games Corporation</manufacturer>
+		<year>1982</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mega Force (USA)" index="" image="">
+		<description>Mega Force (USA)</description>
+		<cloneof></cloneof>
+		<crc>9E6AE8C2</crc>
+		<manufacturer>20th Century Fox Video Games</manufacturer>
+		<year>1982</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="MegaMania - A Space Nightmare (USA)" index="" image="">
+		<description>MegaMania - A Space Nightmare (USA)</description>
+		<cloneof></cloneof>
+		<crc>33EDC33E</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>1982</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Meteoroids (USA) (Proto)" index="" image="">
+		<description>Meteoroids (USA) (Proto)</description>
+		<cloneof></cloneof>
+		<crc>40D6BBB2</crc>
+		<manufacturer>Arcadia Corporation</manufacturer>
+		<year>1982</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Millipede (USA)" index="" image="">
+		<description>Millipede (USA)</description>
+		<cloneof></cloneof>
+		<crc>CCC82DD0</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1984</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mission 3,000 A.D. (Europe)" index="" image="">
+		<description>Mission 3,000 A.D. (Europe)</description>
+		<cloneof></cloneof>
+		<crc>55B140FE</crc>
+		<manufacturer>Bit Corporation</manufacturer>
+		<year>1983</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Moonsweeper (USA)" index="" image="">
+		<description>Moonsweeper (USA)</description>
+		<cloneof></cloneof>
+		<crc>450B5C57</crc>
+		<manufacturer>Imagic</manufacturer>
+		<year>1983</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Omega Race (USA)" index="true" image="o">
+		<description>Omega Race (USA)</description>
+		<cloneof></cloneof>
+		<crc>E9876116</crc>
+		<manufacturer>CBS Electronics</manufacturer>
+		<year>1983</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Oystron (USA) (Unl)" index="" image="">
+		<description>Oystron (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>8155DCCF</crc>
+		<manufacturer>XYPE &amp; AtariAge - Piero Cavina</manufacturer>
+		<year>1998</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pepsi Invaders - Coke Wins (USA)" index="true" image="p">
+		<description>Pepsi Invaders - Coke Wins (USA)</description>
+		<cloneof>Space Invaders (USA)</cloneof>
+		<crc>7AC99B5C</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1983</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Phoenix (USA)" index="" image="">
+		<description>Phoenix (USA)</description>
+		<cloneof></cloneof>
+		<crc>6AE1B66C</crc>
+		<manufacturer>Atari - GCC</manufacturer>
+		<year>1982</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pigs in Space - Starring Miss Piggy (USA)" index="" image="">
+		<description>Pigs in Space - Starring Miss Piggy (USA)</description>
+		<cloneof></cloneof>
+		<crc>27673D7C</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1983</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Planet Patrol (USA)" index="" image="">
+		<description>Planet Patrol (USA)</description>
+		<cloneof></cloneof>
+		<crc>1E8EBB51</crc>
+		<manufacturer>Spectravision - Spectravideo</manufacturer>
+		<year>1982</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Plaque Attack (USA)" index="" image="">
+		<description>Plaque Attack (USA)</description>
+		<cloneof></cloneof>
+		<crc>D5A5EB9E</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>1983</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pleiades (USA) (Proto)" index="" image="">
+		<description>Pleiades (USA) (Proto)</description>
+		<cloneof></cloneof>
+		<crc>35589CEC</crc>
+		<manufacturer>UA Limited</manufacturer>
+		<year>1983</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rainbow Invaders (USA) (Unl)" index="true" image="r">
+		<description>Rainbow Invaders (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>CE31AB8C</crc>
+		<manufacturer>AtariAge - Silvio Mogno</manufacturer>
+		<year>2006</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="River Raid (USA)" index="" image="">
+		<description>River Raid (USA)</description>
+		<cloneof></cloneof>
+		<crc>C3EB7E1E</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>1982</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="River Raid II (USA)" index="" image="">
+		<description>River Raid II (USA)</description>
+		<cloneof></cloneof>
+		<crc>27D2DF2C</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>1988</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Seahawk (Europe)" index="true" image="s">
+		<description>Seahawk (Europe)</description>
+		<cloneof></cloneof>
+		<crc>5D3C699E</crc>
+		<manufacturer>Sancho - Tang&apos;s Electronic Co.</manufacturer>
+		<year>1982</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Seaquest (USA)" index="" image="">
+		<description>Seaquest (USA)</description>
+		<cloneof></cloneof>
+		<crc>8658E8D9</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>1983</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sinistar (USA) (Proto)" index="" image="">
+		<description>Sinistar (USA) (Proto)</description>
+		<cloneof></cloneof>
+		<crc>8E81A2A4</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1984</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sky Alien (Europe)" index="" image="">
+		<description>Sky Alien (Europe)</description>
+		<cloneof></cloneof>
+		<crc>A23EAAC5</crc>
+		<manufacturer>Homevision - Gem International Corp.</manufacturer>
+		<year>1983</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Solar Storm (USA)" index="" image="">
+		<description>Solar Storm (USA)</description>
+		<cloneof></cloneof>
+		<crc>A970B3E3</crc>
+		<manufacturer>Imagic</manufacturer>
+		<year>1983</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Space Battle (USA) (Unl)" index="" image="">
+		<description>Space Battle (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>FB6BF29C</crc>
+		<manufacturer>AtariAge - Dave Neuman</manufacturer>
+		<year>2006</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Space Instigators (USA) (Unl)" index="" image="">
+		<description>Space Instigators (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>E10B1CF9</crc>
+		<manufacturer>XYPE &amp; AtariAge - Christoper Tumber</manufacturer>
+		<year>2002</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Space Invaders (USA)" index="" image="">
+		<description>Space Invaders (USA)</description>
+		<cloneof></cloneof>
+		<crc>A6E867B3</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1980</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Space Jockey (USA)" index="" image="">
+		<description>Space Jockey (USA)</description>
+		<cloneof></cloneof>
+		<crc>AB24D73E</crc>
+		<manufacturer>U.S. Games Corporation - Vidtec</manufacturer>
+		<year>1982</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Space Tunnel (Europe)" index="" image="">
+		<description>Space Tunnel (Europe)</description>
+		<cloneof></cloneof>
+		<crc>28BC5A4D</crc>
+		<manufacturer>Puzzy - Bit Corporation</manufacturer>
+		<year>1982</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Spacechase (USA)" index="" image="">
+		<description>Spacechase (USA)</description>
+		<cloneof></cloneof>
+		<crc>2954D22D</crc>
+		<manufacturer>Apollo - Games by Apollo</manufacturer>
+		<year>1981</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Spider Fighter (USA)" index="" image="">
+		<description>Spider Fighter (USA)</description>
+		<cloneof></cloneof>
+		<crc>BF0941F6</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>1982</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Spy Hunter (USA)" index="" image="">
+		<description>Spy Hunter (USA)</description>
+		<cloneof></cloneof>
+		<crc>4F804E49</crc>
+		<manufacturer>Sega - Bally Midway</manufacturer>
+		<year>1984</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sssnake (USA)" index="" image="">
+		<description>Sssnake (USA)</description>
+		<cloneof></cloneof>
+		<crc>1B5B0212</crc>
+		<manufacturer>Data Age</manufacturer>
+		<year>1982</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Star Fire (USA) (Unl)" index="" image="">
+		<description>Star Fire (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>07D45188</crc>
+		<manufacturer>XYPE &amp; AtariAge - Manuel Rotschkar, Thomas Jentzsch &amp; Paul Slocum</manufacturer>
+		<year>2003</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Star Fox (USA)" index="" image="">
+		<description>Star Fox (USA)</description>
+		<cloneof></cloneof>
+		<crc>915EC040</crc>
+		<manufacturer>Mythicon</manufacturer>
+		<year>1983</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Star Wars - Return of the Jedi - Ewok Adventure (USA) (Proto)" index="" image="">
+		<description>Star Wars - Return of the Jedi - Ewok Adventure (USA) (Proto)</description>
+		<cloneof></cloneof>
+		<crc>939550E7</crc>
+		<manufacturer>Parker Brothers</manufacturer>
+		<year>1983</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Star Wars - The Empire Strikes Back (USA)" index="" image="">
+		<description>Star Wars - The Empire Strikes Back (USA)</description>
+		<cloneof></cloneof>
+		<crc>EE8C9A89</crc>
+		<manufacturer>Parker Brothers</manufacturer>
+		<year>1982</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Stargate (USA)" index="" image="">
+		<description>Stargate (USA)</description>
+		<cloneof></cloneof>
+		<crc>CDE3530E</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1984</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Stargunner (USA)" index="" image="">
+		<description>Stargunner (USA)</description>
+		<cloneof></cloneof>
+		<crc>FCA9C17B</crc>
+		<manufacturer>Telesys</manufacturer>
+		<year>1982</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Subterranea (USA)" index="" image="">
+		<description>Subterranea (USA)</description>
+		<cloneof></cloneof>
+		<crc>2AB951F7</crc>
+		<manufacturer>Imagic</manufacturer>
+		<year>1983</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Suicide Mission (USA)" index="" image="">
+		<description>Suicide Mission (USA)</description>
+		<cloneof></cloneof>
+		<crc>B92C49E3</crc>
+		<manufacturer>Arcadia Corporation</manufacturer>
+		<year>1982</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Cobra (USA)" index="" image="">
+		<description>Super Cobra (USA)</description>
+		<cloneof></cloneof>
+		<crc>DE97103D</crc>
+		<manufacturer>Parker Brothers</manufacturer>
+		<year>1982</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tac-Scan (USA)" index="true" image="t">
+		<description>Tac-Scan (USA)</description>
+		<cloneof></cloneof>
+		<crc>A2A42BEC</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1982</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Threshold (USA)" index="" image="">
+		<description>Threshold (USA)</description>
+		<cloneof></cloneof>
+		<crc>CE5097FD</crc>
+		<manufacturer>Tigervision</manufacturer>
+		<year>1982</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Thrust+ DC Edition (USA) (Unl)" index="" image="">
+		<description>Thrust+ DC Edition (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>C6BA1BC6</crc>
+		<manufacturer>XYPE &amp; AtariAge - Thomas Jentzsch</manufacturer>
+		<year>2002</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Thrust+ Platinum (USA) (Unl)" index="" image="">
+		<description>Thrust+ Platinum (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>70B25FB7</crc>
+		<manufacturer>XYPE &amp; AtariAge - Thomas Jentzsch &amp; Paul Slocum</manufacturer>
+		<year>2003</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Time Warp (Europe)" index="" image="">
+		<description>Time Warp (Europe)</description>
+		<cloneof></cloneof>
+		<crc>551E2144</crc>
+		<manufacturer>Funvision - Fund. International Co.</manufacturer>
+		<year>1982</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Treasure Island (Europe)" index="" image="">
+		<description>Treasure Island (Europe)</description>
+		<cloneof>Treasure Discovery (Europe)</cloneof>
+		<crc>907F1D90</crc>
+		<manufacturer>Suntek</manufacturer>
+		<year>1983</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="TRON - Deadly Discs (USA)" index="" image="">
+		<description>TRON - Deadly Discs (USA)</description>
+		<cloneof></cloneof>
+		<crc>D35B22F9</crc>
+		<manufacturer>M Network - INTV</manufacturer>
+		<year>1982</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Warplock (USA)" index="true" image="w">
+		<description>Warplock (USA)</description>
+		<cloneof></cloneof>
+		<crc>6531D4E1</crc>
+		<manufacturer>Data Age</manufacturer>
+		<year>1982</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="World End (Europe)" index="" image="">
+		<description>World End (Europe)</description>
+		<cloneof></cloneof>
+		<crc>DCC36508</crc>
+		<manufacturer>Homevision - Gem International Corp.</manufacturer>
+		<year>1983</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Worm War I (USA)" index="" image="">
+		<description>Worm War I (USA)</description>
+		<cloneof></cloneof>
+		<crc>97B83A54</crc>
+		<manufacturer>20th Century Fox Video Games - Sirius Software</manufacturer>
+		<year>1982</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="X&apos;Mission (Europe)" index="true" image="x">
+		<description>X&apos;Mission (Europe)</description>
+		<cloneof></cloneof>
+		<crc>EEF374C2</crc>
+		<manufacturer>Homevision - Gem International Corp.</manufacturer>
+		<year>1984</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Zaxxon (USA)" index="true" image="z">
+		<description>Zaxxon (USA)</description>
+		<cloneof></cloneof>
+		<crc>265AA87F</crc>
+		<manufacturer>Coleco</manufacturer>
+		<year>1982</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

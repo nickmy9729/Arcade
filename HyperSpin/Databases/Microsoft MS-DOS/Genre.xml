@@ -1,0 +1,7 @@
+<menu>
+  <game name="Action"/>
+  <game name="Adventure"/>
+  <game name="RPG"/>
+  <game name="Simulation" />
+  <game name="Strategy" />
+</menu>

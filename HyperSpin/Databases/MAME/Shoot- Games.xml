@@ -1,0 +1,119 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>MAME</listname>
+		<lastlistupdate>04/21/2015</lastlistupdate>
+		<listversion>.160 Ongoing</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="alpha1v" index="true" image="a">
+		<description>Alpha One (Vision Electronics)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Vision Electronics</manufacturer>
+		<year>1988</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mt_arrow" index="" image="">
+		<description>Arrow Flash (Mega-Tech)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1990</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mt_astro" index="" image="">
+		<description>Astro Warrior (Mega-Tech, SMS based)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1986</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="legiono" index="true" image="c">
+		<description>Chouji Meikyuu Legion (Japan bootleg ver 1.05)</description>
+		<cloneof>legion</cloneof>
+		<crc></crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1987</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mt_fz" index="true" image="f">
+		<description>Fantasy Zone (Mega-Tech, SMS based)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1987</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mt_fshrk" index="" image="">
+		<description>Fire Shark (Mega-Tech)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Toaplan / Sega</manufacturer>
+		<year>1990</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mt_fwrld" index="" image="">
+		<description>Forgotten Worlds (Mega-Tech)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1989</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="rfjetsa" index="true" image="r">
+		<description>Raiden Fighters Jet (US, single board, earlier?)</description>
+		<cloneof>rfjet</cloneof>
+		<crc></crc>
+		<manufacturer>Seibu Kaihatsu</manufacturer>
+		<year>1999</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sidearmsr" index="true" image="s">
+		<description>Side Arms - Hyper Dyne (US)</description>
+		<cloneof>sidearms</cloneof>
+		<crc></crc>
+		<manufacturer>Capcom (Romstar license)</manufacturer>
+		<year>1986</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mt_tfor2" index="true" image="t">
+		<description>Thunder Force II MD (Mega-Tech)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Techno Soft / Sega</manufacturer>
+		<year>1989</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="vega" index="true" image="v">
+		<description>Vega</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Olympia</manufacturer>
+		<year>1982</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

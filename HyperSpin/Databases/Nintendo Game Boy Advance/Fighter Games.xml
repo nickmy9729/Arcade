@@ -1,0 +1,289 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Nintendo Game Boy Advance</listname>
+		<lastlistupdate>10/27/2011</lastlistupdate>
+		<listversion>1.1 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="2 Games in 1 - Sonic Advance + Sonic Battle (Europe) (En,Ja,Fr,De,Es+En,Ja,Fr,De,Es,It)" index="true" image="2">
+		<description>2 Games in 1 - Sonic Advance + Sonic Battle (Europe) (En,Ja,Fr,De,Es+En,Ja,Fr,De,Es,It)</description>
+		<cloneof></cloneof>
+		<crc>94CF5B2B</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2005</year>
+		<genre>Fighter/Platform</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="2 Games in 1 - Sonic Battle + ChuChu Rocket! (Europe) (En,Ja,Fr,De,Es,It+En,Ja,Fr,De,Es)" index="" image="">
+		<description>2 Games in 1 - Sonic Battle + ChuChu Rocket! (Europe) (En,Ja,Fr,De,Es,It+En,Ja,Fr,De,Es)</description>
+		<cloneof></cloneof>
+		<crc>2C57E588</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2005</year>
+		<genre>Fighter/Puzzle</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="2 Games in 1 - Sonic Battle + Sonic Pinball Party (Europe) (En,Ja,Fr,De,Es,It)" index="" image="">
+		<description>2 Games in 1 - Sonic Battle + Sonic Pinball Party (Europe) (En,Ja,Fr,De,Es,It)</description>
+		<cloneof></cloneof>
+		<crc>A50DE233</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2005</year>
+		<genre>Fighter/Pinball</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Black Belt Challenge (Europe)" index="true" image="b">
+		<description>Black Belt Challenge (Europe)</description>
+		<cloneof></cloneof>
+		<crc>72A55741</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2002</year>
+		<genre>Fighter</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Digimon - Battle Spirit (USA)" index="true" image="d">
+		<description>Digimon - Battle Spirit (USA)</description>
+		<cloneof></cloneof>
+		<crc>CEEF2008</crc>
+		<manufacturer>Bandai</manufacturer>
+		<year>2003</year>
+		<genre>Fighter</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Digimon - Battle Spirit 2 (USA) (En,Fr,De,Es,It)" index="" image="">
+		<description>Digimon - Battle Spirit 2 (USA) (En,Fr,De,Es,It)</description>
+		<cloneof></cloneof>
+		<crc>C4C246EF</crc>
+		<manufacturer>Bandai</manufacturer>
+		<year>2003</year>
+		<genre>Fighter</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dragon Ball Z - Supersonic Warriors (USA)" index="" image="">
+		<description>Dragon Ball Z - Supersonic Warriors (USA)</description>
+		<cloneof></cloneof>
+		<crc>9A857A70</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>2004</year>
+		<genre>Fighter</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dragon Ball Z - Taiketsu (USA)" index="" image="">
+		<description>Dragon Ball Z - Taiketsu (USA)</description>
+		<cloneof></cloneof>
+		<crc>64EC07E7</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>2003</year>
+		<genre>Fighter</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dual Blades (USA)" index="" image="">
+		<description>Dual Blades (USA)</description>
+		<cloneof></cloneof>
+		<crc>AFF3A0C6</crc>
+		<manufacturer>Metro3D</manufacturer>
+		<year>2002</year>
+		<genre>Fighter</genre>
+		<rating>ESRB - M (Mature)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Guilty Gear X - Advance Edition (USA)" index="true" image="g">
+		<description>Guilty Gear X - Advance Edition (USA)</description>
+		<cloneof></cloneof>
+		<crc>70DB3F96</crc>
+		<manufacturer>Sammy Studios</manufacturer>
+		<year>2002</year>
+		<genre>Fighter</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="International Karate Advanced (Europe)" index="true" image="i">
+		<description>International Karate Advanced (Europe)</description>
+		<cloneof></cloneof>
+		<crc>D33A14AF</crc>
+		<manufacturer>Studio 3</manufacturer>
+		<year>2001</year>
+		<genre>Fighter</genre>
+		<rating>PEGI - 12 (Everyone 12+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="International Karate Plus (USA)" index="" image="">
+		<description>International Karate Plus (USA)</description>
+		<cloneof></cloneof>
+		<crc>31C4F03B</crc>
+		<manufacturer>Ignition Entertainment</manufacturer>
+		<year>2003</year>
+		<genre>Fighter</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="King of Fighters EX, The - NeoBlood (USA) (Rev 1)" index="true" image="k">
+		<description>King of Fighters EX, The - NeoBlood (USA) (Rev 1)</description>
+		<cloneof></cloneof>
+		<crc>0F960E70</crc>
+		<manufacturer>Sammy Studios</manufacturer>
+		<year>2002</year>
+		<genre>Fighter</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="King of Fighters EX2, The - Howling Blood (USA)" index="" image="">
+		<description>King of Fighters EX2, The - Howling Blood (USA)</description>
+		<cloneof></cloneof>
+		<crc>15F8F9D5</crc>
+		<manufacturer>Atlus Co.</manufacturer>
+		<year>2003</year>
+		<genre>Fighter</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Medabots AX - Metabee Version (USA)" index="true" image="m">
+		<description>Medabots AX - Metabee Version (USA)</description>
+		<cloneof></cloneof>
+		<crc>03294511</crc>
+		<manufacturer>Natsume</manufacturer>
+		<year>2002</year>
+		<genre>Fighter</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Medabots AX - Rokusho Version (USA)" index="" image="">
+		<description>Medabots AX - Rokusho Version (USA)</description>
+		<cloneof></cloneof>
+		<crc>92FDB8D6</crc>
+		<manufacturer>Natsume</manufacturer>
+		<year>2002</year>
+		<genre>Fighter</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mobile Suit Gundam Seed - Battle Assault (USA)" index="" image="">
+		<description>Mobile Suit Gundam Seed - Battle Assault (USA)</description>
+		<cloneof></cloneof>
+		<crc>180D1491</crc>
+		<manufacturer>Bandai</manufacturer>
+		<year>2004</year>
+		<genre>Fighter</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mortal Kombat - Deadly Alliance (USA) (En,Fr,De,Es,It)" index="" image="">
+		<description>Mortal Kombat - Deadly Alliance (USA) (En,Fr,De,Es,It)</description>
+		<cloneof></cloneof>
+		<crc>A29BA64F</crc>
+		<manufacturer>Midway</manufacturer>
+		<year>2002</year>
+		<genre>Fighter</genre>
+		<rating>ESRB - M (Mature)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mortal Kombat - Tournament Edition (USA) (En,Fr,De,Es,It)" index="" image="">
+		<description>Mortal Kombat - Tournament Edition (USA) (En,Fr,De,Es,It)</description>
+		<cloneof></cloneof>
+		<crc>968BE7BC</crc>
+		<manufacturer>Midway</manufacturer>
+		<year>2003</year>
+		<genre>Fighter</genre>
+		<rating>ESRB - M (Mature)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mortal Kombat Advance (USA)" index="" image="">
+		<description>Mortal Kombat Advance (USA)</description>
+		<cloneof></cloneof>
+		<crc>BCDABB47</crc>
+		<manufacturer>Midway</manufacturer>
+		<year>2001</year>
+		<genre>Fighter</genre>
+		<rating>ESRB - M (Mature)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rave Master - Special Attack Force! (USA)" index="true" image="r">
+		<description>Rave Master - Special Attack Force! (USA)</description>
+		<cloneof></cloneof>
+		<crc>C39B9418</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>2005</year>
+		<genre>Fighter</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rock&apos;em Sock&apos;em Robots (USA)" index="" image="">
+		<description>Rock&apos;em Sock&apos;em Robots (USA)</description>
+		<cloneof></cloneof>
+		<crc>C8896C62</crc>
+		<manufacturer>DSI Games</manufacturer>
+		<year>2006</year>
+		<genre>Fighter</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Shrek - Hassle at the Castle (USA) (En,Fr,De,Es,It,Nl)" index="true" image="s">
+		<description>Shrek - Hassle at the Castle (USA) (En,Fr,De,Es,It,Nl)</description>
+		<cloneof></cloneof>
+		<crc>09E7472C</crc>
+		<manufacturer>TDK Mediactive</manufacturer>
+		<year>2002</year>
+		<genre>Fighter</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sonic Battle (USA) (En,Ja,Fr,De,Es,It)" index="" image="">
+		<description>Sonic Battle (USA) (En,Ja,Fr,De,Es,It)</description>
+		<cloneof></cloneof>
+		<crc>9EC9D86F</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2004</year>
+		<genre>Fighter</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Street Fighter Alpha 3 (USA)" index="" image="">
+		<description>Street Fighter Alpha 3 (USA)</description>
+		<cloneof></cloneof>
+		<crc>80B707C2</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>2002</year>
+		<genre>Fighter</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Street Fighter II Turbo - Revival (USA)" index="" image="">
+		<description>Super Street Fighter II Turbo - Revival (USA)</description>
+		<cloneof></cloneof>
+		<crc>063045AA</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>2001</year>
+		<genre>Fighter</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tekken Advance (USA)" index="true" image="t">
+		<description>Tekken Advance (USA)</description>
+		<cloneof></cloneof>
+		<crc>C59EA73B</crc>
+		<manufacturer>Namco</manufacturer>
+		<year>2002</year>
+		<genre>Fighter</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Zatchbell! - Electric Arena (USA)" index="true" image="z">
+		<description>Zatchbell! - Electric Arena (USA)</description>
+		<cloneof></cloneof>
+		<crc>B4F1E785</crc>
+		<manufacturer>Bandai</manufacturer>
+		<year>2005</year>
+		<genre>Fighter</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

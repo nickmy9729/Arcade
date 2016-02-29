@@ -1,0 +1,159 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Atari 2600</listname>
+		<lastlistupdate>07/20/2013</lastlistupdate>
+		<listversion>1.0 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="Alpha Beam with Ernie (USA)" index="true" image="a">
+		<description>Alpha Beam with Ernie (USA)</description>
+		<cloneof></cloneof>
+		<crc>27C6B897</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1983</year>
+		<genre>Educational</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Basic Math (USA)" index="true" image="b">
+		<description>Basic Math (USA)</description>
+		<cloneof></cloneof>
+		<crc>D48EBAC0</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1977</year>
+		<genre>Educational</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="BASIC Programming (USA)" index="" image="">
+		<description>BASIC Programming (USA)</description>
+		<cloneof></cloneof>
+		<crc>26A3C844</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1979</year>
+		<genre>Educational</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="CompuMate (USA)" index="true" image="c">
+		<description>CompuMate (USA)</description>
+		<cloneof></cloneof>
+		<crc>BBE1F661</crc>
+		<manufacturer>Spectravideo</manufacturer>
+		<year>1983</year>
+		<genre>Educational</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cookie Monster Munch (USA)" index="" image="">
+		<description>Cookie Monster Munch (USA)</description>
+		<cloneof></cloneof>
+		<crc>97BA488F</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1983</year>
+		<genre>Educational</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Eli&apos;s Ladder (USA)" index="true" image="e">
+		<description>Eli&apos;s Ladder (USA)</description>
+		<cloneof></cloneof>
+		<crc>2C5E6932</crc>
+		<manufacturer>Simage</manufacturer>
+		<year>1982</year>
+		<genre>Educational</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Enigma Machine (USA) (Unl)" index="" image="">
+		<description>Enigma Machine (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>B8727A06</crc>
+		<manufacturer>Hozer Video Games - Mark VandeWettering</manufacturer>
+		<year>2005</year>
+		<genre>Educational</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Math Gran Prix (USA)" index="true" image="m">
+		<description>Math Gran Prix (USA)</description>
+		<cloneof></cloneof>
+		<crc>CCC90C98</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1982</year>
+		<genre>Educational</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="MegaBoy (Brazil)" index="" image="">
+		<description>MegaBoy (Brazil)</description>
+		<cloneof></cloneof>
+		<crc>26914CE0</crc>
+		<manufacturer>Dynacom</manufacturer>
+		<year>1991</year>
+		<genre>Educational</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Oscar&apos;s Trash Race (USA)" index="true" image="o">
+		<description>Oscar&apos;s Trash Race (USA)</description>
+		<cloneof></cloneof>
+		<crc>34721D7B</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1983</year>
+		<genre>Educational</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Peek-A-Boo (USA) (Proto)" index="true" image="p">
+		<description>Peek-A-Boo (USA) (Proto)</description>
+		<cloneof></cloneof>
+		<crc>07594314</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1984</year>
+		<genre>Educational</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Smurfs Save the Day (USA)" index="true" image="s">
+		<description>Smurfs Save the Day (USA)</description>
+		<cloneof></cloneof>
+		<crc>AD89C697</crc>
+		<manufacturer>Coleco</manufacturer>
+		<year>1983</year>
+		<genre>Educational</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Strawberry Shortcake - Musical Match-Ups (USA)" index="" image="">
+		<description>Strawberry Shortcake - Musical Match-Ups (USA)</description>
+		<cloneof></cloneof>
+		<crc>FB29E31F</crc>
+		<manufacturer>Parker Brothers</manufacturer>
+		<year>1983</year>
+		<genre>Educational</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Video Life (USA)" index="true" image="v">
+		<description>Video Life (USA)</description>
+		<cloneof></cloneof>
+		<crc>34B0B5C2</crc>
+		<manufacturer>CommaVid</manufacturer>
+		<year>1981</year>
+		<genre>Educational</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Words-Attack (Europe) (Proto)" index="true" image="w">
+		<description>Words-Attack (Europe) (Proto)</description>
+		<cloneof></cloneof>
+		<crc>77975BAA</crc>
+		<manufacturer>Sancho - Tang&apos;s Electronic Co.</manufacturer>
+		<year>1983</year>
+		<genre>Educational</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

@@ -1,0 +1,149 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Sega Genesis</listname>
+		<lastlistupdate>02/21/2013</lastlistupdate>
+		<listversion>1.2 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="Beavis and Butt-Head (USA)" index="true" image="b">
+		<description>Beavis and Butt-Head (USA)</description>
+		<cloneof></cloneof>
+		<crc>f5d7b948</crc>
+		<manufacturer>Radical Entertainment</manufacturer>
+		<year>1994</year>
+		<genre>Adventure</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cosmic Spacehead (USA, Europe)" index="true" image="c">
+		<description>Cosmic Spacehead (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>c593d31c</crc>
+		<manufacturer>Codemasters</manufacturer>
+		<year>1993</year>
+		<genre>Adventure</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fantastic Dizzy (USA, Europe)" index="true" image="f">
+		<description>Fantastic Dizzy (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>46447e7a</crc>
+		<manufacturer>Codemasters</manufacturer>
+		<year>1993</year>
+		<genre>Adventure</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Immortal, The (USA, Europe)" index="true" image="i">
+		<description>Immortal, The (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>f653c508</crc>
+		<manufacturer>Electronic Arts</manufacturer>
+		<year>1993</year>
+		<genre>Adventure</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Jurassic Park - Rampage Edition (USA, Europe)" index="true" image="j">
+		<description>Jurassic Park - Rampage Edition (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>98b4aa1b</crc>
+		<manufacturer>Blue Sky Software</manufacturer>
+		<year>1993</year>
+		<genre>Adventure</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Magic School Bus, The (USA)" index="true" image="m">
+		<description>Magic School Bus, The (USA)</description>
+		<cloneof></cloneof>
+		<crc>1a5d4412</crc>
+		<manufacturer>Magic Pen</manufacturer>
+		<year>1995</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Math Blaster - Episode 1 (USA)" index="" image="">
+		<description>Math Blaster - Episode 1 (USA)</description>
+		<cloneof></cloneof>
+		<crc>d055a462</crc>
+		<manufacturer>Western Technologies</manufacturer>
+		<year>1994</year>
+		<genre>Adventure</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Scooby-Doo Mystery (USA)" index="true" image="s">
+		<description>Scooby-Doo Mystery (USA)</description>
+		<cloneof></cloneof>
+		<crc>7bb9dd9b</crc>
+		<manufacturer>Illusions Gaming Company</manufacturer>
+		<year>1995</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sesame Street Counting Cafe (USA)" index="" image="">
+		<description>Sesame Street Counting Cafe (USA)</description>
+		<cloneof></cloneof>
+		<crc>0a4f48c3</crc>
+		<manufacturer>Electronic Arts</manufacturer>
+		<year>1994</year>
+		<genre>Adventure</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Shadow of the Beast II (USA, Europe)" index="" image="">
+		<description>Shadow of the Beast II (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>2dede3db</crc>
+		<manufacturer>WJS Design</manufacturer>
+		<year>1992</year>
+		<genre>Adventure</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Star Trek - Deep Space Nine - Crossroads of Time (USA)" index="" image="">
+		<description>Star Trek - Deep Space Nine - Crossroads of Time (USA)</description>
+		<cloneof></cloneof>
+		<crc>a771e1a4</crc>
+		<manufacturer>Novotrade International</manufacturer>
+		<year>1995</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Star Trek - The Next Generation - Echoes from the Past (USA) (v1.1)" index="" image="">
+		<description>Star Trek - The Next Generation - Echoes from the Past (USA) (v1.1)</description>
+		<cloneof></cloneof>
+		<crc>ef840ef2</crc>
+		<manufacturer>MicroProse</manufacturer>
+		<year>1994</year>
+		<genre>Adventure</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Thomas the Tank Engine &amp; Friends (USA)" index="true" image="t">
+		<description>Thomas the Tank Engine &amp; Friends (USA)</description>
+		<cloneof></cloneof>
+		<crc>1a406299</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>1993</year>
+		<genre>Adventure</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Wacky Worlds Creativity Studio (USA)" index="true" image="w">
+		<description>Wacky Worlds Creativity Studio (USA)</description>
+		<cloneof></cloneof>
+		<crc>8af4552d</crc>
+		<manufacturer>HeadGames</manufacturer>
+		<year>1994</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

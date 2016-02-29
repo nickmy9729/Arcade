@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Nintendo Game Boy Color</listname>
+		<lastlistupdate>06/08/2013</lastlistupdate>
+		<listversion>1.1 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="Monster Rancher Battle Card GB (USA)" index="true" image="m">
+		<description>Monster Rancher Battle Card GB (USA)</description>
+		<cloneof></cloneof>
+		<crc>50ddf120</crc>
+		<manufacturer>Tecmo</manufacturer>
+		<year>2000</year>
+		<genre>Card Battle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pokemon Trading Card Game (USA)" index="true" image="p">
+		<description>Pokemon Trading Card Game (USA)</description>
+		<cloneof></cloneof>
+		<crc>81069d53</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2000</year>
+		<genre>Card Battle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Yu-Gi-Oh! - Dark Duel Stories (USA)" index="true" image="y">
+		<description>Yu-Gi-Oh! - Dark Duel Stories (USA)</description>
+		<cloneof></cloneof>
+		<crc>803a56ae</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>2002</year>
+		<genre>Card Battle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

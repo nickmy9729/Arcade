@@ -1,0 +1,189 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Atari 8-Bit</listname>
+		<lastlistupdate>05/17/2015</lastlistupdate>
+		<listversion>1.0</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="All Star Baseball (USA)" index="true" image="a">
+		<description>All Star Baseball (USA)</description>
+		<cloneof></cloneof>
+		<crc>F0B37757</crc>
+		<manufacturer>Image Computer Products</manufacturer>
+		<year>1979</year>
+		<genre>Sports/Baseball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Baseball (Canada)" index="true" image="b">
+		<description>Baseball (Canada)</description>
+		<cloneof></cloneof>
+		<crc>90BF5B33</crc>
+		<manufacturer>Inhome Software</manufacturer>
+		<year>1983</year>
+		<genre>Sports/Baseball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bible Baseball (USA)" index="" image="">
+		<description>Bible Baseball (USA)</description>
+		<cloneof></cloneof>
+		<crc>DEB837F3</crc>
+		<manufacturer>Davka Corporation</manufacturer>
+		<year>1983</year>
+		<genre>Sports/Baseball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Computer Baseball (USA) (Side A)" index="true" image="c">
+		<description>Computer Baseball (USA) (Side A)</description>
+		<cloneof></cloneof>
+		<crc>4FC0CD9F</crc>
+		<manufacturer>SSI</manufacturer>
+		<year>1984</year>
+		<genre>Sports/Baseball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Computer Baseball (USA) (Side B)" index="" image="">
+		<description>Computer Baseball (USA) (Side B)</description>
+		<cloneof></cloneof>
+		<crc>0A0B127E</crc>
+		<manufacturer>SSI</manufacturer>
+		<year>1984</year>
+		<genre>Sports/Baseball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Computer Baseball Strategy (USA)" index="" image="">
+		<description>Computer Baseball Strategy (USA)</description>
+		<cloneof></cloneof>
+		<crc>6F017233</crc>
+		<manufacturer>Avalon Hill</manufacturer>
+		<year>1982</year>
+		<genre>Sports/Baseball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="HardBall (USA)" index="true" image="h">
+		<description>HardBall (USA)</description>
+		<cloneof></cloneof>
+		<crc>5D7737A2</crc>
+		<manufacturer>Accolade</manufacturer>
+		<year>1985</year>
+		<genre>Sports/Baseball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Micro League Baseball (USA) (Disk 1)" index="true" image="m">
+		<description>Micro League Baseball (USA) (Disk 1)</description>
+		<cloneof></cloneof>
+		<crc>D29BE658</crc>
+		<manufacturer>Micro League Sports Association</manufacturer>
+		<year>1984</year>
+		<genre>Sports/Baseball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Micro League Baseball (USA) (Disk 2) (General Manager-Owner Disk)" index="" image="">
+		<description>Micro League Baseball (USA) (Disk 2) (General Manager-Owner Disk)</description>
+		<cloneof></cloneof>
+		<crc>6DED9622</crc>
+		<manufacturer>Micro League Sports Association</manufacturer>
+		<year>1985</year>
+		<genre>Sports/Baseball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Micro League Baseball (USA) (Disk 3) (Box Score and Stats Compiler Disk)" index="" image="">
+		<description>Micro League Baseball (USA) (Disk 3) (Box Score and Stats Compiler Disk)</description>
+		<cloneof></cloneof>
+		<crc>28E66B89</crc>
+		<manufacturer>Micro League Sports Association</manufacturer>
+		<year>1986</year>
+		<genre>Sports/Baseball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Micro League Baseball (USA) (Disk 4) (Team Disk 1984)" index="" image="">
+		<description>Micro League Baseball (USA) (Disk 4) (Team Disk 1984)</description>
+		<cloneof></cloneof>
+		<crc>F2C6506C</crc>
+		<manufacturer>Micro League Sports Association</manufacturer>
+		<year>19xx</year>
+		<genre>Sports/Baseball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Micro League Baseball (USA) (Disk 5) (Team Disk 1985)" index="" image="">
+		<description>Micro League Baseball (USA) (Disk 5) (Team Disk 1985)</description>
+		<cloneof></cloneof>
+		<crc>780E02B7</crc>
+		<manufacturer>Micro League Sports Association</manufacturer>
+		<year>19xx</year>
+		<genre>Sports/Baseball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Micro League Baseball (USA) (Disk 6) (Team Disk 1986)" index="" image="">
+		<description>Micro League Baseball (USA) (Disk 6) (Team Disk 1986)</description>
+		<cloneof></cloneof>
+		<crc>E4C23C84</crc>
+		<manufacturer>Micro League Sports Association</manufacturer>
+		<year>19xx</year>
+		<genre>Sports/Baseball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Micro League Baseball (USA) (Disk 7) (All-Star Rosters)" index="" image="">
+		<description>Micro League Baseball (USA) (Disk 7) (All-Star Rosters)</description>
+		<cloneof></cloneof>
+		<crc>0629A690</crc>
+		<manufacturer>Micro League Sports Association</manufacturer>
+		<year>19xx</year>
+		<genre>Sports/Baseball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Micro League Baseball (USA) (Disk 8) (World Series - 1960s)" index="" image="">
+		<description>Micro League Baseball (USA) (Disk 8) (World Series - 1960s)</description>
+		<cloneof></cloneof>
+		<crc>5F6C962A</crc>
+		<manufacturer>Micro League Sports Association</manufacturer>
+		<year>19xx</year>
+		<genre>Sports/Baseball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Monday Morning Manager (USA) (Side A)" index="" image="">
+		<description>Monday Morning Manager (USA) (Side A)</description>
+		<cloneof></cloneof>
+		<crc>74D4D86F</crc>
+		<manufacturer>TK Computer Products</manufacturer>
+		<year>1984</year>
+		<genre>Sports/Baseball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Monday Morning Manager (USA) (Side B)" index="" image="">
+		<description>Monday Morning Manager (USA) (Side B)</description>
+		<cloneof></cloneof>
+		<crc>AC4B231F</crc>
+		<manufacturer>TK Computer Products</manufacturer>
+		<year>1984</year>
+		<genre>Sports/Baseball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Star League Baseball (USA)" index="true" image="s">
+		<description>Star League Baseball (USA)</description>
+		<cloneof></cloneof>
+		<crc>CCE8D860</crc>
+		<manufacturer>Gamestar</manufacturer>
+		<year>1983</year>
+		<genre>Sports/Baseball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

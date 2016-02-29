@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Atari 7800</listname>
+		<lastlistupdate>06/08/2013</lastlistupdate>
+		<listversion>1.1 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="Mean 18 Ultimate Golf (USA)" index="true" image="m">
+		<description>Mean 18 Ultimate Golf (USA)</description>
+		<cloneof></cloneof>
+		<crc>517d1986</crc>
+		<manufacturer>Accolade</manufacturer>
+		<year>1989</year>
+		<genre>Golf/Sports</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ninja Golf (USA)" index="true" image="n">
+		<description>Ninja Golf (USA)</description>
+		<cloneof></cloneof>
+		<crc>9e5d3625</crc>
+		<manufacturer>BlueSky Software</manufacturer>
+		<year>1990</year>
+		<genre>Golf/Sports</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

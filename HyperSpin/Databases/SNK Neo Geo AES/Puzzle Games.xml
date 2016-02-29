@@ -1,0 +1,129 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>SNK Neo Geo</listname>
+		<lastlistupdate>08/28/2012</lastlistupdate>
+		<listversion>.141 Ongoing</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="ghostlop" index="true" image="g">
+		<description>Ghostlop (prototype)</description>
+		<cloneof></cloneof>
+		<crc>9036d879</crc>
+		<manufacturer>Data East Corporation</manufacturer>
+		<year>1996</year>
+		<genre>Puzzle</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gururin" index="" image="">
+		<description>Gururin</description>
+		<cloneof></cloneof>
+		<crc>9036d879</crc>
+		<manufacturer>Face</manufacturer>
+		<year>1994</year>
+		<genre>Puzzle</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="magdrop2" index="true" image="m">
+		<description>Magical Drop II</description>
+		<cloneof></cloneof>
+		<crc>9036d879</crc>
+		<manufacturer>Data East Corporation</manufacturer>
+		<year>1996</year>
+		<genre>Puzzle</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="magdrop3" index="" image="">
+		<description>Magical Drop III</description>
+		<cloneof></cloneof>
+		<crc>9036d879</crc>
+		<manufacturer>Data East Corporation</manufacturer>
+		<year>1997</year>
+		<genre>Puzzle</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="miexchng" index="" image="">
+		<description>Money Puzzle Exchanger / Money Idol Exchanger</description>
+		<cloneof></cloneof>
+		<crc>9036d879</crc>
+		<manufacturer>Face</manufacturer>
+		<year>1997</year>
+		<genre>Puzzle</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="panicbom" index="true" image="p">
+		<description>Panic Bomber</description>
+		<cloneof></cloneof>
+		<crc>9036d879</crc>
+		<manufacturer>Eighting / Hudson</manufacturer>
+		<year>1994</year>
+		<genre>Puzzle</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pnyaa" index="" image="">
+		<description>Pochi and Nyaa</description>
+		<cloneof></cloneof>
+		<crc>9036d879</crc>
+		<manufacturer>Aiky / Taito</manufacturer>
+		<year>2003</year>
+		<genre>Puzzle</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pbobblen" index="" image="">
+		<description>Puzzle Bobble / Bust-A-Move (Neo-Geo) (set 1)</description>
+		<cloneof></cloneof>
+		<crc>9036d879</crc>
+		<manufacturer>Taito</manufacturer>
+		<year>1994</year>
+		<genre>Puzzle</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pbobbl2n" index="" image="">
+		<description>Puzzle Bobble 2 / Bust-A-Move Again (Neo-Geo)</description>
+		<cloneof></cloneof>
+		<crc>9036d879</crc>
+		<manufacturer>Taito (SNK license)</manufacturer>
+		<year>1999</year>
+		<genre>Puzzle</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="puzzledp" index="" image="">
+		<description>Puzzle De Pon!</description>
+		<cloneof></cloneof>
+		<crc>9036d879</crc>
+		<manufacturer>Taito (Visco license)</manufacturer>
+		<year>1995</year>
+		<genre>Puzzle</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="puzzldpr" index="" image="">
+		<description>Puzzle De Pon! R!</description>
+		<cloneof></cloneof>
+		<crc>9036d879</crc>
+		<manufacturer>Taito (Visco license)</manufacturer>
+		<year>1997</year>
+		<genre>Puzzle</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="joyjoy" index="" image="">
+		<description>Puzzled / Joy Joy Kid</description>
+		<cloneof></cloneof>
+		<crc>9036d879</crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1990</year>
+		<genre>Puzzle</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

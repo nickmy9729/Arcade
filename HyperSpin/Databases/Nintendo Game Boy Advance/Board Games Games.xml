@@ -1,0 +1,209 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Nintendo Game Boy Advance</listname>
+		<lastlistupdate>10/27/2011</lastlistupdate>
+		<listversion>1.1 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="2 Game Pack! - Uno + Skip-Bo (USA)" index="true" image="2">
+		<description>2 Game Pack! - Uno + Skip-Bo (USA)</description>
+		<cloneof></cloneof>
+		<crc>0E2AF604</crc>
+		<manufacturer>Jack of all Games</manufacturer>
+		<year>2006</year>
+		<genre>Board Games</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="3 Game Pack! - Candy Land + Chutes and Ladders + Original Memory Game (USA)" index="true" image="3">
+		<description>3 Game Pack! - Candy Land + Chutes and Ladders + Original Memory Game (USA)</description>
+		<cloneof></cloneof>
+		<crc>628A8E32</crc>
+		<manufacturer>Destination Software</manufacturer>
+		<year>2005</year>
+		<genre>Board Games</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="3 Game Pack! - Mouse Trap + Simon + Operation (USA)" index="" image="">
+		<description>3 Game Pack! - Mouse Trap + Simon + Operation (USA)</description>
+		<cloneof></cloneof>
+		<crc>20287753</crc>
+		<manufacturer>Destination Software</manufacturer>
+		<year>2005</year>
+		<genre>Board Games</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="3 Game Pack! - The Game of Life + Payday + Yahtzee (USA)" index="" image="">
+		<description>3 Game Pack! - The Game of Life + Payday + Yahtzee (USA)</description>
+		<cloneof></cloneof>
+		<crc>E6DC35A9</crc>
+		<manufacturer>Destination Software</manufacturer>
+		<year>2005</year>
+		<genre>Board Games</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Board Game Classics (USA)" index="true" image="b">
+		<description>Board Game Classics (USA)</description>
+		<cloneof></cloneof>
+		<crc>69D760BB</crc>
+		<manufacturer>DSI Games</manufacturer>
+		<year>2005</year>
+		<genre>Board Games</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Chessmaster (USA)" index="true" image="c">
+		<description>Chessmaster (USA)</description>
+		<cloneof></cloneof>
+		<crc>25B0E933</crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>2002</year>
+		<genre>Board Games</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dexter&apos;s Laboratory - Chess Challenge (USA)" index="true" image="d">
+		<description>Dexter&apos;s Laboratory - Chess Challenge (USA)</description>
+		<cloneof></cloneof>
+		<crc>AE61322E</crc>
+		<manufacturer>Bam Entertainment</manufacturer>
+		<year>2002</year>
+		<genre>Board Games</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dragon Ball Z - Collectible Card Game (USA)" index="" image="">
+		<description>Dragon Ball Z - Collectible Card Game (USA)</description>
+		<cloneof></cloneof>
+		<crc>F6124D7F</crc>
+		<manufacturer>Infogrames</manufacturer>
+		<year>2002</year>
+		<genre>Board Games</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Duel Masters - Kaijudo Showdown (USA)" index="" image="">
+		<description>Duel Masters - Kaijudo Showdown (USA)</description>
+		<cloneof></cloneof>
+		<crc>804E5DE2</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>2004</year>
+		<genre>Board Games</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Monopoly (USA)" index="true" image="m">
+		<description>Monopoly (USA)</description>
+		<cloneof></cloneof>
+		<crc>B01CBC07</crc>
+		<manufacturer>DSI Games</manufacturer>
+		<year>2004</year>
+		<genre>Board Games</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Scrabble (Europe) (En,Fr,De,Es)" index="true" image="s">
+		<description>Scrabble (Europe) (En,Fr,De,Es)</description>
+		<cloneof></cloneof>
+		<crc>C5C9B31B</crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>2002</year>
+		<genre>Board Games</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Scrabble Blast! (USA)" index="" image="">
+		<description>Scrabble Blast! (USA)</description>
+		<cloneof></cloneof>
+		<crc>5D31A1F9</crc>
+		<manufacturer>Destination Software</manufacturer>
+		<year>2005</year>
+		<genre>Board Games</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Three-in-One Pack - Connect Four + Perfection + Trouble (USA)" index="true" image="t">
+		<description>Three-in-One Pack - Connect Four + Perfection + Trouble (USA)</description>
+		<cloneof></cloneof>
+		<crc>D482421E</crc>
+		<manufacturer>DSI Games</manufacturer>
+		<year>2005</year>
+		<genre>Board Games</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Three-in-One Pack - Risk + Battleship + Clue (USA)" index="" image="">
+		<description>Three-in-One Pack - Risk + Battleship + Clue (USA)</description>
+		<cloneof></cloneof>
+		<crc>F6F70922</crc>
+		<manufacturer>DSI Games</manufacturer>
+		<year>2005</year>
+		<genre>Board Games</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Three-in-One Pack - Sorry! + Aggravation + Scrabble Junior (USA)" index="" image="">
+		<description>Three-in-One Pack - Sorry! + Aggravation + Scrabble Junior (USA)</description>
+		<cloneof></cloneof>
+		<crc>111EB61A</crc>
+		<manufacturer>DSI Games</manufacturer>
+		<year>2005</year>
+		<genre>Board Games</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ultimate Brain Games (USA, Europe)" index="true" image="u">
+		<description>Ultimate Brain Games (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>B6C9F401</crc>
+		<manufacturer>Telegames, Inc.</manufacturer>
+		<year>2003</year>
+		<genre>Board Games</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ultimate Card Games (USA, Europe)" index="" image="">
+		<description>Ultimate Card Games (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>8A0831BD</crc>
+		<manufacturer>Telegames, Inc.</manufacturer>
+		<year>2004</year>
+		<genre>Board Games</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Uno 52 (USA)" index="" image="">
+		<description>Uno 52 (USA)</description>
+		<cloneof></cloneof>
+		<crc>C659C6DB</crc>
+		<manufacturer>DSI Games</manufacturer>
+		<year>2006</year>
+		<genre>Board Games</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Uno Free Fall (USA)" index="" image="">
+		<description>Uno Free Fall (USA)</description>
+		<cloneof></cloneof>
+		<crc>19FCC78E</crc>
+		<manufacturer>DSI Games</manufacturer>
+		<year>2007</year>
+		<genre>Board Games</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Virtual Kasparov (USA) (En,Fr,De,Es,It)" index="true" image="v">
+		<description>Virtual Kasparov (USA) (En,Fr,De,Es,It)</description>
+		<cloneof></cloneof>
+		<crc>815B722F</crc>
+		<manufacturer>Titus Software</manufacturer>
+		<year>2002</year>
+		<genre>Board Games</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

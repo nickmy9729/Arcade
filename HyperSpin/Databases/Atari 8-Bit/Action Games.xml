@@ -1,0 +1,3769 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Atari 8-Bit</listname>
+		<lastlistupdate>05/17/2015</lastlistupdate>
+		<listversion>1.0</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="007 - The Living Daylights (Europe)" index="true" image="0">
+		<description>007 - The Living Daylights (Europe)</description>
+		<cloneof></cloneof>
+		<crc>6789BED0</crc>
+		<manufacturer>Domark</manufacturer>
+		<year>1987</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="1040 Terminator (USA) (Unl)" index="true" image="1">
+		<description>1040 Terminator (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>4B952BC0</crc>
+		<manufacturer>Antic</manufacturer>
+		<year>1988</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Abracadabra! (USA)" index="true" image="a">
+		<description>Abracadabra! (USA)</description>
+		<cloneof></cloneof>
+		<crc>FD6984B2</crc>
+		<manufacturer>TG Software</manufacturer>
+		<year>1983</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ace Dribbler and the Roadhogs (Europe) (Unl)" index="" image="">
+		<description>Ace Dribbler and the Roadhogs (Europe) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>FA6C33C5</crc>
+		<manufacturer>New Atari User</manufacturer>
+		<year>1990</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Action Adventures (USA)" index="" image="">
+		<description>Action Adventures (USA)</description>
+		<cloneof></cloneof>
+		<crc>69CCFA2E</crc>
+		<manufacturer>Keypunch Software</manufacturer>
+		<year>1987</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Agonia (Poland) (Proto)" index="" image="">
+		<description>Agonia (Poland) (Proto)</description>
+		<cloneof></cloneof>
+		<crc>409F72FB</crc>
+		<manufacturer>LK Avalon</manufacturer>
+		<year>1993</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Alex (Poland) (Unl)" index="" image="">
+		<description>Alex (Poland) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>42110990</crc>
+		<manufacturer>Robo-Soft</manufacturer>
+		<year>1992</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Amazing! (Europe) (Unl)" index="" image="">
+		<description>Amazing! (Europe) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>877AC05C</crc>
+		<manufacturer>Page 6</manufacturer>
+		<year>1989</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Android (Europe)" index="" image="">
+		<description>Android (Europe)</description>
+		<cloneof></cloneof>
+		<crc>10CE9361</crc>
+		<manufacturer>K-Soft</manufacturer>
+		<year>1991</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Angle Worms (USA)" index="" image="">
+		<description>Angle Worms (USA)</description>
+		<cloneof></cloneof>
+		<crc>F0C67917</crc>
+		<manufacturer>Adventure International</manufacturer>
+		<year>1980</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Animal Party (Peru) (Unl)" index="" image="">
+		<description>Animal Party (Peru) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>C6445F2A</crc>
+		<manufacturer>-</manufacturer>
+		<year>2008</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Arcade Machine, The (USA) (Side A)" index="" image="">
+		<description>Arcade Machine, The (USA) (Side A)</description>
+		<cloneof></cloneof>
+		<crc>BE5E3E3B</crc>
+		<manufacturer>Borderbund</manufacturer>
+		<year>1982</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Arcade Machine, The (USA) (Side B)" index="" image="">
+		<description>Arcade Machine, The (USA) (Side B)</description>
+		<cloneof></cloneof>
+		<crc>19559C8C</crc>
+		<manufacturer>Borderbund</manufacturer>
+		<year>1982</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Arno Boulder Dash 1 (Germany) (Unl)" index="" image="">
+		<description>Arno Boulder Dash 1 (Germany) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>F6924118</crc>
+		<manufacturer>Homesoft</manufacturer>
+		<year>2006</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Arno Boulder Dash 2 (Germany) (Unl)" index="" image="">
+		<description>Arno Boulder Dash 2 (Germany) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>8626495B</crc>
+		<manufacturer>Homesoft</manufacturer>
+		<year>2006</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Arno Boulder Dash 3 (Germany) (Unl)" index="" image="">
+		<description>Arno Boulder Dash 3 (Germany) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>D3167E2E</crc>
+		<manufacturer>Homesoft</manufacturer>
+		<year>2006</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Arno Boulder Dash 4 (Germany) (Unl)" index="" image="">
+		<description>Arno Boulder Dash 4 (Germany) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>826DBCDF</crc>
+		<manufacturer>Homesoft</manufacturer>
+		<year>2006</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Arno Boulder Dash 5 (Germany) (Unl)" index="" image="">
+		<description>Arno Boulder Dash 5 (Germany) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>E4D6A26B</crc>
+		<manufacturer>Homesoft</manufacturer>
+		<year>2006</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Arno Boulder Dash 6 (Germany) (Unl)" index="" image="">
+		<description>Arno Boulder Dash 6 (Germany) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>17B5DF7D</crc>
+		<manufacturer>Homesoft</manufacturer>
+		<year>2006</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Asteroid Miners (USA)" index="" image="">
+		<description>Asteroid Miners (USA)</description>
+		<cloneof></cloneof>
+		<crc>8D31347F</crc>
+		<manufacturer>MMG Micro Software</manufacturer>
+		<year>1982</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Asteroid Storm (Europe) (Unl)" index="" image="">
+		<description>Asteroid Storm (Europe) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>6B2FB0DE</crc>
+		<manufacturer>Virgin Books</manufacturer>
+		<year>1984</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Astro Road (Czech Republic) (Unl)" index="" image="">
+		<description>Astro Road (Czech Republic) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>E417718E</crc>
+		<manufacturer>Fandal</manufacturer>
+		<year>2004</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Atalan the Snake (Poland) (Unl)" index="" image="">
+		<description>Atalan the Snake (Poland) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>B3ED8853</crc>
+		<manufacturer>JKR</manufacturer>
+		<year>2010</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Atlantis Boulder Dash (Germany) (Unl)" index="" image="">
+		<description>Atlantis Boulder Dash (Germany) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>C867B5E2</crc>
+		<manufacturer>Homesoft</manufacturer>
+		<year>2007</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Balloon Crazy (USA) (Unl)" index="true" image="b">
+		<description>Balloon Crazy (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>B2B764D4</crc>
+		<manufacturer>Compute!</manufacturer>
+		<year>1985</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Banana (France) (Unl)" index="" image="">
+		<description>Banana (France) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>BAEBA613</crc>
+		<manufacturer>Club Cenacle</manufacturer>
+		<year>1987</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Barge (USA)" index="" image="">
+		<description>Barge (USA)</description>
+		<cloneof></cloneof>
+		<crc>9705BA91</crc>
+		<manufacturer>K-Tek Software</manufacturer>
+		<year>1983</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Barnstorm (USA)" index="" image="">
+		<description>Barnstorm (USA)</description>
+		<cloneof></cloneof>
+		<crc>FA551D21</crc>
+		<manufacturer>White Bag Software</manufacturer>
+		<year>1986</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Batty Builders (Europe)" index="" image="">
+		<description>Batty Builders (Europe)</description>
+		<cloneof></cloneof>
+		<crc>E6F27155</crc>
+		<manufacturer>English Software</manufacturer>
+		<year>1983</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="BC&apos;s Quest for Tires (USA)" index="" image="">
+		<description>BC&apos;s Quest for Tires (USA)</description>
+		<cloneof></cloneof>
+		<crc>263CCD22</crc>
+		<manufacturer>Sierra On-Line</manufacturer>
+		<year>1983</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Belljumper 1K (Slovakia) (Unl)" index="" image="">
+		<description>Belljumper 1K (Slovakia) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>67BBBF78</crc>
+		<manufacturer>MatoSimi</manufacturer>
+		<year>2007</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bewitch Castle, The (Europe)" index="" image="">
+		<description>Bewitch Castle, The (Europe)</description>
+		<cloneof></cloneof>
+		<crc>440BBD8E</crc>
+		<manufacturer>PM Software</manufacturer>
+		<year>1989</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Black Out (Europe) (Unl)" index="" image="">
+		<description>Black Out (Europe) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>F03B3FFB</crc>
+		<manufacturer>Europa Computer-Club</manufacturer>
+		<year>1984</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Block&apos;em (USA)" index="" image="">
+		<description>Block&apos;em (USA)</description>
+		<cloneof></cloneof>
+		<crc>C0707640</crc>
+		<manufacturer>APX</manufacturer>
+		<year>1982</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Blockade (Europe)" index="" image="">
+		<description>Blockade (Europe)</description>
+		<cloneof></cloneof>
+		<crc>016FC2B5</crc>
+		<manufacturer>Europa Computer-Club</manufacturer>
+		<year>1984</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Blueprint (USA)" index="" image="">
+		<description>Blueprint (USA)</description>
+		<cloneof></cloneof>
+		<crc>E7205E7E</crc>
+		<manufacturer>CBS Software</manufacturer>
+		<year>1982</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bomb Hunter (Europe)" index="" image="">
+		<description>Bomb Hunter (Europe)</description>
+		<cloneof></cloneof>
+		<crc>53C9EF91</crc>
+		<manufacturer>Channel 8 Software</manufacturer>
+		<year>1982</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Boulder Dash (USA)" index="" image="">
+		<description>Boulder Dash (USA)</description>
+		<cloneof></cloneof>
+		<crc>E9F6E97D</crc>
+		<manufacturer>First Star Software</manufacturer>
+		<year>1984</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Boulder Dash - Professional Version (Poland) (Unl)" index="" image="">
+		<description>Boulder Dash - Professional Version (Poland) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>9593CF66</crc>
+		<manufacturer>Iron Soft</manufacturer>
+		<year>1987</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Boulder Dash Construction Kit (USA)" index="" image="">
+		<description>Boulder Dash Construction Kit (USA)</description>
+		<cloneof></cloneof>
+		<crc>B5B0AC08</crc>
+		<manufacturer>Epyx</manufacturer>
+		<year>1986</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Boulder Dash II (USA)" index="" image="">
+		<description>Boulder Dash II (USA)</description>
+		<cloneof></cloneof>
+		<crc>CE560D4F</crc>
+		<manufacturer>First Star Software</manufacturer>
+		<year>1985</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Boulder Dash III (Germany) (Unl)" index="" image="">
+		<description>Boulder Dash III (Germany) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>0DD6D6B3</crc>
+		<manufacturer>Homesoft</manufacturer>
+		<year>2007</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Boulders and Bombs (USA)" index="" image="">
+		<description>Boulders and Bombs (USA)</description>
+		<cloneof></cloneof>
+		<crc>859C4D5C</crc>
+		<manufacturer>CBS Software</manufacturer>
+		<year>1982</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bridge Crosser (USA)" index="" image="">
+		<description>Bridge Crosser (USA)</description>
+		<cloneof></cloneof>
+		<crc>9085AFF2</crc>
+		<manufacturer>PI Software</manufacturer>
+		<year>19xx</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Busy Baby (USA)" index="" image="">
+		<description>Busy Baby (USA)</description>
+		<cloneof></cloneof>
+		<crc>9DE33CD6</crc>
+		<manufacturer>Royale Software</manufacturer>
+		<year>1983</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Captain Cosmo (USA)" index="true" image="c">
+		<description>Captain Cosmo (USA)</description>
+		<cloneof></cloneof>
+		<crc>0347EDF3</crc>
+		<manufacturer>Nexa Corporation</manufacturer>
+		<year>1982</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Carnival Massacre (Europe)" index="" image="">
+		<description>Carnival Massacre (Europe)</description>
+		<cloneof></cloneof>
+		<crc>46BAD63F</crc>
+		<manufacturer>Thorn EMI</manufacturer>
+		<year>1983</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Castle Top (Europe)" index="" image="">
+		<description>Castle Top (Europe)</description>
+		<cloneof></cloneof>
+		<crc>DE808931</crc>
+		<manufacturer>Alternative Software</manufacturer>
+		<year>1987</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Castle, The (USA)" index="" image="">
+		<description>Castle, The (USA)</description>
+		<cloneof></cloneof>
+		<crc>C19EE75A</crc>
+		<manufacturer>Interface Software</manufacturer>
+		<year>1984</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Caveman (Poland)" index="" image="">
+		<description>Caveman (Poland)</description>
+		<cloneof></cloneof>
+		<crc>F17CFC18</crc>
+		<manufacturer>Mirage</manufacturer>
+		<year>199x</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cavern Commander (Europe)" index="" image="">
+		<description>Cavern Commander (Europe)</description>
+		<cloneof></cloneof>
+		<crc>41CAA588</crc>
+		<manufacturer>Scorpio Gamesworld</manufacturer>
+		<year>1984</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Caverns of Khafka (USA)" index="" image="">
+		<description>Caverns of Khafka (USA)</description>
+		<cloneof></cloneof>
+		<crc>2D88F120</crc>
+		<manufacturer>Cosmi</manufacturer>
+		<year>1983</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Caves of Rigel (Europe)" index="" image="">
+		<description>Caves of Rigel (Europe)</description>
+		<cloneof></cloneof>
+		<crc>85F1E158</crc>
+		<manufacturer>Silicon Joy</manufacturer>
+		<year>1984</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cecil (Europe) (Unl)" index="" image="">
+		<description>Cecil (Europe) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>B8968DFB</crc>
+		<manufacturer>S.A. Parker</manufacturer>
+		<year>19xx</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cecil II (Europe) (Unl)" index="" image="">
+		<description>Cecil II (Europe) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>79101665</crc>
+		<manufacturer>S.A. Parker</manufacturer>
+		<year>19xx</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Chicken (USA)" index="" image="">
+		<description>Chicken (USA)</description>
+		<cloneof></cloneof>
+		<crc>936C1894</crc>
+		<manufacturer>Synapse Software</manufacturer>
+		<year>1982</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cityhawk (Czech Republic) (Unl)" index="" image="">
+		<description>Cityhawk (Czech Republic) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>411490D9</crc>
+		<manufacturer>Robert Knill</manufacturer>
+		<year>1991</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Claim Jumper (USA)" index="" image="">
+		<description>Claim Jumper (USA)</description>
+		<cloneof></cloneof>
+		<crc>F5605CD0</crc>
+		<manufacturer>Synapse Software</manufacturer>
+		<year>1982</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Collapse (Europe)" index="" image="">
+		<description>Collapse (Europe)</description>
+		<cloneof></cloneof>
+		<crc>A6888302</crc>
+		<manufacturer>Firebird</manufacturer>
+		<year>1985</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Congo Bongo (USA)" index="" image="">
+		<description>Congo Bongo (USA)</description>
+		<cloneof></cloneof>
+		<crc>FFC215B6</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1983</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cops &apos;N&apos; Robbers (Europe)" index="" image="">
+		<description>Cops &apos;N&apos; Robbers (Europe)</description>
+		<cloneof></cloneof>
+		<crc>AAA87097</crc>
+		<manufacturer>Atlantis Software</manufacturer>
+		<year>1988</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Copter Chase (USA)" index="" image="">
+		<description>Copter Chase (USA)</description>
+		<cloneof></cloneof>
+		<crc>6782CA4E</crc>
+		<manufacturer>General Masters Corporation</manufacturer>
+		<year>1983</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Creepy Caverns (USA) (Unl)" index="" image="">
+		<description>Creepy Caverns (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>45AF8497</crc>
+		<manufacturer>Tony Ramos</manufacturer>
+		<year>1983</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Curse, The (Poland)" index="" image="">
+		<description>Curse, The (Poland)</description>
+		<cloneof></cloneof>
+		<crc>D1484829</crc>
+		<manufacturer>L.K. Avalon</manufacturer>
+		<year>1992</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cygnus Senese (USA)" index="" image="">
+		<description>Cygnus Senese (USA)</description>
+		<cloneof></cloneof>
+		<crc>0FF4B316</crc>
+		<manufacturer>Aim Software</manufacturer>
+		<year>19xx</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dandy (USA)" index="true" image="d">
+		<description>Dandy (USA)</description>
+		<cloneof></cloneof>
+		<crc>527BCC0C</crc>
+		<manufacturer>APX</manufacturer>
+		<year>1983</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Danger Crosswalk (USA)" index="" image="">
+		<description>Danger Crosswalk (USA)</description>
+		<cloneof></cloneof>
+		<crc>28727614</crc>
+		<manufacturer>ALA Software</manufacturer>
+		<year>1983</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dark Chambers (USA)" index="" image="">
+		<description>Dark Chambers (USA)</description>
+		<cloneof></cloneof>
+		<crc>B3102EB5</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1988</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Deluxe Space Games (USA) (Promo)" index="" image="">
+		<description>Deluxe Space Games (USA) (Promo)</description>
+		<cloneof></cloneof>
+		<crc>FBF1D67C</crc>
+		<manufacturer>Alpha Systems</manufacturer>
+		<year>1982</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Desmond&apos;s Dungeon (Europe)" index="" image="">
+		<description>Desmond&apos;s Dungeon (Europe)</description>
+		<cloneof></cloneof>
+		<crc>D44E8C3F</crc>
+		<manufacturer>Sparklers</manufacturer>
+		<year>1984</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Diamond Mine (Europe)" index="" image="">
+		<description>Diamond Mine (Europe)</description>
+		<cloneof></cloneof>
+		<crc>27CEC71B</crc>
+		<manufacturer>Blue Ribbon Software</manufacturer>
+		<year>1985</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Diamond Mine (USA)" index="" image="">
+		<description>Diamond Mine (USA)</description>
+		<cloneof></cloneof>
+		<crc>3C77DCCE</crc>
+		<manufacturer>Roklan</manufacturer>
+		<year>1983</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Diamonds (Europe)" index="" image="">
+		<description>Diamonds (Europe)</description>
+		<cloneof></cloneof>
+		<crc>6FD2EBA0</crc>
+		<manufacturer>English Software</manufacturer>
+		<year>1983</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dig Dug (USA)" index="" image="">
+		<description>Dig Dug (USA)</description>
+		<cloneof></cloneof>
+		<crc>5A77D24A</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1983</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Digi Duck (Poland)" index="" image="">
+		<description>Digi Duck (Poland)</description>
+		<cloneof></cloneof>
+		<crc>F056015D</crc>
+		<manufacturer>L.K. Avalon</manufacturer>
+		<year>1992</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dodge Racer (USA)" index="" image="">
+		<description>Dodge Racer (USA)</description>
+		<cloneof></cloneof>
+		<crc>3717E9EB</crc>
+		<manufacturer>Synapse Software</manufacturer>
+		<year>1981</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dog Daze (USA)" index="" image="">
+		<description>Dog Daze (USA)</description>
+		<cloneof></cloneof>
+		<crc>0D24E61F</crc>
+		<manufacturer>APX</manufacturer>
+		<year>1981</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dog Daze Deluxe (USA)" index="" image="">
+		<description>Dog Daze Deluxe (USA)</description>
+		<cloneof></cloneof>
+		<crc>6E5218DE</crc>
+		<manufacturer>APX</manufacturer>
+		<year>1983</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Donald (Germany)" index="" image="">
+		<description>Donald (Germany)</description>
+		<cloneof></cloneof>
+		<crc>0B0C88F8</crc>
+		<manufacturer>KE-Soft</manufacturer>
+		<year>1992</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dr. Mindwarp (USA)" index="" image="">
+		<description>Dr. Mindwarp (USA)</description>
+		<cloneof></cloneof>
+		<crc>E6EF7577</crc>
+		<manufacturer>ALA Software</manufacturer>
+		<year>1983</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dragon Castle (Europe) (Unl)" index="" image="">
+		<description>Dragon Castle (Europe) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>E28AE079</crc>
+		<manufacturer>New Atari User</manufacturer>
+		<year>1991</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dragon Defense (USA)" index="" image="">
+		<description>Dragon Defense (USA)</description>
+		<cloneof></cloneof>
+		<crc>361C5FE2</crc>
+		<manufacturer>K-Tek Software</manufacturer>
+		<year>1983</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Drelbs (USA)" index="" image="">
+		<description>Drelbs (USA)</description>
+		<cloneof></cloneof>
+		<crc>CB94B4AA</crc>
+		<manufacturer>Synapse Software</manufacturer>
+		<year>1983</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Drol (USA)" index="" image="">
+		<description>Drol (USA)</description>
+		<cloneof></cloneof>
+		<crc>3E94D3EF</crc>
+		<manufacturer>Broderbund</manufacturer>
+		<year>1983</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Druid (Europe)" index="" image="">
+		<description>Druid (Europe)</description>
+		<cloneof></cloneof>
+		<crc>A84B4A1A</crc>
+		<manufacturer>Firebird</manufacturer>
+		<year>1987</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Duch (Poland)" index="" image="">
+		<description>Duch (Poland)</description>
+		<cloneof></cloneof>
+		<crc>643BDC7B</crc>
+		<manufacturer>Mirage</manufacturer>
+		<year>199x</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dungeon Duel (USA)" index="" image="">
+		<description>Dungeon Duel (USA)</description>
+		<cloneof></cloneof>
+		<crc>975856DD</crc>
+		<manufacturer>C&amp;C Software</manufacturer>
+		<year>1982</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="E.T. Phone Home! (USA)" index="true" image="e">
+		<description>E.T. Phone Home! (USA)</description>
+		<cloneof></cloneof>
+		<crc>54D083F1</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1983</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Eldorado (USA)" index="" image="">
+		<description>Eldorado (USA)</description>
+		<cloneof></cloneof>
+		<crc>72713ACC</crc>
+		<manufacturer>General Masters Corp</manufacturer>
+		<year>1983</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Electric Starfish (Europe)" index="" image="">
+		<description>Electric Starfish (Europe)</description>
+		<cloneof></cloneof>
+		<crc>D2EC2ADB</crc>
+		<manufacturer>Calisto Software</manufacturer>
+		<year>19xx</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Elevator Repairman (USA) (Unl)" index="" image="">
+		<description>Elevator Repairman (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>208DFA34</crc>
+		<manufacturer>ANALOG Computing</manufacturer>
+		<year>1985</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Embargo (USA)" index="" image="">
+		<description>Embargo (USA)</description>
+		<cloneof></cloneof>
+		<crc>499F8A9E</crc>
+		<manufacturer>Gebelli Software</manufacturer>
+		<year>1982</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Emulator (Europe)" index="" image="">
+		<description>Emulator (Europe)</description>
+		<cloneof></cloneof>
+		<crc>8E1A5CF2</crc>
+		<manufacturer>T&amp;G Software</manufacturer>
+		<year>1984</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Escape (Europe) (Unl)" index="" image="">
+		<description>Escape (Europe) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>D829FB78</crc>
+		<manufacturer>Virgin Books</manufacturer>
+		<year>1984</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Escape from Doomworld (Europe)" index="" image="">
+		<description>Escape from Doomworld (Europe)</description>
+		<cloneof></cloneof>
+		<crc>5BD79CB4</crc>
+		<manufacturer>Red Rat Software</manufacturer>
+		<year>1986</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Escape from Vulcan&apos;s Isle (USA)" index="" image="">
+		<description>Escape from Vulcan&apos;s Isle (USA)</description>
+		<cloneof></cloneof>
+		<crc>2C2963AC</crc>
+		<manufacturer>Epyx</manufacturer>
+		<year>1982</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Evader (USA) (Side A)" index="" image="">
+		<description>Evader (USA) (Side A)</description>
+		<cloneof></cloneof>
+		<crc>AECD1728</crc>
+		<manufacturer>Pro*Mega Software</manufacturer>
+		<year>1986</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Evader (USA) (Side B)" index="" image="">
+		<description>Evader (USA) (Side B)</description>
+		<cloneof></cloneof>
+		<crc>1F123F7F</crc>
+		<manufacturer>Pro*Mega Software</manufacturer>
+		<year>1986</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Excelsor (Europe)" index="" image="">
+		<description>Excelsor (Europe)</description>
+		<cloneof></cloneof>
+		<crc>13F29FF9</crc>
+		<manufacturer>Players</manufacturer>
+		<year>1986</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Exocet Blastoff (USA)" index="" image="">
+		<description>Exocet Blastoff (USA)</description>
+		<cloneof></cloneof>
+		<crc>2A9200D0</crc>
+		<manufacturer>General Masters</manufacturer>
+		<year>1983</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Exploding Boulder Dash (Germany) (Unl)" index="" image="">
+		<description>Exploding Boulder Dash (Germany) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>B896F4CF</crc>
+		<manufacturer>Homesoft</manufacturer>
+		<year>2006</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Exterminator, The (USA) (Unl)" index="" image="">
+		<description>Exterminator, The (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>39122ADD</crc>
+		<manufacturer>William Fasner</manufacturer>
+		<year>1982</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Factor-X (Germany) (Unl)" index="true" image="f">
+		<description>Factor-X (Germany) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>F9CD8A37</crc>
+		<manufacturer>ABBUC</manufacturer>
+		<year>1989</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fester&apos;s Quest (Poland) (Unl)" index="" image="">
+		<description>Fester&apos;s Quest (Poland) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>64045612</crc>
+		<manufacturer>Tomasz Biela</manufacturer>
+		<year>2011</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fill&apos;er Up! II (USA) (Unl)" index="" image="">
+		<description>Fill&apos;er Up! II (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>9ACFAD8B</crc>
+		<manufacturer>ANALOG Computing</manufacturer>
+		<year>19xx</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fire Chief (Europe)" index="" image="">
+		<description>Fire Chief (Europe)</description>
+		<cloneof></cloneof>
+		<crc>B2EF1381</crc>
+		<manufacturer>English Software</manufacturer>
+		<year>1985</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fire Stone (Poland)" index="" image="">
+		<description>Fire Stone (Poland)</description>
+		<cloneof></cloneof>
+		<crc>975CAE7A</crc>
+		<manufacturer>Sikor Soft</manufacturer>
+		<year>1995</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Flapper (USA)" index="" image="">
+		<description>Flapper (USA)</description>
+		<cloneof></cloneof>
+		<crc>18803C52</crc>
+		<manufacturer>Romox</manufacturer>
+		<year>1983</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fog (USA)" index="" image="">
+		<description>Fog (USA)</description>
+		<cloneof></cloneof>
+		<crc>00F1729A</crc>
+		<manufacturer>General Masters Corporation</manufacturer>
+		<year>1983</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Food Fight (USA)" index="" image="">
+		<description>Food Fight (USA)</description>
+		<cloneof></cloneof>
+		<crc>44B8475B</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1987</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Forgotten Island, The (USA)" index="" image="">
+		<description>Forgotten Island, The (USA)</description>
+		<cloneof></cloneof>
+		<crc>7BF1DEFA</crc>
+		<manufacturer>Crystalware</manufacturer>
+		<year>1981</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Frazzle (USA)" index="" image="">
+		<description>Frazzle (USA)</description>
+		<cloneof></cloneof>
+		<crc>386AFAD2</crc>
+		<manufacturer>Computer Consultants of Iowa</manufacturer>
+		<year>1981</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Frisky Tom (Germany) (Unl)" index="" image="">
+		<description>Frisky Tom (Germany) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>E81F131C</crc>
+		<manufacturer>Homesoft</manufacturer>
+		<year>2005</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Frogger (Parker Brothers) (USA)" index="" image="">
+		<description>Frogger (Parker Brothers) (USA)</description>
+		<cloneof></cloneof>
+		<crc>40E9476C</crc>
+		<manufacturer>Parker Brothers</manufacturer>
+		<year>1983</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Frogger (Sierra On-Line) (USA)" index="" image="">
+		<description>Frogger (Sierra On-Line) (USA)</description>
+		<cloneof></cloneof>
+		<crc>2FEE1575</crc>
+		<manufacturer>Sierra On-Line</manufacturer>
+		<year>198x</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Frogger II - Sewer Level (USA) (Proto)" index="" image="">
+		<description>Frogger II - Sewer Level (USA) (Proto)</description>
+		<cloneof></cloneof>
+		<crc>FA862753</crc>
+		<manufacturer>Parker Brothers</manufacturer>
+		<year>1984</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Frogger II - Theeedeep! (USA)" index="" image="">
+		<description>Frogger II - Theeedeep! (USA)</description>
+		<cloneof></cloneof>
+		<crc>6C17AB41</crc>
+		<manufacturer>Parker Brothers</manufacturer>
+		<year>1984</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Frogs (Poland) (Unl)" index="" image="">
+		<description>Frogs (Poland) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>24011C33</crc>
+		<manufacturer>Agenda</manufacturer>
+		<year>2011</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fruit Pickin&apos; (Europe)" index="" image="">
+		<description>Fruit Pickin&apos; (Europe)</description>
+		<cloneof></cloneof>
+		<crc>5826A37A</crc>
+		<manufacturer>PF Software</manufacturer>
+		<year>19xx</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gamma Ray (USA)" index="true" image="g">
+		<description>Gamma Ray (USA)</description>
+		<cloneof></cloneof>
+		<crc>8EF94417</crc>
+		<manufacturer>Aim Software</manufacturer>
+		<year>1984</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ghostbusters (USA)" index="" image="">
+		<description>Ghostbusters (USA)</description>
+		<cloneof></cloneof>
+		<crc>A07DD55A</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>1984</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gorgon (USA)" index="" image="">
+		<description>Gorgon (USA)</description>
+		<cloneof></cloneof>
+		<crc>8A5F6D34</crc>
+		<manufacturer>K-Tek Software</manufacturer>
+		<year>1983</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Green Goblins (USA)" index="" image="">
+		<description>Green Goblins (USA)</description>
+		<cloneof></cloneof>
+		<crc>2A05FC65</crc>
+		<manufacturer>Unicorn Software</manufacturer>
+		<year>1982</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gremlins (USA)" index="" image="">
+		<description>Gremlins (USA)</description>
+		<cloneof></cloneof>
+		<crc>B385BAF3</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1984</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Guess What&apos;s Coming to Dinner (USA)" index="" image="">
+		<description>Guess What&apos;s Coming to Dinner (USA)</description>
+		<cloneof></cloneof>
+		<crc>4815ACFA</crc>
+		<manufacturer>Educational Software, Inc.</manufacturer>
+		<year>1982</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gun Boat (USA)" index="" image="">
+		<description>Gun Boat (USA)</description>
+		<cloneof></cloneof>
+		<crc>4FA88D6D</crc>
+		<manufacturer>ALA Software</manufacturer>
+		<year>1983</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hard Hat Willy (Canada) (Proto)" index="true" image="h">
+		<description>Hard Hat Willy (Canada) (Proto)</description>
+		<cloneof></cloneof>
+		<crc>553A8E68</crc>
+		<manufacturer>Inhome Software</manufacturer>
+		<year>1983</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Heart Break (Europe)" index="" image="">
+		<description>Heart Break (Europe)</description>
+		<cloneof></cloneof>
+		<crc>D9136896</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1988</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Heavy Metal (Europe) (Unl)" index="" image="">
+		<description>Heavy Metal (Europe) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>83F212FD</crc>
+		<manufacturer>Page 6</manufacturer>
+		<year>1988</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Heli in the Caves Extended Edition (Europe) (Unl)" index="" image="">
+		<description>Heli in the Caves Extended Edition (Europe) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>5C2BE40F</crc>
+		<manufacturer>Creature XL</manufacturer>
+		<year>2013</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Helicops (Czech Republic) (Unl)" index="" image="">
+		<description>Helicops (Czech Republic) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>24FA96D7</crc>
+		<manufacturer>Flop Magazine</manufacturer>
+		<year>2013</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Henri (Europe)" index="" image="">
+		<description>Henri (Europe)</description>
+		<cloneof></cloneof>
+		<crc>78D78BAC</crc>
+		<manufacturer>Visions Software Factory</manufacturer>
+		<year>1984</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hijack! (Europe)" index="" image="">
+		<description>Hijack! (Europe)</description>
+		<cloneof></cloneof>
+		<crc>42F4104E</crc>
+		<manufacturer>English Software</manufacturer>
+		<year>1985</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hotfoot (Europe)" index="" image="">
+		<description>Hotfoot (Europe)</description>
+		<cloneof></cloneof>
+		<crc>7C04C2BC</crc>
+		<manufacturer>Amazon Systems</manufacturer>
+		<year>1982</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hover Bovver (Europe)" index="" image="">
+		<description>Hover Bovver (Europe)</description>
+		<cloneof></cloneof>
+		<crc>60FDB076</crc>
+		<manufacturer>Llamasoft</manufacturer>
+		<year>1984</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hunchback (Europe) (Proto)" index="" image="">
+		<description>Hunchback (Europe) (Proto)</description>
+		<cloneof></cloneof>
+		<crc>5BF79782</crc>
+		<manufacturer>Ocean Software</manufacturer>
+		<year>19xx</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hunt (Germany) (Unl)" index="" image="">
+		<description>Hunt (Germany) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>8D9692B9</crc>
+		<manufacturer>Zong</manufacturer>
+		<year>1991</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hypnotic Land (Europe)" index="" image="">
+		<description>Hypnotic Land (Europe)</description>
+		<cloneof></cloneof>
+		<crc>BCB8B908</crc>
+		<manufacturer>Lindasoft</manufacturer>
+		<year>1992</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ice (Europe)" index="true" image="i">
+		<description>Ice (Europe)</description>
+		<cloneof></cloneof>
+		<crc>90C40D18</crc>
+		<manufacturer>Raindorf Soft</manufacturer>
+		<year>19xx</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Inferno (Czech Republic) (Unl)" index="" image="">
+		<description>Inferno (Czech Republic) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>75212572</crc>
+		<manufacturer>Zdenek Kadlec</manufacturer>
+		<year>1991</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Inside (Europe)" index="" image="">
+		<description>Inside (Europe)</description>
+		<cloneof></cloneof>
+		<crc>961E6181</crc>
+		<manufacturer>ANG Software</manufacturer>
+		<year>1994</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Intruder! (Canada)" index="" image="">
+		<description>Intruder! (Canada)</description>
+		<cloneof></cloneof>
+		<crc>FC52FE26</crc>
+		<manufacturer>Inhome Software</manufacturer>
+		<year>1982</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ithix (Canada)" index="" image="">
+		<description>Ithix (Canada)</description>
+		<cloneof></cloneof>
+		<crc>D4D97902</crc>
+		<manufacturer>Romox</manufacturer>
+		<year>1983</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ixion (Europe) (Proto)" index="" image="">
+		<description>Ixion (Europe) (Proto)</description>
+		<cloneof></cloneof>
+		<crc>66DB951D</crc>
+		<manufacturer>US Gold</manufacturer>
+		<year>1985</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Java Jim (Europe)" index="true" image="j">
+		<description>Java Jim (Europe)</description>
+		<cloneof></cloneof>
+		<crc>DB87BFD7</crc>
+		<manufacturer>Sparklers</manufacturer>
+		<year>1985</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Jawbreaker (USA)" index="" image="">
+		<description>Jawbreaker (USA)</description>
+		<cloneof></cloneof>
+		<crc>E321CF6C</crc>
+		<manufacturer>Sierra On-Line</manufacturer>
+		<year>1980</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Joe Blade II (Europe)" index="" image="">
+		<description>Joe Blade II (Europe)</description>
+		<cloneof></cloneof>
+		<crc>B9ACC626</crc>
+		<manufacturer>Players</manufacturer>
+		<year>1989</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Juggler (USA)" index="" image="">
+		<description>Juggler (USA)</description>
+		<cloneof></cloneof>
+		<crc>6A697C15</crc>
+		<manufacturer>ISDI</manufacturer>
+		<year>1982</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Jungle Boy (Germany)" index="" image="">
+		<description>Jungle Boy (Germany)</description>
+		<cloneof></cloneof>
+		<crc>ECD3FF67</crc>
+		<manufacturer>Irata Verlag</manufacturer>
+		<year>1983</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Jungle Hunt (USA)" index="" image="">
+		<description>Jungle Hunt (USA)</description>
+		<cloneof></cloneof>
+		<crc>86C56C6D</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1983</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Jurassic Park II (Poland)" index="" image="">
+		<description>Jurassic Park II (Poland)</description>
+		<cloneof></cloneof>
+		<crc>A77F9C08</crc>
+		<manufacturer>Sikor Soft</manufacturer>
+		<year>1997</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Kaboom! (USA)" index="true" image="k">
+		<description>Kaboom! (USA)</description>
+		<cloneof></cloneof>
+		<crc>D2156BF5</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>1983</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Killa Cycle (Europe)" index="" image="">
+		<description>Killa Cycle (Europe)</description>
+		<cloneof></cloneof>
+		<crc>5B7EA790</crc>
+		<manufacturer>Goodwin-Muncer</manufacturer>
+		<year>19xx</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="King of Canadian (Germany)" index="" image="">
+		<description>King of Canadian (Germany)</description>
+		<cloneof></cloneof>
+		<crc>0839875B</crc>
+		<manufacturer>AMC-Verlag</manufacturer>
+		<year>1989</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="King Tut&apos;s Tomb (USA)" index="" image="">
+		<description>King Tut&apos;s Tomb (USA)</description>
+		<cloneof></cloneof>
+		<crc>0E89725E</crc>
+		<manufacturer>Antic</manufacturer>
+		<year>19xx</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Knights of the Round Table (USA)" index="" image="">
+		<description>Knights of the Round Table (USA)</description>
+		<cloneof></cloneof>
+		<crc>A8EFA11B</crc>
+		<manufacturer>ALA Software</manufacturer>
+		<year>1983</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Labyrinth (USA)" index="true" image="l">
+		<description>Labyrinth (USA)</description>
+		<cloneof></cloneof>
+		<crc>1331C794</crc>
+		<manufacturer>Broderbund</manufacturer>
+		<year>1982</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Laser Cycle (USA)" index="" image="">
+		<description>Laser Cycle (USA)</description>
+		<cloneof></cloneof>
+		<crc>54DFC549</crc>
+		<manufacturer>SGM Software</manufacturer>
+		<year>1984</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Laser Racers (USA)" index="" image="">
+		<description>Laser Racers (USA)</description>
+		<cloneof></cloneof>
+		<crc>29C23110</crc>
+		<manufacturer>Silicon Valley Systems</manufacturer>
+		<year>1983</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lava Run (USA)" index="" image="">
+		<description>Lava Run (USA)</description>
+		<cloneof></cloneof>
+		<crc>7CB0E288</crc>
+		<manufacturer>K-Tek Software</manufacturer>
+		<year>1983</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lawkeeper (USA) (Proto)" index="" image="">
+		<description>Lawkeeper (USA) (Proto)</description>
+		<cloneof></cloneof>
+		<crc>BD09C9D8</crc>
+		<manufacturer>Broderbund Software</manufacturer>
+		<year>1984</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Leap Frog! (USA)" index="" image="">
+		<description>Leap Frog! (USA)</description>
+		<cloneof></cloneof>
+		<crc>E8481DD3</crc>
+		<manufacturer>Rantom Software</manufacturer>
+		<year>1983</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Leap&apos;in Lizards! (USA) (Proto)" index="" image="">
+		<description>Leap&apos;in Lizards! (USA) (Proto)</description>
+		<cloneof></cloneof>
+		<crc>6B084EF2</crc>
+		<manufacturer>Gentry Software</manufacturer>
+		<year>1983</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Leapster (Europe)" index="" image="">
+		<description>Leapster (Europe)</description>
+		<cloneof></cloneof>
+		<crc>1040FF3E</crc>
+		<manufacturer>Alternative Software</manufacturer>
+		<year>1988</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lighthouse (USA)" index="" image="">
+		<description>Lighthouse (USA)</description>
+		<cloneof></cloneof>
+		<crc>E9DFF8D6</crc>
+		<manufacturer>ALA Software</manufacturer>
+		<year>1983</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Line Runner (Poland) (Unl)" index="" image="">
+		<description>Line Runner (Poland) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>563E0DB5</crc>
+		<manufacturer>GR8 Software</manufacturer>
+		<year>2012</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Livewire (USA) (Unl)" index="" image="">
+		<description>Livewire (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>CDD53CA0</crc>
+		<manufacturer>ANALOG Computing</manufacturer>
+		<year>1983</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lunar Jetman (Europe) (Unl)" index="" image="">
+		<description>Lunar Jetman (Europe) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>1FE43B24</crc>
+		<manufacturer>Fandal &amp; Irgendwer</manufacturer>
+		<year>2014</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lunar Lander (USA)" index="" image="">
+		<description>Lunar Lander (USA)</description>
+		<cloneof></cloneof>
+		<crc>A5F169A2</crc>
+		<manufacturer>Adventure International</manufacturer>
+		<year>1981</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lunar Leeper (USA)" index="" image="">
+		<description>Lunar Leeper (USA)</description>
+		<cloneof></cloneof>
+		<crc>3702F1CE</crc>
+		<manufacturer>Sierra On-Line</manufacturer>
+		<year>1983</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lunar Outpost (USA)" index="" image="">
+		<description>Lunar Outpost (USA)</description>
+		<cloneof></cloneof>
+		<crc>6BAE7521</crc>
+		<manufacturer>Epyx</manufacturer>
+		<year>19xx</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="M-A-S-H (USA)" index="true" image="m">
+		<description>M-A-S-H (USA)</description>
+		<cloneof></cloneof>
+		<crc>FB94A14A</crc>
+		<manufacturer>Romox</manufacturer>
+		<year>1982</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mad Marble (USA)" index="" image="">
+		<description>Mad Marble (USA)</description>
+		<cloneof></cloneof>
+		<crc>16ED6E40</crc>
+		<manufacturer>CE Software</manufacturer>
+		<year>1980</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mad Marbles (Europe)" index="" image="">
+		<description>Mad Marbles (Europe)</description>
+		<cloneof></cloneof>
+		<crc>5C16186E</crc>
+		<manufacturer>Powersoft</manufacturer>
+		<year>1993</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mad-Netter (USA)" index="" image="">
+		<description>Mad-Netter (USA)</description>
+		<cloneof></cloneof>
+		<crc>F01E3236</crc>
+		<manufacturer>Computer Magic</manufacturer>
+		<year>1982</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Magia (Poland)" index="" image="">
+		<description>Magia (Poland)</description>
+		<cloneof></cloneof>
+		<crc>178CB934</crc>
+		<manufacturer>Mirage</manufacturer>
+		<year>199x</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Magia Fortuny (Poland)" index="" image="">
+		<description>Magia Fortuny (Poland)</description>
+		<cloneof></cloneof>
+		<crc>1B61DE33</crc>
+		<manufacturer>ASF</manufacturer>
+		<year>1993</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Magia Krysztalu (Poland)" index="" image="">
+		<description>Magia Krysztalu (Poland)</description>
+		<cloneof></cloneof>
+		<crc>8A1234E2</crc>
+		<manufacturer>ASF</manufacturer>
+		<year>1992</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Magneto Bugs (USA)" index="" image="">
+		<description>Magneto Bugs (USA)</description>
+		<cloneof></cloneof>
+		<crc>56F1E65A</crc>
+		<manufacturer>Gentry Software</manufacturer>
+		<year>1983</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mahna-Malysz (Poland) (Unl)" index="" image="">
+		<description>Mahna-Malysz (Poland) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>FC01887F</crc>
+		<manufacturer>Piotr Fusik</manufacturer>
+		<year>2003</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Maniac Miner (USA)" index="" image="">
+		<description>Maniac Miner (USA)</description>
+		<cloneof></cloneof>
+		<crc>FF2A48DB</crc>
+		<manufacturer>Gentry Software</manufacturer>
+		<year>1983</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mario&apos;s Desert World (USA) (Unl)" index="" image="">
+		<description>Mario&apos;s Desert World (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>0DF1E784</crc>
+		<manufacturer>-</manufacturer>
+		<year>1991</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mashed Turtles (Europe) (Unl)" index="" image="">
+		<description>Mashed Turtles (Europe) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>0B9D63A9</crc>
+		<manufacturer>Fandal</manufacturer>
+		<year>2011</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Master of the Lamps (USA)" index="" image="">
+		<description>Master of the Lamps (USA)</description>
+		<cloneof></cloneof>
+		<crc>C280E7A5</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>1985</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Masters of Time (USA)" index="" image="">
+		<description>Masters of Time (USA)</description>
+		<cloneof></cloneof>
+		<crc>BC2E136C</crc>
+		<manufacturer>Cosmi</manufacturer>
+		<year>1983</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Matterhorn (USA)" index="" image="">
+		<description>Matterhorn (USA)</description>
+		<cloneof></cloneof>
+		<crc>88A3A3B6</crc>
+		<manufacturer>Tigervision</manufacturer>
+		<year>1984</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mediator (Europe)" index="" image="">
+		<description>Mediator (Europe)</description>
+		<cloneof></cloneof>
+		<crc>BABCCCEE</crc>
+		<manufacturer>English Software</manufacturer>
+		<year>1985</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Meltdown (USA)" index="" image="">
+		<description>Meltdown (USA)</description>
+		<cloneof></cloneof>
+		<crc>94BCEF4A</crc>
+		<manufacturer>Cosmi</manufacturer>
+		<year>1982</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mercenary - Escape From Targ (Europe)" index="" image="">
+		<description>Mercenary - Escape From Targ (Europe)</description>
+		<cloneof></cloneof>
+		<crc>B9FD2E92</crc>
+		<manufacturer>Novagen Software</manufacturer>
+		<year>1985</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Meteor (USA) (Unl)" index="" image="">
+		<description>Meteor (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>8321492A</crc>
+		<manufacturer>Russell Payne</manufacturer>
+		<year>1984</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Micro Shuttle (USA)" index="" image="">
+		<description>Micro Shuttle (USA)</description>
+		<cloneof></cloneof>
+		<crc>702D9D4D</crc>
+		<manufacturer>General Masters</manufacturer>
+		<year>1983</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Miecze Valdgira (Poland)" index="" image="">
+		<description>Miecze Valdgira (Poland)</description>
+		<cloneof></cloneof>
+		<crc>72E6AB2A</crc>
+		<manufacturer>ASF</manufacturer>
+		<year>1991</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Miecze Valdgira II - Wladca Gor (Poland)" index="" image="">
+		<description>Miecze Valdgira II - Wladca Gor (Poland)</description>
+		<cloneof></cloneof>
+		<crc>B6ABC68C</crc>
+		<manufacturer>ASF</manufacturer>
+		<year>1993</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="MIG Alley Ace (USA)" index="" image="">
+		<description>MIG Alley Ace (USA)</description>
+		<cloneof></cloneof>
+		<crc>135CAA27</crc>
+		<manufacturer>MicroProse</manufacturer>
+		<year>1983</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Misja (Poland)" index="" image="">
+		<description>Misja (Poland)</description>
+		<cloneof></cloneof>
+		<crc>D7E6B2FC</crc>
+		<manufacturer>L.K. Avalon</manufacturer>
+		<year>1990</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Missile Command (USA)" index="" image="">
+		<description>Missile Command (USA)</description>
+		<cloneof></cloneof>
+		<crc>8007873B</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1981</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mission (Europe)" index="" image="">
+		<description>Mission (Europe)</description>
+		<cloneof></cloneof>
+		<crc>2B9B8088</crc>
+		<manufacturer>Zeppelin Games</manufacturer>
+		<year>1991</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mission on Thunderhead - Operation Tempest (USA)" index="" image="">
+		<description>Mission on Thunderhead - Operation Tempest (USA)</description>
+		<cloneof></cloneof>
+		<crc>082C4199</crc>
+		<manufacturer>Avalon Hill</manufacturer>
+		<year>1985</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="MJR Boulder Dash (Germany) (Unl)" index="" image="">
+		<description>MJR Boulder Dash (Germany) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>B9F61535</crc>
+		<manufacturer>Homesoft</manufacturer>
+		<year>2011</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="MJR Boulder Dash II (Germany) (Unl)" index="" image="">
+		<description>MJR Boulder Dash II (Germany) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>716CB6E8</crc>
+		<manufacturer>Homesoft</manufacturer>
+		<year>2011</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Molecule Arthur (Europe)" index="" image="">
+		<description>Molecule Arthur (Europe)</description>
+		<cloneof></cloneof>
+		<crc>AFBEBD1C</crc>
+		<manufacturer>Petulka Software</manufacturer>
+		<year>1992</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Molecule Man (Europe)" index="" image="">
+		<description>Molecule Man (Europe)</description>
+		<cloneof></cloneof>
+		<crc>3CF8B704</crc>
+		<manufacturer>Mastertronic</manufacturer>
+		<year>1986</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Monster Smash! (USA)" index="" image="">
+		<description>Monster Smash! (USA)</description>
+		<cloneof></cloneof>
+		<crc>64FBFE11</crc>
+		<manufacturer>Datamost</manufacturer>
+		<year>1983</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Moon Shuttle (USA)" index="" image="">
+		<description>Moon Shuttle (USA)</description>
+		<cloneof></cloneof>
+		<crc>2252BAC5</crc>
+		<manufacturer>Datasoft</manufacturer>
+		<year>1983</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mr. Bear (USA)" index="" image="">
+		<description>Mr. Bear (USA)</description>
+		<cloneof></cloneof>
+		<crc>7B51515D</crc>
+		<manufacturer>London Software</manufacturer>
+		<year>19xx</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mr. Dig (Europe)" index="" image="">
+		<description>Mr. Dig (Europe)</description>
+		<cloneof></cloneof>
+		<crc>06C8F397</crc>
+		<manufacturer>Microdeal</manufacturer>
+		<year>1984</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mr. Do! (USA)" index="" image="">
+		<description>Mr. Do! (USA)</description>
+		<cloneof></cloneof>
+		<crc>9E1B3053</crc>
+		<manufacturer>Datasoft</manufacturer>
+		<year>1984</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mr. TNT (USA)" index="" image="">
+		<description>Mr. TNT (USA)</description>
+		<cloneof></cloneof>
+		<crc>E644336A</crc>
+		<manufacturer>HesWare</manufacturer>
+		<year>1983</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Musical Pilot (USA)" index="" image="">
+		<description>Musical Pilot (USA)</description>
+		<cloneof></cloneof>
+		<crc>E30FE30D</crc>
+		<manufacturer>Charlie Kulas</manufacturer>
+		<year>1983</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Nazz (USA)" index="true" image="n">
+		<description>Nazz (USA)</description>
+		<cloneof></cloneof>
+		<crc>73278F43</crc>
+		<manufacturer>Silicon Valley Systems</manufacturer>
+		<year>1983</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Nerm Of Bemer (USA) (Unl)" index="" image="">
+		<description>Nerm Of Bemer (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>6316995A</crc>
+		<manufacturer>Compute!</manufacturer>
+		<year>1984</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Nibbly (Poland) (Unl)" index="" image="">
+		<description>Nibbly (Poland) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>0F3B279F</crc>
+		<manufacturer>Tomasz Biela</manufacturer>
+		<year>2006</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Night Escape (Europe) (Unl)" index="" image="">
+		<description>Night Escape (Europe) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>10262127</crc>
+		<manufacturer>Jan Nemec</manufacturer>
+		<year>2014</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="O&apos;Riley&apos;s Mine (USA)" index="true" image="o">
+		<description>O&apos;Riley&apos;s Mine (USA)</description>
+		<cloneof></cloneof>
+		<crc>CAF6D35B</crc>
+		<manufacturer>Datasoft</manufacturer>
+		<year>1983</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ocean Detox (Europe) (Unl)" index="" image="">
+		<description>Ocean Detox (Europe) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>F62094B8</crc>
+		<manufacturer>Marek Pavlik</manufacturer>
+		<year>2010</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Octopus (Europe) (Unl)" index="" image="">
+		<description>Octopus (Europe) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>F400D3CB</crc>
+		<manufacturer>Larek</manufacturer>
+		<year>2011</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Oil&apos;s Well (USA)" index="" image="">
+		<description>Oil&apos;s Well (USA)</description>
+		<cloneof></cloneof>
+		<crc>B4B05810</crc>
+		<manufacturer>Sierra On-Line</manufacturer>
+		<year>1983</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="One Man and his Droid (Europe)" index="" image="">
+		<description>One Man and his Droid (Europe)</description>
+		<cloneof></cloneof>
+		<crc>E439E6FA</crc>
+		<manufacturer>Mastertronic</manufacturer>
+		<year>1986</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Outlaw (USA)" index="" image="">
+		<description>Outlaw (USA)</description>
+		<cloneof></cloneof>
+		<crc>95F5FA44</crc>
+		<manufacturer>APX</manufacturer>
+		<year>1979</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pac Boulder (Germany) (Unl)" index="true" image="p">
+		<description>Pac Boulder (Germany) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>259AD5EF</crc>
+		<manufacturer>Homesoft</manufacturer>
+		<year>2007</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pacific Coast Highway (USA)" index="" image="">
+		<description>Pacific Coast Highway (USA)</description>
+		<cloneof></cloneof>
+		<crc>4054FDC5</crc>
+		<manufacturer>Datasoft</manufacturer>
+		<year>1982</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pandemonium (Poland) (Proto)" index="" image="">
+		<description>Pandemonium (Poland) (Proto)</description>
+		<cloneof></cloneof>
+		<crc>FA2445EF</crc>
+		<manufacturer>ASF</manufacturer>
+		<year>19xx</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Paper Boy (USA)" index="" image="">
+		<description>Paper Boy (USA)</description>
+		<cloneof></cloneof>
+		<crc>592767B7</crc>
+		<manufacturer>Dynacomp</manufacturer>
+		<year>1983</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Parachute 2011 (Poland) (Unl)" index="" image="">
+		<description>Parachute 2011 (Poland) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>85BBED9A</crc>
+		<manufacturer>ArSoft Corporation</manufacturer>
+		<year>2011</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pathfinder (USA)" index="" image="">
+		<description>Pathfinder (USA)</description>
+		<cloneof></cloneof>
+		<crc>15194F74</crc>
+		<manufacturer>Gebelli Software</manufacturer>
+		<year>1982</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Peanut Butter Panic (USA)" index="" image="">
+		<description>Peanut Butter Panic (USA)</description>
+		<cloneof></cloneof>
+		<crc>64B5F4A1</crc>
+		<manufacturer>CBS Software</manufacturer>
+		<year>1984</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pengo (USA)" index="" image="">
+		<description>Pengo (USA)</description>
+		<cloneof></cloneof>
+		<crc>41F84CA9</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1983</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pengon (Europe)" index="" image="">
+		<description>Pengon (Europe)</description>
+		<cloneof></cloneof>
+		<crc>45A69359</crc>
+		<manufacturer>Microdeal</manufacturer>
+		<year>1984</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Periscope Up (Europe)" index="" image="">
+		<description>Periscope Up (Europe)</description>
+		<cloneof></cloneof>
+		<crc>6AC3FC7B</crc>
+		<manufacturer>Atlantis Software</manufacturer>
+		<year>1988</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Perxor (Germany) (Unl)" index="" image="">
+		<description>Perxor (Germany) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>37E57447</crc>
+		<manufacturer>AMC-Verlag</manufacturer>
+		<year>1987</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Phantom (Europe)" index="" image="">
+		<description>Phantom (Europe)</description>
+		<cloneof></cloneof>
+		<crc>BAA60FCA</crc>
+		<manufacturer>Tynesoft</manufacturer>
+		<year>1987</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pharaoh&apos;s Pyramid (USA)" index="" image="">
+		<description>Pharaoh&apos;s Pyramid (USA)</description>
+		<cloneof></cloneof>
+		<crc>F0B5181A</crc>
+		<manufacturer>Master Control Software</manufacturer>
+		<year>1983</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Phoenix Lair (USA)" index="" image="">
+		<description>Phoenix Lair (USA)</description>
+		<cloneof></cloneof>
+		<crc>F98C4F36</crc>
+		<manufacturer>MMG Micro Software</manufacturer>
+		<year>1983</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Piekielko (Poland)" index="" image="">
+		<description>Piekielko (Poland)</description>
+		<cloneof></cloneof>
+		<crc>0FEB3B1D</crc>
+		<manufacturer>L.K. Avalon</manufacturer>
+		<year>1992</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pillbox (Poland)" index="" image="">
+		<description>Pillbox (Poland)</description>
+		<cloneof></cloneof>
+		<crc>FBEFAAEE</crc>
+		<manufacturer>Tajemnice Atari</manufacturer>
+		<year>1993</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pinhead (USA)" index="" image="">
+		<description>Pinhead (USA)</description>
+		<cloneof></cloneof>
+		<crc>83389CAE</crc>
+		<manufacturer>Utopia Software</manufacturer>
+		<year>1982</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Plantation (Europe)" index="" image="">
+		<description>Plantation (Europe)</description>
+		<cloneof></cloneof>
+		<crc>84C32339</crc>
+		<manufacturer>Ad Astra</manufacturer>
+		<year>1984</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Plasma (USA)" index="" image="">
+		<description>Plasma (USA)</description>
+		<cloneof></cloneof>
+		<crc>841206A9</crc>
+		<manufacturer>Aim Software</manufacturer>
+		<year>19xx</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Plastron (Europe)" index="" image="">
+		<description>Plastron (Europe)</description>
+		<cloneof></cloneof>
+		<crc>E6F337B1</crc>
+		<manufacturer>Harlequin Software</manufacturer>
+		<year>1990</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Plattermania (USA)" index="" image="">
+		<description>Plattermania (USA)</description>
+		<cloneof></cloneof>
+		<crc>1BC2FBD0</crc>
+		<manufacturer>Epyx</manufacturer>
+		<year>1982</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pogoman (USA)" index="" image="">
+		<description>Pogoman (USA)</description>
+		<cloneof></cloneof>
+		<crc>D75C0B67</crc>
+		<manufacturer>Computer Magic</manufacturer>
+		<year>1982</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pondering About Max&apos;s (USA) (Side A)" index="" image="">
+		<description>Pondering About Max&apos;s (USA) (Side A)</description>
+		<cloneof></cloneof>
+		<crc>9CCB4FF4</crc>
+		<manufacturer>Change in Heat</manufacturer>
+		<year>1989</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pondering About Max&apos;s (USA) (Side B)" index="" image="">
+		<description>Pondering About Max&apos;s (USA) (Side B)</description>
+		<cloneof></cloneof>
+		<crc>503E8600</crc>
+		<manufacturer>Change in Heat</manufacturer>
+		<year>1989</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Power Down (Europe)" index="" image="">
+		<description>Power Down (Europe)</description>
+		<cloneof></cloneof>
+		<crc>EFC5FD15</crc>
+		<manufacturer>Mastertronic</manufacturer>
+		<year>1987</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Preppie! (USA)" index="" image="">
+		<description>Preppie! (USA)</description>
+		<cloneof></cloneof>
+		<crc>A3366831</crc>
+		<manufacturer>Adventure International</manufacturer>
+		<year>1982</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Preppie! II (USA)" index="" image="">
+		<description>Preppie! II (USA)</description>
+		<cloneof></cloneof>
+		<crc>37B809D9</crc>
+		<manufacturer>Adventure International</manufacturer>
+		<year>1983</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Princess and the Frog, The (USA)" index="" image="">
+		<description>Princess and the Frog, The (USA)</description>
+		<cloneof></cloneof>
+		<crc>53EDB7D0</crc>
+		<manufacturer>Romox</manufacturer>
+		<year>1982</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pushover (USA)" index="" image="">
+		<description>Pushover (USA)</description>
+		<cloneof></cloneof>
+		<crc>EA6FCD97</crc>
+		<manufacturer>APX</manufacturer>
+		<year>1982</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pyramid Run (USA)" index="" image="">
+		<description>Pyramid Run (USA)</description>
+		<cloneof></cloneof>
+		<crc>0A22004D</crc>
+		<manufacturer>MMG Micro Software</manufacturer>
+		<year>1984</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Quarxon (USA)" index="true" image="q">
+		<description>Quarxon (USA)</description>
+		<cloneof></cloneof>
+		<crc>223D8997</crc>
+		<manufacturer>APX</manufacturer>
+		<year>1982</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Quasimodo (Europe)" index="" image="">
+		<description>Quasimodo (Europe)</description>
+		<cloneof></cloneof>
+		<crc>2751030D</crc>
+		<manufacturer>SynSoft</manufacturer>
+		<year>1985</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="R.O.T.O. (USA) (Unl)" index="true" image="r">
+		<description>R.O.T.O. (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>D9DB8BB4</crc>
+		<manufacturer>Mike Stortz</manufacturer>
+		<year>19xx</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rabbotz! (USA)" index="" image="">
+		<description>Rabbotz! (USA)</description>
+		<cloneof></cloneof>
+		<crc>0DAB4296</crc>
+		<manufacturer>APX</manufacturer>
+		<year>1982</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rainbow Walker (USA)" index="" image="">
+		<description>Rainbow Walker (USA)</description>
+		<cloneof></cloneof>
+		<crc>791C8510</crc>
+		<manufacturer>Synapse Software</manufacturer>
+		<year>1983</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rasen-Maher (Europe)" index="" image="">
+		<description>Rasen-Maher (Europe)</description>
+		<cloneof></cloneof>
+		<crc>A8C32267</crc>
+		<manufacturer>Europa Computer-Club</manufacturer>
+		<year>1985</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rebel Probe (USA)" index="" image="">
+		<description>Rebel Probe (USA)</description>
+		<cloneof></cloneof>
+		<crc>FE9F32D8</crc>
+		<manufacturer>Milwaukee Software</manufacturer>
+		<year>1981</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rebound (USA)" index="" image="">
+		<description>Rebound (USA)</description>
+		<cloneof></cloneof>
+		<crc>F812C7E0</crc>
+		<manufacturer>MicroValue</manufacturer>
+		<year>1987</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rebound (USA) (J. D. Casten) (Unl)" index="" image="">
+		<description>Rebound (USA) (J. D. Casten) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>E72EE901</crc>
+		<manufacturer>J. D. Casten</manufacturer>
+		<year>1986</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rebound (USA) (Nick Pearce) (Unl)" index="" image="">
+		<description>Rebound (USA) (Nick Pearce) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>A3522F58</crc>
+		<manufacturer>Nick Pearce</manufacturer>
+		<year>1993</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Red Zone (USA)" index="" image="">
+		<description>Red Zone (USA)</description>
+		<cloneof></cloneof>
+		<crc>7B7B492D</crc>
+		<manufacturer>General Masters Corporation</manufacturer>
+		<year>1983</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rent Wars (USA) (Proto)" index="" image="">
+		<description>Rent Wars (USA) (Proto)</description>
+		<cloneof></cloneof>
+		<crc>EFF461F3</crc>
+		<manufacturer>First Star Software</manufacturer>
+		<year>1983</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="River Rally (Europe)" index="" image="">
+		<description>River Rally (Europe)</description>
+		<cloneof></cloneof>
+		<crc>24D0678B</crc>
+		<manufacturer>Red Rat Software</manufacturer>
+		<year>1987</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Road Toad (Australia)" index="" image="">
+		<description>Road Toad (Australia)</description>
+		<cloneof></cloneof>
+		<crc>C2B1881B</crc>
+		<manufacturer>McConnell, Cliff</manufacturer>
+		<year>19xx</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Robbo 96 (Czech Republic) (Unl)" index="" image="">
+		<description>Robbo 96 (Czech Republic) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>B26B19B7</crc>
+		<manufacturer>Klub Robbomaniaku</manufacturer>
+		<year>1996</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Robbo 97A (Czech Republic) (Unl)" index="" image="">
+		<description>Robbo 97A (Czech Republic) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>A221E768</crc>
+		<manufacturer>Klub Robbomaniaku</manufacturer>
+		<year>1997</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Robbo 97B (Czech Republic) (Unl)" index="" image="">
+		<description>Robbo 97B (Czech Republic) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>537962A8</crc>
+		<manufacturer>Klub Robbomaniaku</manufacturer>
+		<year>1997</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Robbo 98A (Czech Republic) (Unl)" index="" image="">
+		<description>Robbo 98A (Czech Republic) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>F6521A3D</crc>
+		<manufacturer>Klub Robbomaniaku</manufacturer>
+		<year>1998</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Robomash (Europe)" index="" image="">
+		<description>Robomash (Europe)</description>
+		<cloneof></cloneof>
+		<crc>CEACBAC8</crc>
+		<manufacturer>TWAUG</manufacturer>
+		<year>1995</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rocket Boy (Germany) (Unl)" index="" image="">
+		<description>Rocket Boy (Germany) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>59F5B565</crc>
+		<manufacturer>Thimo Graf</manufacturer>
+		<year>2004</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rocket Repairman - The Further Adventures of Cavern Commander (Europe)" index="" image="">
+		<description>Rocket Repairman - The Further Adventures of Cavern Commander (Europe)</description>
+		<cloneof></cloneof>
+		<crc>8A2F8B9E</crc>
+		<manufacturer>Red Rat Software</manufacturer>
+		<year>1986</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rocket Rescue (Norway) (Unl)" index="" image="">
+		<description>Rocket Rescue (Norway) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>A60764B8</crc>
+		<manufacturer>Jan Johnsen</manufacturer>
+		<year>2012</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rodent Revenge (USA) (Unl)" index="" image="">
+		<description>Rodent Revenge (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>4C824F9C</crc>
+		<manufacturer>New Breed Software</manufacturer>
+		<year>1994</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rum Runner (USA)" index="" image="">
+		<description>Rum Runner (USA)</description>
+		<cloneof></cloneof>
+		<crc>5F50CEA1</crc>
+		<manufacturer>Genesis Software</manufacturer>
+		<year>1982</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Salmon Run (USA)" index="true" image="s">
+		<description>Salmon Run (USA)</description>
+		<cloneof></cloneof>
+		<crc>1757DBFE</crc>
+		<manufacturer>APX</manufacturer>
+		<year>1982</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Santa&apos;s Boulder Dash Party (Germany) (Unl)" index="" image="">
+		<description>Santa&apos;s Boulder Dash Party (Germany) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>21C9D5F3</crc>
+		<manufacturer>Homesoft</manufacturer>
+		<year>2006</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Saucer (USA)" index="" image="">
+		<description>Saucer (USA)</description>
+		<cloneof></cloneof>
+		<crc>1CADDAFB</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1980</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Savage Pond (USA)" index="" image="">
+		<description>Savage Pond (USA)</description>
+		<cloneof></cloneof>
+		<crc>64B8B08A</crc>
+		<manufacturer>Starcade Software</manufacturer>
+		<year>1983</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Schooner (USA)" index="" image="">
+		<description>Schooner (USA)</description>
+		<cloneof></cloneof>
+		<crc>CF2AA4A4</crc>
+		<manufacturer>General Masters Corporation</manufacturer>
+		<year>1983</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Scrolls of Abadon, The (USA)" index="" image="">
+		<description>Scrolls of Abadon, The (USA)</description>
+		<cloneof></cloneof>
+		<crc>53F1A1C3</crc>
+		<manufacturer>Access Software</manufacturer>
+		<year>1984</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sea Bandit (USA)" index="" image="">
+		<description>Sea Bandit (USA)</description>
+		<cloneof></cloneof>
+		<crc>1178AFA0</crc>
+		<manufacturer>Gentry Software</manufacturer>
+		<year>1983</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sea Chase (USA)" index="" image="">
+		<description>Sea Chase (USA)</description>
+		<cloneof></cloneof>
+		<crc>2BD054A2</crc>
+		<manufacturer>Romox</manufacturer>
+		<year>1983</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sendy Dash - Volume 1 (Germany) (Unl)" index="" image="">
+		<description>Sendy Dash - Volume 1 (Germany) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>EE51166E</crc>
+		<manufacturer>Homesoft</manufacturer>
+		<year>2010</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sendy Dash - Volume 2 (Germany) (Unl)" index="" image="">
+		<description>Sendy Dash - Volume 2 (Germany) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>884731A2</crc>
+		<manufacturer>Homesoft</manufacturer>
+		<year>2010</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sendy Dash - Volume 3 (Germany) (Unl)" index="" image="">
+		<description>Sendy Dash - Volume 3 (Germany) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>5275C669</crc>
+		<manufacturer>Homesoft</manufacturer>
+		<year>2010</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Shamus (USA)" index="" image="">
+		<description>Shamus (USA)</description>
+		<cloneof></cloneof>
+		<crc>40BC36BE</crc>
+		<manufacturer>Synapse Software</manufacturer>
+		<year>1982</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Shamus - Case II (USA)" index="" image="">
+		<description>Shamus - Case II (USA)</description>
+		<cloneof></cloneof>
+		<crc>E7E2FDBD</crc>
+		<manufacturer>Synapse Software</manufacturer>
+		<year>1983</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Shit (Germany)" index="" image="">
+		<description>Shit (Germany)</description>
+		<cloneof></cloneof>
+		<crc>06478F45</crc>
+		<manufacturer>KE-Soft</manufacturer>
+		<year>1988</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Shuffleboard (USA)" index="" image="">
+		<description>Shuffleboard (USA)</description>
+		<cloneof></cloneof>
+		<crc>149850A4</crc>
+		<manufacturer>Aim Software</manufacturer>
+		<year>19xx</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Silicon (Europe)" index="" image="">
+		<description>Silicon (Europe)</description>
+		<cloneof></cloneof>
+		<crc>F99C0AC6</crc>
+		<manufacturer>Romik Software</manufacturer>
+		<year>1983</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sleepwalker (USA)" index="" image="">
+		<description>Sleepwalker (USA)</description>
+		<cloneof></cloneof>
+		<crc>187DA1F1</crc>
+		<manufacturer>Aim Software</manufacturer>
+		<year>1983</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Slime (USA)" index="" image="">
+		<description>Slime (USA)</description>
+		<cloneof></cloneof>
+		<crc>CFAA4705</crc>
+		<manufacturer>Synapse Software</manufacturer>
+		<year>1982</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Smasher (USA)" index="" image="">
+		<description>Smasher (USA)</description>
+		<cloneof></cloneof>
+		<crc>1E91AF8A</crc>
+		<manufacturer>APX</manufacturer>
+		<year>1983</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Snake Byte (USA)" index="" image="">
+		<description>Snake Byte (USA)</description>
+		<cloneof></cloneof>
+		<crc>EBCF002A</crc>
+		<manufacturer>Sirius Software</manufacturer>
+		<year>1982</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Snake Pit (USA)" index="" image="">
+		<description>Snake Pit (USA)</description>
+		<cloneof></cloneof>
+		<crc>2FB11F80</crc>
+		<manufacturer>Aim Software</manufacturer>
+		<year>19xx</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Snap II (Europe)" index="" image="">
+		<description>Snap II (Europe)</description>
+		<cloneof></cloneof>
+		<crc>DB90B9E2</crc>
+		<manufacturer>AMC-Verlag</manufacturer>
+		<year>1988</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Snapper, The (USA)" index="" image="">
+		<description>Snapper, The (USA)</description>
+		<cloneof></cloneof>
+		<crc>DB643BC5</crc>
+		<manufacturer>Silicon Valley Systems</manufacturer>
+		<year>1982</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="SOS Saturn (Poland)" index="" image="">
+		<description>SOS Saturn (Poland)</description>
+		<cloneof></cloneof>
+		<crc>1C35DB17</crc>
+		<manufacturer>Domain</manufacturer>
+		<year>19xx</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Space Chase (USA)" index="" image="">
+		<description>Space Chase (USA)</description>
+		<cloneof></cloneof>
+		<crc>23D54393</crc>
+		<manufacturer>APX</manufacturer>
+		<year>1981</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Space Cowboy (USA)" index="" image="">
+		<description>Space Cowboy (USA)</description>
+		<cloneof></cloneof>
+		<crc>573ECB2C</crc>
+		<manufacturer>Avalon Hill</manufacturer>
+		<year>1983</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Space Lobsters (Europe)" index="" image="">
+		<description>Space Lobsters (Europe)</description>
+		<cloneof></cloneof>
+		<crc>963584B7</crc>
+		<manufacturer>Red Rat Software</manufacturer>
+		<year>1987</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Spare Change (USA)" index="" image="">
+		<description>Spare Change (USA)</description>
+		<cloneof></cloneof>
+		<crc>24370D42</crc>
+		<manufacturer>Broderbund</manufacturer>
+		<year>1983</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Spark Bugs (USA)" index="" image="">
+		<description>Spark Bugs (USA)</description>
+		<cloneof></cloneof>
+		<crc>DCA978FD</crc>
+		<manufacturer>Romox</manufacturer>
+		<year>1983</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Special Delivery (Europe)" index="" image="">
+		<description>Special Delivery (Europe)</description>
+		<cloneof></cloneof>
+		<crc>535F79DF</crc>
+		<manufacturer>Creative Sparks</manufacturer>
+		<year>1985</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Special Forces - Operation Blood II (Poland)" index="" image="">
+		<description>Special Forces - Operation Blood II (Poland)</description>
+		<cloneof></cloneof>
+		<crc>7BAED9C5</crc>
+		<manufacturer>Mirage</manufacturer>
+		<year>1993</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Speed Fox (Europe)" index="" image="">
+		<description>Speed Fox (Europe)</description>
+		<cloneof></cloneof>
+		<crc>FCF77B90</crc>
+		<manufacturer>Tiger Developments</manufacturer>
+		<year>1992</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Spider Quake (USA)" index="" image="">
+		<description>Spider Quake (USA)</description>
+		<cloneof></cloneof>
+		<crc>1498A126</crc>
+		<manufacturer>Gentry Software</manufacturer>
+		<year>1983</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Spindizzy (Europe)" index="" image="">
+		<description>Spindizzy (Europe)</description>
+		<cloneof></cloneof>
+		<crc>2B2A455C</crc>
+		<manufacturer>Electric Dreams</manufacturer>
+		<year>1986</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Spy Master (Poland)" index="" image="">
+		<description>Spy Master (Poland)</description>
+		<cloneof></cloneof>
+		<crc>20E1E671</crc>
+		<manufacturer>L.K. Avalon</manufacturer>
+		<year>1993</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Spy Strikes Back, The (USA)" index="" image="">
+		<description>Spy Strikes Back, The (USA)</description>
+		<cloneof></cloneof>
+		<crc>F40DF6A6</crc>
+		<manufacturer>Penguin Software</manufacturer>
+		<year>1983</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Spy vs Spy (USA)" index="" image="">
+		<description>Spy vs Spy (USA)</description>
+		<cloneof></cloneof>
+		<crc>3C384EE0</crc>
+		<manufacturer>First Star Software</manufacturer>
+		<year>1984</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Spy vs Spy - Arctic Antics (USA)" index="" image="">
+		<description>Spy vs Spy - Arctic Antics (USA)</description>
+		<cloneof></cloneof>
+		<crc>E7BAB0D9</crc>
+		<manufacturer>Epyx</manufacturer>
+		<year>1987</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Spy vs Spy - The Island Caper (USA)" index="" image="">
+		<description>Spy vs Spy - The Island Caper (USA)</description>
+		<cloneof></cloneof>
+		<crc>555B753E</crc>
+		<manufacturer>First Star Software</manufacturer>
+		<year>1985</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Spy&apos;s Demise (USA)" index="" image="">
+		<description>Spy&apos;s Demise (USA)</description>
+		<cloneof></cloneof>
+		<crc>8EE6FA33</crc>
+		<manufacturer>Penguin Software</manufacturer>
+		<year>1983</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Squish&apos;em (USA)" index="" image="">
+		<description>Squish&apos;em (USA)</description>
+		<cloneof></cloneof>
+		<crc>69372A32</crc>
+		<manufacturer>Sirius Software</manufacturer>
+		<year>1983</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="SS Achilles (Europe)" index="" image="">
+		<description>SS Achilles (Europe)</description>
+		<cloneof></cloneof>
+		<crc>5568A0F6</crc>
+		<manufacturer>Beyond Software</manufacturer>
+		<year>1983</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Star Trek (USA)" index="" image="">
+		<description>Star Trek (USA)</description>
+		<cloneof></cloneof>
+		<crc>BE5376F8</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1983</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Star Trux (USA) (Proto)" index="" image="">
+		<description>Star Trux (USA) (Proto)</description>
+		<cloneof></cloneof>
+		<crc>C13C98D7</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1982</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Starball (Poland)" index="" image="">
+		<description>Starball (Poland)</description>
+		<cloneof></cloneof>
+		<crc>979298AC</crc>
+		<manufacturer>Mirage</manufacturer>
+		<year>1995</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Starquake (Europe)" index="" image="">
+		<description>Starquake (Europe)</description>
+		<cloneof></cloneof>
+		<crc>F43F6335</crc>
+		<manufacturer>Bubble Bus Software</manufacturer>
+		<year>1985</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Steeple Jack (Europe)" index="" image="">
+		<description>Steeple Jack (Europe)</description>
+		<cloneof></cloneof>
+		<crc>7C8461DF</crc>
+		<manufacturer>English Software</manufacturer>
+		<year>1983</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Stickybear Basket Bounce (USA)" index="" image="">
+		<description>Stickybear Basket Bounce (USA)</description>
+		<cloneof></cloneof>
+		<crc>904D65AC</crc>
+		<manufacturer>Weekly Reader Family Software</manufacturer>
+		<year>1983</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Storm (Europe)" index="" image="">
+		<description>Storm (Europe)</description>
+		<cloneof></cloneof>
+		<crc>8C7FF045</crc>
+		<manufacturer>Mastertronic</manufacturer>
+		<year>1986</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Stratosphere - Excelsor II (Europe)" index="" image="">
+		<description>Stratosphere - Excelsor II (Europe)</description>
+		<cloneof></cloneof>
+		<crc>02FFDEB0</crc>
+		<manufacturer>Players</manufacturer>
+		<year>1987</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Submission (Germany) (Unl)" index="" image="">
+		<description>Submission (Germany) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>44690025</crc>
+		<manufacturer>Happy Computer</manufacturer>
+		<year>1986</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sun Star (Europe)" index="" image="">
+		<description>Sun Star (Europe)</description>
+		<cloneof></cloneof>
+		<crc>661A765B</crc>
+		<manufacturer>CRL</manufacturer>
+		<year>1986</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Snake (Europe)" index="" image="">
+		<description>Super Snake (Europe)</description>
+		<cloneof></cloneof>
+		<crc>A96D1196</crc>
+		<manufacturer>Europa Computer-Club</manufacturer>
+		<year>1984</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Superman III (USA) (Proto)" index="" image="">
+		<description>Superman III (USA) (Proto)</description>
+		<cloneof></cloneof>
+		<crc>639846D6</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1983</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Survival of the Fittest (USA)" index="" image="">
+		<description>Survival of the Fittest (USA)</description>
+		<cloneof></cloneof>
+		<crc>6F6E1A84</crc>
+		<manufacturer>IDSI</manufacturer>
+		<year>1982</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Swamp Chomp (USA)" index="" image="">
+		<description>Swamp Chomp (USA)</description>
+		<cloneof></cloneof>
+		<crc>D956336B</crc>
+		<manufacturer>Program Design</manufacturer>
+		<year>1982</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="T34 - The Battle (Poland) (Side A)" index="true" image="t">
+		<description>T34 - The Battle (Poland) (Side A)</description>
+		<cloneof></cloneof>
+		<crc>65FFDA9E</crc>
+		<manufacturer>Mirage</manufacturer>
+		<year>1994</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="T34 - The Battle (Poland) (Side B)" index="" image="">
+		<description>T34 - The Battle (Poland) (Side B)</description>
+		<cloneof></cloneof>
+		<crc>2839A526</crc>
+		<manufacturer>Mirage</manufacturer>
+		<year>1994</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tank Trap (USA)" index="" image="">
+		<description>Tank Trap (USA)</description>
+		<cloneof></cloneof>
+		<crc>929D0D8E</crc>
+		<manufacturer>Quality Software</manufacturer>
+		<year>1980</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tank vs Tank (Poland)" index="" image="">
+		<description>Tank vs Tank (Poland)</description>
+		<cloneof></cloneof>
+		<crc>2E34A521</crc>
+		<manufacturer>Mirage</manufacturer>
+		<year>19xx</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tapper (USA)" index="" image="">
+		<description>Tapper (USA)</description>
+		<cloneof></cloneof>
+		<crc>742E18E5</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1984</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tarzan of the Apes (USA) (Proto)" index="" image="">
+		<description>Tarzan of the Apes (USA) (Proto)</description>
+		<cloneof></cloneof>
+		<crc>052B5B02</crc>
+		<manufacturer>Coleco</manufacturer>
+		<year>1984</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tech (Poland) (Proto)" index="" image="">
+		<description>Tech (Poland) (Proto)</description>
+		<cloneof></cloneof>
+		<crc>E776B99A</crc>
+		<manufacturer>ASF</manufacturer>
+		<year>19xx</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tekblast (Poland)" index="" image="">
+		<description>Tekblast (Poland)</description>
+		<cloneof></cloneof>
+		<crc>CBA2F49E</crc>
+		<manufacturer>Sikor Soft</manufacturer>
+		<year>1998</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Temple of Darkness (USA)" index="" image="">
+		<description>Temple of Darkness (USA)</description>
+		<cloneof></cloneof>
+		<crc>53D57C1D</crc>
+		<manufacturer>Aim Software</manufacturer>
+		<year>19xx</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Thrust (Europe)" index="" image="">
+		<description>Thrust (Europe)</description>
+		<cloneof></cloneof>
+		<crc>6C6CA8B8</crc>
+		<manufacturer>Firebird</manufacturer>
+		<year>1986</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Time Runner (USA)" index="" image="">
+		<description>Time Runner (USA)</description>
+		<cloneof></cloneof>
+		<crc>0CE9B7FF</crc>
+		<manufacturer>Funsoft</manufacturer>
+		<year>1982</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Timeslip (Europe)" index="" image="">
+		<description>Timeslip (Europe)</description>
+		<cloneof></cloneof>
+		<crc>DE5B348E</crc>
+		<manufacturer>English Software</manufacturer>
+		<year>1986</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Timezone (Germany) (Unl)" index="" image="">
+		<description>Timezone (Germany) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>D18F0AA8</crc>
+		<manufacturer>KE-Soft</manufacturer>
+		<year>1994</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tower of Flames (Europe) (Unl)" index="" image="">
+		<description>Tower of Flames (Europe) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>3C0709E3</crc>
+		<manufacturer>Virgin Books</manufacturer>
+		<year>1984</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tower Toppler (USA) (Proto)" index="" image="">
+		<description>Tower Toppler (USA) (Proto)</description>
+		<cloneof></cloneof>
+		<crc>49DC3B22</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1988</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tractor Beam (USA)" index="" image="">
+		<description>Tractor Beam (USA)</description>
+		<cloneof></cloneof>
+		<crc>CE1D2DDB</crc>
+		<manufacturer>CE Software</manufacturer>
+		<year>1980</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tree Surgeon (USA) (Proto)" index="" image="">
+		<description>Tree Surgeon (USA) (Proto)</description>
+		<cloneof></cloneof>
+		<crc>637B7BF8</crc>
+		<manufacturer>Western Technologies</manufacturer>
+		<year>1983</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Trial by Fire! (USA)" index="" image="">
+		<description>Trial by Fire! (USA)</description>
+		<cloneof></cloneof>
+		<crc>52D4A733</crc>
+		<manufacturer>Magnum Opus</manufacturer>
+		<year>1987</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tricky Tracks (USA) (Unl)" index="" image="">
+		<description>Tricky Tracks (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>BE9DD61D</crc>
+		<manufacturer>Dave Oblad</manufacturer>
+		<year>1983</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Trip to Jupiter (USA)" index="" image="">
+		<description>Trip to Jupiter (USA)</description>
+		<cloneof></cloneof>
+		<crc>153B3A45</crc>
+		<manufacturer>Sebree&apos;s Computing</manufacturer>
+		<year>1981</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tron (Poland)" index="" image="">
+		<description>Tron (Poland)</description>
+		<cloneof></cloneof>
+		<crc>FA89B681</crc>
+		<manufacturer>Mirage</manufacturer>
+		<year>1992</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tron - The Race (Germany) (Unl)" index="" image="">
+		<description>Tron - The Race (Germany) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>0C7E1689</crc>
+		<manufacturer>Torsten Karwoth</manufacturer>
+		<year>1988</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Trull (Europe)" index="" image="">
+		<description>Trull (Europe)</description>
+		<cloneof></cloneof>
+		<crc>73DE4BA1</crc>
+		<manufacturer>Europa Computer-Club</manufacturer>
+		<year>1984</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Trust (USA)" index="" image="">
+		<description>Trust (USA)</description>
+		<cloneof></cloneof>
+		<crc>2D65360B</crc>
+		<manufacturer>Rantom Software</manufacturer>
+		<year>1983</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tube Baddies (Europe)" index="" image="">
+		<description>Tube Baddies (Europe)</description>
+		<cloneof></cloneof>
+		<crc>164DDB17</crc>
+		<manufacturer>Micro Discount</manufacturer>
+		<year>1995</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Turboflex (Europe)" index="" image="">
+		<description>Turboflex (Europe)</description>
+		<cloneof></cloneof>
+		<crc>18F3C1CA</crc>
+		<manufacturer>Aackosoft</manufacturer>
+		<year>1982</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tusker (Poland)" index="" image="">
+		<description>Tusker (Poland)</description>
+		<cloneof></cloneof>
+		<crc>38AD4EE9</crc>
+		<manufacturer>Mirage</manufacturer>
+		<year>1993</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tutankham (USA) (Proto)" index="" image="">
+		<description>Tutankham (USA) (Proto)</description>
+		<cloneof></cloneof>
+		<crc>5170320D</crc>
+		<manufacturer>Parker Brothers</manufacturer>
+		<year>1983</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tutti Frutti (USA)" index="" image="">
+		<description>Tutti Frutti (USA)</description>
+		<cloneof></cloneof>
+		<crc>3285A6C0</crc>
+		<manufacturer>Adventure International</manufacturer>
+		<year>1982</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tutunkhamun (USA)" index="" image="">
+		<description>Tutunkhamun (USA)</description>
+		<cloneof></cloneof>
+		<crc>FE943727</crc>
+		<manufacturer>Parker Brothers</manufacturer>
+		<year>1984</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Vengeance (USA)" index="true" image="v">
+		<description>Vengeance (USA)</description>
+		<cloneof></cloneof>
+		<crc>7D9E87EB</crc>
+		<manufacturer>Aim Software</manufacturer>
+		<year>19xx</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Viper (USA)" index="" image="">
+		<description>Viper (USA)</description>
+		<cloneof></cloneof>
+		<crc>CA5F8C01</crc>
+		<manufacturer>Aim Software</manufacturer>
+		<year>1982</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Voyage to Home (Peru) (Unl)" index="" image="">
+		<description>Voyage to Home (Peru) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>BB405766</crc>
+		<manufacturer>Mario Caillahuz</manufacturer>
+		<year>2006</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Vulcano (Germany) (Unl)" index="" image="">
+		<description>Vulcano (Germany) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>613012F1</crc>
+		<manufacturer>Karolj Nadj</manufacturer>
+		<year>2006</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="WallWar (USA)" index="true" image="w">
+		<description>WallWar (USA)</description>
+		<cloneof></cloneof>
+		<crc>9A5A2A4C</crc>
+		<manufacturer>Sierra On-Line</manufacturer>
+		<year>1982</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Warp Zone (USA)" index="" image="">
+		<description>Warp Zone (USA)</description>
+		<cloneof></cloneof>
+		<crc>E580051F</crc>
+		<manufacturer>CSI</manufacturer>
+		<year>1984</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Warsaw Robbo (Poland) (Unl)" index="" image="">
+		<description>Warsaw Robbo (Poland) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>ED4DE4B8</crc>
+		<manufacturer>PW Software</manufacturer>
+		<year>1993</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Warsaw Robbo II (Poland) (Unl)" index="" image="">
+		<description>Warsaw Robbo II (Poland) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>5ED66C5F</crc>
+		<manufacturer>PW Software</manufacturer>
+		<year>1992</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Water Eat 01 (Germany) (Unl)" index="" image="">
+		<description>Water Eat 01 (Germany) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>FF472B42</crc>
+		<manufacturer>Homesoft</manufacturer>
+		<year>2007</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Weakon (USA)" index="" image="">
+		<description>Weakon (USA)</description>
+		<cloneof></cloneof>
+		<crc>88F4DBE9</crc>
+		<manufacturer>APX</manufacturer>
+		<year>1983</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Weihnachtsspiel (Germany) (Unl)" index="" image="">
+		<description>Weihnachtsspiel (Germany) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>323C34F4</crc>
+		<manufacturer>Zong</manufacturer>
+		<year>1989</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Whirlinurd (Europe)" index="" image="">
+		<description>Whirlinurd (Europe)</description>
+		<cloneof></cloneof>
+		<crc>11DD942E</crc>
+		<manufacturer>U.S. Gold</manufacturer>
+		<year>1985</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Whomper Stomper (Europe)" index="" image="">
+		<description>Whomper Stomper (Europe)</description>
+		<cloneof></cloneof>
+		<crc>14F62D48</crc>
+		<manufacturer>Adventure International</manufacturer>
+		<year>1984</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Wizard (Europe)" index="" image="">
+		<description>Wizard (Europe)</description>
+		<cloneof></cloneof>
+		<crc>06F9FBC2</crc>
+		<manufacturer>MicroValue</manufacturer>
+		<year>1987</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Yar&apos;s Strike (USA) (Unl)" index="true" image="y">
+		<description>Yar&apos;s Strike (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>1FF55528</crc>
+		<manufacturer>Inspriration Soft</manufacturer>
+		<year>2009</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Yoomp! (Poland) (Unl)" index="" image="">
+		<description>Yoomp! (Poland) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>5D993A16</crc>
+		<manufacturer>Piotr Fusik</manufacturer>
+		<year>2008</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Zip Zap Zonked (USA)" index="true" image="z">
+		<description>Zip Zap Zonked (USA)</description>
+		<cloneof></cloneof>
+		<crc>7F159D9B</crc>
+		<manufacturer>General Masters Corporation</manufacturer>
+		<year>1983</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

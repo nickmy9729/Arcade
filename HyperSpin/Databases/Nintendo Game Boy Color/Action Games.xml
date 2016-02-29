@@ -1,0 +1,1679 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Nintendo Game Boy Color</listname>
+		<lastlistupdate>06/08/2013</lastlistupdate>
+		<listversion>1.1 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="007 - The World Is Not Enough (USA, Europe)" index="true" image="0">
+		<description>007 - The World Is Not Enough (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>e038e666</crc>
+		<manufacturer>Electronic Arts</manufacturer>
+		<year>2001</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Action Man - Search for Base X (USA, Europe)" index="true" image="a">
+		<description>Action Man - Search for Base X (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>1226499e</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2001</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Alfred&apos;s Adventure (Europe)" index="" image="">
+		<description>Alfred&apos;s Adventure (Europe)</description>
+		<cloneof></cloneof>
+		<crc>6f9ef15e</crc>
+		<manufacturer>SCi</manufacturer>
+		<year>2000</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Alice in Wonderland (USA)" index="" image="">
+		<description>Alice in Wonderland (USA)</description>
+		<cloneof></cloneof>
+		<crc>3199f65f</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2000</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Aliens - Thanatos Encounter (USA, Europe)" index="" image="">
+		<description>Aliens - Thanatos Encounter (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>bec3c24b</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2001</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Antz (USA)" index="" image="">
+		<description>Antz (USA)</description>
+		<cloneof></cloneof>
+		<crc>dc0be439</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1999</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Armorines - Project S.W.A.R.M. (USA, Europe)" index="" image="">
+		<description>Armorines - Project S.W.A.R.M. (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>ea3b9c73</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1999</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Army Men (USA, Europe)" index="" image="">
+		<description>Army Men (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>34411753</crc>
+		<manufacturer>3DO</manufacturer>
+		<year>2000</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Army Men - Air Combat (USA)" index="" image="">
+		<description>Army Men - Air Combat (USA)</description>
+		<cloneof></cloneof>
+		<crc>b0d1de8c</crc>
+		<manufacturer>3DO</manufacturer>
+		<year>2000</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Army Men - Sarge&apos;s Heroes 2 (USA, Europe)" index="" image="">
+		<description>Army Men - Sarge&apos;s Heroes 2 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>71b857ea</crc>
+		<manufacturer>3DO</manufacturer>
+		<year>2000</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Army Men 2 (USA)" index="" image="">
+		<description>Army Men 2 (USA)</description>
+		<cloneof></cloneof>
+		<crc>2272baca</crc>
+		<manufacturer>3DO</manufacturer>
+		<year>2000</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Arthur&apos;s Absolutely Fun Day! (USA)" index="" image="">
+		<description>Arthur&apos;s Absolutely Fun Day! (USA)</description>
+		<cloneof></cloneof>
+		<crc>f03599a3</crc>
+		<manufacturer>The Learning Company</manufacturer>
+		<year>2000</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Asterix &amp; Obelix vs Caesar (Europe)" index="" image="">
+		<description>Asterix &amp; Obelix vs Caesar (Europe)</description>
+		<cloneof></cloneof>
+		<crc>71043d76</crc>
+		<manufacturer>Infogrames</manufacturer>
+		<year>2000</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Asterix - Search for Dogmatix (Europe)" index="" image="">
+		<description>Asterix - Search for Dogmatix (Europe)</description>
+		<cloneof></cloneof>
+		<crc>408dc5c6</crc>
+		<manufacturer>Infogrames</manufacturer>
+		<year>2000</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Austin Powers - Oh, Behave! (USA)" index="" image="">
+		<description>Austin Powers - Oh, Behave! (USA)</description>
+		<cloneof></cloneof>
+		<crc>bb89190e</crc>
+		<manufacturer>Take-Two Interactive</manufacturer>
+		<year>2000</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Austin Powers - Welcome to my Underground Lair! (USA)" index="" image="">
+		<description>Austin Powers - Welcome to my Underground Lair! (USA)</description>
+		<cloneof></cloneof>
+		<crc>aba42b78</crc>
+		<manufacturer>Rockstar Games</manufacturer>
+		<year>2000</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Babe and Friends (USA)" index="true" image="b">
+		<description>Babe and Friends (USA)</description>
+		<cloneof></cloneof>
+		<crc>e25407f1</crc>
+		<manufacturer>Crave</manufacturer>
+		<year>1999</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Baby Felix - Halloween (Europe)" index="" image="">
+		<description>Baby Felix - Halloween (Europe)</description>
+		<cloneof></cloneof>
+		<crc>7ded5c71</crc>
+		<manufacturer>LSP</manufacturer>
+		<year>2001</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Barbie - Fashion Pack Games (USA, Europe)" index="" image="">
+		<description>Barbie - Fashion Pack Games (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>09ee93a8</crc>
+		<manufacturer>Mattel</manufacturer>
+		<year>2000</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Barbie - Magic Genie Adventure (USA)" index="" image="">
+		<description>Barbie - Magic Genie Adventure (USA)</description>
+		<cloneof></cloneof>
+		<crc>57f1a202</crc>
+		<manufacturer>Mattel</manufacturer>
+		<year>2000</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Barbie - Ocean Discovery (USA)" index="" image="">
+		<description>Barbie - Ocean Discovery (USA)</description>
+		<cloneof></cloneof>
+		<crc>746936c6</crc>
+		<manufacturer>Mattel</manufacturer>
+		<year>1999</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Barbie - Pet Rescue (USA)" index="" image="">
+		<description>Barbie - Pet Rescue (USA)</description>
+		<cloneof></cloneof>
+		<crc>1fc972cc</crc>
+		<manufacturer>Mattel</manufacturer>
+		<year>2001</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="BattleTanx (USA)" index="" image="">
+		<description>BattleTanx (USA)</description>
+		<cloneof></cloneof>
+		<crc>4431f8e7</crc>
+		<manufacturer>3DO</manufacturer>
+		<year>2000</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bear in the Big Blue House (USA)" index="" image="">
+		<description>Bear in the Big Blue House (USA)</description>
+		<cloneof></cloneof>
+		<crc>851c8710</crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>2002</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bionic Commando - Elite Forces (USA)" index="" image="">
+		<description>Bionic Commando - Elite Forces (USA)</description>
+		<cloneof></cloneof>
+		<crc>a663cf31</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2000</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bob the Builder - Fix it Fun! (USA)" index="" image="">
+		<description>Bob the Builder - Fix it Fun! (USA)</description>
+		<cloneof></cloneof>
+		<crc>93fa37bd</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2001</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bomberman Max - Blue Champion (USA)" index="" image="">
+		<description>Bomberman Max - Blue Champion (USA)</description>
+		<cloneof></cloneof>
+		<crc>5ccb66cf</crc>
+		<manufacturer>Vatical Entertainment</manufacturer>
+		<year>2000</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bomberman Max - Red Challenger (USA)" index="" image="">
+		<description>Bomberman Max - Red Challenger (USA)</description>
+		<cloneof></cloneof>
+		<crc>4853f586</crc>
+		<manufacturer>Vatical Entertainment</manufacturer>
+		<year>2000</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Buzz Lightyear of Star Command (USA, Europe)" index="" image="">
+		<description>Buzz Lightyear of Star Command (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>84e29b87</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2000</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cannon Fodder (USA)" index="true" image="c">
+		<description>Cannon Fodder (USA)</description>
+		<cloneof></cloneof>
+		<crc>26f8e1a0</crc>
+		<manufacturer>Codemasters</manufacturer>
+		<year>2000</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Carmageddon - Carpocalypse Now (USA, Europe)" index="" image="">
+		<description>Carmageddon - Carpocalypse Now (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>bb482ed7</crc>
+		<manufacturer>Titus Software</manufacturer>
+		<year>2000</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Caterpillar Construction Zone (USA)" index="" image="">
+		<description>Caterpillar Construction Zone (USA)</description>
+		<cloneof></cloneof>
+		<crc>d20dc670</crc>
+		<manufacturer>Mattel</manufacturer>
+		<year>2000</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Chicken Run (USA, Europe)" index="" image="">
+		<description>Chicken Run (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>f8bd2a01</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2000</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Croc (USA, Europe)" index="" image="">
+		<description>Croc (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>4664a167</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2000</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Croc 2 (USA, Europe)" index="" image="">
+		<description>Croc 2 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>c1d60129</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2001</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Deja Vu I &amp; II - The Casebooks of Ace Harding (USA)" index="true" image="d">
+		<description>Deja Vu I &amp; II - The Casebooks of Ace Harding (USA)</description>
+		<cloneof></cloneof>
+		<crc>ad0937f4</crc>
+		<manufacturer>Vatical Entertainment</manufacturer>
+		<year>1999</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dexter&apos;s Laboratory - Robot Rampage (USA)" index="" image="">
+		<description>Dexter&apos;s Laboratory - Robot Rampage (USA)</description>
+		<cloneof></cloneof>
+		<crc>d24d6601</crc>
+		<manufacturer>Bam Entertainment</manufacturer>
+		<year>2000</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dinosaur (USA)" index="" image="">
+		<description>Dinosaur (USA)</description>
+		<cloneof></cloneof>
+		<crc>276ecaae</crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>2000</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Diva Starz - Mall Mania (USA)" index="" image="">
+		<description>Diva Starz - Mall Mania (USA)</description>
+		<cloneof></cloneof>
+		<crc>ebe0ecd6</crc>
+		<manufacturer>VU Games</manufacturer>
+		<year>2001</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Doug&apos;s Big Game (USA)" index="" image="">
+		<description>Doug&apos;s Big Game (USA)</description>
+		<cloneof></cloneof>
+		<crc>08e3d065</crc>
+		<manufacturer>NewKidCo</manufacturer>
+		<year>2000</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dracula - Crazy Vampire (USA)" index="" image="">
+		<description>Dracula - Crazy Vampire (USA)</description>
+		<cloneof></cloneof>
+		<crc>283742e4</crc>
+		<manufacturer>DreamCatcher Interactive</manufacturer>
+		<year>2001</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dragon Dance (USA)" index="" image="">
+		<description>Dragon Dance (USA)</description>
+		<cloneof></cloneof>
+		<crc>0602dbe1</crc>
+		<manufacturer>Crave</manufacturer>
+		<year>2000</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dragon Tales - Dragon Wings (USA)" index="" image="">
+		<description>Dragon Tales - Dragon Wings (USA)</description>
+		<cloneof></cloneof>
+		<crc>191d31ec</crc>
+		<manufacturer>NewKidCo</manufacturer>
+		<year>2000</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="E.T. The Extra Terrestrial - Escape from Planet Earth (USA)" index="true" image="e">
+		<description>E.T. The Extra Terrestrial - Escape from Planet Earth (USA)</description>
+		<cloneof></cloneof>
+		<crc>086106de</crc>
+		<manufacturer>NewKidCo</manufacturer>
+		<year>2001</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Emperor&apos;s New Groove, The (USA)" index="" image="">
+		<description>Emperor&apos;s New Groove, The (USA)</description>
+		<cloneof></cloneof>
+		<crc>6ebad539</crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>2000</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Extreme Ghostbusters (Europe)" index="" image="">
+		<description>Extreme Ghostbusters (Europe)</description>
+		<cloneof></cloneof>
+		<crc>cc777b98</crc>
+		<manufacturer>LSP</manufacturer>
+		<year>2001</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fish Files, The (Europe)" index="true" image="f">
+		<description>Fish Files, The (Europe)</description>
+		<cloneof></cloneof>
+		<crc>d6abc1f8</crc>
+		<manufacturer>7th Sense</manufacturer>
+		<year>2001</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Flintstones, The - Burgertime in Bedrock (USA)" index="" image="">
+		<description>Flintstones, The - Burgertime in Bedrock (USA)</description>
+		<cloneof></cloneof>
+		<crc>14d8cc5d</crc>
+		<manufacturer>Electro Source</manufacturer>
+		<year>2001</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Flipper &amp; Lopaka (Europe)" index="" image="">
+		<description>Flipper &amp; Lopaka (Europe)</description>
+		<cloneof></cloneof>
+		<crc>08b9e4aa</crc>
+		<manufacturer>Planet Interactive</manufacturer>
+		<year>2001</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Force 21 (USA)" index="" image="">
+		<description>Force 21 (USA)</description>
+		<cloneof></cloneof>
+		<crc>2dcd0a0a</crc>
+		<manufacturer>Red Storm Entertainment</manufacturer>
+		<year>2000</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fort Boyard (Europe)" index="" image="">
+		<description>Fort Boyard (Europe)</description>
+		<cloneof></cloneof>
+		<crc>06c8e50a</crc>
+		<manufacturer>Titus Software</manufacturer>
+		<year>2001</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Frogger (USA) (Rev B)" index="" image="">
+		<description>Frogger (USA) (Rev B)</description>
+		<cloneof></cloneof>
+		<crc>d9a22e5d</crc>
+		<manufacturer>Majesco Games</manufacturer>
+		<year>1998</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Frogger 2 (USA)" index="" image="">
+		<description>Frogger 2 (USA)</description>
+		<cloneof></cloneof>
+		<crc>6a2666aa</crc>
+		<manufacturer>Majesco Games</manufacturer>
+		<year>2000</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gift (Europe)" index="true" image="g">
+		<description>Gift (Europe)</description>
+		<cloneof></cloneof>
+		<crc>1b0034e8</crc>
+		<manufacturer>Cryo Interactive</manufacturer>
+		<year>2001</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Godzilla - The Series (USA)" index="" image="">
+		<description>Godzilla - The Series (USA)</description>
+		<cloneof></cloneof>
+		<crc>dd716efe</crc>
+		<manufacturer>Crave</manufacturer>
+		<year>1999</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Godzilla - The Series - Monster Wars (USA)" index="" image="">
+		<description>Godzilla - The Series - Monster Wars (USA)</description>
+		<cloneof></cloneof>
+		<crc>e7ebb394</crc>
+		<manufacturer>Crave</manufacturer>
+		<year>2000</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gold and Glory - The Road to El Dorado (USA)" index="" image="">
+		<description>Gold and Glory - The Road to El Dorado (USA)</description>
+		<cloneof></cloneof>
+		<crc>b7d49490</crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>2000</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gremlins Unleashed (Europe)" index="" image="">
+		<description>Gremlins Unleashed (Europe)</description>
+		<cloneof></cloneof>
+		<crc>053bc315</crc>
+		<manufacturer>LSP</manufacturer>
+		<year>2001</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Grinch, The (USA)" index="" image="">
+		<description>Grinch, The (USA)</description>
+		<cloneof></cloneof>
+		<crc>c5a47896</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>2000</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Halloween Racer (Europe)" index="true" image="h">
+		<description>Halloween Racer (Europe)</description>
+		<cloneof></cloneof>
+		<crc>70f3b431</crc>
+		<manufacturer>Microids</manufacturer>
+		<year>1999</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hands of Time (USA)" index="" image="">
+		<description>Hands of Time (USA)</description>
+		<cloneof></cloneof>
+		<crc>f519f4c3</crc>
+		<manufacturer>Titus Software</manufacturer>
+		<year>2001</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="JumpStart Dino Adventure - Field Trip (USA)" index="true" image="j">
+		<description>JumpStart Dino Adventure - Field Trip (USA)</description>
+		<cloneof></cloneof>
+		<crc>6d50772d</crc>
+		<manufacturer>Digital Illusions</manufacturer>
+		<year>2001</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Jungle Book, The - Mowgli&apos;s Wild Adventure (USA)" index="" image="">
+		<description>Jungle Book, The - Mowgli&apos;s Wild Adventure (USA)</description>
+		<cloneof></cloneof>
+		<crc>9b6b755f</crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>2000</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Keep the Balance (Europe)" index="true" image="k">
+		<description>Keep the Balance (Europe)</description>
+		<cloneof></cloneof>
+		<crc>b868e846</crc>
+		<manufacturer>Karma Studios</manufacturer>
+		<year>2001</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Kirby - Tilt &apos;n&apos; Tumble (USA)" index="" image="">
+		<description>Kirby - Tilt &apos;n&apos; Tumble (USA)</description>
+		<cloneof></cloneof>
+		<crc>e541acf1</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2001</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Kirikou (Europe)" index="" image="">
+		<description>Kirikou (Europe)</description>
+		<cloneof></cloneof>
+		<crc>783bc02d</crc>
+		<manufacturer>Planet Interactive</manufacturer>
+		<year>2001</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Laura (USA)" index="true" image="l">
+		<description>Laura (USA)</description>
+		<cloneof></cloneof>
+		<crc>e2bff286</crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>2000</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="LEGO Alpha Team (USA)" index="" image="">
+		<description>LEGO Alpha Team (USA)</description>
+		<cloneof></cloneof>
+		<crc>6d7ec41b</crc>
+		<manufacturer>Lego Media</manufacturer>
+		<year>2000</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="LEGO Island 2 - The Brickster&apos;s Revenge (USA)" index="" image="">
+		<description>LEGO Island 2 - The Brickster&apos;s Revenge (USA)</description>
+		<cloneof></cloneof>
+		<crc>b14fa7e7</crc>
+		<manufacturer>Lego Media</manufacturer>
+		<year>2001</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lion King, The - Simba&apos;s Mighty Adventure (USA)" index="" image="">
+		<description>Lion King, The - Simba&apos;s Mighty Adventure (USA)</description>
+		<cloneof></cloneof>
+		<crc>d5b4b7bb</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2000</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Little Nicky (USA)" index="" image="">
+		<description>Little Nicky (USA)</description>
+		<cloneof></cloneof>
+		<crc>27310900</crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>2000</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Looney Tunes (USA)" index="" image="">
+		<description>Looney Tunes (USA)</description>
+		<cloneof></cloneof>
+		<crc>4ef3ddd7</crc>
+		<manufacturer>SunSoft</manufacturer>
+		<year>1998</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Looney Tunes - Twouble! (USA)" index="" image="">
+		<description>Looney Tunes - Twouble! (USA)</description>
+		<cloneof></cloneof>
+		<crc>698d7be4</crc>
+		<manufacturer>Infogrames</manufacturer>
+		<year>1998</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Looney Tunes Collector - Alert! (USA)" index="" image="">
+		<description>Looney Tunes Collector - Alert! (USA)</description>
+		<cloneof></cloneof>
+		<crc>54509d24</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>2000</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="M&amp;M&apos;s Minis Madness (USA)" index="true" image="m">
+		<description>M&amp;M&apos;s Minis Madness (USA)</description>
+		<cloneof></cloneof>
+		<crc>8649d7a0</crc>
+		<manufacturer>Majesco Games</manufacturer>
+		<year>2000</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Magical Drop (USA)" index="" image="">
+		<description>Magical Drop (USA)</description>
+		<cloneof></cloneof>
+		<crc>e4188a79</crc>
+		<manufacturer>Classified Games</manufacturer>
+		<year>2000</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Marvin Strikes Back! (USA)" index="" image="">
+		<description>Marvin Strikes Back! (USA)</description>
+		<cloneof></cloneof>
+		<crc>11b4788c</crc>
+		<manufacturer>Infogrames</manufacturer>
+		<year>2000</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mary-Kate &amp; Ashley - Get a Clue! (USA, Europe)" index="" image="">
+		<description>Mary-Kate &amp; Ashley - Get a Clue! (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>46faa730</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>2000</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mary-Kate and Ashley - Crush Course (USA)" index="" image="">
+		<description>Mary-Kate and Ashley - Crush Course (USA)</description>
+		<cloneof></cloneof>
+		<crc>69db3cd8</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>2001</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mary-Kate and Ashley - Pocket Planner (USA)" index="" image="">
+		<description>Mary-Kate and Ashley - Pocket Planner (USA)</description>
+		<cloneof></cloneof>
+		<crc>84a880b9</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>2000</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mask of Zorro, The (USA)" index="" image="">
+		<description>Mask of Zorro, The (USA)</description>
+		<cloneof></cloneof>
+		<crc>2c92ad12</crc>
+		<manufacturer>SunSoft</manufacturer>
+		<year>2000</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Matchbox Emergency Patrol (USA)" index="" image="">
+		<description>Matchbox Emergency Patrol (USA)</description>
+		<cloneof></cloneof>
+		<crc>a3f23d7e</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2001</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Maya the Bee &amp; Her Friends (Europe)" index="" image="">
+		<description>Maya the Bee &amp; Her Friends (Europe)</description>
+		<cloneof></cloneof>
+		<crc>983b1d26</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>2000</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Maya the Bee - Garden Adventures (Europe)" index="" image="">
+		<description>Maya the Bee - Garden Adventures (Europe)</description>
+		<cloneof></cloneof>
+		<crc>142b6efb</crc>
+		<manufacturer>NEON Software GmbH</manufacturer>
+		<year>2000</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Men in Black - The Series (USA, Europe)" index="" image="">
+		<description>Men in Black - The Series (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>65b8b343</crc>
+		<manufacturer>Crave</manufacturer>
+		<year>1998</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Men in Black 2 - The Series (USA)" index="" image="">
+		<description>Men in Black 2 - The Series (USA)</description>
+		<cloneof></cloneof>
+		<crc>8b63f36f</crc>
+		<manufacturer>Crave</manufacturer>
+		<year>2000</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Monster Rancher Explorer (USA)" index="" image="">
+		<description>Monster Rancher Explorer (USA)</description>
+		<cloneof></cloneof>
+		<crc>6c35e8f0</crc>
+		<manufacturer>Tecmo</manufacturer>
+		<year>2000</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Monsters, Inc. (USA)" index="" image="">
+		<description>Monsters, Inc. (USA)</description>
+		<cloneof></cloneof>
+		<crc>183dbb31</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2001</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Moomin&apos;s Tale (Europe)" index="" image="">
+		<description>Moomin&apos;s Tale (Europe)</description>
+		<cloneof></cloneof>
+		<crc>45543ba2</crc>
+		<manufacturer>SunSoft</manufacturer>
+		<year>2000</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mr. Driller (USA)" index="" image="">
+		<description>Mr. Driller (USA)</description>
+		<cloneof></cloneof>
+		<crc>492c0ebf</crc>
+		<manufacturer>Namco</manufacturer>
+		<year>2000</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ms. Pac-Man - Special Color Edition (USA)" index="" image="">
+		<description>Ms. Pac-Man - Special Color Edition (USA)</description>
+		<cloneof></cloneof>
+		<crc>103e212d</crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1999</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mummy Returns, The (USA)" index="" image="">
+		<description>Mummy Returns, The (USA)</description>
+		<cloneof></cloneof>
+		<crc>c997f45b</crc>
+		<manufacturer>Universal Interactive</manufacturer>
+		<year>2001</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mummy, The (USA)" index="" image="">
+		<description>Mummy, The (USA)</description>
+		<cloneof></cloneof>
+		<crc>c6ba9f27</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>2000</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Muppets, The (USA)" index="" image="">
+		<description>Muppets, The (USA)</description>
+		<cloneof></cloneof>
+		<crc>3c476c6f</crc>
+		<manufacturer>Take-Two Interactive</manufacturer>
+		<year>2000</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Nations, The - Land of Legends (Europe)" index="true" image="n">
+		<description>Nations, The - Land of Legends (Europe)</description>
+		<cloneof></cloneof>
+		<crc>8c195f49</crc>
+		<manufacturer>Neon</manufacturer>
+		<year>2002</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="New Addams Family Series, The (Europe)" index="" image="">
+		<description>New Addams Family Series, The (Europe)</description>
+		<cloneof></cloneof>
+		<crc>fbb97680</crc>
+		<manufacturer>Titus Software</manufacturer>
+		<year>2001</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="New Adventures of Mary-Kate &amp; Ashley, The (USA)" index="" image="">
+		<description>New Adventures of Mary-Kate &amp; Ashley, The (USA)</description>
+		<cloneof></cloneof>
+		<crc>dca4474e</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1999</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NSYNC - Get to the Show (USA)" index="" image="">
+		<description>NSYNC - Get to the Show (USA)</description>
+		<cloneof></cloneof>
+		<crc>f770878b</crc>
+		<manufacturer>Infogrames</manufacturer>
+		<year>2001</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pac-Man - Special Color Edition (USA)" index="true" image="p">
+		<description>Pac-Man - Special Color Edition (USA)</description>
+		<cloneof></cloneof>
+		<crc>3485ef86</crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1999</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Paperboy (USA, Europe)" index="" image="">
+		<description>Paperboy (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>c0a98305</crc>
+		<manufacturer>Midway</manufacturer>
+		<year>1999</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Papyrus (Europe)" index="" image="">
+		<description>Papyrus (Europe)</description>
+		<cloneof></cloneof>
+		<crc>da3a3278</crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>2000</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Planet of the Apes (USA)" index="" image="">
+		<description>Planet of the Apes (USA)</description>
+		<cloneof></cloneof>
+		<crc>91d7ccca</crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>2000</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pong - The Next Level (USA, Europe)" index="" image="">
+		<description>Pong - The Next Level (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>476bd39d</crc>
+		<manufacturer>Hasbro Interactive</manufacturer>
+		<year>1999</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pooh and Tigger&apos;s Hunny Safari (USA)" index="" image="">
+		<description>Pooh and Tigger&apos;s Hunny Safari (USA)</description>
+		<cloneof></cloneof>
+		<crc>622690da</crc>
+		<manufacturer>Electronic Arts</manufacturer>
+		<year>2002</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Power Quest (USA)" index="" image="">
+		<description>Power Quest (USA)</description>
+		<cloneof></cloneof>
+		<crc>dad6f6b4</crc>
+		<manufacturer>SunSoft</manufacturer>
+		<year>1998</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Power Rangers - Lightspeed Rescue (USA, Europe)" index="" image="">
+		<description>Power Rangers - Lightspeed Rescue (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>99869172</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2000</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Power Rangers - Time Force (USA)" index="" image="">
+		<description>Power Rangers - Time Force (USA)</description>
+		<cloneof></cloneof>
+		<crc>17e51443</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2001</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Powerpuff Girls, The - Battle Him (USA) (Rev A)" index="" image="">
+		<description>Powerpuff Girls, The - Battle Him (USA) (Rev A)</description>
+		<cloneof></cloneof>
+		<crc>e3d6964c</crc>
+		<manufacturer>Bam Entertainment</manufacturer>
+		<year>2001</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Q-bert (USA)" index="true" image="q">
+		<description>Q-bert (USA)</description>
+		<cloneof></cloneof>
+		<crc>90f46d7e</crc>
+		<manufacturer>Hasbro Interactive</manufacturer>
+		<year>2000</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Qix Adventure (Europe)" index="" image="">
+		<description>Qix Adventure (Europe)</description>
+		<cloneof></cloneof>
+		<crc>d729db40</crc>
+		<manufacturer>Event Horizon Software</manufacturer>
+		<year>2000</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Quest - Fantasy Challenge (USA)" index="" image="">
+		<description>Quest - Fantasy Challenge (USA)</description>
+		<cloneof></cloneof>
+		<crc>98285775</crc>
+		<manufacturer>SunSoft</manufacturer>
+		<year>1999</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rampage - World Tour (USA, Europe)" index="true" image="r">
+		<description>Rampage - World Tour (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>b029017f</crc>
+		<manufacturer>Midway</manufacturer>
+		<year>1998</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rampage 2 - Universal Tour (USA)" index="" image="">
+		<description>Rampage 2 - Universal Tour (USA)</description>
+		<cloneof></cloneof>
+		<crc>20b86f1e</crc>
+		<manufacturer>Midway</manufacturer>
+		<year>1999</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rampart (USA)" index="" image="">
+		<description>Rampart (USA)</description>
+		<cloneof></cloneof>
+		<crc>d5aeed2e</crc>
+		<manufacturer>Midway</manufacturer>
+		<year>1999</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rats! (USA)" index="" image="">
+		<description>Rats! (USA)</description>
+		<cloneof></cloneof>
+		<crc>17635ad1</crc>
+		<manufacturer>Take-Two Interactive</manufacturer>
+		<year>1998</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rescue Heroes - Fire Frenzy (USA)" index="" image="">
+		<description>Rescue Heroes - Fire Frenzy (USA)</description>
+		<cloneof></cloneof>
+		<crc>77a4dc63</crc>
+		<manufacturer>Mattel</manufacturer>
+		<year>2001</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Return of the Ninja (USA)" index="" image="">
+		<description>Return of the Ninja (USA)</description>
+		<cloneof></cloneof>
+		<crc>a07da702</crc>
+		<manufacturer>Natsume</manufacturer>
+		<year>2001</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Robin Hood (Europe)" index="" image="">
+		<description>Robin Hood (Europe)</description>
+		<cloneof></cloneof>
+		<crc>d4f84329</crc>
+		<manufacturer>Electronic Arts</manufacturer>
+		<year>2001</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Robot Wars - Metal Mayhem (Europe)" index="" image="">
+		<description>Robot Wars - Metal Mayhem (Europe)</description>
+		<cloneof></cloneof>
+		<crc>e99bdee6</crc>
+		<manufacturer>BBC Multimedia</manufacturer>
+		<year>2000</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rugrats in Paris - The Movie (USA, Europe)" index="" image="">
+		<description>Rugrats in Paris - The Movie (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>8b195237</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2000</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rugrats Movie, The (USA, Europe)" index="" image="">
+		<description>Rugrats Movie, The (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>b4091600</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>1999</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sabrina - The Animated Series - Spooked! (USA, Europe)" index="true" image="s">
+		<description>Sabrina - The Animated Series - Spooked! (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>2cf48188</crc>
+		<manufacturer>WayForward</manufacturer>
+		<year>2001</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sabrina - The Animated Series - Zapped! (USA, Europe)" index="" image="">
+		<description>Sabrina - The Animated Series - Zapped! (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>5d39a9b0</crc>
+		<manufacturer>WayForward</manufacturer>
+		<year>2000</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Santa Claus Junior (Europe)" index="" image="">
+		<description>Santa Claus Junior (Europe)</description>
+		<cloneof></cloneof>
+		<crc>a744df64</crc>
+		<manufacturer>NEON Software GmbH</manufacturer>
+		<year>2001</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sgt. Rock - On the Frontline (USA)" index="" image="">
+		<description>Sgt. Rock - On the Frontline (USA)</description>
+		<cloneof></cloneof>
+		<crc>521a2f77</crc>
+		<manufacturer>Bam Entertainment</manufacturer>
+		<year>2000</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Shamus (USA, Europe)" index="" image="">
+		<description>Shamus (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>efb9196d</crc>
+		<manufacturer>Vatical Entertainment</manufacturer>
+		<year>2000</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Shrek - Fairy Tale Freakdown (USA, Europe)" index="" image="">
+		<description>Shrek - Fairy Tale Freakdown (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>387e6459</crc>
+		<manufacturer>TDK Mediactive</manufacturer>
+		<year>2001</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Smurfs Nightmare, The (USA)" index="" image="">
+		<description>Smurfs Nightmare, The (USA)</description>
+		<cloneof></cloneof>
+		<crc>b50cafe4</crc>
+		<manufacturer>Infogrames</manufacturer>
+		<year>1999</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Snow White and the Seven Dwarfs (USA)" index="" image="">
+		<description>Snow White and the Seven Dwarfs (USA)</description>
+		<cloneof></cloneof>
+		<crc>8dd38534</crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>2001</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Spacestation Silicon Valley (Europe)" index="" image="">
+		<description>Spacestation Silicon Valley (Europe)</description>
+		<cloneof></cloneof>
+		<crc>63353c0f</crc>
+		<manufacturer>Take-Two Interactive</manufacturer>
+		<year>1999</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Spawn (USA)" index="" image="">
+		<description>Spawn (USA)</description>
+		<cloneof></cloneof>
+		<crc>72fcb0ad</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1999</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Spider-Man (USA, Europe)" index="" image="">
+		<description>Spider-Man (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>34e2b3ba</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2000</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Spider-Man 2 - The Sinister Six (USA)" index="" image="">
+		<description>Spider-Man 2 - The Sinister Six (USA)</description>
+		<cloneof></cloneof>
+		<crc>a7faaccf</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2001</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Spirou Robbedoes - The Robot Invasion (Europe)" index="" image="">
+		<description>Spirou Robbedoes - The Robot Invasion (Europe)</description>
+		<cloneof></cloneof>
+		<crc>3e9bc90b</crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>2000</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="SpongeBob SquarePants - Legend of the Lost Spatula (USA, Europe)" index="" image="">
+		<description>SpongeBob SquarePants - Legend of the Lost Spatula (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>81230564</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2001</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Spy vs. Spy (USA)" index="" image="">
+		<description>Spy vs. Spy (USA)</description>
+		<cloneof></cloneof>
+		<crc>f0463d51</crc>
+		<manufacturer>Vatical Entertainment</manufacturer>
+		<year>1999</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Star Wars Episode I - Obi-Wan&apos;s Adventures (USA)" index="" image="">
+		<description>Star Wars Episode I - Obi-Wan&apos;s Adventures (USA)</description>
+		<cloneof></cloneof>
+		<crc>0e697582</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2000</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Stuart Little - The Journey Home (USA, Europe)" index="" image="">
+		<description>Stuart Little - The Journey Home (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>eb273887</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2001</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Breakout! (USA)" index="" image="">
+		<description>Super Breakout! (USA)</description>
+		<cloneof></cloneof>
+		<crc>52f51cb5</crc>
+		<manufacturer>Majesco Games</manufacturer>
+		<year>1998</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tarzan (USA, Europe)" index="true" image="t">
+		<description>Tarzan (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>4224f930</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>1999</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Thunderbirds (Europe)" index="" image="">
+		<description>Thunderbirds (Europe)</description>
+		<cloneof></cloneof>
+		<crc>b5bececf</crc>
+		<manufacturer>SCi</manufacturer>
+		<year>2000</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tiny Toon Adventures - Buster Saves the Day (USA)" index="" image="">
+		<description>Tiny Toon Adventures - Buster Saves the Day (USA)</description>
+		<cloneof></cloneof>
+		<crc>800efb3d</crc>
+		<manufacturer>Conspiracy Entertainment</manufacturer>
+		<year>2001</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tiny Toon Adventures - Dizzy&apos;s Candy Quest (Europe)" index="" image="">
+		<description>Tiny Toon Adventures - Dizzy&apos;s Candy Quest (Europe)</description>
+		<cloneof></cloneof>
+		<crc>5a0d41aa</crc>
+		<manufacturer>Formula</manufacturer>
+		<year>2001</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tom and Jerry - Mousehunt (USA)" index="" image="">
+		<description>Tom and Jerry - Mousehunt (USA)</description>
+		<cloneof></cloneof>
+		<crc>5fc6bec0</crc>
+		<manufacturer>Conspiracy Entertainment</manufacturer>
+		<year>2001</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tom and Jerry in Mouse Attacks! (USA)" index="" image="">
+		<description>Tom and Jerry in Mouse Attacks! (USA)</description>
+		<cloneof></cloneof>
+		<crc>38ce3f76</crc>
+		<manufacturer>NewKidCo</manufacturer>
+		<year>2000</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Toobin&apos; (USA)" index="" image="">
+		<description>Toobin&apos; (USA)</description>
+		<cloneof></cloneof>
+		<crc>3d6b598c</crc>
+		<manufacturer>Midway</manufacturer>
+		<year>2000</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Toonsylvania (USA)" index="" image="">
+		<description>Toonsylvania (USA)</description>
+		<cloneof></cloneof>
+		<crc>096d0c27</crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>2000</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Toy Story 2 (USA, Europe)" index="" image="">
+		<description>Toy Story 2 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>47aecb95</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>1999</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Turok - Rage Wars (USA, Europe)" index="" image="">
+		<description>Turok - Rage Wars (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>786b5ab4</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>2000</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Turok 2 - Seeds of Evil (USA, Europe)" index="" image="">
+		<description>Turok 2 - Seeds of Evil (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>6eda6a3a</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1998</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Turok 3 - Shadow of Oblivion (USA, Europe)" index="" image="">
+		<description>Turok 3 - Shadow of Oblivion (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>6d48765e</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>2000</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tweenies - Doodles&apos; Bones (Europe)" index="" image="">
+		<description>Tweenies - Doodles&apos; Bones (Europe)</description>
+		<cloneof></cloneof>
+		<crc>9306edd0</crc>
+		<manufacturer>BBC Multimedia</manufacturer>
+		<year>2001</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tweety&apos;s High-Flying Adventure (USA)" index="" image="">
+		<description>Tweety&apos;s High-Flying Adventure (USA)</description>
+		<cloneof></cloneof>
+		<crc>4e226396</crc>
+		<manufacturer>Kemco</manufacturer>
+		<year>2000</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ultimate Paint Ball (USA, Europe)" index="true" image="u">
+		<description>Ultimate Paint Ball (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>6dcfdfe2</crc>
+		<manufacturer>Majesco Games</manufacturer>
+		<year>2000</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ultimate Surfing (USA)" index="" image="">
+		<description>Ultimate Surfing (USA)</description>
+		<cloneof></cloneof>
+		<crc>e84df1f0</crc>
+		<manufacturer>Natsume</manufacturer>
+		<year>2001</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Vegas Games (USA)" index="true" image="v">
+		<description>Vegas Games (USA)</description>
+		<cloneof></cloneof>
+		<crc>40b5ea96</crc>
+		<manufacturer>3DO</manufacturer>
+		<year>2000</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="VIP (USA, Europe)" index="" image="">
+		<description>VIP (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>dbdd6d85</crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>2001</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Warriors of Might and Magic (USA)" index="true" image="w">
+		<description>Warriors of Might and Magic (USA)</description>
+		<cloneof></cloneof>
+		<crc>ef9f5bea</crc>
+		<manufacturer>3DO</manufacturer>
+		<year>2000</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Wendy - Every Witch Way (USA, Europe)" index="" image="">
+		<description>Wendy - Every Witch Way (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>4ac6907b</crc>
+		<manufacturer>TDK Mediactive</manufacturer>
+		<year>2001</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Wild Thornberrys, The - Rambler (USA)" index="" image="">
+		<description>Wild Thornberrys, The - Rambler (USA)</description>
+		<cloneof></cloneof>
+		<crc>0e1465cb</crc>
+		<manufacturer>Mattel</manufacturer>
+		<year>2000</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Wings of Fury (USA)" index="" image="">
+		<description>Wings of Fury (USA)</description>
+		<cloneof></cloneof>
+		<crc>c94a413a</crc>
+		<manufacturer>Mindscape Inc.</manufacturer>
+		<year>1999</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Winnie the Pooh - Adventures in the 100 Acre Wood (USA)" index="" image="">
+		<description>Winnie the Pooh - Adventures in the 100 Acre Wood (USA)</description>
+		<cloneof></cloneof>
+		<crc>066a2196</crc>
+		<manufacturer>NewKidCo</manufacturer>
+		<year>2000</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="World Destruction League - Thunder Tanks (USA)" index="" image="">
+		<description>World Destruction League - Thunder Tanks (USA)</description>
+		<cloneof></cloneof>
+		<crc>1a0bf4d7</crc>
+		<manufacturer>3DO</manufacturer>
+		<year>2000</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Xena - Warrior Princess (USA, Europe)" index="true" image="x">
+		<description>Xena - Warrior Princess (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>f0de3ce7</crc>
+		<manufacturer>Titus Software</manufacturer>
+		<year>2001</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Yoda Stories (USA)" index="true" image="y">
+		<description>Yoda Stories (USA)</description>
+		<cloneof></cloneof>
+		<crc>6314da32</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>1999</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Yogi Bear - Great Balloon Blast (USA)" index="" image="">
+		<description>Yogi Bear - Great Balloon Blast (USA)</description>
+		<cloneof></cloneof>
+		<crc>f817e978</crc>
+		<manufacturer>Bam Entertainment</manufacturer>
+		<year>2000</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Zoboomafoo - Playtime in Zobooland (USA)" index="true" image="z">
+		<description>Zoboomafoo - Playtime in Zobooland (USA)</description>
+		<cloneof></cloneof>
+		<crc>38d91885</crc>
+		<manufacturer>Encore Software Inc.</manufacturer>
+		<year>2001</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

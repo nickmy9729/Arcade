@@ -1,0 +1,199 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>NEC TurboGrafx-16</listname>
+		<lastlistupdate>10/27/2011</lastlistupdate>
+		<listversion>1.1 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="Aero Blasters (USA)" index="true" image="a">
+		<description>Aero Blasters (USA)</description>
+		<cloneof></cloneof>
+		<crc>b03e0b32</crc>
+		<manufacturer>Turbo Technologies, Inc.</manufacturer>
+		<year>1990</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Air Zonk (USA)" index="" image="">
+		<description>Air Zonk (USA)</description>
+		<cloneof></cloneof>
+		<crc>933d5bcc</crc>
+		<manufacturer>Turbo Technologies, Inc.</manufacturer>
+		<year>1992</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Blazing Lazers (USA)" index="true" image="b">
+		<description>Blazing Lazers (USA)</description>
+		<cloneof></cloneof>
+		<crc>b4a1b0f6</crc>
+		<manufacturer>NEC</manufacturer>
+		<year>1989</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bloody Wolf (USA)" index="" image="">
+		<description>Bloody Wolf (USA)</description>
+		<cloneof></cloneof>
+		<crc>37baf6bc</crc>
+		<manufacturer>Turbo Technologies, Inc.</manufacturer>
+		<year>1990</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cyber Core (USA)" index="true" image="c">
+		<description>Cyber Core (USA)</description>
+		<cloneof></cloneof>
+		<crc>4cfb6e3e</crc>
+		<manufacturer>NEC</manufacturer>
+		<year>1990</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dead Moon (USA)" index="true" image="d">
+		<description>Dead Moon (USA)</description>
+		<cloneof></cloneof>
+		<crc>f5d98b0b</crc>
+		<manufacturer>NTurbo Technologies, Inc.</manufacturer>
+		<year>1992</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Deep Blue (USA)" index="" image="">
+		<description>Deep Blue (USA)</description>
+		<cloneof></cloneof>
+		<crc>16b40b44</crc>
+		<manufacturer>NEC</manufacturer>
+		<year>1989</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dragon Spirit (USA)" index="" image="">
+		<description>Dragon Spirit (USA)</description>
+		<cloneof></cloneof>
+		<crc>086f148c</crc>
+		<manufacturer>NEC</manufacturer>
+		<year>1989</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fantasy Zone (USA)" index="true" image="f">
+		<description>Fantasy Zone (USA)</description>
+		<cloneof></cloneof>
+		<crc>e8c3573d</crc>
+		<manufacturer>NEC</manufacturer>
+		<year>1989</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Galaga &apos;90 (USA)" index="true" image="g">
+		<description>Galaga &apos;90 (USA)</description>
+		<cloneof></cloneof>
+		<crc>2909dec6</crc>
+		<manufacturer>NEC</manufacturer>
+		<year>1989</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ordyne (USA)" index="true" image="o">
+		<description>Ordyne (USA)</description>
+		<cloneof></cloneof>
+		<crc>e7bf2a74</crc>
+		<manufacturer>NEC</manufacturer>
+		<year>1990</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Psychosis (USA)" index="true" image="p">
+		<description>Psychosis (USA)</description>
+		<cloneof></cloneof>
+		<crc>6cc10824</crc>
+		<manufacturer>NEC</manufacturer>
+		<year>1990</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="R-Type (USA)" index="true" image="r">
+		<description>R-Type (USA)</description>
+		<cloneof></cloneof>
+		<crc>91ce5156</crc>
+		<manufacturer>NEC</manufacturer>
+		<year>1989</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Raiden (USA)" index="" image="">
+		<description>Raiden (USA)</description>
+		<cloneof></cloneof>
+		<crc>bc59c31e</crc>
+		<manufacturer>NEC</manufacturer>
+		<year>1991</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="SideArms - Hyper Dyne (USA)" index="true" image="s">
+		<description>SideArms - Hyper Dyne (USA)</description>
+		<cloneof></cloneof>
+		<crc>d1993c9f</crc>
+		<manufacturer>Radiance</manufacturer>
+		<year>1989</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sinistron (USA)" index="" image="">
+		<description>Sinistron (USA)</description>
+		<cloneof></cloneof>
+		<crc>4f6e2dbd</crc>
+		<manufacturer>IGS</manufacturer>
+		<year>1991</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Soldier Blade (USA)" index="" image="">
+		<description>Soldier Blade (USA)</description>
+		<cloneof></cloneof>
+		<crc>4bb68b13</crc>
+		<manufacturer>NEC</manufacturer>
+		<year>1992</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Space Harrier (USA)" index="" image="">
+		<description>Space Harrier (USA)</description>
+		<cloneof></cloneof>
+		<crc>43b05eb8</crc>
+		<manufacturer>NEC</manufacturer>
+		<year>1988</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Star Soldier (USA)" index="" image="">
+		<description>Super Star Soldier (USA)</description>
+		<cloneof></cloneof>
+		<crc>db29486f</crc>
+		<manufacturer>NEC</manufacturer>
+		<year>1991</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

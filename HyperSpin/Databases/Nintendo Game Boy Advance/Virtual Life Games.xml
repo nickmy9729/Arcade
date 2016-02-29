@@ -1,0 +1,189 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Nintendo Game Boy Advance</listname>
+		<lastlistupdate>10/27/2011</lastlistupdate>
+		<listversion>1.1 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="Bratz - Rock Angelz (USA, Europe)" index="true" image="b">
+		<description>Bratz - Rock Angelz (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>AA245D0C</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2005</year>
+		<genre>Virtual Life</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bratz - The Movie (USA)" index="" image="">
+		<description>Bratz - The Movie (USA)</description>
+		<cloneof></cloneof>
+		<crc>2EF801C0</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2007</year>
+		<genre>Virtual Life</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Catz (USA, Europe)" index="true" image="c">
+		<description>Catz (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>CE418ED1</crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>2006</year>
+		<genre>Virtual Life</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dogz (USA)" index="true" image="d">
+		<description>Dogz (USA)</description>
+		<cloneof></cloneof>
+		<crc>124F27C0</crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>2005</year>
+		<genre>Virtual Life</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dogz - Fashion (USA)" index="" image="">
+		<description>Dogz - Fashion (USA)</description>
+		<cloneof></cloneof>
+		<crc>63BD3463</crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>2006</year>
+		<genre>Virtual Life</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dogz 2 (USA)" index="" image="">
+		<description>Dogz 2 (USA)</description>
+		<cloneof></cloneof>
+		<crc>0E2ACA9E</crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>2007</year>
+		<genre>Virtual Life</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Horsez (USA)" index="true" image="h">
+		<description>Horsez (USA)</description>
+		<cloneof></cloneof>
+		<crc>5B2B4452</crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>2007</year>
+		<genre>Virtual Life</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Let&apos;s Ride! - Friends Forever (USA)" index="true" image="l">
+		<description>Let&apos;s Ride! - Friends Forever (USA)</description>
+		<cloneof></cloneof>
+		<crc>8BDD13AD</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2007</year>
+		<genre>Virtual Life</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="My Animal Centre in Africa (Europe) (En,Fr,De,Es,It)" index="true" image="m">
+		<description>My Animal Centre in Africa (Europe) (En,Fr,De,Es,It)</description>
+		<cloneof></cloneof>
+		<crc>16C0E028</crc>
+		<manufacturer>Koch Media</manufacturer>
+		<year>2006</year>
+		<genre>Virtual Life</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Paws &amp; Claws - Best Friends - Dogs &amp; Cats (USA)" index="true" image="p">
+		<description>Paws &amp; Claws - Best Friends - Dogs &amp; Cats (USA)</description>
+		<cloneof></cloneof>
+		<crc>6ECF40A0</crc>
+		<manufacturer>DTP Entertainment</manufacturer>
+		<year>2006</year>
+		<genre>Virtual Life</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Petz - Hamsterz Life 2 (USA)" index="" image="">
+		<description>Petz - Hamsterz Life 2 (USA)</description>
+		<cloneof></cloneof>
+		<crc>9F0E4A6A</crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>2007</year>
+		<genre>Virtual Life</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Petz Vet (USA)" index="" image="">
+		<description>Petz Vet (USA)</description>
+		<cloneof></cloneof>
+		<crc>1DBF4D3D</crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>2007</year>
+		<genre>Virtual Life</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pocket Dogs (USA)" index="" image="">
+		<description>Pocket Dogs (USA)</description>
+		<cloneof></cloneof>
+		<crc>BEDDC67F</crc>
+		<manufacturer>O3 Entertainment</manufacturer>
+		<year>2005</year>
+		<genre>Virtual Life</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sims 2, The (USA, Europe) (En,Fr,De,Es,It,Nl)" index="true" image="s">
+		<description>Sims 2, The (USA, Europe) (En,Fr,De,Es,It,Nl)</description>
+		<cloneof></cloneof>
+		<crc>8B1BC7DF</crc>
+		<manufacturer>Electronic Arts</manufacturer>
+		<year>2005</year>
+		<genre>Virtual Life</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sims 2, The - Pets (USA, Europe)" index="" image="">
+		<description>Sims 2, The - Pets (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>EC1F4029</crc>
+		<manufacturer>EA Games</manufacturer>
+		<year>2006</year>
+		<genre>Virtual Life</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sims, The - Bustin&apos; Out (USA, Europe) (En,Fr,De,Es,It,Nl)" index="" image="">
+		<description>Sims, The - Bustin&apos; Out (USA, Europe) (En,Fr,De,Es,It,Nl)</description>
+		<cloneof></cloneof>
+		<crc>ABAF519C</crc>
+		<manufacturer>EA Games</manufacturer>
+		<year>2003</year>
+		<genre>Virtual Life</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tower SP, The (USA)" index="true" image="t">
+		<description>Tower SP, The (USA)</description>
+		<cloneof></cloneof>
+		<crc>95E05895</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2006</year>
+		<genre>Virtual Life</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Urbz, The - Sims in the City (USA, Europe) (En,Fr,De,Es,It,Nl)" index="true" image="u">
+		<description>Urbz, The - Sims in the City (USA, Europe) (En,Fr,De,Es,It,Nl)</description>
+		<cloneof></cloneof>
+		<crc>8B3330BB</crc>
+		<manufacturer>EA Games</manufacturer>
+		<year>2004</year>
+		<genre>Virtual Life</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

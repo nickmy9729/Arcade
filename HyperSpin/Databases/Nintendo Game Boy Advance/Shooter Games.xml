@@ -1,0 +1,479 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Nintendo Game Boy Advance</listname>
+		<lastlistupdate>10/27/2011</lastlistupdate>
+		<listversion>1.1 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="007 - Everything or Nothing (USA, Europe) (En,Fr,De)" index="true" image="0">
+		<description>007 - Everything or Nothing (USA, Europe) (En,Fr,De)</description>
+		<cloneof></cloneof>
+		<crc>9D4F1E18</crc>
+		<manufacturer>EA Games</manufacturer>
+		<year>2003</year>
+		<genre>Shooter</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="007 - NightFire (USA, Europe) (En,Fr,De)" index="" image="">
+		<description>007 - NightFire (USA, Europe) (En,Fr,De)</description>
+		<cloneof></cloneof>
+		<crc>56C83C16</crc>
+		<manufacturer>Electronic Arts</manufacturer>
+		<year>2003</year>
+		<genre>Shooter</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="3 Games in One! - Breakout + Centipede + Warlords (USA)" index="true" image="3">
+		<description>3 Games in One! - Breakout + Centipede + Warlords (USA)</description>
+		<cloneof></cloneof>
+		<crc>02E0CCA4</crc>
+		<manufacturer>DSI Games</manufacturer>
+		<year>2005</year>
+		<genre>Action/Breakout/Shooter</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="3 Games in One! - Yars&apos; Revenge + Asteroids + Pong (USA)" index="" image="">
+		<description>3 Games in One! - Yars&apos; Revenge + Asteroids + Pong (USA)</description>
+		<cloneof></cloneof>
+		<crc>DBD04637</crc>
+		<manufacturer>DSI Games</manufacturer>
+		<year>2005</year>
+		<genre>Action/Shooter</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Alien Hominid (Europe) (En,Fr,De,Es,It)" index="true" image="a">
+		<description>Alien Hominid (Europe) (En,Fr,De,Es,It)</description>
+		<cloneof></cloneof>
+		<crc>DFF47236</crc>
+		<manufacturer>Zoo Digital Publishing</manufacturer>
+		<year>2006</year>
+		<genre>Shooter</genre>
+		<rating>PEGI - 12 (Everyone 12+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Army Men - Turf Wars (USA)" index="" image="">
+		<description>Army Men - Turf Wars (USA)</description>
+		<cloneof></cloneof>
+		<crc>65AC74CC</crc>
+		<manufacturer>3DO</manufacturer>
+		<year>2002</year>
+		<genre>Shooter</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Army Men Advance (USA, Europe) (En,Fr,De,Es,It)" index="" image="">
+		<description>Army Men Advance (USA, Europe) (En,Fr,De,Es,It)</description>
+		<cloneof></cloneof>
+		<crc>9A4A509F</crc>
+		<manufacturer>3DO</manufacturer>
+		<year>2001</year>
+		<genre>Shooter</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Back Track (USA, Europe)" index="true" image="b">
+		<description>Back Track (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>48539B4B</crc>
+		<manufacturer>Telegames, Inc.</manufacturer>
+		<year>2001</year>
+		<genre>Shooter</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ballistic - Ecks vs Sever (USA)" index="" image="">
+		<description>Ballistic - Ecks vs Sever (USA)</description>
+		<cloneof></cloneof>
+		<crc>0477F153</crc>
+		<manufacturer>Bam Entertainment</manufacturer>
+		<year>2002</year>
+		<genre>Shooter</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Blackthorne (USA)" index="" image="">
+		<description>Blackthorne (USA)</description>
+		<cloneof></cloneof>
+		<crc>8E6DCD53</crc>
+		<manufacturer>Blizzard Classic Arcade</manufacturer>
+		<year>2003</year>
+		<genre>Shooter</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Blades of Thunder (USA)" index="" image="">
+		<description>Blades of Thunder (USA)</description>
+		<cloneof></cloneof>
+		<crc>2CCD4915</crc>
+		<manufacturer>Summitsoft Entertainment</manufacturer>
+		<year>2005</year>
+		<genre>Shooter</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Chicken Shoot (USA)" index="true" image="c">
+		<description>Chicken Shoot (USA)</description>
+		<cloneof></cloneof>
+		<crc>4B22E081</crc>
+		<manufacturer>DSI Games</manufacturer>
+		<year>2005</year>
+		<genre>Shooter</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Chicken Shoot 2 (USA)" index="" image="">
+		<description>Chicken Shoot 2 (USA)</description>
+		<cloneof></cloneof>
+		<crc>1DFE38C2</crc>
+		<manufacturer>DSI Games</manufacturer>
+		<year>2005</year>
+		<genre>Shooter</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Contra Advance - The Alien Wars EX (USA)" index="" image="">
+		<description>Contra Advance - The Alien Wars EX (USA)</description>
+		<cloneof></cloneof>
+		<crc>59781C54</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>2002</year>
+		<genre>Shooter</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="CT Special Forces 2 - Back in the Trenches (USA) (En,Fr,De,Es,It,Nl)" index="" image="">
+		<description>CT Special Forces 2 - Back in the Trenches (USA) (En,Fr,De,Es,It,Nl)</description>
+		<cloneof></cloneof>
+		<crc>D2B58A33</crc>
+		<manufacturer>Hip Games</manufacturer>
+		<year>2004</year>
+		<genre>Shooter</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Danny Phantom - Urban Jungle (USA)" index="true" image="d">
+		<description>Danny Phantom - Urban Jungle (USA)</description>
+		<cloneof></cloneof>
+		<crc>C22E7A2F</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2006</year>
+		<genre>Shooter</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dark Arena (USA, Europe)" index="" image="">
+		<description>Dark Arena (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>DE5DCDEE</crc>
+		<manufacturer>Majesco Games</manufacturer>
+		<year>2002</year>
+		<genre>Shooter</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dead to Rights (USA)" index="" image="">
+		<description>Dead to Rights (USA)</description>
+		<cloneof></cloneof>
+		<crc>52C1826C</crc>
+		<manufacturer>Namco</manufacturer>
+		<year>2004</year>
+		<genre>Shooter</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Desert Strike Advance (USA)" index="" image="">
+		<description>Desert Strike Advance (USA)</description>
+		<cloneof></cloneof>
+		<crc>CC1C1405</crc>
+		<manufacturer>Electronic Arts</manufacturer>
+		<year>2002</year>
+		<genre>Shooter</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Doom (USA, Europe)" index="" image="">
+		<description>Doom (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>58C641B3</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2001</year>
+		<genre>Shooter</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Doom II (USA)" index="" image="">
+		<description>Doom II (USA)</description>
+		<cloneof></cloneof>
+		<crc>C885D9E9</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2002</year>
+		<genre>Shooter</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Duke Nukem Advance (USA)" index="" image="">
+		<description>Duke Nukem Advance (USA)</description>
+		<cloneof></cloneof>
+		<crc>06570282</crc>
+		<manufacturer>Take-Two Interactive</manufacturer>
+		<year>2002</year>
+		<genre>Shooter</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ecks vs Sever (USA) (En,Fr,De,Es,It)" index="true" image="e">
+		<description>Ecks vs Sever (USA) (En,Fr,De,Es,It)</description>
+		<cloneof></cloneof>
+		<crc>86A861F1</crc>
+		<manufacturer>Bam Entertainment</manufacturer>
+		<year>2001</year>
+		<genre>Shooter</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Greg Hastings&apos; Tournament Paintball Max&apos;d (USA)" index="true" image="g">
+		<description>Greg Hastings&apos; Tournament Paintball Max&apos;d (USA)</description>
+		<cloneof></cloneof>
+		<crc>649F7BB2</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2006</year>
+		<genre>Shooter</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gunstar Super Heroes (USA)" index="" image="">
+		<description>Gunstar Super Heroes (USA)</description>
+		<cloneof></cloneof>
+		<crc>7CD86B02</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2005</year>
+		<genre>Shooter</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ice Nine (USA, Europe) (En,Fr,De,Es,It)" index="true" image="i">
+		<description>Ice Nine (USA, Europe) (En,Fr,De,Es,It)</description>
+		<cloneof></cloneof>
+		<crc>14C23257</crc>
+		<manufacturer>Bam Entertainment</manufacturer>
+		<year>2005</year>
+		<genre>Shooter</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Kill Switch (USA)" index="true" image="k">
+		<description>Kill Switch (USA)</description>
+		<cloneof></cloneof>
+		<crc>2B207D1F</crc>
+		<manufacturer>Destination Software</manufacturer>
+		<year>2004</year>
+		<genre>Shooter</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Max Payne (USA)" index="true" image="m">
+		<description>Max Payne (USA)</description>
+		<cloneof></cloneof>
+		<crc>296E1092</crc>
+		<manufacturer>Rockstar Games</manufacturer>
+		<year>2003</year>
+		<genre>Shooter</genre>
+		<rating>ESRB - M (Mature)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Medal of Honor - Infiltrator (USA, Europe) (En,Fr,De)" index="" image="">
+		<description>Medal of Honor - Infiltrator (USA, Europe) (En,Fr,De)</description>
+		<cloneof></cloneof>
+		<crc>F23150A4</crc>
+		<manufacturer>EA Games</manufacturer>
+		<year>2003</year>
+		<genre>Shooter</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Medal of Honor - Underground (USA)" index="" image="">
+		<description>Medal of Honor - Underground (USA)</description>
+		<cloneof></cloneof>
+		<crc>6DFA0F50</crc>
+		<manufacturer>Destination Software</manufacturer>
+		<year>2002</year>
+		<genre>Shooter</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Men in Black - The Series (USA)" index="" image="">
+		<description>Men in Black - The Series (USA)</description>
+		<cloneof></cloneof>
+		<crc>589810A5</crc>
+		<manufacturer>Crave</manufacturer>
+		<year>2002</year>
+		<genre>Shooter</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Metal Slug Advance (USA)" index="" image="">
+		<description>Metal Slug Advance (USA)</description>
+		<cloneof></cloneof>
+		<crc>09980880</crc>
+		<manufacturer>SNK</manufacturer>
+		<year>2004</year>
+		<genre>Shooter</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Monster Force (USA)" index="" image="">
+		<description>Monster Force (USA)</description>
+		<cloneof></cloneof>
+		<crc>AD4691D9</crc>
+		<manufacturer>Universal Interactive</manufacturer>
+		<year>2002</year>
+		<genre>Shooter</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Moorhen 3 - The Chicken Chase! (Europe) (En,Fr,De,Es,It)" index="" image="">
+		<description>Moorhen 3 - The Chicken Chase! (Europe) (En,Fr,De,Es,It)</description>
+		<cloneof></cloneof>
+		<crc>A16C10A8</crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>2002</year>
+		<genre>Shooter</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Reign of Fire (USA) (En,Fr,De,Es,It)" index="true" image="r">
+		<description>Reign of Fire (USA) (En,Fr,De,Es,It)</description>
+		<cloneof></cloneof>
+		<crc>B48F8D57</crc>
+		<manufacturer>Bam Entertainment</manufacturer>
+		<year>2002</year>
+		<genre>Shooter</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="SD Gundam Force (USA)" index="true" image="s">
+		<description>SD Gundam Force (USA)</description>
+		<cloneof></cloneof>
+		<crc>68B21289</crc>
+		<manufacturer>Bandai</manufacturer>
+		<year>2004</year>
+		<genre>Shooter</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Serious Sam Advance (USA) (En,Fr,De)" index="" image="">
+		<description>Serious Sam Advance (USA) (En,Fr,De)</description>
+		<cloneof></cloneof>
+		<crc>FDF4ECA7</crc>
+		<manufacturer>Global Star Software</manufacturer>
+		<year>2004</year>
+		<genre>Shooter</genre>
+		<rating>ESRB - M (Mature)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Silent Scope (USA) (En,Fr,De,Es,It)" index="" image="">
+		<description>Silent Scope (USA) (En,Fr,De,Es,It)</description>
+		<cloneof></cloneof>
+		<crc>C5CE1B2C</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>2002</year>
+		<genre>Shooter</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Star Wars - Flight of the Falcon (USA)" index="" image="">
+		<description>Star Wars - Flight of the Falcon (USA)</description>
+		<cloneof></cloneof>
+		<crc>94D2737A</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2003</year>
+		<genre>Shooter</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Star X (USA) (En,Fr,De,Es,It,Nl)" index="" image="">
+		<description>Star X (USA) (En,Fr,De,Es,It,Nl)</description>
+		<cloneof></cloneof>
+		<crc>8B02B2B1</crc>
+		<manufacturer>Bam Entertainment</manufacturer>
+		<year>2002</year>
+		<genre>Shooter</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Dropzone - Intergalactic Rescue Mission (USA)" index="" image="">
+		<description>Super Dropzone - Intergalactic Rescue Mission (USA)</description>
+		<cloneof></cloneof>
+		<crc>2B4843FE</crc>
+		<manufacturer>Ignition Entertainment</manufacturer>
+		<year>2004</year>
+		<genre>Shooter</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Terminator 3 - Rise of the Machines (USA)" index="true" image="t">
+		<description>Terminator 3 - Rise of the Machines (USA)</description>
+		<cloneof></cloneof>
+		<crc>F74B3C7D</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>2003</year>
+		<genre>Shooter</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tom Clancy&apos;s Rainbow Six - Rogue Spear (USA) (En,Fr,De,Es,It)" index="" image="">
+		<description>Tom Clancy&apos;s Rainbow Six - Rogue Spear (USA) (En,Fr,De,Es,It)</description>
+		<cloneof></cloneof>
+		<crc>23575BF2</crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>2002</year>
+		<genre>Shooter</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Top Gun - Firestorm Advance (USA, Europe) (En,Fr,De,Es,It)" index="" image="">
+		<description>Top Gun - Firestorm Advance (USA, Europe) (En,Fr,De,Es,It)</description>
+		<cloneof></cloneof>
+		<crc>FDBE5A26</crc>
+		<manufacturer>Titus Software</manufacturer>
+		<year>2002</year>
+		<genre>Shooter</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Wings (USA)" index="true" image="w">
+		<description>Wings (USA)</description>
+		<cloneof></cloneof>
+		<crc>49041BC8</crc>
+		<manufacturer>Metro3D</manufacturer>
+		<year>2003</year>
+		<genre>Shooter</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="WinX Club (USA)" index="" image="">
+		<description>WinX Club (USA)</description>
+		<cloneof></cloneof>
+		<crc>1D6950A3</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>2005</year>
+		<genre>Shooter</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Wolfenstein 3D (USA, Europe)" index="" image="">
+		<description>Wolfenstein 3D (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>C4AA2B7B</crc>
+		<manufacturer>Bam Entertainment</manufacturer>
+		<year>2002</year>
+		<genre>Shooter</genre>
+		<rating>ESRB - M (Mature)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

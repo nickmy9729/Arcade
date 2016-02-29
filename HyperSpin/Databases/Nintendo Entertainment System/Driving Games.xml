@@ -1,0 +1,329 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Nintendo Entertainment System</listname>
+		<lastlistupdate>07/28/2013</lastlistupdate>
+		<listversion>1.1 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="Al Unser Jr. Turbo Racing (USA)" index="true" image="a">
+		<description>Al Unser Jr. Turbo Racing (USA)</description>
+		<cloneof></cloneof>
+		<crc>5BC9D7A1</crc>
+		<manufacturer>Data East</manufacturer>
+		<year>1990</year>
+		<genre>Driving</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bigfoot (USA)" index="true" image="b">
+		<description>Bigfoot (USA)</description>
+		<cloneof></cloneof>
+		<crc>C42E648A</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1990</year>
+		<genre>Driving</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bill Elliott&apos;s NASCAR Challenge (USA)" index="" image="">
+		<description>Bill Elliott&apos;s NASCAR Challenge (USA)</description>
+		<cloneof></cloneof>
+		<crc>847D672D</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1991</year>
+		<genre>Driving</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bump&apos;n&apos;Jump (USA)" index="" image="">
+		<description>Bump&apos;n&apos;Jump (USA)</description>
+		<cloneof></cloneof>
+		<crc>A0A095C4</crc>
+		<manufacturer>Vic Tokai</manufacturer>
+		<year>1988</year>
+		<genre>Driving</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Championship Rally (Europe)" index="true" image="c">
+		<description>Championship Rally (Europe)</description>
+		<cloneof></cloneof>
+		<crc>C076D66F</crc>
+		<manufacturer>Hal</manufacturer>
+		<year>1991</year>
+		<genre>Driving</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Corvette ZR-1 Challenge (Europe)" index="" image="">
+		<description>Corvette ZR-1 Challenge (Europe)</description>
+		<cloneof></cloneof>
+		<crc>14255C57</crc>
+		<manufacturer>Absolute Entertainment</manufacturer>
+		<year>1992</year>
+		<genre>Driving</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Danny Sullivan&apos;s Indy Heat (USA)" index="true" image="d">
+		<description>Danny Sullivan&apos;s Indy Heat (USA)</description>
+		<cloneof></cloneof>
+		<crc>C1B43207</crc>
+		<manufacturer>Tradewest</manufacturer>
+		<year>1992</year>
+		<genre>Driving</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Days of Thunder (USA)" index="" image="">
+		<description>Days of Thunder (USA)</description>
+		<cloneof></cloneof>
+		<crc>12748678</crc>
+		<manufacturer>Mindscape Inc.</manufacturer>
+		<year>1990</year>
+		<genre>Driving</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Death Race (USA) (Unl)" index="" image="">
+		<description>Death Race (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>5CAA3E61</crc>
+		<manufacturer>American Game Cartridges</manufacturer>
+		<year>1991</year>
+		<genre>Driving</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ferrari Grand Prix Challenge (USA)" index="true" image="f">
+		<description>Ferrari Grand Prix Challenge (USA)</description>
+		<cloneof></cloneof>
+		<crc>CE77B4BE</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1992</year>
+		<genre>Driving</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Formula 1 Sensation (Europe)" index="" image="">
+		<description>Formula 1 Sensation (Europe)</description>
+		<cloneof></cloneof>
+		<crc>256392F1</crc>
+		<manufacturer>Palcom</manufacturer>
+		<year>1993</year>
+		<genre>Driving</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Formula One - Built to Win (USA)" index="" image="">
+		<description>Formula One - Built to Win (USA)</description>
+		<cloneof></cloneof>
+		<crc>5A8B4DA8</crc>
+		<manufacturer>Seta Corporation</manufacturer>
+		<year>1990</year>
+		<genre>Driving</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Galaxy 5000 (USA)" index="true" image="g">
+		<description>Galaxy 5000 (USA)</description>
+		<cloneof></cloneof>
+		<crc>1D20A5C6</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>1991</year>
+		<genre>Driving</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ivan &apos;Ironman&apos; Stewart&apos;s Super Off Road (USA)" index="true" image="i">
+		<description>Ivan &apos;Ironman&apos; Stewart&apos;s Super Off Road (USA)</description>
+		<cloneof></cloneof>
+		<crc>4B041B6B</crc>
+		<manufacturer>Tradewest</manufacturer>
+		<year>1990</year>
+		<genre>Driving</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Knight Rider (USA)" index="true" image="k">
+		<description>Knight Rider (USA)</description>
+		<cloneof></cloneof>
+		<crc>EBCFE7C5</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1989</year>
+		<genre>Driving</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mach Rider (Japan, USA) (Rev A)" index="true" image="m">
+		<description>Mach Rider (Japan, USA) (Rev A)</description>
+		<cloneof></cloneof>
+		<crc>38810A91</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1985</year>
+		<genre>Driving</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Michael Andretti&apos;s World GP (USA)" index="" image="">
+		<description>Michael Andretti&apos;s World GP (USA)</description>
+		<cloneof></cloneof>
+		<crc>942B1210</crc>
+		<manufacturer>American Sammy</manufacturer>
+		<year>1990</year>
+		<genre>Driving</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Micro Machines (USA) (Unl)" index="" image="">
+		<description>Micro Machines (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>9235B57B</crc>
+		<manufacturer>Camerica</manufacturer>
+		<year>1991</year>
+		<genre>Driving</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Monster Truck Rally (USA)" index="" image="">
+		<description>Monster Truck Rally (USA)</description>
+		<cloneof></cloneof>
+		<crc>2F698C4D</crc>
+		<manufacturer>INTV</manufacturer>
+		<year>1991</year>
+		<genre>Driving</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Motor City Patrol (USA)" index="" image="">
+		<description>Motor City Patrol (USA)</description>
+		<cloneof></cloneof>
+		<crc>0A0926BD</crc>
+		<manufacturer>Matchbox</manufacturer>
+		<year>1992</year>
+		<genre>Driving</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Nigel Mansell&apos;s World Championship Challenge (USA)" index="true" image="n">
+		<description>Nigel Mansell&apos;s World Championship Challenge (USA)</description>
+		<cloneof></cloneof>
+		<crc>4751A751</crc>
+		<manufacturer>GameTek</manufacturer>
+		<year>1993</year>
+		<genre>Driving</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="R.C. Pro-Am (USA) (Rev A)" index="true" image="r">
+		<description>R.C. Pro-Am (USA) (Rev A)</description>
+		<cloneof></cloneof>
+		<crc>AAED295C</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1988</year>
+		<genre>Driving</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="R.C. Pro-Am II (USA)" index="" image="">
+		<description>R.C. Pro-Am II (USA)</description>
+		<cloneof></cloneof>
+		<crc>9EDD2159</crc>
+		<manufacturer>Tradewest</manufacturer>
+		<year>1992</year>
+		<genre>Driving</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Race America (USA)" index="" image="">
+		<description>Race America (USA)</description>
+		<cloneof></cloneof>
+		<crc>A8B0DA56</crc>
+		<manufacturer>Absolute Entertainment</manufacturer>
+		<year>1992</year>
+		<genre>Driving</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rad Racer (USA)" index="" image="">
+		<description>Rad Racer (USA)</description>
+		<cloneof></cloneof>
+		<crc>8B9D3E9C</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1987</year>
+		<genre>Driving</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rad Racer II (USA)" index="" image="">
+		<description>Rad Racer II (USA)</description>
+		<cloneof></cloneof>
+		<crc>404B2E8B</crc>
+		<manufacturer>SquareSoft</manufacturer>
+		<year>1990</year>
+		<genre>Driving</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Road Fighter (Europe)" index="" image="">
+		<description>Road Fighter (Europe)</description>
+		<cloneof></cloneof>
+		<crc>719571B3</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1992</year>
+		<genre>Driving</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="RoadBlasters (USA)" index="" image="">
+		<description>RoadBlasters (USA)</description>
+		<cloneof></cloneof>
+		<crc>8ADA3497</crc>
+		<manufacturer>Mindscape Inc.</manufacturer>
+		<year>1990</year>
+		<genre>Driving</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Spy Hunter (USA)" index="true" image="s">
+		<description>Spy Hunter (USA)</description>
+		<cloneof></cloneof>
+		<crc>C7197FB1</crc>
+		<manufacturer>SunSoft</manufacturer>
+		<year>1987</year>
+		<genre>Driving</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Cars (USA)" index="" image="">
+		<description>Super Cars (USA)</description>
+		<cloneof></cloneof>
+		<crc>419461D0</crc>
+		<manufacturer>ElectroBrain</manufacturer>
+		<year>1991</year>
+		<genre>Driving</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Sprint (USA) (Unl)" index="" image="">
+		<description>Super Sprint (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>5F2C3195</crc>
+		<manufacturer>Tengen</manufacturer>
+		<year>1989</year>
+		<genre>Driving</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Spy Hunter (USA)" index="" image="">
+		<description>Super Spy Hunter (USA)</description>
+		<cloneof></cloneof>
+		<crc>AB41445E</crc>
+		<manufacturer>SunSoft</manufacturer>
+		<year>1992</year>
+		<genre>Driving</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

@@ -1,0 +1,8 @@
+<DonsHyperSpinListGenerator VersionMajor="4">
+  <Wheel>Bally Astrocade</Wheel>
+  <OutputFile>M:\Arcade\HyperSpin\Databases\Bally Astrocade\Bally Astrocade.xml</OutputFile>
+  <SourceFile>M:\Hyperlists\Bally Astrocade.xml</SourceFile>
+  <ExcludeFile>M:\Arcade\HyperSpin\Databases\Bally Astrocade\Bally Astrocade_excluded.xml</ExcludeFile>
+  <MameXmlFile>
+  </MameXmlFile>
+</DonsHyperSpinListGenerator>

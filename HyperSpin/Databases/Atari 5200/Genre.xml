@@ -1,0 +1,11 @@
+<menu>
+  <game name="Action Games"/>
+  <game name="Baseball Games"/>
+  <game name="Driving Games"/>
+  <game name="Football Games" />
+  <game name="Platform Games" />
+  <game name="Puzzle Games" />
+  <game name="Shooter Games" />
+  <game name="Soccer Games" />
+  <game name="Tennis Games" />
+</menu>

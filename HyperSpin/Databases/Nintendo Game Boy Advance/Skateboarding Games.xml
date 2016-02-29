@@ -1,0 +1,159 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Nintendo Game Boy Advance</listname>
+		<lastlistupdate>10/27/2011</lastlistupdate>
+		<listversion>1.1 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="2 Disney Games - Disney Sports - Football + Disney Sports - Skateboarding (Europe) (En,Fr,De,Es,It)" index="true" image="2">
+		<description>2 Disney Games - Disney Sports - Football + Disney Sports - Skateboarding (Europe) (En,Fr,De,Es,It)</description>
+		<cloneof></cloneof>
+		<crc>C8CDB4ED</crc>
+		<manufacturer>Buena Vista Games</manufacturer>
+		<year>2006</year>
+		<genre>Football/Skateboarding/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="2 in 1 Game Pack - Tony Hawk&apos;s Underground + Kelly Slater&apos;s Pro Surfer (USA, Europe)" index="" image="">
+		<description>2 in 1 Game Pack - Tony Hawk&apos;s Underground + Kelly Slater&apos;s Pro Surfer (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>6D8EF48A</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2006</year>
+		<genre>Skateboarding/Surfing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Backyard Skateboarding (USA)" index="true" image="b">
+		<description>Backyard Skateboarding (USA)</description>
+		<cloneof></cloneof>
+		<crc>4EB19B87</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>2004</year>
+		<genre>Skateboarding/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Disney Sports - Skateboarding (USA)" index="true" image="d">
+		<description>Disney Sports - Skateboarding (USA)</description>
+		<cloneof></cloneof>
+		<crc>37FFD837</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>2002</year>
+		<genre>Skateboarding/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ESPN X-Games Skateboarding (USA)" index="true" image="e">
+		<description>ESPN X-Games Skateboarding (USA)</description>
+		<cloneof></cloneof>
+		<crc>9766B309</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>2001</year>
+		<genre>Skateboarding/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Extreme Skate Adventure (USA, Europe)" index="" image="">
+		<description>Extreme Skate Adventure (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>AD7BB7C8</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2003</year>
+		<genre>Skateboarding/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Razor Freestyle Scooter (USA)" index="true" image="r">
+		<description>Razor Freestyle Scooter (USA)</description>
+		<cloneof></cloneof>
+		<crc>FFE38431</crc>
+		<manufacturer>Crave</manufacturer>
+		<year>2001</year>
+		<genre>Skateboarding/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rocket Power - Zero Gravity Zone (USA)" index="" image="">
+		<description>Rocket Power - Zero Gravity Zone (USA)</description>
+		<cloneof></cloneof>
+		<crc>26D62D32</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2003</year>
+		<genre>Skateboarding/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tony Hawk&apos;s American Sk8land (USA)" index="true" image="t">
+		<description>Tony Hawk&apos;s American Sk8land (USA)</description>
+		<cloneof></cloneof>
+		<crc>7B089F4A</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2005</year>
+		<genre>Skateboarding/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tony Hawk&apos;s Downhill Jam (USA)" index="" image="">
+		<description>Tony Hawk&apos;s Downhill Jam (USA)</description>
+		<cloneof></cloneof>
+		<crc>37B0B53D</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2006</year>
+		<genre>Skateboarding/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tony Hawk&apos;s Pro Skater 2 (USA, Europe)" index="" image="">
+		<description>Tony Hawk&apos;s Pro Skater 2 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>812DC57A</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2001</year>
+		<genre>Skateboarding/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tony Hawk&apos;s Pro Skater 3 (USA, Europe)" index="" image="">
+		<description>Tony Hawk&apos;s Pro Skater 3 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>F669A368</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2002</year>
+		<genre>Skateboarding/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tony Hawk&apos;s Pro Skater 4 (USA, Europe)" index="" image="">
+		<description>Tony Hawk&apos;s Pro Skater 4 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>8CB0AA77</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2002</year>
+		<genre>Skateboarding/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tony Hawk&apos;s Underground (USA, Europe)" index="" image="">
+		<description>Tony Hawk&apos;s Underground (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>1F5149BC</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2003</year>
+		<genre>Skateboarding/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tony Hawk&apos;s Underground 2 (USA, Europe)" index="" image="">
+		<description>Tony Hawk&apos;s Underground 2 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>BF864083</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2004</year>
+		<genre>Skateboarding/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

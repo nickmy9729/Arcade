@@ -1,0 +1,8 @@
+<DonsHyperSpinListGenerator VersionMajor="4">
+  <Wheel>Sega Game Gear</Wheel>
+  <OutputFile>M:\Arcade\HyperSpin\Databases\Sega Game Gear\Sega Game Gear.xml</OutputFile>
+  <SourceFile>M:\Hyperlists\Sega Game Gear.xml</SourceFile>
+  <ExcludeFile>M:\Arcade\HyperSpin\Databases\Sega Game Gear\Sega Game Gear_excluded.xml</ExcludeFile>
+  <MameXmlFile>
+  </MameXmlFile>
+</DonsHyperSpinListGenerator>

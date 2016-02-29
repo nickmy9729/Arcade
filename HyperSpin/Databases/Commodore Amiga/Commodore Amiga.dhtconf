@@ -1,0 +1,8 @@
+<DonsHyperSpinListGenerator VersionMajor="4">
+  <Wheel>Commodore Amiga</Wheel>
+  <OutputFile>M:\Arcade\HyperSpin\Databases\Commodore Amiga\Commodore Amiga.xml</OutputFile>
+  <SourceFile>M:\Hyperlists\Commodore Amiga.xml</SourceFile>
+  <ExcludeFile>M:\Arcade\HyperSpin\Databases\Commodore Amiga\Commodore Amiga_excluded.xml</ExcludeFile>
+  <MameXmlFile>
+  </MameXmlFile>
+</DonsHyperSpinListGenerator>

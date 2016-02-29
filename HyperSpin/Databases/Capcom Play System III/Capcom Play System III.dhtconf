@@ -1,0 +1,8 @@
+<DonsHyperSpinListGenerator VersionMajor="4">
+  <Wheel>Capcom Play System III</Wheel>
+  <OutputFile>M:\Arcade\HyperSpin\Databases\Capcom Play System III\Capcom Play System III.xml</OutputFile>
+  <SourceFile>M:\Hyperlists\Capcom Play System III.xml</SourceFile>
+  <ExcludeFile>M:\Arcade\HyperSpin\Databases\Capcom Play System III\Capcom Play System III_excluded.xml</ExcludeFile>
+  <MameXmlFile>
+  </MameXmlFile>
+</DonsHyperSpinListGenerator>

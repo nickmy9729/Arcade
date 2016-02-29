@@ -1,0 +1,1359 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Nintendo Game Boy Advance</listname>
+		<lastlistupdate>10/27/2011</lastlistupdate>
+		<listversion>1.1 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="2 Disney Games - Disney Sports - Football + Disney Sports - Skateboarding (Europe) (En,Fr,De,Es,It)" index="true" image="2">
+		<description>2 Disney Games - Disney Sports - Football + Disney Sports - Skateboarding (Europe) (En,Fr,De,Es,It)</description>
+		<cloneof></cloneof>
+		<crc>C8CDB4ED</crc>
+		<manufacturer>Buena Vista Games</manufacturer>
+		<year>2006</year>
+		<genre>Football/Skateboarding/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="2006 FIFA World Cup - Germany 2006 (USA, Europe) (En,Fr,De,Es,It)" index="" image="">
+		<description>2006 FIFA World Cup - Germany 2006 (USA, Europe) (En,Fr,De,Es,It)</description>
+		<cloneof></cloneof>
+		<crc>50AB4544</crc>
+		<manufacturer>Electronic Arts</manufacturer>
+		<year>2006</year>
+		<genre>Soccer/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="2K Sports - Major League Baseball 2K7 (USA)" index="" image="">
+		<description>2K Sports - Major League Baseball 2K7 (USA)</description>
+		<cloneof></cloneof>
+		<crc>8F3FF0E4</crc>
+		<manufacturer>2K Sports</manufacturer>
+		<year>2007</year>
+		<genre>Baseball/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Agassi Tennis Generation (USA)" index="true" image="a">
+		<description>Agassi Tennis Generation (USA)</description>
+		<cloneof></cloneof>
+		<crc>8BA179B8</crc>
+		<manufacturer>Cryo Interactive</manufacturer>
+		<year>2003</year>
+		<genre>Sports/Tennis</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Aggressive Inline (USA)" index="" image="">
+		<description>Aggressive Inline (USA)</description>
+		<cloneof></cloneof>
+		<crc>3A44FCD5</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>2002</year>
+		<genre>Skating/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Alex Ferguson&apos;s Player Manager 2002 (Europe) (En,Fr,De,Es,It,Nl)" index="" image="">
+		<description>Alex Ferguson&apos;s Player Manager 2002 (Europe) (En,Fr,De,Es,It,Nl)</description>
+		<cloneof></cloneof>
+		<crc>92F99295</crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>2002</year>
+		<genre>Soccer/Sports</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="All-Star Baseball 2003 (USA)" index="" image="">
+		<description>All-Star Baseball 2003 (USA)</description>
+		<cloneof></cloneof>
+		<crc>E30691FE</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>2002</year>
+		<genre>Baseball/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="All-Star Baseball 2004 (USA)" index="" image="">
+		<description>All-Star Baseball 2004 (USA)</description>
+		<cloneof></cloneof>
+		<crc>60E2DB03</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>2003</year>
+		<genre>Baseball/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="American Bass Challenge (USA)" index="" image="">
+		<description>American Bass Challenge (USA)</description>
+		<cloneof></cloneof>
+		<crc>D76AD62D</crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>2001</year>
+		<genre>Fishing/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Backyard Baseball (USA)" index="true" image="b">
+		<description>Backyard Baseball (USA)</description>
+		<cloneof></cloneof>
+		<crc>9F36B4E5</crc>
+		<manufacturer>Infogrames</manufacturer>
+		<year>2002</year>
+		<genre>Baseball/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Backyard Baseball 2006 (USA)" index="" image="">
+		<description>Backyard Baseball 2006 (USA)</description>
+		<cloneof></cloneof>
+		<crc>92BCD192</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>2005</year>
+		<genre>Baseball/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Backyard Basketball (USA)" index="" image="">
+		<description>Backyard Basketball (USA)</description>
+		<cloneof></cloneof>
+		<crc>CBDA1D31</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>2004</year>
+		<genre>Basketball/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Backyard Football (USA)" index="" image="">
+		<description>Backyard Football (USA)</description>
+		<cloneof></cloneof>
+		<crc>7CCC79B4</crc>
+		<manufacturer>Infogrames</manufacturer>
+		<year>2002</year>
+		<genre>Football/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Backyard Football 2006 (USA)" index="" image="">
+		<description>Backyard Football 2006 (USA)</description>
+		<cloneof></cloneof>
+		<crc>DB0723E3</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>2005</year>
+		<genre>Football/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Backyard Hockey (USA)" index="" image="">
+		<description>Backyard Hockey (USA)</description>
+		<cloneof></cloneof>
+		<crc>3A8E31AF</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>2003</year>
+		<genre>Hockey/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Backyard Skateboarding (USA)" index="" image="">
+		<description>Backyard Skateboarding (USA)</description>
+		<cloneof></cloneof>
+		<crc>4EB19B87</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>2004</year>
+		<genre>Skateboarding/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Backyard Sports - Baseball 2007 (USA)" index="" image="">
+		<description>Backyard Sports - Baseball 2007 (USA)</description>
+		<cloneof></cloneof>
+		<crc>0EE82569</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>2006</year>
+		<genre>Baseball/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Backyard Sports - Basketball 2007 (USA)" index="" image="">
+		<description>Backyard Sports - Basketball 2007 (USA)</description>
+		<cloneof></cloneof>
+		<crc>28724CA5</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>2006</year>
+		<genre>Basketball/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Backyard Sports - Football 2007 (USA)" index="" image="">
+		<description>Backyard Sports - Football 2007 (USA)</description>
+		<cloneof></cloneof>
+		<crc>E9FDC229</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>2006</year>
+		<genre>Football/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Barbie Horse Adventures - Blue Ribbon Race (USA)" index="" image="">
+		<description>Barbie Horse Adventures - Blue Ribbon Race (USA)</description>
+		<cloneof></cloneof>
+		<crc>BA184025</crc>
+		<manufacturer>VU Games</manufacturer>
+		<year>2003</year>
+		<genre>Horse Racing/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Baseball Advance (USA)" index="" image="">
+		<description>Baseball Advance (USA)</description>
+		<cloneof></cloneof>
+		<crc>339F35B8</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2002</year>
+		<genre>Baseball/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="BMX Trick Racer (USA)" index="" image="">
+		<description>BMX Trick Racer (USA)</description>
+		<cloneof></cloneof>
+		<crc>B6D79476</crc>
+		<manufacturer>Simon &amp;  Schuster</manufacturer>
+		<year>2003</year>
+		<genre>Biking/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Boxing Fever (USA, Europe)" index="" image="">
+		<description>Boxing Fever (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>08A4FDC4</crc>
+		<manufacturer>Majesco Games</manufacturer>
+		<year>2001</year>
+		<genre>Boxing/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cabela&apos;s Big Game Hunter (USA)" index="true" image="c">
+		<description>Cabela&apos;s Big Game Hunter (USA)</description>
+		<cloneof></cloneof>
+		<crc>70A8A141</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2002</year>
+		<genre>Hunting/Sports</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cabela&apos;s Big Game Hunter - 2005 Adventures (USA, Europe)" index="" image="">
+		<description>Cabela&apos;s Big Game Hunter - 2005 Adventures (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>BD054567</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2004</year>
+		<genre>Hunting/Sports</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Crushed Baseball (USA)" index="" image="">
+		<description>Crushed Baseball (USA)</description>
+		<cloneof></cloneof>
+		<crc>55FE8579</crc>
+		<manufacturer>Summitsoft Entertainment</manufacturer>
+		<year>2004</year>
+		<genre>Baseball/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dave Mirra Freestyle BMX 2 (USA)" index="true" image="d">
+		<description>Dave Mirra Freestyle BMX 2 (USA)</description>
+		<cloneof></cloneof>
+		<crc>64B1E921</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>2001</year>
+		<genre>Biking/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dave Mirra Freestyle BMX 3 (USA, Europe)" index="" image="">
+		<description>Dave Mirra Freestyle BMX 3 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>8D8F26A5</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>2002</year>
+		<genre>Biking/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="David Beckham Soccer (USA) (En,Es)" index="" image="">
+		<description>David Beckham Soccer (USA) (En,Es)</description>
+		<cloneof></cloneof>
+		<crc>7E4DB1CC</crc>
+		<manufacturer>Majesco Games</manufacturer>
+		<year>2002</year>
+		<genre>Soccer/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Davis Cup (USA) (En,Fr,De,Es,It)" index="" image="">
+		<description>Davis Cup (USA) (En,Fr,De,Es,It)</description>
+		<cloneof></cloneof>
+		<crc>82B4D89C</crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>2002</year>
+		<genre>Sports/Tennis</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Disney Sports - Basketball (USA)" index="" image="">
+		<description>Disney Sports - Basketball (USA)</description>
+		<cloneof></cloneof>
+		<crc>80EC6CF0</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>2002</year>
+		<genre>Basketball/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Disney Sports - Football (USA)" index="" image="">
+		<description>Disney Sports - Football (USA)</description>
+		<cloneof></cloneof>
+		<crc>01413DB1</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>2002</year>
+		<genre>Football/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Disney Sports - Skateboarding (USA)" index="" image="">
+		<description>Disney Sports - Skateboarding (USA)</description>
+		<cloneof></cloneof>
+		<crc>37FFD837</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>2002</year>
+		<genre>Skateboarding/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Disney Sports - Snowboarding (USA)" index="" image="">
+		<description>Disney Sports - Snowboarding (USA)</description>
+		<cloneof></cloneof>
+		<crc>4733693C</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>2003</year>
+		<genre>Snowboarding/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Disney Sports - Soccer (USA)" index="" image="">
+		<description>Disney Sports - Soccer (USA)</description>
+		<cloneof></cloneof>
+		<crc>2F1316D2</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>2002</year>
+		<genre>Soccer/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Droopy&apos;s Tennis Open (Europe) (En,Fr,De,Es,It,Nl)" index="" image="">
+		<description>Droopy&apos;s Tennis Open (Europe) (En,Fr,De,Es,It,Nl)</description>
+		<cloneof></cloneof>
+		<crc>F14B65EF</crc>
+		<manufacturer>LSP</manufacturer>
+		<year>2002</year>
+		<genre>Sports/Tennis</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Elf Bowling 1 &amp; 2 (USA)" index="true" image="e">
+		<description>Elf Bowling 1 &amp; 2 (USA)</description>
+		<cloneof></cloneof>
+		<crc>68FEFF40</crc>
+		<manufacturer>Ignition Entertainment</manufacturer>
+		<year>2005</year>
+		<genre>Bowling/Sports</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ESPN Final Round Golf 2002 (USA)" index="" image="">
+		<description>ESPN Final Round Golf 2002 (USA)</description>
+		<cloneof></cloneof>
+		<crc>C9BC75A5</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>2001</year>
+		<genre>Golf/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ESPN Great Outdoor Games - Bass 2002 (USA)" index="" image="">
+		<description>ESPN Great Outdoor Games - Bass 2002 (USA)</description>
+		<cloneof></cloneof>
+		<crc>DA9D815F</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>2001</year>
+		<genre>Fishing/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ESPN Winter X-Games Snowboarding 2002 (USA)" index="" image="">
+		<description>ESPN Winter X-Games Snowboarding 2002 (USA)</description>
+		<cloneof></cloneof>
+		<crc>DE9E85BF</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>2001</year>
+		<genre>Snowboarding/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ESPN X-Games Skateboarding (USA)" index="" image="">
+		<description>ESPN X-Games Skateboarding (USA)</description>
+		<cloneof></cloneof>
+		<crc>9766B309</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>2001</year>
+		<genre>Skateboarding/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="European Super League (Europe) (En,Fr,De,Es,It)" index="" image="">
+		<description>European Super League (Europe) (En,Fr,De,Es,It)</description>
+		<cloneof></cloneof>
+		<crc>748AD738</crc>
+		<manufacturer>Virgin Interactive</manufacturer>
+		<year>2001</year>
+		<genre>Soccer/Sports</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Extreme Skate Adventure (USA, Europe)" index="" image="">
+		<description>Extreme Skate Adventure (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>AD7BB7C8</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2003</year>
+		<genre>Skateboarding/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="FIFA Soccer 06 (USA, Europe) (En,Fr,De,Es,It,Nl)" index="true" image="f">
+		<description>FIFA Soccer 06 (USA, Europe) (En,Fr,De,Es,It,Nl)</description>
+		<cloneof></cloneof>
+		<crc>BE4C3CB1</crc>
+		<manufacturer>Electronic Arts</manufacturer>
+		<year>2005</year>
+		<genre>Soccer/Sports</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="FIFA Soccer 07 (USA, Europe) (En,Fr,De,Es)" index="" image="">
+		<description>FIFA Soccer 07 (USA, Europe) (En,Fr,De,Es)</description>
+		<cloneof></cloneof>
+		<crc>D8C7553B</crc>
+		<manufacturer>EA Sports</manufacturer>
+		<year>2006</year>
+		<genre>Soccer/Sports</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="FIFA Soccer 2003 (USA, Europe) (En,Fr,De,Es,It)" index="" image="">
+		<description>FIFA Soccer 2003 (USA, Europe) (En,Fr,De,Es,It)</description>
+		<cloneof></cloneof>
+		<crc>81F58837</crc>
+		<manufacturer>Electronic Arts</manufacturer>
+		<year>2002</year>
+		<genre>Soccer/Sports</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="FIFA Soccer 2004 (USA, Europe) (En,Fr,De,Es,It)" index="" image="">
+		<description>FIFA Soccer 2004 (USA, Europe) (En,Fr,De,Es,It)</description>
+		<cloneof></cloneof>
+		<crc>1ABBC24F</crc>
+		<manufacturer>EA Sports</manufacturer>
+		<year>2003</year>
+		<genre>Soccer/Sports</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="FIFA Soccer 2005 (USA, Europe) (En,Fr,De,Es,It,Nl)" index="" image="">
+		<description>FIFA Soccer 2005 (USA, Europe) (En,Fr,De,Es,It,Nl)</description>
+		<cloneof></cloneof>
+		<crc>DA90F396</crc>
+		<manufacturer>EA Sports</manufacturer>
+		<year>2004</year>
+		<genre>Soccer/Sports</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fire Pro Wrestling (USA, Europe)" index="" image="">
+		<description>Fire Pro Wrestling (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>12AA524C</crc>
+		<manufacturer>Bam Entertainment</manufacturer>
+		<year>2001</year>
+		<genre>Sports/Wrestling</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fire Pro Wrestling 2 (USA)" index="" image="">
+		<description>Fire Pro Wrestling 2 (USA)</description>
+		<cloneof></cloneof>
+		<crc>B9CFC1D3</crc>
+		<manufacturer>Bam Entertainment</manufacturer>
+		<year>2002</year>
+		<genre>Sports/Wrestling</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hamtaro - Ham-Ham Games (Europe) (En,Fr,De,Es,It)" index="true" image="h">
+		<description>Hamtaro - Ham-Ham Games (Europe) (En,Fr,De,Es,It)</description>
+		<cloneof></cloneof>
+		<crc>D9341D9C</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2004</year>
+		<genre>Sports</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Harlem Globetrotters - World Tour (USA)" index="" image="">
+		<description>Harlem Globetrotters - World Tour (USA)</description>
+		<cloneof></cloneof>
+		<crc>737C286F</crc>
+		<manufacturer>DSI Games</manufacturer>
+		<year>2006</year>
+		<genre>Basketball/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Harry Potter - Quidditch World Cup (USA, Europe) (En,Fr,De,Es,It,Nl,Da)" index="" image="">
+		<description>Harry Potter - Quidditch World Cup (USA, Europe) (En,Fr,De,Es,It,Nl,Da)</description>
+		<cloneof></cloneof>
+		<crc>486041A4</crc>
+		<manufacturer>Electronic Arts</manufacturer>
+		<year>2003</year>
+		<genre>Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="High Heat Major League Baseball 2002 (USA, Europe)" index="" image="">
+		<description>High Heat Major League Baseball 2002 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>6EA3F4E4</crc>
+		<manufacturer>3DO</manufacturer>
+		<year>2001</year>
+		<genre>Baseball/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="High Heat Major League Baseball 2003 (USA)" index="" image="">
+		<description>High Heat Major League Baseball 2003 (USA)</description>
+		<cloneof></cloneof>
+		<crc>59D72CB9</crc>
+		<manufacturer>3DO</manufacturer>
+		<year>2002</year>
+		<genre>Baseball/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="International Superstar Soccer (Europe)" index="true" image="i">
+		<description>International Superstar Soccer (Europe)</description>
+		<cloneof></cloneof>
+		<crc>9989CE55</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>2001</year>
+		<genre>Soccer/Sports</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="International Superstar Soccer Advance (Europe)" index="" image="">
+		<description>International Superstar Soccer Advance (Europe)</description>
+		<cloneof></cloneof>
+		<crc>7EB2F6D6</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>2003</year>
+		<genre>Soccer/Sports</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Jonny Moseley Mad Trix (USA, Europe) (En,Fr,De,Es,It)" index="true" image="j">
+		<description>Jonny Moseley Mad Trix (USA, Europe) (En,Fr,De,Es,It)</description>
+		<cloneof></cloneof>
+		<crc>96488632</crc>
+		<manufacturer>3DO</manufacturer>
+		<year>2002</year>
+		<genre>Snowboarding/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Kelly Slater&apos;s Pro Surfer (USA, Europe)" index="true" image="k">
+		<description>Kelly Slater&apos;s Pro Surfer (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>31F85DBE</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2002</year>
+		<genre>Sports/Surfing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Legends of Wrestling II (USA, Europe)" index="true" image="l">
+		<description>Legends of Wrestling II (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>84440066</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>2002</year>
+		<genre>Sports/Wrestling</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="LEGO Soccer Mania (USA, Europe) (En,Fr,De,Es,It,Nl,Sv,Da)" index="" image="">
+		<description>LEGO Soccer Mania (USA, Europe) (En,Fr,De,Es,It,Nl,Sv,Da)</description>
+		<cloneof></cloneof>
+		<crc>73EF3A35</crc>
+		<manufacturer>Lego Media</manufacturer>
+		<year>2002</year>
+		<genre>Soccer/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Let&apos;s Ride! - Sunshine Stables (USA)" index="" image="">
+		<description>Let&apos;s Ride! - Sunshine Stables (USA)</description>
+		<cloneof></cloneof>
+		<crc>684EB887</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2005</year>
+		<genre>Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Little League Baseball 2002 (USA) (En,Es)" index="" image="">
+		<description>Little League Baseball 2002 (USA) (En,Es)</description>
+		<cloneof></cloneof>
+		<crc>B550F8CB</crc>
+		<manufacturer>NewKidCo</manufacturer>
+		<year>2002</year>
+		<genre>Baseball/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Madden NFL 06 (USA)" index="true" image="m">
+		<description>Madden NFL 06 (USA)</description>
+		<cloneof></cloneof>
+		<crc>374FD6F9</crc>
+		<manufacturer>EA Sports</manufacturer>
+		<year>2005</year>
+		<genre>Football/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Madden NFL 07 (USA)" index="" image="">
+		<description>Madden NFL 07 (USA)</description>
+		<cloneof></cloneof>
+		<crc>C5805B1D</crc>
+		<manufacturer>EA Sports</manufacturer>
+		<year>2006</year>
+		<genre>Football/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Madden NFL 2002 (USA)" index="" image="">
+		<description>Madden NFL 2002 (USA)</description>
+		<cloneof></cloneof>
+		<crc>8E797ECD</crc>
+		<manufacturer>EA Sports</manufacturer>
+		<year>2001</year>
+		<genre>Football/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Madden NFL 2003 (USA)" index="" image="">
+		<description>Madden NFL 2003 (USA)</description>
+		<cloneof></cloneof>
+		<crc>64B93824</crc>
+		<manufacturer>EA Sports</manufacturer>
+		<year>2002</year>
+		<genre>Football/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Madden NFL 2004 (USA)" index="" image="">
+		<description>Madden NFL 2004 (USA)</description>
+		<cloneof></cloneof>
+		<crc>170BB11A</crc>
+		<manufacturer>EA Sports</manufacturer>
+		<year>2003</year>
+		<genre>Football/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Madden NFL 2005 (USA)" index="" image="">
+		<description>Madden NFL 2005 (USA)</description>
+		<cloneof></cloneof>
+		<crc>0B79A67B</crc>
+		<manufacturer>EA Sports</manufacturer>
+		<year>2004</year>
+		<genre>Football/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Majesco&apos;s Sports Pack (USA)" index="" image="">
+		<description>Majesco&apos;s Sports Pack (USA)</description>
+		<cloneof></cloneof>
+		<crc>A91BEC73</crc>
+		<manufacturer>Majesco Games</manufacturer>
+		<year>2005</year>
+		<genre>Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mario Golf - Advance Tour (USA)" index="" image="">
+		<description>Mario Golf - Advance Tour (USA)</description>
+		<cloneof></cloneof>
+		<crc>D56C2E54</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2004</year>
+		<genre>Golf/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mario Tennis - Power Tour (USA, Australia) (En,Fr,De,Es,It)" index="" image="">
+		<description>Mario Tennis - Power Tour (USA, Australia) (En,Fr,De,Es,It)</description>
+		<cloneof></cloneof>
+		<crc>DA192D29</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2005</year>
+		<genre>Sports/Tennis</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mat Hoffman&apos;s Pro BMX (USA, Europe)" index="" image="">
+		<description>Mat Hoffman&apos;s Pro BMX (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>A333FA51</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2001</year>
+		<genre>Biking/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mat Hoffman&apos;s Pro BMX 2 (USA, Europe)" index="" image="">
+		<description>Mat Hoffman&apos;s Pro BMX 2 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>E7FA71C6</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2002</year>
+		<genre>Biking/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mike Tyson Boxing (USA) (En,Fr,De,Es,It)" index="" image="">
+		<description>Mike Tyson Boxing (USA) (En,Fr,De,Es,It)</description>
+		<cloneof></cloneof>
+		<crc>48109F8D</crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>2002</year>
+		<genre>Boxing/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="MLB SlugFest 20-04 (USA)" index="" image="">
+		<description>MLB SlugFest 20-04 (USA)</description>
+		<cloneof></cloneof>
+		<crc>A4E12D4B</crc>
+		<manufacturer>Midway</manufacturer>
+		<year>2003</year>
+		<genre>Baseball/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Monster! Bass Fishing (USA)" index="" image="">
+		<description>Monster! Bass Fishing (USA)</description>
+		<cloneof></cloneof>
+		<crc>3EDBA390</crc>
+		<manufacturer>AIA</manufacturer>
+		<year>2004</year>
+		<genre>Fishing/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mucha Lucha! - Mascaritas of the Lost Code (USA) (En,Fr,Es)" index="" image="">
+		<description>Mucha Lucha! - Mascaritas of the Lost Code (USA) (En,Fr,Es)</description>
+		<cloneof></cloneof>
+		<crc>03BBC0C9</crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>2003</year>
+		<genre>Sports/Wrestling</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NBA Jam 2002 (USA, Europe)" index="true" image="n">
+		<description>NBA Jam 2002 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>CA428A7A</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>2002</year>
+		<genre>Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Next Generation Tennis (Europe) (En,Fr,De,Es,It,Pt)" index="" image="">
+		<description>Next Generation Tennis (Europe) (En,Fr,De,Es,It,Pt)</description>
+		<cloneof></cloneof>
+		<crc>5297693A</crc>
+		<manufacturer>Wanadoo</manufacturer>
+		<year>2002</year>
+		<genre>Sports/Tennis</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NFL Blitz 20-02 (USA)" index="" image="">
+		<description>NFL Blitz 20-02 (USA)</description>
+		<cloneof></cloneof>
+		<crc>8C748DCB</crc>
+		<manufacturer>Midway</manufacturer>
+		<year>2001</year>
+		<genre>Football/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NFL Blitz 20-03 (USA)" index="" image="">
+		<description>NFL Blitz 20-03 (USA)</description>
+		<cloneof></cloneof>
+		<crc>E0B137E7</crc>
+		<manufacturer>Midway</manufacturer>
+		<year>2002</year>
+		<genre>Football/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NHL 2002 (USA)" index="" image="">
+		<description>NHL 2002 (USA)</description>
+		<cloneof></cloneof>
+		<crc>D1D9E515</crc>
+		<manufacturer>EA Sports</manufacturer>
+		<year>2002</year>
+		<genre>Hockey/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NHL Hitz 20-03 (USA)" index="" image="">
+		<description>NHL Hitz 20-03 (USA)</description>
+		<cloneof></cloneof>
+		<crc>4F1ADF75</crc>
+		<manufacturer>Midway</manufacturer>
+		<year>2002</year>
+		<genre>Hockey/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pippa Funnell - Stable Adventure (Europe) (En,Fr)" index="true" image="p">
+		<description>Pippa Funnell - Stable Adventure (Europe) (En,Fr)</description>
+		<cloneof></cloneof>
+		<crc>1C1846C2</crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>2005</year>
+		<genre>Horse Racing/Sports</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pippa Funnell 2 (Europe) (En,Fr)" index="" image="">
+		<description>Pippa Funnell 2 (Europe) (En,Fr)</description>
+		<cloneof></cloneof>
+		<crc>F3C274C2</crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>2006</year>
+		<genre>Horse Racing/Sports</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Premier Action Soccer (Europe) (En,Fr,De,Es,It)" index="" image="">
+		<description>Premier Action Soccer (Europe) (En,Fr,De,Es,It)</description>
+		<cloneof></cloneof>
+		<crc>B5432FA4</crc>
+		<manufacturer>East Entertainment Media</manufacturer>
+		<year>2006</year>
+		<genre>Soccer/Sports</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Premier Manager 2003-04 (Europe) (En,Fr,De,It)" index="" image="">
+		<description>Premier Manager 2003-04 (Europe) (En,Fr,De,It)</description>
+		<cloneof></cloneof>
+		<crc>A959F638</crc>
+		<manufacturer>Zoo Digital Publishing</manufacturer>
+		<year>2003</year>
+		<genre>Soccer/Sports</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Premier Manager 2004-2005 (Europe) (En,Fr,De,It)" index="" image="">
+		<description>Premier Manager 2004-2005 (Europe) (En,Fr,De,It)</description>
+		<cloneof></cloneof>
+		<crc>2706DFF2</crc>
+		<manufacturer>Zoo Digital Publishing</manufacturer>
+		<year>2004</year>
+		<genre>Soccer/Sports</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Premier Manager 2005-2006 (Europe) (En,Fr,De,It)" index="" image="">
+		<description>Premier Manager 2005-2006 (Europe) (En,Fr,De,It)</description>
+		<cloneof></cloneof>
+		<crc>3B04673B</crc>
+		<manufacturer>Zoo Digital Publishing</manufacturer>
+		<year>2005</year>
+		<genre>Soccer/Sports</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Punch King - Arcade Boxing (USA)" index="" image="">
+		<description>Punch King - Arcade Boxing (USA)</description>
+		<cloneof></cloneof>
+		<crc>540B6CC1</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>2002</year>
+		<genre>Boxing/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rapala Pro Fishing (USA, Europe)" index="true" image="r">
+		<description>Rapala Pro Fishing (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>964D39A7</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2004</year>
+		<genre>Fishing/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Razor Freestyle Scooter (USA)" index="" image="">
+		<description>Razor Freestyle Scooter (USA)</description>
+		<cloneof></cloneof>
+		<crc>FFE38431</crc>
+		<manufacturer>Crave</manufacturer>
+		<year>2001</year>
+		<genre>Skateboarding/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ready 2 Rumble Boxing - Round 2 (USA)" index="" image="">
+		<description>Ready 2 Rumble Boxing - Round 2 (USA)</description>
+		<cloneof></cloneof>
+		<crc>5DFCC5E5</crc>
+		<manufacturer>Midway</manufacturer>
+		<year>2001</year>
+		<genre>Boxing/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rocket Power - Zero Gravity Zone (USA)" index="" image="">
+		<description>Rocket Power - Zero Gravity Zone (USA)</description>
+		<cloneof></cloneof>
+		<crc>26D62D32</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2003</year>
+		<genre>Skateboarding/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rocky (USA) (En,Fr,De,Es,It)" index="" image="">
+		<description>Rocky (USA) (En,Fr,De,Es,It)</description>
+		<cloneof></cloneof>
+		<crc>C8F4FF1B</crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>2002</year>
+		<genre>Boxing/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Salt Lake 2002 (USA) (En,Fr,De,Es,It,Nl)" index="true" image="s">
+		<description>Salt Lake 2002 (USA) (En,Fr,De,Es,It,Nl)</description>
+		<cloneof></cloneof>
+		<crc>4603205A</crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>2002</year>
+		<genre>Olympic/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Shaun Palmer&apos;s Pro Snowboarder (USA, Europe)" index="" image="">
+		<description>Shaun Palmer&apos;s Pro Snowboarder (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>66265AD9</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2001</year>
+		<genre>Snowboarding/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Soccer Kid (USA, Europe)" index="" image="">
+		<description>Soccer Kid (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>D3485F5A</crc>
+		<manufacturer>Telegames, Inc.</manufacturer>
+		<year>2002</year>
+		<genre>Soccer/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Speedball 2 - Brutal Deluxe (Europe) (En,Fr,De,Es,It)" index="" image="">
+		<description>Speedball 2 - Brutal Deluxe (Europe) (En,Fr,De,Es,It)</description>
+		<cloneof></cloneof>
+		<crc>051F3D0D</crc>
+		<manufacturer>Wanadoo</manufacturer>
+		<year>2002</year>
+		<genre>Sports</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sports Illustrated for Kids - Baseball (USA)" index="" image="">
+		<description>Sports Illustrated for Kids - Baseball (USA)</description>
+		<cloneof></cloneof>
+		<crc>616088DF</crc>
+		<manufacturer>Bam Entertainment</manufacturer>
+		<year>2001</year>
+		<genre>Baseball/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sports Illustrated for Kids - Football (USA)" index="" image="">
+		<description>Sports Illustrated for Kids - Football (USA)</description>
+		<cloneof></cloneof>
+		<crc>9972779D</crc>
+		<manufacturer>Bam Entertainment</manufacturer>
+		<year>2003</year>
+		<genre>Football/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="SSX 3 (USA, Europe)" index="" image="">
+		<description>SSX 3 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>8232F58A</crc>
+		<manufacturer>EA Sports Big</manufacturer>
+		<year>2003</year>
+		<genre>Snowboarding/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="SSX Tricky (USA, Europe) (En,Fr,De)" index="" image="">
+		<description>SSX Tricky (USA, Europe) (En,Fr,De)</description>
+		<cloneof></cloneof>
+		<crc>E0988123</crc>
+		<manufacturer>EA Sports Big</manufacturer>
+		<year>2002</year>
+		<genre>Snowboarding/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Stadium Games (USA)" index="" image="">
+		<description>Stadium Games (USA)</description>
+		<cloneof></cloneof>
+		<crc>4BF6E9E8</crc>
+		<manufacturer>Crave</manufacturer>
+		<year>2004</year>
+		<genre>Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Steven Gerrard&apos;s Total Soccer 2002 (Europe) (En,Fr,De,Es,It,Nl)" index="" image="">
+		<description>Steven Gerrard&apos;s Total Soccer 2002 (Europe) (En,Fr,De,Es,It,Nl)</description>
+		<cloneof></cloneof>
+		<crc>B94DDC93</crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>2001</year>
+		<genre>Soccer/Sports</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Street Jam Basketball (USA, Europe)" index="" image="">
+		<description>Street Jam Basketball (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>3F20A970</crc>
+		<manufacturer>Destination Software</manufacturer>
+		<year>2004</year>
+		<genre>Basketball/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Dodge Ball Advance (USA)" index="" image="">
+		<description>Super Dodge Ball Advance (USA)</description>
+		<cloneof></cloneof>
+		<crc>1D31DC6B</crc>
+		<manufacturer>Atlus Co.</manufacturer>
+		<year>2001</year>
+		<genre>Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Surf&apos;s Up (USA) (En,Fr,Es)" index="" image="">
+		<description>Surf&apos;s Up (USA) (En,Fr,Es)</description>
+		<cloneof></cloneof>
+		<crc>0ADF57C5</crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>2007</year>
+		<genre>Sports/Surfing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ten Pin Alley 2 (USA)" index="true" image="t">
+		<description>Ten Pin Alley 2 (USA)</description>
+		<cloneof></cloneof>
+		<crc>3C225943</crc>
+		<manufacturer>XS Games</manufacturer>
+		<year>2004</year>
+		<genre>Bowling/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tennis Masters Series 2003 (Europe) (En,Fr,De,Es,It,Pt)" index="" image="">
+		<description>Tennis Masters Series 2003 (Europe) (En,Fr,De,Es,It,Pt)</description>
+		<cloneof></cloneof>
+		<crc>28E6BD52</crc>
+		<manufacturer>Microids</manufacturer>
+		<year>2002</year>
+		<genre>Sports/Tennis</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tiger Woods PGA Tour 2004 (USA, Europe)" index="" image="">
+		<description>Tiger Woods PGA Tour 2004 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>0E38108B</crc>
+		<manufacturer>Electronic Arts</manufacturer>
+		<year>2003</year>
+		<genre>Golf/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tiger Woods PGA Tour Golf (USA, Europe)" index="" image="">
+		<description>Tiger Woods PGA Tour Golf (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>F3F26ACC</crc>
+		<manufacturer>Destination Software</manufacturer>
+		<year>2002</year>
+		<genre>Golf/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tony Hawk&apos;s American Sk8land (USA)" index="" image="">
+		<description>Tony Hawk&apos;s American Sk8land (USA)</description>
+		<cloneof></cloneof>
+		<crc>7B089F4A</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2005</year>
+		<genre>Skateboarding/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tony Hawk&apos;s Downhill Jam (USA)" index="" image="">
+		<description>Tony Hawk&apos;s Downhill Jam (USA)</description>
+		<cloneof></cloneof>
+		<crc>37B0B53D</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2006</year>
+		<genre>Skateboarding/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tony Hawk&apos;s Pro Skater 2 (USA, Europe)" index="" image="">
+		<description>Tony Hawk&apos;s Pro Skater 2 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>812DC57A</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2001</year>
+		<genre>Skateboarding/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tony Hawk&apos;s Pro Skater 3 (USA, Europe)" index="" image="">
+		<description>Tony Hawk&apos;s Pro Skater 3 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>F669A368</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2002</year>
+		<genre>Skateboarding/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tony Hawk&apos;s Pro Skater 4 (USA, Europe)" index="" image="">
+		<description>Tony Hawk&apos;s Pro Skater 4 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>8CB0AA77</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2002</year>
+		<genre>Skateboarding/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tony Hawk&apos;s Underground (USA, Europe)" index="" image="">
+		<description>Tony Hawk&apos;s Underground (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>1F5149BC</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2003</year>
+		<genre>Skateboarding/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tony Hawk&apos;s Underground 2 (USA, Europe)" index="" image="">
+		<description>Tony Hawk&apos;s Underground 2 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>BF864083</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2004</year>
+		<genre>Skateboarding/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Top Spin 2 (USA) (En,Fr,De,Es,It)" index="" image="">
+		<description>Top Spin 2 (USA) (En,Fr,De,Es,It)</description>
+		<cloneof></cloneof>
+		<crc>A960D63B</crc>
+		<manufacturer>2K Sports</manufacturer>
+		<year>2006</year>
+		<genre>Sports/Tennis</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ultimate Beach Soccer (USA)" index="true" image="u">
+		<description>Ultimate Beach Soccer (USA)</description>
+		<cloneof></cloneof>
+		<crc>5D4D88C5</crc>
+		<manufacturer>DreamCatcher Interactive</manufacturer>
+		<year>2003</year>
+		<genre>Soccer/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ultimate Muscle - The Kinnikuman Legacy - The Path of the Superhero (USA)" index="" image="">
+		<description>Ultimate Muscle - The Kinnikuman Legacy - The Path of the Superhero (USA)</description>
+		<cloneof></cloneof>
+		<crc>BB85AD55</crc>
+		<manufacturer>Bandai</manufacturer>
+		<year>2003</year>
+		<genre>Sports/Wrestling</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ultimate Winter Games (USA)" index="" image="">
+		<description>Ultimate Winter Games (USA)</description>
+		<cloneof></cloneof>
+		<crc>95988EE2</crc>
+		<manufacturer>Telegames, Inc.</manufacturer>
+		<year>2004</year>
+		<genre>Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Virtua Tennis (USA)" index="true" image="v">
+		<description>Virtua Tennis (USA)</description>
+		<cloneof></cloneof>
+		<crc>E0BD3B75</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2002</year>
+		<genre>Sports/Tennis</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Wade Hixton&apos;s Counter Punch (USA, Europe)" index="true" image="w">
+		<description>Wade Hixton&apos;s Counter Punch (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>47B49060</crc>
+		<manufacturer>Destination Software</manufacturer>
+		<year>2004</year>
+		<genre>Boxing/Sports</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Wakeboarding Unleashed featuring Shaun Murray (USA)" index="" image="">
+		<description>Wakeboarding Unleashed featuring Shaun Murray (USA)</description>
+		<cloneof></cloneof>
+		<crc>CAD6376C</crc>
+		<manufacturer>Aspyr</manufacturer>
+		<year>2003</year>
+		<genre>Sports/Wakeboarding</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Winter Sports (Europe) (En,Fr,De,Es,It)" index="" image="">
+		<description>Winter Sports (Europe) (En,Fr,De,Es,It)</description>
+		<cloneof></cloneof>
+		<crc>64C802F9</crc>
+		<manufacturer>East Entertainment Media</manufacturer>
+		<year>2006</year>
+		<genre>Olympic/Sports</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="World Tennis Stars (USA)" index="" image="">
+		<description>World Tennis Stars (USA)</description>
+		<cloneof></cloneof>
+		<crc>036E30B0</crc>
+		<manufacturer>Ignition Entertainment</manufacturer>
+		<year>2004</year>
+		<genre>Sports/Tennis</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="WTA Tour Tennis (USA)" index="" image="">
+		<description>WTA Tour Tennis (USA)</description>
+		<cloneof></cloneof>
+		<crc>7F8CB0AF</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>2002</year>
+		<genre>Sports/Tennis</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="WWE - Road to WrestleMania X8 (USA, Europe)" index="" image="">
+		<description>WWE - Road to WrestleMania X8 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>F1FB4FD1</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2002</year>
+		<genre>Sports/Wrestling</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="WWE - Survivor Series (USA, Europe)" index="" image="">
+		<description>WWE - Survivor Series (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>6694F94D</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2004</year>
+		<genre>Sports/Wrestling</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="WWF - Road to WrestleMania (USA, Europe)" index="" image="">
+		<description>WWF - Road to WrestleMania (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>8D3B116E</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2001</year>
+		<genre>Sports/Wrestling</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="X-Bladez - Inline Skater (USA)" index="true" image="x">
+		<description>X-Bladez - Inline Skater (USA)</description>
+		<cloneof></cloneof>
+		<crc>09FDD665</crc>
+		<manufacturer>Crave</manufacturer>
+		<year>2002</year>
+		<genre>Skating/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Zidane Football Generation (Europe) (En,Fr,De,Es,It)" index="true" image="z">
+		<description>Zidane Football Generation (Europe) (En,Fr,De,Es,It)</description>
+		<cloneof></cloneof>
+		<crc>59E2635F</crc>
+		<manufacturer>Cryo Interactive</manufacturer>
+		<year>2002</year>
+		<genre>Soccer/Sports</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

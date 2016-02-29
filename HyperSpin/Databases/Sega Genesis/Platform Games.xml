@@ -1,0 +1,2679 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Sega Genesis</listname>
+		<lastlistupdate>02/21/2013</lastlistupdate>
+		<listversion>1.2 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="Addams Family, The (USA, Europe)" index="true" image="a">
+		<description>Addams Family, The (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>71f58614</crc>
+		<manufacturer>Ocean</manufacturer>
+		<year>1994</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Adventures of Batman &amp; Robin, The (USA)" index="" image="">
+		<description>Adventures of Batman &amp; Robin, The (USA)</description>
+		<cloneof></cloneof>
+		<crc>0caaa4ac</crc>
+		<manufacturer>Clockwork Games</manufacturer>
+		<year>1995</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Adventures of Mighty Max, The (USA)" index="" image="">
+		<description>Adventures of Mighty Max, The (USA)</description>
+		<cloneof></cloneof>
+		<crc>55f13a00</crc>
+		<manufacturer>WJS Design</manufacturer>
+		<year>1994</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Adventures of Rocky and Bullwinkle and Friends, The (USA)" index="" image="">
+		<description>Adventures of Rocky and Bullwinkle and Friends, The (USA)</description>
+		<cloneof></cloneof>
+		<crc>ef02d57b</crc>
+		<manufacturer>Imagineering</manufacturer>
+		<year>1993</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Aero the Acro-Bat (USA)" index="" image="">
+		<description>Aero the Acro-Bat (USA)</description>
+		<cloneof></cloneof>
+		<crc>a3a7a8b5</crc>
+		<manufacturer>Iguana Entertainment</manufacturer>
+		<year>1993</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Aero the Acro-Bat 2 (USA)" index="" image="">
+		<description>Aero the Acro-Bat 2 (USA)</description>
+		<cloneof></cloneof>
+		<crc>39eb74eb</crc>
+		<manufacturer>Iguana Entertainment</manufacturer>
+		<year>1994</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Aladdin (USA)" index="" image="">
+		<description>Aladdin (USA)</description>
+		<cloneof></cloneof>
+		<crc>ed427ea9</crc>
+		<manufacturer>Virgin Interactive</manufacturer>
+		<year>1993</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Alex Kidd in the Enchanted Castle (USA)" index="" image="">
+		<description>Alex Kidd in the Enchanted Castle (USA)</description>
+		<cloneof></cloneof>
+		<crc>47dba0ac</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1989</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Alien 3 (USA, Europe) (Rev A)" index="" image="">
+		<description>Alien 3 (USA, Europe) (Rev A)</description>
+		<cloneof></cloneof>
+		<crc>b327fd1b</crc>
+		<manufacturer>Probe Entertainment</manufacturer>
+		<year>1993</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Alien Soldier (Europe)" index="" image="">
+		<description>Alien Soldier (Europe)</description>
+		<cloneof></cloneof>
+		<crc>0496e06c</crc>
+		<manufacturer>Treasure</manufacturer>
+		<year>1995</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Alisia Dragoon (USA)" index="" image="">
+		<description>Alisia Dragoon (USA)</description>
+		<cloneof></cloneof>
+		<crc>d28d5c40</crc>
+		<manufacturer>Game Arts</manufacturer>
+		<year>1992</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Animaniacs (USA)" index="" image="">
+		<description>Animaniacs (USA)</description>
+		<cloneof></cloneof>
+		<crc>86224d86</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1994</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Arcade Classics (USA, Europe)" index="" image="">
+		<description>Arcade Classics (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>8aed2090</crc>
+		<manufacturer>Al Baker and Associates</manufacturer>
+		<year>1996</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Arcus Odyssey (USA)" index="" image="">
+		<description>Arcus Odyssey (USA)</description>
+		<cloneof></cloneof>
+		<crc>bc4d9b20</crc>
+		<manufacturer>Wolf Team</manufacturer>
+		<year>1991</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ariel the Little Mermaid (USA, Europe)" index="" image="">
+		<description>Ariel the Little Mermaid (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>58e297df</crc>
+		<manufacturer>Bluesky Innovations</manufacturer>
+		<year>1992</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Asterix and the Great Rescue (USA)" index="" image="">
+		<description>Asterix and the Great Rescue (USA)</description>
+		<cloneof></cloneof>
+		<crc>7f112cd8</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1994</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Asterix and the Power of the Gods (Europe)" index="" image="">
+		<description>Asterix and the Power of the Gods (Europe)</description>
+		<cloneof></cloneof>
+		<crc>4ff1d83f</crc>
+		<manufacturer>Core Design</manufacturer>
+		<year>1995</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Awesome Possum Kicks Dr Machino&apos;s Butt! (USA)" index="" image="">
+		<description>Awesome Possum Kicks Dr Machino&apos;s Butt! (USA)</description>
+		<cloneof></cloneof>
+		<crc>1f07577f</crc>
+		<manufacturer>Tengen</manufacturer>
+		<year>1993</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Back to the Future Part III (USA)" index="true" image="b">
+		<description>Back to the Future Part III (USA)</description>
+		<cloneof></cloneof>
+		<crc>66a388c3</crc>
+		<manufacturer>Probe Entertainment</manufacturer>
+		<year>1991</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ball Jacks (Japan, Europe)" index="" image="">
+		<description>Ball Jacks (Japan, Europe)</description>
+		<cloneof></cloneof>
+		<crc>f5c3c54f</crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1993</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Barbie Super Model (USA)" index="" image="">
+		<description>Barbie Super Model (USA)</description>
+		<cloneof></cloneof>
+		<crc>81c9662b</crc>
+		<manufacturer>Tahoe Software</manufacturer>
+		<year>1992</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Barney&apos;s Hide &amp; Seek Game (USA)" index="" image="">
+		<description>Barney&apos;s Hide &amp; Seek Game (USA)</description>
+		<cloneof></cloneof>
+		<crc>1efa9d53</crc>
+		<manufacturer>Realtime Associates</manufacturer>
+		<year>1993</year>
+		<genre>Platform</genre>
+		<rating>ESRB - EC (Early Childhood)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Batman (USA)" index="" image="">
+		<description>Batman (USA)</description>
+		<cloneof></cloneof>
+		<crc>017410ae</crc>
+		<manufacturer>SunSoft</manufacturer>
+		<year>1992</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Batman - Revenge of the Joker (USA)" index="" image="">
+		<description>Batman - Revenge of the Joker (USA)</description>
+		<cloneof></cloneof>
+		<crc>caa044a1</crc>
+		<manufacturer>SunSoft</manufacturer>
+		<year>1990</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Batman Forever (World)" index="" image="">
+		<description>Batman Forever (World)</description>
+		<cloneof></cloneof>
+		<crc>8b723d01</crc>
+		<manufacturer>Probe Entertainment</manufacturer>
+		<year>1995</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Batman Returns (World)" index="" image="">
+		<description>Batman Returns (World)</description>
+		<cloneof></cloneof>
+		<crc>4a3225c0</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1992</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Battle Squadron (USA, Europe)" index="" image="">
+		<description>Battle Squadron (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>0feaa8bf</crc>
+		<manufacturer>Innerprise Software</manufacturer>
+		<year>1990</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Battlemaster (USA)" index="" image="">
+		<description>Battlemaster (USA)</description>
+		<cloneof></cloneof>
+		<crc>fd2b35e3</crc>
+		<manufacturer>Mirrorsoft</manufacturer>
+		<year>1991</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="BattleTech - A Game of Armored Combat (USA)" index="" image="">
+		<description>BattleTech - A Game of Armored Combat (USA)</description>
+		<cloneof></cloneof>
+		<crc>409e5d14</crc>
+		<manufacturer>Malibu</manufacturer>
+		<year>1994</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Beast Wrestler (USA)" index="" image="">
+		<description>Beast Wrestler (USA)</description>
+		<cloneof></cloneof>
+		<crc>0ca5bb64</crc>
+		<manufacturer>Renovation</manufacturer>
+		<year>1991</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Beauty and the Beast - Belle&apos;s Quest (USA)" index="" image="">
+		<description>Beauty and the Beast - Belle&apos;s Quest (USA)</description>
+		<cloneof></cloneof>
+		<crc>befb6fae</crc>
+		<manufacturer>Software Creations</manufacturer>
+		<year>1993</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Beauty and the Beast - Roar of the Beast (USA)" index="" image="">
+		<description>Beauty and the Beast - Roar of the Beast (USA)</description>
+		<cloneof></cloneof>
+		<crc>13e7b519</crc>
+		<manufacturer>Software Creations</manufacturer>
+		<year>1993</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Berenstain Bears&apos; Camping Adventure, The (USA)" index="" image="">
+		<description>Berenstain Bears&apos; Camping Adventure, The (USA)</description>
+		<cloneof></cloneof>
+		<crc>1f86237b</crc>
+		<manufacturer>Realtime Associates</manufacturer>
+		<year>1993</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bible Adventures (USA) (Unl)" index="" image="">
+		<description>Bible Adventures (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>64446b77</crc>
+		<manufacturer>Color Dreams</manufacturer>
+		<year>1995</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bimini Run (USA)" index="" image="">
+		<description>Bimini Run (USA)</description>
+		<cloneof></cloneof>
+		<crc>d4dc5188</crc>
+		<manufacturer>Nuvision Entertainment</manufacturer>
+		<year>1990</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Blades of Vengeance (USA, Europe)" index="" image="">
+		<description>Blades of Vengeance (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>74c65a49</crc>
+		<manufacturer>Beam Software</manufacturer>
+		<year>1993</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Blaster Master 2 (USA)" index="" image="">
+		<description>Blaster Master 2 (USA)</description>
+		<cloneof></cloneof>
+		<crc>c11e4ba1</crc>
+		<manufacturer>Software Creations</manufacturer>
+		<year>1993</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Body Count (Europe)" index="" image="">
+		<description>Body Count (Europe)</description>
+		<cloneof></cloneof>
+		<crc>3575a030</crc>
+		<manufacturer>Probe Entertainment</manufacturer>
+		<year>1994</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bonanza Brothers (USA, Korea)" index="" image="">
+		<description>Bonanza Brothers (USA, Korea)</description>
+		<cloneof></cloneof>
+		<crc>20d1ad4c</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1991</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bonkers (USA, Europe)" index="" image="">
+		<description>Bonkers (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>d1e66017</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1994</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Boogerman - A Pick and Flick Adventure (USA)" index="" image="">
+		<description>Boogerman - A Pick and Flick Adventure (USA)</description>
+		<cloneof></cloneof>
+		<crc>1a7a2bec</crc>
+		<manufacturer>Interplay</manufacturer>
+		<year>1994</year>
+		<genre>Platform</genre>
+		<rating>HSRS - PG (Parental Guidance)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bram Stoker&apos;s Dracula (USA)" index="" image="">
+		<description>Bram Stoker&apos;s Dracula (USA)</description>
+		<cloneof></cloneof>
+		<crc>077084a6</crc>
+		<manufacturer>Traveller&apos;s Tales</manufacturer>
+		<year>1993</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bubble and Squeak (USA)" index="" image="">
+		<description>Bubble and Squeak (USA)</description>
+		<cloneof></cloneof>
+		<crc>28c4a006</crc>
+		<manufacturer>Audiogenic</manufacturer>
+		<year>1994</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bubsy II (USA, Europe)" index="" image="">
+		<description>Bubsy II (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>f8beff56</crc>
+		<manufacturer>Accolade</manufacturer>
+		<year>1993</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bubsy in Claws Encounters of the Furred Kind (USA, Europe)" index="" image="">
+		<description>Bubsy in Claws Encounters of the Furred Kind (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>3e30d365</crc>
+		<manufacturer>Accolade</manufacturer>
+		<year>1994</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Budokan - The Martial Spirit (USA)" index="" image="">
+		<description>Budokan - The Martial Spirit (USA)</description>
+		<cloneof></cloneof>
+		<crc>acd9f5fc</crc>
+		<manufacturer>Electronic Arts</manufacturer>
+		<year>1990</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bugs Bunny in Double Trouble (USA)" index="" image="">
+		<description>Bugs Bunny in Double Trouble (USA)</description>
+		<cloneof></cloneof>
+		<crc>365305a2</crc>
+		<manufacturer>Atod AB</manufacturer>
+		<year>1996</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cannon Fodder (Europe)" index="true" image="c">
+		<description>Cannon Fodder (Europe)</description>
+		<cloneof></cloneof>
+		<crc>ad217654</crc>
+		<manufacturer>Panelcomp</manufacturer>
+		<year>1994</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Captain Planet and the Planeteers (USA)" index="" image="">
+		<description>Captain Planet and the Planeteers (USA)</description>
+		<cloneof></cloneof>
+		<crc>bf2cbd3a</crc>
+		<manufacturer>NovaLogic</manufacturer>
+		<year>1993</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Castle of Illusion Starring Mickey Mouse (USA, Europe)" index="" image="">
+		<description>Castle of Illusion Starring Mickey Mouse (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>ba4e9fd0</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1990</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Castlevania - Bloodlines (USA)" index="" image="">
+		<description>Castlevania - Bloodlines (USA)</description>
+		<cloneof></cloneof>
+		<crc>fb1ea6df</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1994</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Chakan (USA, Europe)" index="" image="">
+		<description>Chakan (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>046a48de</crc>
+		<manufacturer>Extended Play Productions</manufacturer>
+		<year>1992</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cheese Cat-Astrophe Starring Speedy Gonzales (Europe)" index="" image="">
+		<description>Cheese Cat-Astrophe Starring Speedy Gonzales (Europe)</description>
+		<cloneof></cloneof>
+		<crc>ff634b28</crc>
+		<manufacturer>Time Warner Interactive</manufacturer>
+		<year>1995</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Chester Cheetah - Too Cool to Fool (USA)" index="" image="">
+		<description>Chester Cheetah - Too Cool to Fool (USA)</description>
+		<cloneof></cloneof>
+		<crc>250e3ec3</crc>
+		<manufacturer>Kaneko</manufacturer>
+		<year>1992</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Chester Cheetah - Wild Wild Quest (USA)" index="" image="">
+		<description>Chester Cheetah - Wild Wild Quest (USA)</description>
+		<cloneof></cloneof>
+		<crc>b97b735d</crc>
+		<manufacturer>Kaneko</manufacturer>
+		<year>1992</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Chiki Chiki Boys (USA, Europe)" index="" image="">
+		<description>Chiki Chiki Boys (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>813a7d62</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1993</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Chuck Rock (USA)" index="" image="">
+		<description>Chuck Rock (USA)</description>
+		<cloneof></cloneof>
+		<crc>f8ac454a</crc>
+		<manufacturer>Core Design</manufacturer>
+		<year>1992</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Chuck Rock II - Son of Chuck (USA)" index="" image="">
+		<description>Chuck Rock II - Son of Chuck (USA)</description>
+		<cloneof></cloneof>
+		<crc>408b1cdb</crc>
+		<manufacturer>Core Design</manufacturer>
+		<year>1993</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cool Spot (USA)" index="" image="">
+		<description>Cool Spot (USA)</description>
+		<cloneof></cloneof>
+		<crc>f024c1a1</crc>
+		<manufacturer>Virgin Interactive</manufacturer>
+		<year>1994</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Crack Down (USA)" index="" image="">
+		<description>Crack Down (USA)</description>
+		<cloneof></cloneof>
+		<crc>b9ce9051</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1991</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Crystal&apos;s Pony Tale (USA)" index="" image="">
+		<description>Crystal\&apos;s Pony Tale (USA)</description>
+		<cloneof></cloneof>
+		<crc>6cf7a4df</crc>
+		<manufacturer>Artech Studios</manufacturer>
+		<year>1994</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="CutThroat Island (USA, Europe)" index="" image="">
+		<description>CutThroat Island (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>ebabbc70</crc>
+		<manufacturer>Software Creations</manufacturer>
+		<year>1995</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="CyberBall (World)" index="" image="">
+		<description>CyberBall (World)</description>
+		<cloneof></cloneof>
+		<crc>76120e96</crc>
+		<manufacturer>Core Design</manufacturer>
+		<year>1992</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dark Castle (USA, Europe)" index="true" image="d">
+		<description>Dark Castle (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>0464aca4</crc>
+		<manufacturer>Artech Studios</manufacturer>
+		<year>1991</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Death Duel (USA)" index="" image="">
+		<description>Death Duel (USA)</description>
+		<cloneof></cloneof>
+		<crc>a9804dcc</crc>
+		<manufacturer>Razorsoft</manufacturer>
+		<year>1992</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="DecapAttack (USA, Europe)" index="" image="">
+		<description>DecapAttack (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>73dc0dd8</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1991</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Demolition Man (USA, Europe)" index="" image="">
+		<description>Demolition Man (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>5ff71877</crc>
+		<manufacturer>Alexandria</manufacturer>
+		<year>1995</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Desert Demolition Starring Road Runner and Wile E. Coyote (USA, Europe)" index="" image="">
+		<description>Desert Demolition Starring Road Runner and Wile E. Coyote (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>c287343d</crc>
+		<manufacturer>Bluesky Innovations</manufacturer>
+		<year>1994</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Desert Strike - Return To The Gulf (USA, Europe)" index="" image="">
+		<description>Desert Strike - Return To The Gulf (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>67a9860b</crc>
+		<manufacturer>Electronic Arts</manufacturer>
+		<year>1994</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Devilish - The Next Possession (USA)" index="" image="">
+		<description>Devilish - The Next Possession (USA)</description>
+		<cloneof></cloneof>
+		<crc>d3f300ac</crc>
+		<manufacturer>Aisystem Tokyo</manufacturer>
+		<year>1992</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dick Tracy (World)" index="" image="">
+		<description>Dick Tracy (World)</description>
+		<cloneof></cloneof>
+		<crc>ef887533</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1990</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dinosaurs for Hire (USA)" index="" image="">
+		<description>Dinosaurs for Hire (USA)</description>
+		<cloneof></cloneof>
+		<crc>39351146</crc>
+		<manufacturer>Funcom</manufacturer>
+		<year>1993</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Donald in Maui Mallard (Europe)" index="" image="">
+		<description>Donald in Maui Mallard (Europe)</description>
+		<cloneof></cloneof>
+		<crc>b2dd857f</crc>
+		<manufacturer>Eurocom Entertainment Software</manufacturer>
+		<year>1995</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Doom Troopers (USA)" index="" image="">
+		<description>Doom Troopers (USA)</description>
+		<cloneof></cloneof>
+		<crc>11194414</crc>
+		<manufacturer>Adrenalin Entertainment</manufacturer>
+		<year>1995</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dynamite Headdy (USA, Europe)" index="" image="">
+		<description>Dynamite Headdy (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>3dfeeb77</crc>
+		<manufacturer>Treasure</manufacturer>
+		<year>1994</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Earnest Evans (USA)" index="true" image="e">
+		<description>Earnest Evans (USA)</description>
+		<cloneof></cloneof>
+		<crc>a243816d</crc>
+		<manufacturer>Wolf Team</manufacturer>
+		<year>1992</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Earthworm Jim (USA)" index="" image="">
+		<description>Earthworm Jim (USA)</description>
+		<cloneof></cloneof>
+		<crc>df3acf59</crc>
+		<manufacturer>Shiny Entertainment</manufacturer>
+		<year>1994</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Earthworm Jim 2 (USA)" index="" image="">
+		<description>Earthworm Jim 2 (USA)</description>
+		<cloneof></cloneof>
+		<crc>d57f8ba7</crc>
+		<manufacturer>Shiny Entertainment</manufacturer>
+		<year>1996</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ecco - The Tides of Time (USA)" index="" image="">
+		<description>Ecco - The Tides of Time (USA)</description>
+		<cloneof></cloneof>
+		<crc>ccb21f98</crc>
+		<manufacturer>Novotrade International</manufacturer>
+		<year>1994</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ecco Jr. (USA, Australia)" index="" image="">
+		<description>Ecco Jr. (USA, Australia)</description>
+		<cloneof></cloneof>
+		<crc>3c517975</crc>
+		<manufacturer>Novotrade</manufacturer>
+		<year>1995</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ecco the Dolphin (USA, Europe)" index="" image="">
+		<description>Ecco the Dolphin (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>45547390</crc>
+		<manufacturer>Novotrade International</manufacturer>
+		<year>1993</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="El. Viento (USA)" index="" image="">
+		<description>El. Viento (USA)</description>
+		<cloneof></cloneof>
+		<crc>070a1ceb</crc>
+		<manufacturer>Wolf Team</manufacturer>
+		<year>1991</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ESWAT - City Under Siege (USA, Europe)" index="" image="">
+		<description>ESWAT - City Under Siege (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>e72f8a36</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1990</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Exile (USA)" index="" image="">
+		<description>Exile (USA)</description>
+		<cloneof></cloneof>
+		<crc>1b569dc2</crc>
+		<manufacturer>Malibu</manufacturer>
+		<year>1992</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Exo Squad (USA)" index="" image="">
+		<description>Exo Squad (USA)</description>
+		<cloneof></cloneof>
+		<crc>10ec03f3</crc>
+		<manufacturer>Novotrade</manufacturer>
+		<year>1995</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Exodus - Journey to the Promised Land (USA) (Unl)" index="" image="">
+		<description>Exodus - Journey to the Promised Land (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>22e6fc04</crc>
+		<manufacturer>Wisdom Tree</manufacturer>
+		<year>1993</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fantasia (World) (Rev A)" index="true" image="f">
+		<description>Fantasia (World) (Rev A)</description>
+		<cloneof></cloneof>
+		<crc>fc43df2d</crc>
+		<manufacturer>Infogrames</manufacturer>
+		<year>1991</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fatal Rewind (USA, Europe)" index="" image="">
+		<description>Fatal Rewind (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>e91aed05</crc>
+		<manufacturer>Raising Hell</manufacturer>
+		<year>1991</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fire Shark (USA)" index="" image="">
+		<description>Fire Shark (USA)</description>
+		<cloneof></cloneof>
+		<crc>570b5024</crc>
+		<manufacturer>Delphine Software International</manufacturer>
+		<year>1993</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Flashback - The Quest for Identity (USA)" index="" image="">
+		<description>Flashback - The Quest for Identity (USA)</description>
+		<cloneof></cloneof>
+		<crc>23a9616d</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1991</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Flicky (USA, Europe)" index="" image="">
+		<description>Flicky (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>4291c8ab</crc>
+		<manufacturer>Psygnosis</manufacturer>
+		<year>1994</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Flink (Europe)" index="" image="">
+		<description>Flink (Europe)</description>
+		<cloneof></cloneof>
+		<crc>bef9a4f4</crc>
+		<manufacturer>Taito</manufacturer>
+		<year>1993</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Frank Thomas Big Hurt Baseball (USA, Europe)" index="" image="">
+		<description>Frank Thomas Big Hurt Baseball (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>863e0950</crc>
+		<manufacturer>Morning Star Multimedia</manufacturer>
+		<year>1998</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gadget Twins (USA)" index="true" image="g">
+		<description>Gadget Twins (USA)</description>
+		<cloneof></cloneof>
+		<crc>7ae5e248</crc>
+		<manufacturer>Imagitec Design</manufacturer>
+		<year>1992</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gaiares (Japan, USA)" index="" image="">
+		<description>Gaiares (Japan, USA)</description>
+		<cloneof></cloneof>
+		<crc>5d8bf68b</crc>
+		<manufacturer>Telenet Japan</manufacturer>
+		<year>1990</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gain Ground (World)" index="" image="">
+		<description>Gain Ground (World)</description>
+		<cloneof></cloneof>
+		<crc>8641a2ab</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1991</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Galaxy Force II (World) (Rev B)" index="" image="">
+		<description>Galaxy Force II (World) (Rev B)</description>
+		<cloneof></cloneof>
+		<crc>d15f5c3c</crc>
+		<manufacturer>CRI</manufacturer>
+		<year>1991</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Garfield - Caught in the Act (USA, Europe)" index="" image="">
+		<description>Garfield - Caught in the Act (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>f0ff078e</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1995</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gargoyles (USA)" index="" image="">
+		<description>Gargoyles (USA)</description>
+		<cloneof></cloneof>
+		<crc>2d965364</crc>
+		<manufacturer>Buena Vista Interactive</manufacturer>
+		<year>1995</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gauntlet IV (USA, Europe)" index="" image="">
+		<description>Gauntlet IV (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>f9d60510</crc>
+		<manufacturer>M2</manufacturer>
+		<year>1993</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="General Chaos (USA, Europe)" index="" image="">
+		<description>General Chaos (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>f1ecc4df</crc>
+		<manufacturer>Game Refuge</manufacturer>
+		<year>1994</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Generations Lost (USA, Europe)" index="" image="">
+		<description>Generations Lost (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>131f36a6</crc>
+		<manufacturer>Pacific Softscape</manufacturer>
+		<year>1994</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ghostbusters (World) (v1.1)" index="" image="">
+		<description>Ghostbusters (World) (v1.1)</description>
+		<cloneof></cloneof>
+		<crc>792df93b</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1990</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ghouls &apos;n Ghosts (USA, Europe) (Rev A)" index="" image="">
+		<description>Ghouls \&apos;n Ghosts (USA, Europe) (Rev A)</description>
+		<cloneof></cloneof>
+		<crc>4f2561d5</crc>
+		<manufacturer>AM8</manufacturer>
+		<year>1989</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gods (USA)" index="" image="">
+		<description>Gods (USA)</description>
+		<cloneof></cloneof>
+		<crc>fd234ccd</crc>
+		<manufacturer>Graftgold</manufacturer>
+		<year>1992</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Goofy&apos;s Hysterical History Tour (USA)" index="" image="">
+		<description>Goofy\&apos;s Hysterical History Tour (USA)</description>
+		<cloneof></cloneof>
+		<crc>4e1cc833</crc>
+		<manufacturer>Imagineering</manufacturer>
+		<year>1993</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Great Circus Mystery Starring Mickey &amp; Minnie, The (USA)" index="" image="">
+		<description>Great Circus Mystery Starring Mickey &amp; Minnie, The (USA)</description>
+		<cloneof></cloneof>
+		<crc>14744883</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1994</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Greendog - The Beached Surfer Dude! (USA, Europe)" index="" image="">
+		<description>Greendog - The Beached Surfer Dude! (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>c4820a03</crc>
+		<manufacturer>Interactive Designs</manufacturer>
+		<year>1992</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Haunting Starring Polterguy (USA, Europe)" index="true" image="h">
+		<description>Haunting Starring Polterguy (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>c9fc876d</crc>
+		<manufacturer>Electronic Arts</manufacturer>
+		<year>1993</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Heavy Nova (USA)" index="" image="">
+		<description>Heavy Nova (USA)</description>
+		<cloneof></cloneof>
+		<crc>f6b6a9d8</crc>
+		<manufacturer>Micronet</manufacturer>
+		<year>1992</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="High Seas Havoc (USA)" index="" image="">
+		<description>High Seas Havoc (USA)</description>
+		<cloneof></cloneof>
+		<crc>17be551c</crc>
+		<manufacturer>Data East</manufacturer>
+		<year>1993</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Home Alone (USA, Europe)" index="" image="">
+		<description>Home Alone (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>aa0d4387</crc>
+		<manufacturer>Brian A. Rice</manufacturer>
+		<year>1992</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Home Alone 2 - Lost in New York (USA)" index="" image="">
+		<description>Home Alone 2 - Lost in New York (USA)</description>
+		<cloneof></cloneof>
+		<crc>cbf87c14</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1993</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hook (USA)" index="" image="">
+		<description>Hook (USA)</description>
+		<cloneof></cloneof>
+		<crc>2c48e712</crc>
+		<manufacturer>Core Design</manufacturer>
+		<year>1992</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hurricanes (Europe)" index="" image="">
+		<description>Hurricanes (Europe)</description>
+		<cloneof></cloneof>
+		<crc>deccc874</crc>
+		<manufacturer>Arc Developments</manufacturer>
+		<year>1994</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Incredible Crash Dummies, The (USA, Europe)" index="true" image="i">
+		<description>Incredible Crash Dummies, The (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>1f6e574a</crc>
+		<manufacturer>Gray Matter</manufacturer>
+		<year>1993</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Incredible Hulk, The (USA, Europe)" index="" image="">
+		<description>Incredible Hulk, The (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>84a5a2dc</crc>
+		<manufacturer>Probe Entertainment</manufacturer>
+		<year>1994</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Indiana Jones and the Last Crusade (USA)" index="" image="">
+		<description>Indiana Jones and the Last Crusade (USA)</description>
+		<cloneof></cloneof>
+		<crc>3599a3fd</crc>
+		<manufacturer>Tiertex Design Studios</manufacturer>
+		<year>1992</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Instruments of Chaos Starring Young Indiana Jones (USA)" index="" image="">
+		<description>Instruments of Chaos Starring Young Indiana Jones (USA)</description>
+		<cloneof></cloneof>
+		<crc>4e384ef0</crc>
+		<manufacturer>Waterman Design</manufacturer>
+		<year>1994</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Izzy&apos;s Quest for the Olympic Rings (USA, Europe)" index="" image="">
+		<description>Izzy\&apos;s Quest for the Olympic Rings (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>77b416e4</crc>
+		<manufacturer>Alexandria</manufacturer>
+		<year>1995</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="James Pond - Underwater Agent (USA, Europe)" index="true" image="j">
+		<description>James Pond - Underwater Agent (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>d0e7b466</crc>
+		<manufacturer>Millenium Interactive</manufacturer>
+		<year>1991</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="James Pond 3 (USA, Europe)" index="" image="">
+		<description>James Pond 3 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>26f64b2a</crc>
+		<manufacturer>Millenium Interactive</manufacturer>
+		<year>1993</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="James Pond II - Codename Robocod (USA, Europe)" index="" image="">
+		<description>James Pond II - Codename Robocod (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>f4abedba</crc>
+		<manufacturer>Millennium</manufacturer>
+		<year>1991</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="James &apos;Buster&apos; Douglas Knockout Boxing (USA, Europe)" index="" image="">
+		<description>James \&apos;Buster\&apos; Douglas Knockout Boxing (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>87bbcf2a</crc>
+		<manufacturer>Domark</manufacturer>
+		<year>1993</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Jewel Master (USA, Europe) (Rev A)" index="" image="">
+		<description>Jewel Master (USA, Europe) (Rev A)</description>
+		<cloneof></cloneof>
+		<crc>cee98813</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1991</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Joe &amp; Mac (USA)" index="" image="">
+		<description>Joe &amp; Mac (USA)</description>
+		<cloneof></cloneof>
+		<crc>85bcc1c7</crc>
+		<manufacturer>Eden Entertainment Software</manufacturer>
+		<year>1991</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Joshua &amp; The Battle of Jericho (USA) (Unl)" index="" image="">
+		<description>Joshua &amp; The Battle of Jericho (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>da9e25aa</crc>
+		<manufacturer>Wisdom Tree</manufacturer>
+		<year>1992</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Judge Dredd (World)" index="" image="">
+		<description>Judge Dredd (World)</description>
+		<cloneof></cloneof>
+		<crc>ea342ed8</crc>
+		<manufacturer>Probe Entertainment</manufacturer>
+		<year>1995</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Jungle Book, The (USA)" index="" image="">
+		<description>Jungle Book, The (USA)</description>
+		<cloneof></cloneof>
+		<crc>3fb6d92e</crc>
+		<manufacturer>Eurocom Entertainment Software</manufacturer>
+		<year>1994</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Jungle Strike (USA, Europe)" index="" image="">
+		<description>Jungle Strike (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>a5d29735</crc>
+		<manufacturer>High Score Productions</manufacturer>
+		<year>1993</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Jurassic Park (USA)" index="" image="">
+		<description>Jurassic Park (USA)</description>
+		<cloneof></cloneof>
+		<crc>7b31deef</crc>
+		<manufacturer>Bluesky Innovations</manufacturer>
+		<year>1994</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Kid Chameleon (USA, Europe)" index="true" image="k">
+		<description>Kid Chameleon (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>ce36e6cc</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1992</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Last Battle (USA, Europe)" index="true" image="l">
+		<description>Last Battle (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>bbfaad77</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1989</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lawnmower Man, The (USA, Europe)" index="" image="">
+		<description>Lawnmower Man, The (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>a7cacd59</crc>
+		<manufacturer>Atod AB</manufacturer>
+		<year>1994</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Legend of Galahad, The (USA, Europe)" index="" image="">
+		<description>Legend of Galahad, The (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>679557bc</crc>
+		<manufacturer>Psygnosis</manufacturer>
+		<year>1992</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lion King, The (World)" index="" image="">
+		<description>Lion King, The (World)</description>
+		<cloneof></cloneof>
+		<crc>5696a5bc</crc>
+		<manufacturer>Westwood Studios</manufacturer>
+		<year>1994</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lost World, The - Jurassic Park (USA, Europe)" index="" image="">
+		<description>Lost World, The - Jurassic Park (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>140a284c</crc>
+		<manufacturer>Appaloosa Interactive</manufacturer>
+		<year>1997</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Man Overboard! (Europe)" index="true" image="m">
+		<description>Man Overboard! (Europe)</description>
+		<cloneof></cloneof>
+		<crc>cae0e3a6</crc>
+		<manufacturer>Codemasters</manufacturer>
+		<year>1994</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Marble Madness (USA, Europe)" index="" image="">
+		<description>Marble Madness (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>79eba28a</crc>
+		<manufacturer>Electronic Arts</manufacturer>
+		<year>1993</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Marko (USA)" index="" image="">
+		<description>Marko (USA)</description>
+		<cloneof></cloneof>
+		<crc>2b8c8cce</crc>
+		<manufacturer>The Kremlin</manufacturer>
+		<year>1994</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Marsupilami (USA)" index="" image="">
+		<description>Marsupilami (USA)</description>
+		<cloneof></cloneof>
+		<crc>c76558df</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1995</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Marvel Land (USA)" index="" image="">
+		<description>Marvel Land (USA)</description>
+		<cloneof></cloneof>
+		<crc>cd7eeeb7</crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1991</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mary Shelley&apos;s Frankenstein (USA)" index="" image="">
+		<description>Mary Shelley\&apos;s Frankenstein (USA)</description>
+		<cloneof></cloneof>
+		<crc>48993dc3</crc>
+		<manufacturer>Bits Studios</manufacturer>
+		<year>1994</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="McDonald&apos;s Treasure Land Adventure (USA)" index="" image="">
+		<description>McDonald\&apos;s Treasure Land Adventure (USA)</description>
+		<cloneof></cloneof>
+		<crc>04ef4899</crc>
+		<manufacturer>Treasure</manufacturer>
+		<year>1993</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mega Bomberman (USA)" index="" image="">
+		<description>Mega Bomberman (USA)</description>
+		<cloneof></cloneof>
+		<crc>4bd6667d</crc>
+		<manufacturer>Hudson</manufacturer>
+		<year>1994</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mega Man - The Wily Wars (Europe)" index="" image="">
+		<description>Mega Man - The Wily Wars (Europe)</description>
+		<cloneof></cloneof>
+		<crc>dcf6e8b2</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1994</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mega Turrican (USA)" index="" image="">
+		<description>Mega Turrican (USA)</description>
+		<cloneof></cloneof>
+		<crc>fe898cc9</crc>
+		<manufacturer>Factor 5</manufacturer>
+		<year>1994</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Michael Jackson&apos;s Moonwalker (World) (Rev A)" index="" image="">
+		<description>Michael Jackson\&apos;s Moonwalker (World) (Rev A)</description>
+		<cloneof></cloneof>
+		<crc>11ce1f9e</crc>
+		<manufacturer>Ultimate Productions</manufacturer>
+		<year>1990</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mick &amp; Mack as the Global Gladiators (USA)" index="" image="">
+		<description>Mick &amp; Mack as the Global Gladiators (USA)</description>
+		<cloneof></cloneof>
+		<crc>40f17bb3</crc>
+		<manufacturer>Virgin Interactive</manufacturer>
+		<year>1992</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mickey Mania - The Timeless Adventures of Mickey Mouse (USA)" index="" image="">
+		<description>Mickey Mania - The Timeless Adventures of Mickey Mouse (USA)</description>
+		<cloneof></cloneof>
+		<crc>629e5963</crc>
+		<manufacturer>Traveller&apos;s Tales</manufacturer>
+		<year>1994</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mickey&apos;s Ultimate Challenge (USA)" index="" image="">
+		<description>Mickey\&apos;s Ultimate Challenge (USA)</description>
+		<cloneof></cloneof>
+		<crc>30b512ee</crc>
+		<manufacturer>Designer Software</manufacturer>
+		<year>1994</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mr. Nutz (Europe)" index="" image="">
+		<description>Mr. Nutz (Europe)</description>
+		<cloneof></cloneof>
+		<crc>0786ea0b</crc>
+		<manufacturer>Ocean</manufacturer>
+		<year>1994</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ms. Pac-Man (USA, Europe)" index="" image="">
+		<description>Ms. Pac-Man (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>af041be6</crc>
+		<manufacturer>Innerprise Software</manufacturer>
+		<year>1991</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mystic Defender (USA, Europe) (Rev A)" index="" image="">
+		<description>Mystic Defender (USA, Europe) (Rev A)</description>
+		<cloneof></cloneof>
+		<crc>50fd5d93</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1989</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="No Escape (USA)" index="true" image="n">
+		<description>No Escape (USA)</description>
+		<cloneof></cloneof>
+		<crc>44ee5f20</crc>
+		<manufacturer>Bits Studios</manufacturer>
+		<year>1994</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Normy&apos;s Beach Babe-O-Rama (USA, Europe)" index="" image="">
+		<description>Normy\&apos;s Beach Babe-O-Rama (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>b56a8220</crc>
+		<manufacturer>Realtime Associates</manufacturer>
+		<year>1994</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Onslaught (USA, Europe)" index="true" image="o">
+		<description>Onslaught (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>9f19d6df</crc>
+		<manufacturer>Nextgrand</manufacturer>
+		<year>1991</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ooze, The (Japan, USA)" index="" image="">
+		<description>Ooze, The (Japan, USA)</description>
+		<cloneof></cloneof>
+		<crc>1c0dd42f</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1995</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ottifants, The (Europe)" index="" image="">
+		<description>Ottifants, The (Europe)</description>
+		<cloneof></cloneof>
+		<crc>41ac8003</crc>
+		<manufacturer>Graftgold</manufacturer>
+		<year>1993</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Out of This World (USA)" index="" image="">
+		<description>Out of This World (USA)</description>
+		<cloneof></cloneof>
+		<crc>2da36e01</crc>
+		<manufacturer>Delphine Software International</manufacturer>
+		<year>1993</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Outlander (USA)" index="" image="">
+		<description>Outlander (USA)</description>
+		<cloneof></cloneof>
+		<crc>c5ba7bbf</crc>
+		<manufacturer>Mindscape</manufacturer>
+		<year>1992</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pac-Man 2 - The New Adventures (USA)" index="true" image="p">
+		<description>Pac-Man 2 - The New Adventures (USA)</description>
+		<cloneof></cloneof>
+		<crc>fe7a7ed1</crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1994</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pac-Mania (USA, Europe)" index="" image="">
+		<description>Pac-Mania (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>74bba09b</crc>
+		<manufacturer>Sculptured Software</manufacturer>
+		<year>1991</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pagemaster, The (USA)" index="" image="">
+		<description>Pagemaster, The (USA)</description>
+		<cloneof></cloneof>
+		<crc>75a96d4e</crc>
+		<manufacturer>Probe Entertainment</manufacturer>
+		<year>1994</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Paperboy (USA, Europe)" index="" image="">
+		<description>Paperboy (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>0a44819b</crc>
+		<manufacturer>MotiveTime,</manufacturer>
+		<year>1991</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Paperboy 2 (USA, Europe)" index="" image="">
+		<description>Paperboy 2 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>1de28bb1</crc>
+		<manufacturer>Tengen</manufacturer>
+		<year>1992</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Phantom 2040 (USA)" index="" image="">
+		<description>Phantom 2040 (USA)</description>
+		<cloneof></cloneof>
+		<crc>fb36e1f3</crc>
+		<manufacturer>Viacom New Media</manufacturer>
+		<year>1995</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pink Goes to Hollywood (USA)" index="" image="">
+		<description>Pink Goes to Hollywood (USA)</description>
+		<cloneof></cloneof>
+		<crc>b5804771</crc>
+		<manufacturer>HeadGames</manufacturer>
+		<year>1993</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pinocchio (USA)" index="" image="">
+		<description>Pinocchio (USA)</description>
+		<cloneof></cloneof>
+		<crc>cd4128d8</crc>
+		<manufacturer>Virgin Interactive</manufacturer>
+		<year>1996</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pirates of Dark Water, The (USA, Europe)" index="" image="">
+		<description>Pirates of Dark Water, The (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>0a62de34</crc>
+		<manufacturer>Iguana Entertainment</manufacturer>
+		<year>1994</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pit-Fighter (World) (Rev A)" index="" image="">
+		<description>Pit-Fighter (World) (Rev A)</description>
+		<cloneof></cloneof>
+		<crc>d48a8b02</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>1994</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pocahontas (USA)" index="" image="">
+		<description>Pocahontas (USA)</description>
+		<cloneof></cloneof>
+		<crc>6ddd1c6d</crc>
+		<manufacturer>Funcom</manufacturer>
+		<year>1996</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Prince of Persia (USA)" index="" image="">
+		<description>Prince of Persia (USA)</description>
+		<cloneof></cloneof>
+		<crc>13c181a4</crc>
+		<manufacturer>Broderbund</manufacturer>
+		<year>1993</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Puggsy (USA)" index="" image="">
+		<description>Puggsy (USA)</description>
+		<cloneof></cloneof>
+		<crc>70132168</crc>
+		<manufacturer>Traveller&apos;s Tales</manufacturer>
+		<year>1993</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="QuackShot Starring Donald Duck (World) (v1.1)" index="true" image="q">
+		<description>QuackShot Starring Donald Duck (World) (v1.1)</description>
+		<cloneof></cloneof>
+		<crc>1801098b</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1991</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Radical Rex (USA)" index="true" image="r">
+		<description>Radical Rex (USA)</description>
+		<cloneof></cloneof>
+		<crc>2e6eec7e</crc>
+		<manufacturer>Beam Software</manufacturer>
+		<year>1994</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rambo III (World) (v1.1)" index="" image="">
+		<description>Rambo III (World) (v1.1)</description>
+		<cloneof></cloneof>
+		<crc>4d47a647</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1989</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rampart (USA)" index="" image="">
+		<description>Rampart (USA)</description>
+		<cloneof></cloneof>
+		<crc>9c4dd057</crc>
+		<manufacturer>Tengen</manufacturer>
+		<year>1991</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rastan Saga II (USA)" index="" image="">
+		<description>Rastan Saga II (USA)</description>
+		<cloneof></cloneof>
+		<crc>c7ee8965</crc>
+		<manufacturer>OperaHouse</manufacturer>
+		<year>1990</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Red Zone (USA, Europe)" index="" image="">
+		<description>Red Zone (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>56512ee5</crc>
+		<manufacturer>Zyrinx</manufacturer>
+		<year>1994</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ren &amp; Stimpy Show Presents Stimpy&apos;s Invention, The (USA)" index="" image="">
+		<description>Ren &amp; Stimpy Show Presents Stimpy\&apos;s Invention, The (USA)</description>
+		<cloneof></cloneof>
+		<crc>d9503ba5</crc>
+		<manufacturer>Blue Sky Software</manufacturer>
+		<year>1993</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Revenge of Shinobi, The (USA, Europe) (Rev B)" index="" image="">
+		<description>Revenge of Shinobi, The (USA, Europe) (Rev B)</description>
+		<cloneof></cloneof>
+		<crc>4d35ebe4</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1989</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Richard Scarry&apos;s BusyTown (USA)" index="" image="">
+		<description>Richard Scarry\&apos;s BusyTown (USA)</description>
+		<cloneof></cloneof>
+		<crc>7bb60c3f</crc>
+		<manufacturer>Novotrade</manufacturer>
+		<year>1994</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Risky Woods (USA, Europe)" index="" image="">
+		<description>Risky Woods (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>d975e93c</crc>
+		<manufacturer>Dinamic Software</manufacturer>
+		<year>1992</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ristar (USA, Europe)" index="" image="">
+		<description>Ristar (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>6511aa61</crc>
+		<manufacturer>Sonic Team</manufacturer>
+		<year>1995</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="RoboCop 3 (USA, Europe)" index="" image="">
+		<description>RoboCop 3 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>34fb7b27</crc>
+		<manufacturer>Eden Entertainment Software</manufacturer>
+		<year>1993</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="RoboCop versus The Terminator (USA)" index="" image="">
+		<description>RoboCop versus The Terminator (USA)</description>
+		<cloneof></cloneof>
+		<crc>bbad77a4</crc>
+		<manufacturer>Virgin Interactive</manufacturer>
+		<year>1994</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rocket Knight Adventures (USA)" index="" image="">
+		<description>Rocket Knight Adventures (USA)</description>
+		<cloneof></cloneof>
+		<crc>a6efec47</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1993</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rolo to the Rescue (USA, Europe)" index="" image="">
+		<description>Rolo to the Rescue (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>306861a2</crc>
+		<manufacturer>Vectordean</manufacturer>
+		<year>1992</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Saint Sword (USA)" index="true" image="s">
+		<description>Saint Sword (USA)</description>
+		<cloneof></cloneof>
+		<crc>44f66bff</crc>
+		<manufacturer>Taito</manufacturer>
+		<year>1991</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="SeaQuest DSV (USA)" index="" image="">
+		<description>SeaQuest DSV (USA)</description>
+		<cloneof></cloneof>
+		<crc>25b05480</crc>
+		<manufacturer>Sculptured Software</manufacturer>
+		<year>1994</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Shadow Blasters (USA)" index="" image="">
+		<description>Shadow Blasters (USA)</description>
+		<cloneof></cloneof>
+		<crc>713d377b</crc>
+		<manufacturer>Sigma</manufacturer>
+		<year>1990</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Shadow Dancer - The Secret of Shinobi (World)" index="" image="">
+		<description>Shadow Dancer - The Secret of Shinobi (World)</description>
+		<cloneof></cloneof>
+		<crc>ebe9ad10</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1990</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Shadow of the Beast (USA, Europe)" index="" image="">
+		<description>Shadow of the Beast (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>bd385c27</crc>
+		<manufacturer>WJS Design</manufacturer>
+		<year>1991</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Simpsons, The - Bart Vs. The Space Mutants (USA, Europe) (Rev A)" index="" image="">
+		<description>Simpsons, The - Bart Vs. The Space Mutants (USA, Europe) (Rev A)</description>
+		<cloneof></cloneof>
+		<crc>db70e8ca</crc>
+		<manufacturer>Arc Developments</manufacturer>
+		<year>1992</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Simpsons, The - Bart&apos;s Nightmare (USA, Europe)" index="" image="">
+		<description>Simpsons, The - Bart\&apos;s Nightmare (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>24d7507c</crc>
+		<manufacturer>Sculptured Software</manufacturer>
+		<year>1993</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Skeleton Krew (USA)" index="" image="">
+		<description>Skeleton Krew (USA)</description>
+		<cloneof></cloneof>
+		<crc>c2e05acb</crc>
+		<manufacturer>Core Design</manufacturer>
+		<year>1995</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Smurfs Travel the World, The (Europe)" index="" image="">
+		<description>Smurfs Travel the World, The (Europe)</description>
+		<cloneof></cloneof>
+		<crc>b28bdd69</crc>
+		<manufacturer>Infogrames</manufacturer>
+		<year>1996</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Smurfs, The (Europe) (Rev A)" index="" image="">
+		<description>Smurfs, The (Europe) (Rev A)</description>
+		<cloneof></cloneof>
+		<crc>88b30eff</crc>
+		<manufacturer>Virtual Studio</manufacturer>
+		<year>1995</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Snake Rattle n Roll (Europe)" index="" image="">
+		<description>Snake Rattle n Roll (Europe)</description>
+		<cloneof></cloneof>
+		<crc>543bed30</crc>
+		<manufacturer>Rare</manufacturer>
+		<year>1993</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Socket (USA)" index="" image="">
+		<description>Socket (USA)</description>
+		<cloneof></cloneof>
+		<crc>3c14e15a</crc>
+		<manufacturer>Vic Tokai</manufacturer>
+		<year>1994</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sonic &amp; Knuckles (World)" index="" image="">
+		<description>Sonic &amp; Knuckles (World)</description>
+		<cloneof></cloneof>
+		<crc>0658f691</crc>
+		<manufacturer>Sonic Team</manufacturer>
+		<year>1994</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sonic &amp; Knuckles + Sonic the Hedgehog (World)" index="" image="">
+		<description>Sonic &amp; Knuckles + Sonic the Hedgehog (World)</description>
+		<cloneof></cloneof>
+		<crc>e01f6ed5</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1994</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sonic &amp; Knuckles + Sonic the Hedgehog 2 (World)" index="" image="">
+		<description>Sonic &amp; Knuckles + Sonic the Hedgehog 2 (World)</description>
+		<cloneof></cloneof>
+		<crc>2ac1e7c6</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1994</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sonic &amp; Knuckles + Sonic the Hedgehog 3 (World)" index="" image="">
+		<description>Sonic &amp; Knuckles + Sonic the Hedgehog 3 (World)</description>
+		<cloneof></cloneof>
+		<crc>63522553</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1994</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sonic 3D Blast (USA, Europe)" index="" image="">
+		<description>Sonic 3D Blast (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>44a2ca44</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1996</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sonic Classics (World) (v1.1)" index="" image="">
+		<description>Sonic Classics (World) (v1.1)</description>
+		<cloneof></cloneof>
+		<crc>95b5e8d7</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1997</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sonic the Hedgehog (USA, Europe)" index="" image="">
+		<description>Sonic the Hedgehog (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>f9394e97</crc>
+		<manufacturer>Sonic Team</manufacturer>
+		<year>1991</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sonic the Hedgehog 2 (World) (Rev A)" index="" image="">
+		<description>Sonic the Hedgehog 2 (World) (Rev A)</description>
+		<cloneof></cloneof>
+		<crc>7b905383</crc>
+		<manufacturer>Sonic Team</manufacturer>
+		<year>1992</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sonic the Hedgehog 3 (USA)" index="" image="">
+		<description>Sonic the Hedgehog 3 (USA)</description>
+		<cloneof></cloneof>
+		<crc>9bc192ce</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1994</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sparkster (USA)" index="" image="">
+		<description>Sparkster (USA)</description>
+		<cloneof></cloneof>
+		<crc>6bdb14ed</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1994</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Spider-Man (USA, Europe) (Acclaim)" index="" image="">
+		<description>Spider-Man (USA, Europe) (Acclaim)</description>
+		<cloneof></cloneof>
+		<crc>11b5b590</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1995</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Spider-Man (World) (Sega)" index="" image="">
+		<description>Spider-Man (World) (Sega)</description>
+		<cloneof></cloneof>
+		<crc>70ab775f</crc>
+		<manufacturer>Recreational Brainware</manufacturer>
+		<year>1991</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Spider-Man and X-Men - Arcade&apos;s Revenge (USA, Europe)" index="" image="">
+		<description>Spider-Man and X-Men - Arcade\&apos;s Revenge (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>4a4414ea</crc>
+		<manufacturer>Software Creations</manufacturer>
+		<year>1994</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Spirou (Europe)" index="" image="">
+		<description>Spirou (Europe)</description>
+		<cloneof></cloneof>
+		<crc>6634b130</crc>
+		<manufacturer>Infogrames</manufacturer>
+		<year>1996</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Spot Goes to Hollywood (USA)" index="" image="">
+		<description>Spot Goes to Hollywood (USA)</description>
+		<cloneof></cloneof>
+		<crc>bdad1cbc</crc>
+		<manufacturer>Eurocom Entertainment Software</manufacturer>
+		<year>1995</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Stargate (USA, Europe)" index="" image="">
+		<description>Stargate (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>e587069e</crc>
+		<manufacturer>Probe Entertainment</manufacturer>
+		<year>1994</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Stormlord (USA)" index="" image="">
+		<description>Stormlord (USA)</description>
+		<cloneof></cloneof>
+		<crc>39ab50a5</crc>
+		<manufacturer>Punk Development</manufacturer>
+		<year>1990</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Strider (USA, Europe)" index="" image="">
+		<description>Strider (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>b9d099a4</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1990</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Strider Returns - Journey from Darkness (USA)" index="" image="">
+		<description>Strider Returns - Journey from Darkness (USA)</description>
+		<cloneof></cloneof>
+		<crc>42589b79</crc>
+		<manufacturer>Tiertex Design Studios</manufacturer>
+		<year>1990</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sub-Terrania (USA)" index="" image="">
+		<description>Sub-Terrania (USA)</description>
+		<cloneof></cloneof>
+		<crc>dc3c6c45</crc>
+		<manufacturer>Zyrinx</manufacturer>
+		<year>1994</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Battletank - War in the Gulf (USA)" index="" image="">
+		<description>Super Battletank - War in the Gulf (USA)</description>
+		<cloneof></cloneof>
+		<crc>b0b5e3c9</crc>
+		<manufacturer>Imagineering</manufacturer>
+		<year>1992</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Syd of Valis (USA)" index="" image="">
+		<description>Syd of Valis (USA)</description>
+		<cloneof></cloneof>
+		<crc>37dc0108</crc>
+		<manufacturer>Laser Soft</manufacturer>
+		<year>1992</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sylvester and Tweety in Cagey Capers (USA)" index="" image="">
+		<description>Sylvester and Tweety in Cagey Capers (USA)</description>
+		<cloneof></cloneof>
+		<crc>9d9c786b</crc>
+		<manufacturer>Alexandria</manufacturer>
+		<year>1993</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="TaleSpin (USA, Europe)" index="true" image="t">
+		<description>TaleSpin (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>f5c0c8d0</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1992</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Target Earth (USA)" index="" image="">
+		<description>Target Earth (USA)</description>
+		<cloneof></cloneof>
+		<crc>cddf62d3</crc>
+		<manufacturer>NCS</manufacturer>
+		<year>1990</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Taz in Escape from Mars (USA)" index="" image="">
+		<description>Taz in Escape from Mars (USA)</description>
+		<cloneof></cloneof>
+		<crc>62009f8c</crc>
+		<manufacturer>HeadGames</manufacturer>
+		<year>1994</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Taz-Mania (World)" index="" image="">
+		<description>Taz-Mania (World)</description>
+		<cloneof></cloneof>
+		<crc>0e901f45</crc>
+		<manufacturer>Recreational Brainware</manufacturer>
+		<year>1992</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Techno Clash (USA, Europe)" index="" image="">
+		<description>Techno Clash (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>4e65e483</crc>
+		<manufacturer>Blue Sky Software</manufacturer>
+		<year>1993</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Technocop (USA)" index="" image="">
+		<description>Technocop (USA)</description>
+		<cloneof></cloneof>
+		<crc>7459ad06</crc>
+		<manufacturer>Punk Development</manufacturer>
+		<year>1990</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tecmo Super NBA Basketball (USA)" index="" image="">
+		<description>Tecmo Super NBA Basketball (USA)</description>
+		<cloneof></cloneof>
+		<crc>53913991</crc>
+		<manufacturer>Sculptured Software</manufacturer>
+		<year>1993</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Terminator, The (USA)" index="" image="">
+		<description>Terminator, The (USA)</description>
+		<cloneof></cloneof>
+		<crc>31a629be</crc>
+		<manufacturer>Probe Entertainment</manufacturer>
+		<year>1991</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="TinHead (USA)" index="" image="">
+		<description>TinHead (USA)</description>
+		<cloneof></cloneof>
+		<crc>d6724b84</crc>
+		<manufacturer>MicroProse</manufacturer>
+		<year>1993</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tintin au Tibet (Europe)" index="" image="">
+		<description>Tintin au Tibet (Europe)</description>
+		<cloneof></cloneof>
+		<crc>4243caf3</crc>
+		<manufacturer>Infogrames</manufacturer>
+		<year>1995</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tiny Toon Adventures - Buster&apos;s Hidden Treasure (USA)" index="" image="">
+		<description>Tiny Toon Adventures - Buster\&apos;s Hidden Treasure (USA)</description>
+		<cloneof></cloneof>
+		<crc>a26d3ae0</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1993</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Todd&apos;s Adventures in Slime World (USA)" index="" image="">
+		<description>Todd\&apos;s Adventures in Slime World (USA)</description>
+		<cloneof></cloneof>
+		<crc>652e8b7d</crc>
+		<manufacturer>Epyx</manufacturer>
+		<year>1991</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ToeJam &amp; Earl (World) (Rev A)" index="" image="">
+		<description>ToeJam &amp; Earl (World) (Rev A)</description>
+		<cloneof></cloneof>
+		<crc>7a588f4b</crc>
+		<manufacturer>ToeJam &amp; Earl Productions</manufacturer>
+		<year>1992</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ToeJam &amp; Earl in Panic on Funkotron (USA)" index="" image="">
+		<description>ToeJam &amp; Earl in Panic on Funkotron (USA)</description>
+		<cloneof></cloneof>
+		<crc>aa021bdd</crc>
+		<manufacturer>ToeJam &amp; Earl Productions</manufacturer>
+		<year>1993</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Toki - Going Ape Spit (World) (Rev A)" index="" image="">
+		<description>Toki - Going Ape Spit (World) (Rev A)</description>
+		<cloneof></cloneof>
+		<crc>7362c3f4</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1991</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tom and Jerry - Frantic Antics (USA)" index="" image="">
+		<description>Tom and Jerry - Frantic Antics (USA)</description>
+		<cloneof></cloneof>
+		<crc>3044460c</crc>
+		<manufacturer>Beam Software</manufacturer>
+		<year>1994</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Toy Story (USA)" index="" image="">
+		<description>Toy Story (USA)</description>
+		<cloneof></cloneof>
+		<crc>829fe313</crc>
+		<manufacturer>Traveller&apos;s Tales</manufacturer>
+		<year>1996</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Toys (USA)" index="" image="">
+		<description>Toys (USA)</description>
+		<cloneof></cloneof>
+		<crc>cbc9951b</crc>
+		<manufacturer>Imagineering</manufacturer>
+		<year>1993</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Trampoline Terror! (USA)" index="" image="">
+		<description>Trampoline Terror! (USA)</description>
+		<cloneof></cloneof>
+		<crc>aabb349f</crc>
+		<manufacturer>NCS</manufacturer>
+		<year>1990</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="True Lies (World)" index="" image="">
+		<description>True Lies (World)</description>
+		<cloneof></cloneof>
+		<crc>18c09468</crc>
+		<manufacturer>Beam Software</manufacturer>
+		<year>1995</year>
+		<genre>Platform</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Turrican (USA, Europe)" index="" image="">
+		<description>Turrican (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>634d67a6</crc>
+		<manufacturer>Accolade</manufacturer>
+		<year>1991</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Universal Soldier (USA, Europe)" index="true" image="u">
+		<description>Universal Soldier (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>352ebd49</crc>
+		<manufacturer>The Code Monkeys</manufacturer>
+		<year>1992</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Urban Strike (USA, Europe)" index="" image="">
+		<description>Urban Strike (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>cf690a75</crc>
+		<manufacturer>Granite Bay Software</manufacturer>
+		<year>1994</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Valis III (USA)" index="true" image="v">
+		<description>Valis III (USA)</description>
+		<cloneof></cloneof>
+		<crc>59a2a368</crc>
+		<manufacturer>Telenet Japan</manufacturer>
+		<year>1991</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Vectorman (USA, Europe)" index="" image="">
+		<description>Vectorman (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>d38b3354</crc>
+		<manufacturer>Blue Sky Software</manufacturer>
+		<year>1995</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Vectorman 2 (USA)" index="" image="">
+		<description>Vectorman 2 (USA)</description>
+		<cloneof></cloneof>
+		<crc>c1a24088</crc>
+		<manufacturer>Blue Sky Software</manufacturer>
+		<year>1996</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Virtual Bart (World)" index="" image="">
+		<description>Virtual Bart (World)</description>
+		<cloneof></cloneof>
+		<crc>8db9f378</crc>
+		<manufacturer>Sculptured Software</manufacturer>
+		<year>1994</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Wardner (USA)" index="true" image="w">
+		<description>Wardner (USA)</description>
+		<cloneof></cloneof>
+		<crc>1e369ae2</crc>
+		<manufacturer>Visco</manufacturer>
+		<year>1991</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Warlock (USA, Europe)" index="" image="">
+		<description>Warlock (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>0a46539b</crc>
+		<manufacturer>Realtime Associates</manufacturer>
+		<year>1994</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Warpspeed (USA)" index="" image="">
+		<description>Warpspeed (USA)</description>
+		<cloneof></cloneof>
+		<crc>143697ed</crc>
+		<manufacturer>Accolade</manufacturer>
+		<year>1993</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Wayne&apos;s World (USA)" index="" image="">
+		<description>Wayne\&apos;s World (USA)</description>
+		<cloneof></cloneof>
+		<crc>d2cf6ebe</crc>
+		<manufacturer>Gray Matter</manufacturer>
+		<year>1993</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Whac-a-Critter (USA) (Unl)" index="" image="">
+		<description>Whac-a-Critter (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>1bdd02b8</crc>
+		<manufacturer>Realtec</manufacturer>
+		<year>1995</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Wiz&apos;n&apos;Liz (USA)" index="" image="">
+		<description>Wiz\&apos;n\&apos;Liz (USA)</description>
+		<cloneof></cloneof>
+		<crc>df036b62</crc>
+		<manufacturer>Raising Hell</manufacturer>
+		<year>1993</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Wolfchild (USA)" index="" image="">
+		<description>Wolfchild (USA)</description>
+		<cloneof></cloneof>
+		<crc>eb5b1cbf</crc>
+		<manufacturer>Core Design</manufacturer>
+		<year>1993</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Wolverine - Adamantium Rage (USA, Europe)" index="" image="">
+		<description>Wolverine - Adamantium Rage (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>d2437bb7</crc>
+		<manufacturer>Teeny Weeny Games</manufacturer>
+		<year>1994</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Wonder Boy in Monster World (USA, Europe)" index="" image="">
+		<description>Wonder Boy in Monster World (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>1592f5b0</crc>
+		<manufacturer>West One</manufacturer>
+		<year>1992</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="World of Illusion Starring Mickey Mouse and Donald Duck (USA, Korea)" index="" image="">
+		<description>World of Illusion Starring Mickey Mouse and Donald Duck (USA, Korea)</description>
+		<cloneof></cloneof>
+		<crc>921ebd1c</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1992</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="X-Men 2 - Clone Wars (USA, Europe)" index="true" image="x">
+		<description>X-Men 2 - Clone Wars (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>710bc628</crc>
+		<manufacturer>HeadGames</manufacturer>
+		<year>1995</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="X-Perts (USA)" index="" image="">
+		<description>X-Perts (USA)</description>
+		<cloneof></cloneof>
+		<crc>57e8abfd</crc>
+		<manufacturer>Abalone</manufacturer>
+		<year>1996</year>
+		<genre>Platform</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Xenon 2 - Megablast (Europe)" index="" image="">
+		<description>Xenon 2 - Megablast (Europe)</description>
+		<cloneof></cloneof>
+		<crc>59abe7f9</crc>
+		<manufacturer>Bitmap Brothers</manufacturer>
+		<year>1992</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Zero the Kamikaze Squirrel (USA)" index="true" image="z">
+		<description>Zero the Kamikaze Squirrel (USA)</description>
+		<cloneof></cloneof>
+		<crc>423968df</crc>
+		<manufacturer>Iguana Entertainment</manufacturer>
+		<year>1994</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Zombies Ate My Neighbors (USA)" index="" image="">
+		<description>Zombies Ate My Neighbors (USA)</description>
+		<cloneof></cloneof>
+		<crc>2bf3626f</crc>
+		<manufacturer>LucasArts</manufacturer>
+		<year>1993</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Zool - Ninja of the &apos;Nth&apos; Dimension (USA)" index="" image="">
+		<description>Zool - Ninja of the \&apos;Nth\&apos; Dimension (USA)</description>
+		<cloneof></cloneof>
+		<crc>cb2939f1</crc>
+		<manufacturer>Gremlin Interactive</manufacturer>
+		<year>1993</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

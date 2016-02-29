@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Atari Lynx</listname>
+		<lastlistupdate>10/27/2011</lastlistupdate>
+		<listversion>1.1 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="NFL Football (USA, Europe)" index="true" image="n">
+		<description>NFL Football (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>006FD398</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1992</year>
+		<genre>Football/Sports</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

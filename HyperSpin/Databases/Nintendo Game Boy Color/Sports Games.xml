@@ -1,0 +1,869 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Nintendo Game Boy Color</listname>
+		<lastlistupdate>06/08/2013</lastlistupdate>
+		<listversion>1.1 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="10-Pin Bowling (USA)" index="true" image="1">
+		<description>10-Pin Bowling (USA)</description>
+		<cloneof></cloneof>
+		<crc>720c7023</crc>
+		<manufacturer>Majesco Games</manufacturer>
+		<year>1999</year>
+		<genre>Sports/Bowling</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="720 Degrees (USA, Europe)" index="true" image="7">
+		<description>720 Degrees (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>e633841f</crc>
+		<manufacturer>Midway</manufacturer>
+		<year>1999</year>
+		<genre>Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="All Star Tennis 2000 (Europe)" index="true" image="a">
+		<description>All Star Tennis 2000 (Europe)</description>
+		<cloneof></cloneof>
+		<crc>952b94e5</crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>1999</year>
+		<genre>Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="All-Star Baseball 2000 (USA, Europe)" index="" image="">
+		<description>All-Star Baseball 2000 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>e17f59a5</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1999</year>
+		<genre>Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="All-Star Baseball 2001 (USA)" index="" image="">
+		<description>All-Star Baseball 2001 (USA)</description>
+		<cloneof></cloneof>
+		<crc>bc562466</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>2000</year>
+		<genre>Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bass Masters Classic (USA, Europe)" index="true" image="b">
+		<description>Bass Masters Classic (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>b70028e4</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>1999</year>
+		<genre>Sports/Fishing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Billy Bob&apos;s Huntin&apos; &apos;n&apos; Fishin&apos; (USA, Europe)" index="" image="">
+		<description>Billy Bob&apos;s Huntin&apos; &apos;n&apos; Fishin\&apos; (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>fa1e6853</crc>
+		<manufacturer>Midway</manufacturer>
+		<year>1999</year>
+		<genre>Fishing/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Black Bass - Lure Fishing (USA, Europe)" index="" image="">
+		<description>Black Bass - Lure Fishing (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>e44977dc</crc>
+		<manufacturer>Majesco Games</manufacturer>
+		<year>1999</year>
+		<genre>Sports/Fishing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Boarder Zone (USA)" index="" image="">
+		<description>Boarder Zone (USA)</description>
+		<cloneof></cloneof>
+		<crc>a7152869</crc>
+		<manufacturer>Infogrames</manufacturer>
+		<year>1999</year>
+		<genre>Sports/Snowboarding</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Carl Lewis Athletics 2000 (Europe)" index="true" image="c">
+		<description>Carl Lewis Athletics 2000 (Europe)</description>
+		<cloneof></cloneof>
+		<crc>15430979</crc>
+		<manufacturer>Planet Interactive</manufacturer>
+		<year>2000</year>
+		<genre>Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="CyberTiger (USA, Europe)" index="" image="">
+		<description>CyberTiger (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>e470cafa</crc>
+		<manufacturer>EA Sports</manufacturer>
+		<year>2000</year>
+		<genre>Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dave Mirra Freestyle BMX (USA, Europe)" index="true" image="d">
+		<description>Dave Mirra Freestyle BMX (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>2df6e230</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>2000</year>
+		<genre>Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="David Beckham Soccer (Europe)" index="" image="">
+		<description>David Beckham Soccer (Europe)</description>
+		<cloneof></cloneof>
+		<crc>753bdce4</crc>
+		<manufacturer>Majesco Games</manufacturer>
+		<year>2002</year>
+		<genre>Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Deer Hunter (USA)" index="" image="">
+		<description>Deer Hunter (USA)</description>
+		<cloneof></cloneof>
+		<crc>40a715fb</crc>
+		<manufacturer>Vatical Entertainment</manufacturer>
+		<year>1999</year>
+		<genre>Sports/Hunting</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ECW Hardcore Revolution (USA, Europe)" index="true" image="e">
+		<description>ECW Hardcore Revolution (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>484eba10</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>2000</year>
+		<genre>Sports/Wrestling</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ESPN International Track &amp; Field (USA)" index="" image="">
+		<description>ESPN International Track &amp; Field (USA)</description>
+		<cloneof></cloneof>
+		<crc>4005d541</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>2000</year>
+		<genre>Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ESPN National Hockey Night (USA)" index="" image="">
+		<description>ESPN National Hockey Night (USA)</description>
+		<cloneof></cloneof>
+		<crc>600f61f9</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>2001</year>
+		<genre>Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Extreme Sports with the Berenstain Bears (USA, Europe)" index="" image="">
+		<description>Extreme Sports with the Berenstain Bears (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>5c0e7b44</crc>
+		<manufacturer>Sound Source</manufacturer>
+		<year>2000</year>
+		<genre>Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="F.A. Premier League Stars 2001, The (Europe)" index="true" image="f">
+		<description>F.A. Premier League Stars 2001, The (Europe)</description>
+		<cloneof></cloneof>
+		<crc>5e3844fb</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2001</year>
+		<genre>Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="FIFA 2000 (USA, Europe)" index="" image="">
+		<description>FIFA 2000 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>e6bc2e8c</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>1999</year>
+		<genre>Sports/Soccer</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Golden Goal (Europe)" index="true" image="g">
+		<description>Golden Goal (Europe)</description>
+		<cloneof></cloneof>
+		<crc>bb9b597d</crc>
+		<manufacturer>Take-Two Interactive</manufacturer>
+		<year>1999</year>
+		<genre>Sports/Soccer</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hole In One Golf (USA)" index="true" image="h">
+		<description>Hole In One Golf (USA)</description>
+		<cloneof></cloneof>
+		<crc>27a53965</crc>
+		<manufacturer>Natsume</manufacturer>
+		<year>1999</year>
+		<genre>Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="International Karate 2000 (Europe)" index="true" image="i">
+		<description>International Karate 2000 (Europe)</description>
+		<cloneof></cloneof>
+		<crc>12e00808</crc>
+		<manufacturer>Virgin Interactive Entertainment</manufacturer>
+		<year>2000</year>
+		<genre>Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="International Superstar Soccer &apos;99 (Europe)" index="" image="">
+		<description>International Superstar Soccer &apos;99 (Europe)</description>
+		<cloneof></cloneof>
+		<crc>1b76d115</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1999</year>
+		<genre>Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="International Superstar Soccer 2000 (USA)" index="" image="">
+		<description>International Superstar Soccer 2000 (USA)</description>
+		<cloneof></cloneof>
+		<crc>e8fa7203</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>2000</year>
+		<genre>Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="International Track &amp; Field (USA)" index="" image="">
+		<description>International Track &amp; Field (USA)</description>
+		<cloneof></cloneof>
+		<crc>803d5d57</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>2000</year>
+		<genre>Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Jimmy White&apos;s Cueball (Europe)" index="true" image="j">
+		<description>Jimmy White&apos;s Cueball (Europe)</description>
+		<cloneof></cloneof>
+		<crc>27632f4f</crc>
+		<manufacturer>Vicarious Visions</manufacturer>
+		<year>2000</year>
+		<genre>Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ken Griffey Jr.&apos;s Slugfest (USA)" index="true" image="k">
+		<description>Ken Griffey Jr.&apos;s Slugfest (USA)</description>
+		<cloneof></cloneof>
+		<crc>1e64d19c</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1999</year>
+		<genre>Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Knockout Kings (USA, Europe)" index="" image="">
+		<description>Knockout Kings (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>a0d64934</crc>
+		<manufacturer>Electronic Arts</manufacturer>
+		<year>1999</year>
+		<genre>Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Legend of the River King 2 (USA)" index="true" image="l">
+		<description>Legend of the River King 2 (USA)</description>
+		<cloneof></cloneof>
+		<crc>840fd525</crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>2001</year>
+		<genre>Sports/Fishing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Legend of the River King GB (USA)" index="" image="">
+		<description>Legend of the River King GB (USA)</description>
+		<cloneof></cloneof>
+		<crc>7e821f47</crc>
+		<manufacturer>Natsume</manufacturer>
+		<year>1999</year>
+		<genre>Sports/Fishing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Madden NFL 2000 (USA, Europe)" index="true" image="m">
+		<description>Madden NFL 2000 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>482944aa</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>1999</year>
+		<genre>Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Madden NFL 2001 (USA)" index="" image="">
+		<description>Madden NFL 2001 (USA)</description>
+		<cloneof></cloneof>
+		<crc>160e9e3c</crc>
+		<manufacturer>EA Sports</manufacturer>
+		<year>2000</year>
+		<genre>Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Madden NFL 2002 (USA)" index="" image="">
+		<description>Madden NFL 2002 (USA)</description>
+		<cloneof></cloneof>
+		<crc>de1338d2</crc>
+		<manufacturer>EA Sports</manufacturer>
+		<year>2001</year>
+		<genre>Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mario Golf (USA)" index="" image="">
+		<description>Mario Golf (USA)</description>
+		<cloneof></cloneof>
+		<crc>905ad0cb</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1999</year>
+		<genre>Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mario Tennis (USA)" index="" image="">
+		<description>Mario Tennis (USA)</description>
+		<cloneof></cloneof>
+		<crc>a781c63c</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2001</year>
+		<genre>Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mary-Kate and Ashley - Winners Circle (USA, Europe)" index="" image="">
+		<description>Mary-Kate and Ashley - Winners Circle (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>35d6ddcc</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>2001</year>
+		<genre>Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mat Hoffman&apos;s Pro BMX (USA, Europe)" index="" image="">
+		<description>Mat Hoffman&apos;s Pro BMX (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>515c1459</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2000</year>
+		<genre>Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mia Hamm Soccer Shootout (USA)" index="" image="">
+		<description>Mia Hamm Soccer Shootout (USA)</description>
+		<cloneof></cloneof>
+		<crc>d77971c0</crc>
+		<manufacturer>SouthPeak Games</manufacturer>
+		<year>2000</year>
+		<genre>Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Millennium Winter Sports (USA)" index="" image="">
+		<description>Millennium Winter Sports (USA)</description>
+		<cloneof></cloneof>
+		<crc>b57dabae</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>2000</year>
+		<genre>Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="MTV Sports - Pure Ride (USA, Europe)" index="" image="">
+		<description>MTV Sports - Pure Ride (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>b7b2354b</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2000</year>
+		<genre>Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="MTV Sports - Skateboarding featuring Andy MacDonald (USA)" index="" image="">
+		<description>MTV Sports - Skateboarding featuring Andy MacDonald (USA)</description>
+		<cloneof></cloneof>
+		<crc>744561f3</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2000</year>
+		<genre>Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="MTV Sports - T.J. Lavin&apos;s Ultimate BMX (USA, Europe)" index="" image="">
+		<description>MTV Sports - T.J. Lavin&apos;s Ultimate BMX (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>904663af</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2000</year>
+		<genre>Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NBA 3 on 3 featuring Kobe Bryant (USA)" index="true" image="n">
+		<description>NBA 3 on 3 featuring Kobe Bryant (USA)</description>
+		<cloneof></cloneof>
+		<crc>001f4754</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1999</year>
+		<genre>Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NBA Hoopz (USA)" index="" image="">
+		<description>NBA Hoopz (USA)</description>
+		<cloneof></cloneof>
+		<crc>5011a419</crc>
+		<manufacturer>Midway</manufacturer>
+		<year>2001</year>
+		<genre>Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NBA In the Zone (USA) (Rev A)" index="" image="">
+		<description>NBA In the Zone (USA) (Rev A)</description>
+		<cloneof></cloneof>
+		<crc>be949f74</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1999</year>
+		<genre>Sports/Basketball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NBA In the Zone 2000 (USA)" index="" image="">
+		<description>NBA In the Zone 2000 (USA)</description>
+		<cloneof></cloneof>
+		<crc>fdb38c49</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>2000</year>
+		<genre>Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NBA Jam &apos;99 (USA, Europe)" index="" image="">
+		<description>NBA Jam &apos;99 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>84be0eed</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1999</year>
+		<genre>Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NBA Jam 2001 (USA)" index="" image="">
+		<description>NBA Jam 2001 (USA)</description>
+		<cloneof></cloneof>
+		<crc>3aa75f1c</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>2000</year>
+		<genre>Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NBA Show Time - NBA on NBC (USA)" index="" image="">
+		<description>NBA Show Time - NBA on NBC (USA)</description>
+		<cloneof></cloneof>
+		<crc>7ae23888</crc>
+		<manufacturer>Midway</manufacturer>
+		<year>2000</year>
+		<genre>Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NFL Blitz (USA, Europe) (Rev A)" index="" image="">
+		<description>NFL Blitz (USA, Europe) (Rev A)</description>
+		<cloneof></cloneof>
+		<crc>107d734b</crc>
+		<manufacturer>Midway</manufacturer>
+		<year>1998</year>
+		<genre>Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NFL Blitz 2000 (USA)" index="" image="">
+		<description>NFL Blitz 2000 (USA)</description>
+		<cloneof></cloneof>
+		<crc>090c7dac</crc>
+		<manufacturer>Midway</manufacturer>
+		<year>1999</year>
+		<genre>Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NFL Blitz 2001 (USA)" index="" image="">
+		<description>NFL Blitz 2001 (USA)</description>
+		<cloneof></cloneof>
+		<crc>61c653ae</crc>
+		<manufacturer>Midway</manufacturer>
+		<year>2000</year>
+		<genre>Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NHL 2000 (USA)" index="" image="">
+		<description>NHL 2000 (USA)</description>
+		<cloneof></cloneof>
+		<crc>bb625129</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2000</year>
+		<genre>Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NHL Blades of Steel (USA)" index="" image="">
+		<description>NHL Blades of Steel (USA)</description>
+		<cloneof></cloneof>
+		<crc>a890adb2</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1999</year>
+		<genre>Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NHL Blades of Steel 2000 (USA)" index="" image="">
+		<description>NHL Blades of Steel 2000 (USA)</description>
+		<cloneof></cloneof>
+		<crc>8bc5b62a</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>2000</year>
+		<genre>Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="O&apos;Leary Manager 2000 (Europe)" index="true" image="o">
+		<description>O&apos;Leary Manager 2000 (Europe)</description>
+		<cloneof></cloneof>
+		<crc>3485761a</crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>2000</year>
+		<genre>Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Player Manager 2001 (Europe)" index="true" image="p">
+		<description>Player Manager 2001 (Europe)</description>
+		<cloneof></cloneof>
+		<crc>375c35e0</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2001</year>
+		<genre>Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pocket Bowling (USA)" index="" image="">
+		<description>Pocket Bowling (USA)</description>
+		<cloneof></cloneof>
+		<crc>3ed30908</crc>
+		<manufacturer>Jaleco Entertainment</manufacturer>
+		<year>1999</year>
+		<genre>Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pocket Soccer (Europe)" index="" image="">
+		<description>Pocket Soccer (Europe)</description>
+		<cloneof></cloneof>
+		<crc>e8f5824f</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2001</year>
+		<genre>Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Power Spike - Pro Beach Volleyball (USA)" index="" image="">
+		<description>Power Spike - Pro Beach Volleyball (USA)</description>
+		<cloneof></cloneof>
+		<crc>ae57d1c3</crc>
+		<manufacturer>Infogrames</manufacturer>
+		<year>2000</year>
+		<genre>Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Prince Naseem Boxing (Europe)" index="" image="">
+		<description>Prince Naseem Boxing (Europe)</description>
+		<cloneof></cloneof>
+		<crc>91def753</crc>
+		<manufacturer>Virtucraft</manufacturer>
+		<year>2001</year>
+		<genre>Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pro Darts (USA)" index="" image="">
+		<description>Pro Darts (USA)</description>
+		<cloneof></cloneof>
+		<crc>834a72c0</crc>
+		<manufacturer>Vatical Entertainment</manufacturer>
+		<year>2002</year>
+		<genre>Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ready 2 Rumble Boxing (USA)" index="true" image="r">
+		<description>Ready 2 Rumble Boxing (USA)</description>
+		<cloneof></cloneof>
+		<crc>345e20a4</crc>
+		<manufacturer>Midway</manufacturer>
+		<year>1999</year>
+		<genre>Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Road Champs - BXS Stunt Biking (USA, Europe)" index="" image="">
+		<description>Road Champs - BXS Stunt Biking (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>98c59706</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2000</year>
+		<genre>Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rocket Power - Gettin&apos; Air (USA)" index="" image="">
+		<description>Rocket Power - Gettin&apos; Air (USA)</description>
+		<cloneof></cloneof>
+		<crc>7025eb63</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2001</year>
+		<genre>Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rocky Mountain Trophy Hunter (USA)" index="" image="">
+		<description>Rocky Mountain Trophy Hunter (USA)</description>
+		<cloneof></cloneof>
+		<crc>9aa5b021</crc>
+		<manufacturer>Infogrames</manufacturer>
+		<year>2000</year>
+		<genre>Sports/Hunting</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Roland Garros French Open (Europe)" index="" image="">
+		<description>Roland Garros French Open (Europe)</description>
+		<cloneof></cloneof>
+		<crc>10dbde7c</crc>
+		<manufacturer>Cryo Interactive</manufacturer>
+		<year>2000</year>
+		<genre>Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ronaldo V-Soccer (USA)" index="" image="">
+		<description>Ronaldo V-Soccer (USA)</description>
+		<cloneof></cloneof>
+		<crc>d0204f10</crc>
+		<manufacturer>GT Interactive</manufacturer>
+		<year>2001</year>
+		<genre>Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sesame Street Sports (USA)" index="true" image="s">
+		<description>Sesame Street Sports (USA)</description>
+		<cloneof></cloneof>
+		<crc>4ed4aafa</crc>
+		<manufacturer>NewKidCo</manufacturer>
+		<year>2001</year>
+		<genre>Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Shaun Palmer&apos;s Pro Snowboarder (USA)" index="" image="">
+		<description>Shaun Palmer&apos;s Pro Snowboarder (USA)</description>
+		<cloneof></cloneof>
+		<crc>709cda93</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2001</year>
+		<genre>Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Snoopy Tennis (USA)" index="" image="">
+		<description>Snoopy Tennis (USA)</description>
+		<cloneof></cloneof>
+		<crc>d882eccc</crc>
+		<manufacturer>Infogrames</manufacturer>
+		<year>2001</year>
+		<genre>Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Soccer Manager (Europe)" index="" image="">
+		<description>Soccer Manager (Europe)</description>
+		<cloneof></cloneof>
+		<crc>237ecef9</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>2000</year>
+		<genre>Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tech Deck Skateboarding (USA, Europe)" index="true" image="t">
+		<description>Tech Deck Skateboarding (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>c07ebe70</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2001</year>
+		<genre>Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tiger Woods PGA Tour 2000 (USA, Europe)" index="" image="">
+		<description>Tiger Woods PGA Tour 2000 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>a6dfb1d9</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2000</year>
+		<genre>Sports/Golf</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="TNN Outdoors Fishing Champ (USA)" index="" image="">
+		<description>TNN Outdoors Fishing Champ (USA)</description>
+		<cloneof></cloneof>
+		<crc>00a14d18</crc>
+		<manufacturer>ASC Games</manufacturer>
+		<year>1999</year>
+		<genre>Sports/Fishing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Total Soccer 2000 (Europe)" index="" image="">
+		<description>Total Soccer 2000 (Europe)</description>
+		<cloneof></cloneof>
+		<crc>c25ee35a</crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>2000</year>
+		<genre>Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Trick Boarder (USA)" index="" image="">
+		<description>Trick Boarder (USA)</description>
+		<cloneof></cloneof>
+		<crc>e856dc3d</crc>
+		<manufacturer>Natsume</manufacturer>
+		<year>2000</year>
+		<genre>Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Triple Play 2001 (USA, Europe)" index="" image="">
+		<description>Triple Play 2001 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>74e04c07</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2000</year>
+		<genre>Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="WCW Mayhem (USA, Europe)" index="true" image="w">
+		<description>WCW Mayhem (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>9f8620d1</crc>
+		<manufacturer>Electronic Arts</manufacturer>
+		<year>2000</year>
+		<genre>Sports/Wrestling</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="WWF Attitude (USA)" index="" image="">
+		<description>WWF Attitude (USA)</description>
+		<cloneof></cloneof>
+		<crc>d5fdf68a</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1999</year>
+		<genre>Sports/Wrestling</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="WWF Betrayal (USA, Europe)" index="" image="">
+		<description>WWF Betrayal (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>6c28bcb5</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2001</year>
+		<genre>Sports/Wrestling</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="WWF WrestleMania 2000 (USA, Europe)" index="" image="">
+		<description>WWF WrestleMania 2000 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>fcba12ae</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>1999</year>
+		<genre>Sports/Wrestling</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Xtreme Sports (USA)" index="true" image="x">
+		<description>Xtreme Sports (USA)</description>
+		<cloneof></cloneof>
+		<crc>19828751</crc>
+		<manufacturer>Infogrames</manufacturer>
+		<year>2000</year>
+		<genre>Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Zebco Fishing! (USA)" index="true" image="z">
+		<description>Zebco Fishing! (USA)</description>
+		<cloneof></cloneof>
+		<crc>3cc6b1f9</crc>
+		<manufacturer>Vatical Entertainment</manufacturer>
+		<year>1999</year>
+		<genre>Sports/Fishing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Zidane Football Generation (Europe)" index="" image="">
+		<description>Zidane Football Generation (Europe)</description>
+		<cloneof></cloneof>
+		<crc>e96dbfb5</crc>
+		<manufacturer>Cryo Interactive</manufacturer>
+		<year>2002</year>
+		<genre>Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

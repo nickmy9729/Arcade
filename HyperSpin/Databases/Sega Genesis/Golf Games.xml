@@ -1,0 +1,129 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Sega Genesis</listname>
+		<lastlistupdate>02/21/2013</lastlistupdate>
+		<listversion>1.2 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="Arnold Palmer Tournament Golf (USA, Europe)" index="true" image="a">
+		<description>Arnold Palmer Tournament Golf (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>35b995ef</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1989</year>
+		<genre>Sports/Golf</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Chi Chi&apos;s Pro Challenge Golf (USA)" index="true" image="c">
+		<description>Chi Chi\&apos;s Pro Challenge Golf (USA)</description>
+		<cloneof></cloneof>
+		<crc>9c3973a4</crc>
+		<manufacturer>Coconuts Japan</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Golf</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Jack Nicklaus&apos; Power Challenge Golf (USA, Europe)" index="true" image="j">
+		<description>Jack Nicklaus\&apos; Power Challenge Golf (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>5545e909</crc>
+		<manufacturer>Accolade</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Golf</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pebble Beach Golf Links (USA)" index="true" image="p">
+		<description>Pebble Beach Golf Links (USA)</description>
+		<cloneof></cloneof>
+		<crc>95823c43</crc>
+		<manufacturer>T&amp;E Soft</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Golf</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="PGA European Tour (USA, Europe)" index="" image="">
+		<description>PGA European Tour (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>8ca45acd</crc>
+		<manufacturer>Polygames</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Golf</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="PGA Tour 96 (USA, Europe)" index="" image="">
+		<description>PGA Tour 96 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>9698bbde</crc>
+		<manufacturer>NuFX</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Golf</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="PGA Tour Golf (USA, Europe) (v1.2)" index="" image="">
+		<description>PGA Tour Golf (USA, Europe) (v1.2)</description>
+		<cloneof></cloneof>
+		<crc>c1f0b4e1</crc>
+		<manufacturer>Sterling Silver Software</manufacturer>
+		<year>1991</year>
+		<genre>Sports/Golf</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="PGA Tour Golf II (USA, Europe) (v1.1)" index="" image="">
+		<description>PGA Tour Golf II (USA, Europe) (v1.1)</description>
+		<cloneof></cloneof>
+		<crc>e82b8606</crc>
+		<manufacturer>Polygames</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Golf</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="PGA Tour Golf III (USA, Europe)" index="" image="">
+		<description>PGA Tour Golf III (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>aeb3f65f</crc>
+		<manufacturer>Polygames</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Golf</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="World Championship Soccer II (USA)" index="true" image="w">
+		<description>World Championship Soccer II (USA)</description>
+		<cloneof></cloneof>
+		<crc>c1dd1c8e</crc>
+		<manufacturer>Access Software</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Golf</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="World Class Leaderboard Golf (USA)" index="" image="">
+		<description>World Class Leaderboard Golf (USA)</description>
+		<cloneof></cloneof>
+		<crc>53434bab</crc>
+		<manufacturer>U.S. Gold</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Golf</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Zany Golf (USA, Europe) (v1.1)" index="true" image="z">
+		<description>Zany Golf (USA, Europe) (v1.1)</description>
+		<cloneof></cloneof>
+		<crc>74ed7607</crc>
+		<manufacturer>Sandcastle</manufacturer>
+		<year>1990</year>
+		<genre>Sports/Golf</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

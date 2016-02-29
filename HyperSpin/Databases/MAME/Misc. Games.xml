@@ -1,0 +1,987 @@
+<?xml version="1.0"?>
+<menu>
+<game name="98best44" index="true" image="'">
+	<description>'98 NeoPri Best 44</description>
+	<cloneof></cloneof>
+	<crc>d42e505d</crc>
+	<manufacturer>SNK</manufacturer>
+	<year>1998</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="alienar" index="true" image="a">
+	<description>Alien Arena</description>
+	<cloneof></cloneof>
+	<crc>6feb0314</crc>
+	<manufacturer>Duncan Brown</manufacturer>
+	<year>1985</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="alienaru" index="" image="">
+	<description>Alien Arena</description>
+	<cloneof>alienar</cloneof>
+	<crc>6feb0314</crc>
+	<manufacturer>Duncan Brown</manufacturer>
+	<year>1985</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="amclink" index="" image="">
+	<description>Amcoe Link Control Box</description>
+	<cloneof></cloneof>
+	<crc>e1acc705</crc>
+	<manufacturer>Amcoe</manufacturer>
+	<year></year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="animaljr" index="" image="">
+	<description>Animalandia Jr.</description>
+	<cloneof></cloneof>
+	<crc>4b14a4be</crc>
+	<manufacturer>Nakanihon + East Technology (Taito license)</manufacturer>
+	<year>1993</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="avalnche" index="" image="">
+	<description>Avalanche</description>
+	<cloneof></cloneof>
+	<crc>3f975171</crc>
+	<manufacturer>Atari</manufacturer>
+	<year>1978</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="beathead" index="true" image="b">
+	<description>BeatHead</description>
+	<cloneof></cloneof>
+	<crc>dfd33f02</crc>
+	<manufacturer>Atari Games</manufacturer>
+	<year>1993</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="bubbles" index="" image="">
+	<description>Bubbles</description>
+	<cloneof></cloneof>
+	<crc>26e7869b</crc>
+	<manufacturer>Williams</manufacturer>
+	<year>1982</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="bubblesp" index="" image="">
+	<description>Bubbles</description>
+	<cloneof>bubbles</cloneof>
+	<crc>89a565df</crc>
+	<manufacturer>Williams</manufacturer>
+	<year>1982</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="bubblesr" index="" image="">
+	<description>Bubbles</description>
+	<cloneof>bubbles</cloneof>
+	<crc>8b396db0</crc>
+	<manufacturer>Williams</manufacturer>
+	<year>1982</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="butasan" index="" image="">
+	<description>Butasan</description>
+	<cloneof></cloneof>
+	<crc>47ff4ca9</crc>
+	<manufacturer>[NMK] (Jaleco license)</manufacturer>
+	<year>1987</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="comg903d" index="true" image="c">
+	<description>Cal Omega - System 903 Diag.PROM</description>
+	<cloneof></cloneof>
+	<crc>f8092cea</crc>
+	<manufacturer>Cal Omega Inc.</manufacturer>
+	<year></year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="comg905d" index="" image="">
+	<description>Cal Omega - System 905 Diag.PROM</description>
+	<cloneof></cloneof>
+	<crc>6c20dbc7</crc>
+	<manufacturer>Cal Omega Inc.</manufacturer>
+	<year></year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="cball" index="" image="">
+	<description>Cannonball</description>
+	<cloneof></cloneof>
+	<crc>0b34823b</crc>
+	<manufacturer>Atari</manufacturer>
+	<year>1976</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="cascade" index="" image="">
+	<description>Cascade</description>
+	<cloneof>avalnche</cloneof>
+	<crc>54774594</crc>
+	<manufacturer>Sidam</manufacturer>
+	<year>1978</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="cr589fwa" index="" image="">
+	<description>CD-ROM Drive Updater</description>
+	<cloneof></cloneof>
+	<crc>11812ef8</crc>
+	<manufacturer>Konami</manufacturer>
+	<year>1999</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="cr589fw" index="" image="">
+	<description>CD-ROM Drive Updater 2.0</description>
+	<cloneof></cloneof>
+	<crc>11812ef8</crc>
+	<manufacturer>Konami</manufacturer>
+	<year>1999</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="cfarm" index="" image="">
+	<description>Chicken Farm</description>
+	<cloneof></cloneof>
+	<crc>93bcf145</crc>
+	<manufacturer>LAI Games</manufacturer>
+	<year>1999</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="critcrsh" index="" image="">
+	<description>Critter Crusher</description>
+	<cloneof></cloneof>
+	<crc>59ed40f4</crc>
+	<manufacturer>Sega</manufacturer>
+	<year>1995</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="deshoros" index="true" image="d">
+	<description>Destiny Horoscope</description>
+	<cloneof></cloneof>
+	<crc>03b2c850</crc>
+	<manufacturer>Data East Corporation</manufacturer>
+	<year>1983</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="dotrone" index="" image="">
+	<description>Discs of Tron</description>
+	<cloneof>dotron</cloneof>
+	<crc>eee31b8c</crc>
+	<manufacturer>Bally Midway</manufacturer>
+	<year>1983</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="dotrona" index="" image="">
+	<description>Discs of Tron</description>
+	<cloneof>dotron</cloneof>
+	<crc>40d00195</crc>
+	<manufacturer>Bally Midway</manufacturer>
+	<year>1983</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="dotron" index="" image="">
+	<description>Discs of Tron</description>
+	<cloneof></cloneof>
+	<crc>ba0da15f</crc>
+	<manufacturer>Bally Midway</manufacturer>
+	<year>1983</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="diverboy" index="" image="">
+	<description>Diver Boy</description>
+	<cloneof></cloneof>
+	<crc>6aa11366</crc>
+	<manufacturer>Electronic Devices Italy</manufacturer>
+	<year>1992</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="domino" index="" image="">
+	<description>Domino Man</description>
+	<cloneof></cloneof>
+	<crc>3bf3bb1c</crc>
+	<manufacturer>Bally Midway</manufacturer>
+	<year>1982</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="dynobop" index="" image="">
+	<description>Dyno Bop</description>
+	<cloneof></cloneof>
+	<crc>98452c40</crc>
+	<manufacturer>Grand Products/Incredible Technologies</manufacturer>
+	<year>1990</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="ejihon" index="true" image="e">
+	<description>Ejihon Tantei Jimusyo</description>
+	<cloneof></cloneof>
+	<crc>59ed40f4</crc>
+	<manufacturer>Sega</manufacturer>
+	<year>1995</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="fantasyj" index="true" image="f">
+	<description>Fantasy</description>
+	<cloneof>fantasy</cloneof>
+	<crc>dd1eac89</crc>
+	<manufacturer>SNK</manufacturer>
+	<year>1981</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="fantasyu" index="" image="">
+	<description>Fantasy</description>
+	<cloneof>fantasy</cloneof>
+	<crc>22cb2249</crc>
+	<manufacturer>[SNK] (Rock-Ola license)</manufacturer>
+	<year>1981</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="fantasy" index="" image="">
+	<description>Fantasy</description>
+	<cloneof></cloneof>
+	<crc>0968ab50</crc>
+	<manufacturer>SNK</manufacturer>
+	<year>1981</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="frogs" index="" image="">
+	<description>Frogs</description>
+	<cloneof></cloneof>
+	<crc>b1d1fce4</crc>
+	<manufacturer>Gremlin</manufacturer>
+	<year>1978</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="gangonta" index="true" image="g">
+	<description>Ganbare! Gonta!! 2 / Party Time: Gonta the Diver II</description>
+	<cloneof>prtytime</cloneof>
+	<crc>f80f43bb</crc>
+	<manufacturer>Mitchell</manufacturer>
+	<year>1995</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="sgladiat" index="" image="">
+	<description>Gladiator 1984</description>
+	<cloneof></cloneof>
+	<crc>4bc60f0b</crc>
+	<manufacturer>SNK</manufacturer>
+	<year>1984</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="golgo13" index="" image="">
+	<description>Golgo 13</description>
+	<cloneof></cloneof>
+	<crc>aa15abfe</crc>
+	<manufacturer>Raizing/Namco</manufacturer>
+	<year>1999</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="gypsyjug" index="" image="">
+	<description>Gypsy Juggler</description>
+	<cloneof></cloneof>
+	<crc>f6a71d9f</crc>
+	<manufacturer>Meadows</manufacturer>
+	<year>1978</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="kaiteik" index="true" image="k">
+	<description>Kaitei Takara Sagashi</description>
+	<cloneof>kaitei</cloneof>
+	<crc>32f70d48</crc>
+	<manufacturer>K.K. Tokki</manufacturer>
+	<year>1980</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="kaitei" index="" image="">
+	<description>Kaitei Takara Sagashi</description>
+	<cloneof></cloneof>
+	<crc>d88e10ae</crc>
+	<manufacturer>[K.K. Tokki] (Namco license)</manufacturer>
+	<year>1980</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="keroppi" index="" image="">
+	<description>Kero Kero Keroppi no Issyoni Asobou</description>
+	<cloneof></cloneof>
+	<crc>37861e7d</crc>
+	<manufacturer>Sammy Industries</manufacturer>
+	<year>1993</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="kickc" index="" image="">
+	<description>Kick</description>
+	<cloneof>kick</cloneof>
+	<crc>22fa42ed</crc>
+	<manufacturer>Midway</manufacturer>
+	<year>1981</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="kick" index="" image="">
+	<description>Kick</description>
+	<cloneof></cloneof>
+	<crc>65924917</crc>
+	<manufacturer>Midway</manufacturer>
+	<year>1981</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="kickman" index="" image="">
+	<description>Kickman</description>
+	<cloneof>kick</cloneof>
+	<crc>d8cd9f0f</crc>
+	<manufacturer>Midway</manufacturer>
+	<year>1981</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="kngtmare" index="" image="">
+	<description>Knightmare</description>
+	<cloneof></cloneof>
+	<crc>47351270</crc>
+	<manufacturer>Gottlieb</manufacturer>
+	<year>1983</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="kopunch" index="" image="">
+	<description>KO Punch</description>
+	<cloneof></cloneof>
+	<crc>34ef5e79</crc>
+	<manufacturer>Sega</manufacturer>
+	<year>1981</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="ladykill" index="true" image="l">
+	<description>Lady Killer</description>
+	<cloneof></cloneof>
+	<crc>211a4865</crc>
+	<manufacturer>Yanyaka (Mitchell license)</manufacturer>
+	<year>1993</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="lasso" index="" image="">
+	<description>Lasso</description>
+	<cloneof></cloneof>
+	<crc>f93addd6</crc>
+	<manufacturer>SNK</manufacturer>
+	<year>1982</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="leprechn" index="" image="">
+	<description>Leprechaun</description>
+	<cloneof></cloneof>
+	<crc>2c4a46ca</crc>
+	<manufacturer>Tong Electronic</manufacturer>
+	<year>1982</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="leprechp" index="" image="">
+	<description>Leprechaun</description>
+	<cloneof>leprechn</cloneof>
+	<crc>2c4a46ca</crc>
+	<manufacturer>Tong Electronic</manufacturer>
+	<year>1982</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="liblrabl" index="" image="">
+	<description>Libble Rabble</description>
+	<cloneof></cloneof>
+	<crc>da7a93c2</crc>
+	<manufacturer>Namco</manufacturer>
+	<year>1983</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="llander1" index="" image="">
+	<description>Lunar Lander</description>
+	<cloneof>llander</cloneof>
+	<crc>2aff3140</crc>
+	<manufacturer>Atari</manufacturer>
+	<year>1979</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="llander" index="" image="">
+	<description>Lunar Lander</description>
+	<cloneof></cloneof>
+	<crc>b8763eea</crc>
+	<manufacturer>Atari</manufacturer>
+	<year>1979</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="luptype" index="" image="">
+	<description>Lupin The Third - The Typing</description>
+	<cloneof></cloneof>
+	<crc>08c0add7</crc>
+	<manufacturer>Sega</manufacturer>
+	<year>2002</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="magtruck" index="true" image="m">
+	<description>Magical Truck Adventure</description>
+	<cloneof></cloneof>
+	<crc>9b169446</crc>
+	<manufacturer>Sega</manufacturer>
+	<year>1998</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="marineb" index="" image="">
+	<description>Marine Boy</description>
+	<cloneof></cloneof>
+	<crc>661d6540</crc>
+	<manufacturer>Orca</manufacturer>
+	<year>1982</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="meosism" index="" image="">
+	<description>Meosis Magic</description>
+	<cloneof></cloneof>
+	<crc>2ab0373f</crc>
+	<manufacturer>Sammy</manufacturer>
+	<year></year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="mikie" index="" image="">
+	<description>Mikie</description>
+	<cloneof></cloneof>
+	<crc>f698e6dd</crc>
+	<manufacturer>Konami</manufacturer>
+	<year>1984</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="mikiehs" index="" image="">
+	<description>Mikie</description>
+	<cloneof>mikie</cloneof>
+	<crc>633f3a6d</crc>
+	<manufacturer>Konami</manufacturer>
+	<year>1984</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="moegonta" index="" image="">
+	<description>Moeyo Gonta!!</description>
+	<cloneof>ladykill</cloneof>
+	<crc>aa18d130</crc>
+	<manufacturer>Yanyaka</manufacturer>
+	<year>1993</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="mogura" index="" image="">
+	<description>Mogura Desse</description>
+	<cloneof></cloneof>
+	<crc>98e6120d</crc>
+	<manufacturer>Konami</manufacturer>
+	<year>1991</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="mole" index="" image="">
+	<description>Mole Attack</description>
+	<cloneof></cloneof>
+	<crc>5fbbdfef</crc>
+	<manufacturer>Yachiyo Electronics, Ltd.</manufacturer>
+	<year>1982</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="mmpanic" index="" image="">
+	<description>Monkey Mole Panic</description>
+	<cloneof></cloneof>
+	<crc>725b337f</crc>
+	<manufacturer>Nakanihon + East Technology (Taito license)</manufacturer>
+	<year>1992</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="mpu4met0" index="" image="">
+	<description>MPU4 Meter Clear ROM</description>
+	<cloneof></cloneof>
+	<crc>e74297e5</crc>
+	<manufacturer>Barcrest</manufacturer>
+	<year></year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="mpu4tst2" index="" image="">
+	<description>MPU4 Unit Test</description>
+	<cloneof></cloneof>
+	<crc>f7fb6575</crc>
+	<manufacturer>Barcrest</manufacturer>
+	<year></year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="mpu4utst" index="" image="">
+	<description>MPU4 Unit Test</description>
+	<cloneof></cloneof>
+	<crc>086dc325</crc>
+	<manufacturer>Barcrest</manufacturer>
+	<year></year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="nclubv3" index="true" image="n">
+	<description>Name Club Ver.3</description>
+	<cloneof></cloneof>
+	<crc>59ed40f4</crc>
+	<manufacturer>Sega</manufacturer>
+	<year>1997</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="nndmseal" index="" image="">
+	<description>Nandemo Seal Iinkai</description>
+	<cloneof></cloneof>
+	<crc>45acea25</crc>
+	<manufacturer>I'Max/Jaleco</manufacturer>
+	<year>1997</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="ngdup23a" index="" image="">
+	<description>Naomi DIMM Firmware Updater</description>
+	<cloneof></cloneof>
+	<crc>08c0add7</crc>
+	<manufacturer>Sega</manufacturer>
+	<year>2001</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="ngdup23c" index="" image="">
+	<description>Naomi DIMM Firmware Updater</description>
+	<cloneof></cloneof>
+	<crc>08c0add7</crc>
+	<manufacturer>Sega</manufacturer>
+	<year>2001</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="paintlad" index="true" image="p">
+	<description>Painted Lady</description>
+	<cloneof>splash</cloneof>
+	<crc>cd00864a</crc>
+	<manufacturer>Gaelco</manufacturer>
+	<year>1992</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="paprazzi" index="" image="">
+	<description>Paparazzi</description>
+	<cloneof></cloneof>
+	<crc>91f33abd</crc>
+	<manufacturer>Yun Sung</manufacturer>
+	<year>1996</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="paperboyr1" index="" image="">
+	<description>Paperboy</description>
+	<cloneof>paperboy</cloneof>
+	<crc>fd87a8ee</crc>
+	<manufacturer>Atari Games</manufacturer>
+	<year>1984</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="paperboyr2" index="" image="">
+	<description>Paperboy</description>
+	<cloneof>paperboy</cloneof>
+	<crc>39d0a625</crc>
+	<manufacturer>Atari Games</manufacturer>
+	<year>1984</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="paperboy" index="" image="">
+	<description>Paperboy</description>
+	<cloneof></cloneof>
+	<crc>4024bb9b</crc>
+	<manufacturer>Atari Games</manufacturer>
+	<year>1984</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="prtytime" index="" image="">
+	<description>Party Time: Gonta the Diver II / Ganbare! Gonta!! 2</description>
+	<cloneof></cloneof>
+	<crc>ec715c87</crc>
+	<manufacturer>Mitchell</manufacturer>
+	<year>1995</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="peggle" index="" image="">
+	<description>Peggle</description>
+	<cloneof></cloneof>
+	<crc>140d5a9c</crc>
+	<manufacturer>Strata/Incredible Technologies</manufacturer>
+	<year>1991</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="pegglet" index="" image="">
+	<description>Peggle</description>
+	<cloneof>peggle</cloneof>
+	<crc>d2694868</crc>
+	<manufacturer>Strata/Incredible Technologies</manufacturer>
+	<year>1991</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="pballoon" index="" image="">
+	<description>Pioneer Balloon</description>
+	<cloneof></cloneof>
+	<crc>dfe2ae05</crc>
+	<manufacturer>SNK</manufacturer>
+	<year>1982</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="piratetr" index="" image="">
+	<description>Pirate Treasure</description>
+	<cloneof></cloneof>
+	<crc>4433bb61</crc>
+	<manufacturer>Tong Electronic</manufacturer>
+	<year>1982</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="pkscram" index="" image="">
+	<description>PK Scramble</description>
+	<cloneof></cloneof>
+	<crc>80e972e5</crc>
+	<manufacturer>Cosmo Electronics Corporation</manufacturer>
+	<year>1993</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="playball" index="" image="">
+	<description>PlayBall!</description>
+	<cloneof></cloneof>
+	<crc>18787b52</crc>
+	<manufacturer>Williams</manufacturer>
+	<year>1983</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="portrait" index="" image="">
+	<description>Portraits</description>
+	<cloneof></cloneof>
+	<crc>a21874fa</crc>
+	<manufacturer>Olympia</manufacturer>
+	<year>1983</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="portraita" index="" image="">
+	<description>Portraits</description>
+	<cloneof>portrait</cloneof>
+	<crc>333eace3</crc>
+	<manufacturer>Olympia</manufacturer>
+	<year>1983</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="potogold" index="" image="">
+	<description>Pot of Gold</description>
+	<cloneof>leprechn</cloneof>
+	<crc>9f1dbda6</crc>
+	<manufacturer>GamePlan</manufacturer>
+	<year>1982</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="pclubj" index="" image="">
+	<description>Print Club</description>
+	<cloneof></cloneof>
+	<crc>6c8eb8e2</crc>
+	<manufacturer>Atlus</manufacturer>
+	<year>1995</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="pclubjv2" index="" image="">
+	<description>Print Club</description>
+	<cloneof>pclubj</cloneof>
+	<crc>dfc0f7f1</crc>
+	<manufacturer>Atlus</manufacturer>
+	<year>1995</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="pclubjv4" index="" image="">
+	<description>Print Club</description>
+	<cloneof>pclubj</cloneof>
+	<crc>36ff5f80</crc>
+	<manufacturer>Atlus</manufacturer>
+	<year>1996</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="pclubjv5" index="" image="">
+	<description>Print Club</description>
+	<cloneof>pclubj</cloneof>
+	<crc>72220e69</crc>
+	<manufacturer>Atlus</manufacturer>
+	<year>1996</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="pclub2" index="" image="">
+	<description>Print Club 2</description>
+	<cloneof></cloneof>
+	<crc>59ed40f4</crc>
+	<manufacturer>Atlus</manufacturer>
+	<year>1997</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="pclub2v3" index="" image="">
+	<description>Print Club 2 Vol. 3</description>
+	<cloneof>pclub2</cloneof>
+	<crc>59ed40f4</crc>
+	<manufacturer>Atlus</manufacturer>
+	<year>1999</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="propcycl" index="" image="">
+	<description>Prop Cycle</description>
+	<cloneof></cloneof>
+	<crc>3f58594c</crc>
+	<manufacturer>Namco</manufacturer>
+	<year>1996</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="qbtrktst" index="true" image="q">
+	<description>Q*bert Board Input Test Rom</description>
+	<cloneof>qbert</cloneof>
+	<crc>fe434526</crc>
+	<manufacturer>Gottlieb</manufacturer>
+	<year>1982</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="quantump" index="" image="">
+	<description>Quantum</description>
+	<cloneof>quantum</cloneof>
+	<crc>176d73d3</crc>
+	<manufacturer>Atari</manufacturer>
+	<year>1982</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="quantum1" index="" image="">
+	<description>Quantum</description>
+	<cloneof>quantum</cloneof>
+	<crc>5af0bd5b</crc>
+	<manufacturer>Atari</manufacturer>
+	<year>1982</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="quantum" index="" image="">
+	<description>Quantum</description>
+	<cloneof></cloneof>
+	<crc>7e7be63a</crc>
+	<manufacturer>Atari</manufacturer>
+	<year>1982</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="reactor" index="true" image="r">
+	<description>Reactor</description>
+	<cloneof></cloneof>
+	<crc>a62d86fd</crc>
+	<manufacturer>Gottlieb</manufacturer>
+	<year>1982</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="scudhamm" index="true" image="s">
+	<description>Scud Hammer</description>
+	<cloneof></cloneof>
+	<crc>a908e7bd</crc>
+	<manufacturer>Jaleco</manufacturer>
+	<year>1994</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="ssfindo" index="" image="">
+	<description>See See Find Out</description>
+	<cloneof></cloneof>
+	<crc>c93edbd3</crc>
+	<manufacturer>Icarus</manufacturer>
+	<year>1999</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="sentetst" index="" image="">
+	<description>Sente Diagnostic Cartridge</description>
+	<cloneof></cloneof>
+	<crc>2a39fc53</crc>
+	<manufacturer>Bally/Sente</manufacturer>
+	<year>1984</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="sharkatt" index="" image="">
+	<description>Shark Attack</description>
+	<cloneof></cloneof>
+	<crc>c71505e9</crc>
+	<manufacturer>Pacific Novelty</manufacturer>
+	<year>1980</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="mikiej" index="" image="">
+	<description>Shinnyuushain Tooru-kun</description>
+	<cloneof>mikie</cloneof>
+	<crc>f698e6dd</crc>
+	<manufacturer>Konami</manufacturer>
+	<year>1984</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="snakjack" index="" image="">
+	<description>Snacks'n Jaxson</description>
+	<cloneof></cloneof>
+	<crc>da2dd119</crc>
+	<manufacturer>Bally/Sente</manufacturer>
+	<year>1984</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="snapjack" index="" image="">
+	<description>Snap Jack</description>
+	<cloneof></cloneof>
+	<crc>6b30fcda</crc>
+	<manufacturer>Universal</manufacturer>
+	<year>1982</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="sbm" index="" image="">
+	<description>Sonic Blast Man</description>
+	<cloneof></cloneof>
+	<crc>b40e4910</crc>
+	<manufacturer>Taito Corporation</manufacturer>
+	<year>1990</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="splash10" index="" image="">
+	<description>Splash!</description>
+	<cloneof>splash</cloneof>
+	<crc>38ba6632</crc>
+	<manufacturer>Gaelco</manufacturer>
+	<year>1992</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="splash" index="" image="">
+	<description>Splash!</description>
+	<cloneof></cloneof>
+	<crc>b38fda40</crc>
+	<manufacturer>Gaelco</manufacturer>
+	<year>1992</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="stompin" index="" image="">
+	<description>Stompin'</description>
+	<cloneof></cloneof>
+	<crc>46f428c6</crc>
+	<manufacturer>Bally/Sente</manufacturer>
+	<year>1986</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="sundance" index="" image="">
+	<description>Sundance</description>
+	<cloneof></cloneof>
+	<crc>d5b9cb19</crc>
+	<manufacturer>Cinematronics</manufacturer>
+	<year>1979</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="suprloco" index="" image="">
+	<description>Super Locomotive</description>
+	<cloneof></cloneof>
+	<crc>57f514dd</crc>
+	<manufacturer>Sega</manufacturer>
+	<year>1982</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="suprlocoa" index="" image="">
+	<description>Super Locomotive</description>
+	<cloneof>suprloco</cloneof>
+	<crc>33b02368</crc>
+	<manufacturer>Sega</manufacturer>
+	<year>1982</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="tappera" index="true" image="t">
+	<description>Tapper</description>
+	<cloneof>tapper</cloneof>
+	<crc>bb060bb0</crc>
+	<manufacturer>Bally Midway</manufacturer>
+	<year>1983</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="tapper" index="" image="">
+	<description>Tapper</description>
+	<cloneof></cloneof>
+	<crc>127171d1</crc>
+	<manufacturer>Bally Midway</manufacturer>
+	<year>1983</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="rbtapper" index="" image="">
+	<description>Tapper</description>
+	<cloneof>tapper</cloneof>
+	<crc>20b9adf4</crc>
+	<manufacturer>Bally Midway</manufacturer>
+	<year>1984</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="sutapper" index="" image="">
+	<description>Tapper</description>
+	<cloneof>tapper</cloneof>
+	<crc>87119cc4</crc>
+	<manufacturer>Bally Midway</manufacturer>
+	<year>1983</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="ctsttape" index="" image="">
+	<description>Test Tape</description>
+	<cloneof></cloneof>
+	<crc>23d929b7</crc>
+	<manufacturer>Data East Corporation</manufacturer>
+	<year>1981</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="avalons" index="" image="">
+	<description>The Key Of Avalon - The Wizard Master - Server</description>
+	<cloneof></cloneof>
+	<crc>d1883221</crc>
+	<manufacturer>Sega</manufacturer>
+	<year>2003</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="avalon13" index="" image="">
+	<description>The Key Of Avalon 1.3 - Chaotic Sabbat - Client</description>
+	<cloneof></cloneof>
+	<crc>d1883221</crc>
+	<manufacturer>Sega</manufacturer>
+	<year>2004</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="avalon20" index="" image="">
+	<description>The Key Of Avalon 2.0 - Eutaxy and Commandment - Client</description>
+	<cloneof></cloneof>
+	<crc>d1883221</crc>
+	<manufacturer>Sega</manufacturer>
+	<year>2004</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="totd" index="" image="">
+	<description>The Typing of the Dead</description>
+	<cloneof></cloneof>
+	<crc>08c0add7</crc>
+	<manufacturer>Sega</manufacturer>
+	<year>2000</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="timber" index="" image="">
+	<description>Timber</description>
+	<cloneof></cloneof>
+	<crc>377032ab</crc>
+	<manufacturer>Bally Midway</manufacturer>
+	<year>1984</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="topshoot" index="" image="">
+	<description>Top Shooter</description>
+	<cloneof></cloneof>
+	<crc>b235c4d9</crc>
+	<manufacturer>Sun Mixing</manufacturer>
+	<year>1995</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="tfupdate" index="" image="">
+	<description>Triforce DIMM Updater</description>
+	<cloneof></cloneof>
+	<crc>d1883221</crc>
+	<manufacturer>Sega</manufacturer>
+	<year></year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="wallst" index="true" image="w">
+	<description>Wall Street</description>
+	<cloneof></cloneof>
+	<crc>bdac81b6</crc>
+	<manufacturer>Century Electronics</manufacturer>
+	<year>1982</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="xtheball" index="true" image="x">
+	<description>X the Ball</description>
+	<cloneof></cloneof>
+	<crc>c0e80004</crc>
+	<manufacturer>Rare</manufacturer>
+	<year>1991</year>
+	<genre>Miscellaneous</genre>
+</game>
+<game name="xday2" index="" image="">
+	<description>X-Day 2</description>
+	<cloneof></cloneof>
+	<crc>83539aaa</crc>
+	<manufacturer>Namco</manufacturer>
+	<year>1995</year>
+	<genre>Miscellaneous</genre>
+</game>
+</menu>

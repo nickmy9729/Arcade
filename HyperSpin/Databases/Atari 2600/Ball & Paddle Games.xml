@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Atari 2600</listname>
+		<lastlistupdate>07/20/2013</lastlistupdate>
+		<listversion>1.0 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="FlapPing (USA) (Unl)" index="true" image="f">
+		<description>FlapPing (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>33BC76BD</crc>
+		<manufacturer>AtariAge - Kirk Israel</manufacturer>
+		<year>2005</year>
+		<genre>Ball &amp; Paddle</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="JoustPong (USA) (Unl)" index="true" image="j">
+		<description>JoustPong (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>0C2F567F</crc>
+		<manufacturer>AtariAge - Kirk Israel</manufacturer>
+		<year>2004</year>
+		<genre>Ball &amp; Paddle</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mondo Pong (USA) (Unl)" index="true" image="m">
+		<description>Mondo Pong (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>2A6E0A08</crc>
+		<manufacturer>Piero Cavina</manufacturer>
+		<year>1997</year>
+		<genre>Ball &amp; Paddle</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Video Olympics (USA)" index="true" image="v">
+		<description>Video Olympics (USA)</description>
+		<cloneof></cloneof>
+		<crc>E4BC89C4</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1977</year>
+		<genre>Ball &amp; Paddle</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Vong (USA) (Unl)" index="" image="">
+		<description>Vong (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>A42C52C8</crc>
+		<manufacturer>Rick Skrbina</manufacturer>
+		<year>2008</year>
+		<genre>Ball &amp; Paddle</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

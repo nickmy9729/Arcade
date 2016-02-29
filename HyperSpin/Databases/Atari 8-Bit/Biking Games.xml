@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Atari 8-Bit</listname>
+		<lastlistupdate>05/17/2015</lastlistupdate>
+		<listversion>1.0</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="BMX Simulator (Europe)" index="true" image="b">
+		<description>BMX Simulator (Europe)</description>
+		<cloneof></cloneof>
+		<crc>3E057804</crc>
+		<manufacturer>Code Masters</manufacturer>
+		<year>1986</year>
+		<genre>Sports/Biking</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Milk Race (Europe)" index="true" image="m">
+		<description>Milk Race (Europe)</description>
+		<cloneof></cloneof>
+		<crc>FA2257F6</crc>
+		<manufacturer>Mastertronic</manufacturer>
+		<year>1987</year>
+		<genre>Sports/Biking</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mountain Bike (Europe)" index="" image="">
+		<description>Mountain Bike (Europe)</description>
+		<cloneof></cloneof>
+		<crc>FEC63A7B</crc>
+		<manufacturer>Zeppelin Games</manufacturer>
+		<year>1989</year>
+		<genre>Sports/Biking</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pro Mountain Bike Simulator (Europe)" index="true" image="p">
+		<description>Pro Mountain Bike Simulator (Europe)</description>
+		<cloneof></cloneof>
+		<crc>4B2AD081</crc>
+		<manufacturer>Alternative Software</manufacturer>
+		<year>1989</year>
+		<genre>Sports/Biking</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Atari 8-Bit</listname>
+		<lastlistupdate>05/17/2015</lastlistupdate>
+		<listversion>1.0</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="Chop Suey (Europe)" index="true" image="c">
+		<description>Chop Suey (Europe)</description>
+		<cloneof></cloneof>
+		<crc>DF4BA76A</crc>
+		<manufacturer>English Software</manufacturer>
+		<year>1985</year>
+		<genre>Sports/Boxing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Computer Title Bout (USA) (Side A)" index="" image="">
+		<description>Computer Title Bout (USA) (Side A)</description>
+		<cloneof></cloneof>
+		<crc>2AFCE748</crc>
+		<manufacturer>Avalon Hill</manufacturer>
+		<year>1984</year>
+		<genre>Sports/Boxing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Computer Title Bout (USA) (Side B)" index="" image="">
+		<description>Computer Title Bout (USA) (Side B)</description>
+		<cloneof></cloneof>
+		<crc>DC8FD686</crc>
+		<manufacturer>Avalon Hill</manufacturer>
+		<year>1984</year>
+		<genre>Sports/Boxing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fight Night (USA) (Side A)" index="true" image="f">
+		<description>Fight Night (USA) (Side A)</description>
+		<cloneof></cloneof>
+		<crc>807F3E83</crc>
+		<manufacturer>Accolade</manufacturer>
+		<year>1985</year>
+		<genre>Sports/Boxing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fight Night (USA) (Side B)" index="" image="">
+		<description>Fight Night (USA) (Side B)</description>
+		<cloneof></cloneof>
+		<crc>9BB7CD62</crc>
+		<manufacturer>Accolade</manufacturer>
+		<year>1985</year>
+		<genre>Sports/Boxing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Golden Gloves (USA)" index="true" image="g">
+		<description>Golden Gloves (USA)</description>
+		<cloneof></cloneof>
+		<crc>F55F7CD2</crc>
+		<manufacturer>Artworx</manufacturer>
+		<year>1982</year>
+		<genre>Sports/Boxing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="King of the Ring (Europe)" index="true" image="k">
+		<description>King of the Ring (Europe)</description>
+		<cloneof></cloneof>
+		<crc>8BD3EE2D</crc>
+		<manufacturer>Gremlin Graphics</manufacturer>
+		<year>1985</year>
+		<genre>Sports/Boxing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Knock Out (Germany)" index="" image="">
+		<description>Knock Out (Germany)</description>
+		<cloneof></cloneof>
+		<crc>A69C74EC</crc>
+		<manufacturer>Kingsoft</manufacturer>
+		<year>1985</year>
+		<genre>Sports/Boxing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Knockout (USA)" index="" image="">
+		<description>Knockout (USA)</description>
+		<cloneof></cloneof>
+		<crc>C9B1DDDB</crc>
+		<manufacturer>Avalon Hill</manufacturer>
+		<year>1982</year>
+		<genre>Sports/Boxing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

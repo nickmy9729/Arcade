@@ -1,0 +1,409 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Sega Genesis</listname>
+		<lastlistupdate>02/21/2013</lastlistupdate>
+		<listversion>1.2 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="Art of Fighting (USA)" index="true" image="a">
+		<description>Art of Fighting (USA)</description>
+		<cloneof></cloneof>
+		<crc>c9a57e07</crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1994</year>
+		<genre>Fighter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ballz 3D - Fighting at Its Ballziest (USA, Europe)" index="true" image="b">
+		<description>Ballz 3D - Fighting at Its Ballziest (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>b362b705</crc>
+		<manufacturer>PF.Magic</manufacturer>
+		<year>1994</year>
+		<genre>Fighter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Best of the Best - Championship Karate (USA)" index="" image="">
+		<description>Best of the Best - Championship Karate (USA)</description>
+		<cloneof></cloneof>
+		<crc>c3d6a5d4</crc>
+		<manufacturer>Electro Brain</manufacturer>
+		<year>1993</year>
+		<genre>Fighter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Brutal - Paws of Fury (USA)" index="" image="">
+		<description>Brutal - Paws of Fury (USA)</description>
+		<cloneof></cloneof>
+		<crc>98d502cd</crc>
+		<manufacturer>Imagitec Design</manufacturer>
+		<year>1994</year>
+		<genre>Fighter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Clay Fighter (USA)" index="true" image="c">
+		<description>Clay Fighter (USA)</description>
+		<cloneof></cloneof>
+		<crc>b12c1bc1</crc>
+		<manufacturer>Visual Concepts</manufacturer>
+		<year>1994</year>
+		<genre>Fighter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Deadly Moves (USA)" index="true" image="d">
+		<description>Deadly Moves (USA)</description>
+		<cloneof></cloneof>
+		<crc>35cbd237</crc>
+		<manufacturer>Kaneko</manufacturer>
+		<year>1992</year>
+		<genre>Fighter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Double Dragon V - The Shadow Falls (USA)" index="" image="">
+		<description>Double Dragon V - The Shadow Falls (USA)</description>
+		<cloneof></cloneof>
+		<crc>27e59e35</crc>
+		<manufacturer>Leland Interactive Media</manufacturer>
+		<year>1994</year>
+		<genre>Fighter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dragon - The Bruce Lee Story (USA)" index="" image="">
+		<description>Dragon - The Bruce Lee Story (USA)</description>
+		<cloneof></cloneof>
+		<crc>efe850e5</crc>
+		<manufacturer>Virgin Interactive</manufacturer>
+		<year>1994</year>
+		<genre>Fighter</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Eternal Champions (USA)" index="true" image="e">
+		<description>Eternal Champions (USA)</description>
+		<cloneof></cloneof>
+		<crc>48f1a42e</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1993</year>
+		<genre>Fighter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fatal Fury (USA)" index="true" image="f">
+		<description>Fatal Fury (USA)</description>
+		<cloneof></cloneof>
+		<crc>98d49170</crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1993</year>
+		<genre>Fighter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fatal Fury 2 (USA, Korea)" index="" image="">
+		<description>Fatal Fury 2 (USA, Korea)</description>
+		<cloneof></cloneof>
+		<crc>1b1754cb</crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1994</year>
+		<genre>Fighter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fighting Masters (USA)" index="" image="">
+		<description>Fighting Masters (USA)</description>
+		<cloneof></cloneof>
+		<crc>5f51983b</crc>
+		<manufacturer>Almanic Corp.</manufacturer>
+		<year>1992</year>
+		<genre>Fighter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Justice League Task Force (World)" index="true" image="j">
+		<description>Justice League Task Force (World)</description>
+		<cloneof></cloneof>
+		<crc>2a60ebe9</crc>
+		<manufacturer>SunSoft</manufacturer>
+		<year>1995</year>
+		<genre>Fighter</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="King of the Monsters (USA)" index="true" image="k">
+		<description>King of the Monsters (USA)</description>
+		<cloneof></cloneof>
+		<crc>f390d406</crc>
+		<manufacturer>SPS</manufacturer>
+		<year>1993</year>
+		<genre>Fighter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="King of the Monsters 2 (USA)" index="" image="">
+		<description>King of the Monsters 2 (USA)</description>
+		<cloneof></cloneof>
+		<crc>ee1638ac</crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1994</year>
+		<genre>Fighter</genre>
+		<rating>HSRS - PG (Parental Guidance)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mortal Kombat (World) (v1.1)" index="true" image="m">
+		<description>Mortal Kombat (World) (v1.1)</description>
+		<cloneof></cloneof>
+		<crc>33f19ab6</crc>
+		<manufacturer>Probe Entertainment</manufacturer>
+		<year>1993</year>
+		<genre>Fighter</genre>
+		<rating>ESRB - M (Mature)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mortal Kombat 3 (USA)" index="" image="">
+		<description>Mortal Kombat 3 (USA)</description>
+		<cloneof></cloneof>
+		<crc>dd638af6</crc>
+		<manufacturer>Sculptured Software</manufacturer>
+		<year>1995</year>
+		<genre>Fighter</genre>
+		<rating>ESRB - M (Mature)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mortal Kombat II (World)" index="" image="">
+		<description>Mortal Kombat II (World)</description>
+		<cloneof></cloneof>
+		<crc>a9e013d8</crc>
+		<manufacturer>Probe Entertainment</manufacturer>
+		<year>1994</year>
+		<genre>Fighter</genre>
+		<rating>ESRB - M (Mature)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pitfall - The Mayan Adventure (USA)" index="true" image="p">
+		<description>Pitfall - The Mayan Adventure (USA)</description>
+		<cloneof></cloneof>
+		<crc>f917e34f</crc>
+		<manufacturer>Sterling Silver Software</manufacturer>
+		<year>1991</year>
+		<genre>Fighter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Primal Rage (USA, Europe)" index="" image="">
+		<description>Primal Rage (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>2884c6d1</crc>
+		<manufacturer>Probe Entertainment</manufacturer>
+		<year>1995</year>
+		<genre>Fighter</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rise of the Robots (Europe)" index="true" image="r">
+		<description>Rise of the Robots (Europe)</description>
+		<cloneof></cloneof>
+		<crc>5650780b</crc>
+		<manufacturer>Data Design Interactive</manufacturer>
+		<year>1994</year>
+		<genre>Fighter</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Samurai Shodown (USA)" index="true" image="s">
+		<description>Samurai Shodown (USA)</description>
+		<cloneof></cloneof>
+		<crc>5bb8b2d4</crc>
+		<manufacturer>Saurus</manufacturer>
+		<year>1994</year>
+		<genre>Fighter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Saturday Night Slammasters (USA)" index="" image="">
+		<description>Saturday Night Slammasters (USA)</description>
+		<cloneof></cloneof>
+		<crc>2fb4eaba</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1994</year>
+		<genre>Fighter</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Shaq-Fu (USA, Europe)" index="" image="">
+		<description>Shaq-Fu (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>499955f2</crc>
+		<manufacturer>Delphine Software International</manufacturer>
+		<year>1994</year>
+		<genre>Fighter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Slaughter Sport (USA)" index="" image="">
+		<description>Slaughter Sport (USA)</description>
+		<cloneof></cloneof>
+		<crc>af9f9d9c</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>1991</year>
+		<genre>Fighter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Street Fighter II&apos; - Special Champion Edition (USA)" index="" image="">
+		<description>Street Fighter II\&apos; - Special Champion Edition (USA)</description>
+		<cloneof></cloneof>
+		<crc>13fe08a1</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1993</year>
+		<genre>Fighter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Street Smart (Japan, USA)" index="" image="">
+		<description>Street Smart (Japan, USA)</description>
+		<cloneof></cloneof>
+		<crc>b1dedfad</crc>
+		<manufacturer>Treco</manufacturer>
+		<year>1991</year>
+		<genre>Fighter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Street Fighter II - The New Challengers (USA)" index="" image="">
+		<description>Super Street Fighter II - The New Challengers (USA)</description>
+		<cloneof></cloneof>
+		<crc>165defbf</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1994</year>
+		<genre>Fighter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Teenage Mutant Ninja Turtles - Tournament Fighters (USA)" index="true" image="t">
+		<description>Teenage Mutant Ninja Turtles - Tournament Fighters (USA)</description>
+		<cloneof></cloneof>
+		<crc>95b5484d</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1993</year>
+		<genre>Fighter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Time Killers (USA)" index="" image="">
+		<description>Time Killers (USA)</description>
+		<cloneof></cloneof>
+		<crc>4b5f52ac</crc>
+		<manufacturer>Incredible Technologies</manufacturer>
+		<year>1996</year>
+		<genre>Fighter</genre>
+		<rating>ESRB - M (Mature)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ultimate Mortal Kombat 3 (USA)" index="true" image="u">
+		<description>Ultimate Mortal Kombat 3 (USA)</description>
+		<cloneof></cloneof>
+		<crc>7290770d</crc>
+		<manufacturer>Midway</manufacturer>
+		<year>1996</year>
+		<genre>Fighter</genre>
+		<rating>ESRB - M (Mature)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Virtua Fighter 2 (USA, Europe)" index="true" image="v">
+		<description>Virtua Fighter 2 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>937380f3</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1997</year>
+		<genre>Fighter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="VR Troopers (USA, Europe)" index="" image="">
+		<description>VR Troopers (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>2f35516e</crc>
+		<manufacturer>Syrox Developments</manufacturer>
+		<year>1995</year>
+		<genre>Fighter</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Weaponlord (USA)" index="true" image="w">
+		<description>Weaponlord (USA)</description>
+		<cloneof></cloneof>
+		<crc>b9895365</crc>
+		<manufacturer>Visual Concepts</manufacturer>
+		<year>1995</year>
+		<genre>Fighter</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="World Heroes (USA)" index="" image="">
+		<description>World Heroes (USA)</description>
+		<cloneof></cloneof>
+		<crc>0f4d22ec</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1994</year>
+		<genre>Fighter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Wrestle War (Japan, Europe)" index="" image="">
+		<description>Wrestle War (Japan, Europe)</description>
+		<cloneof></cloneof>
+		<crc>2d162a85</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1991</year>
+		<genre>Fighter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="WWF Raw (World)" index="" image="">
+		<description>WWF Raw (World)</description>
+		<cloneof></cloneof>
+		<crc>4ef5d411</crc>
+		<manufacturer>Sculptured Software</manufacturer>
+		<year>1994</year>
+		<genre>Fighter</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="WWF Royal Rumble (World)" index="" image="">
+		<description>WWF Royal Rumble (World)</description>
+		<cloneof></cloneof>
+		<crc>b69dc53e</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1994</year>
+		<genre>Fighter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="WWF Super WrestleMania (USA, Europe)" index="" image="">
+		<description>WWF Super WrestleMania (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>b929d6c5</crc>
+		<manufacturer>Sculptured Software</manufacturer>
+		<year>1992</year>
+		<genre>Fighter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="WWF WrestleMania - The Arcade Game (USA, Europe)" index="" image="">
+		<description>WWF WrestleMania - The Arcade Game (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>a5d023f9</crc>
+		<manufacturer>Sculptured Software</manufacturer>
+		<year>1995</year>
+		<genre>Fighter</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

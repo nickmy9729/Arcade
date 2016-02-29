@@ -1,0 +1,279 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Nintendo Game Boy</listname>
+		<lastlistupdate>06/08/2013</lastlistupdate>
+		<listversion>1.1 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="Bill Elliott&apos;s NASCAR Fast Tracks (USA)" index="true" image="b">
+		<description>Bill Elliott\&apos;s NASCAR Fast Tracks (USA)</description>
+		<cloneof></cloneof>
+		<crc>71cf43ce</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1991</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Chase H.Q. (USA, Europe)" index="true" image="c">
+		<description>Chase H.Q. (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>67a45d19</crc>
+		<manufacturer>Taito Corporation</manufacturer>
+		<year>1990</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Days of Thunder (USA, Europe)" index="true" image="d">
+		<description>Days of Thunder (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>35d9be0e</crc>
+		<manufacturer>Mindscape Inc.</manufacturer>
+		<year>1992</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dead Heat Scramble (USA)" index="" image="">
+		<description>Dead Heat Scramble (USA)</description>
+		<cloneof></cloneof>
+		<crc>9e3e3656</crc>
+		<manufacturer>Electro Brain</manufacturer>
+		<year>1990</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="F-1 Race (World) (Rev A)" index="true" image="f">
+		<description>F-1 Race (World) (Rev A)</description>
+		<cloneof></cloneof>
+		<crc>ab83bd70</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1991</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="F1 Pole Position (USA, Europe)" index="" image="">
+		<description>F1 Pole Position (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>aabe61bb</crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>1993</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fastest Lap (Japan, USA)" index="" image="">
+		<description>Fastest Lap (Japan, USA)</description>
+		<cloneof></cloneof>
+		<crc>59285f0a</crc>
+		<manufacturer>VAP</manufacturer>
+		<year>1993</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ferrari Grand Prix Challenge (USA, Europe)" index="" image="">
+		<description>Ferrari Grand Prix Challenge (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>ed6771db</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1992</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Jeep Jamboree (USA)" index="true" image="j">
+		<description>Jeep Jamboree (USA)</description>
+		<cloneof></cloneof>
+		<crc>a1e76a33</crc>
+		<manufacturer>Virgin Interactive</manufacturer>
+		<year>1992</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lamborghini American Challenge (USA, Europe)" index="true" image="l">
+		<description>Lamborghini American Challenge (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>675e1309</crc>
+		<manufacturer>Titus Software</manufacturer>
+		<year>1994</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Micro Machines (USA, Europe)" index="true" image="m">
+		<description>Micro Machines (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>2088f85f</crc>
+		<manufacturer>Ocean</manufacturer>
+		<year>1995</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Micro Machines 2 - Turbo Tournament (Europe)" index="" image="">
+		<description>Micro Machines 2 - Turbo Tournament (Europe)</description>
+		<cloneof></cloneof>
+		<crc>24666c4d</crc>
+		<manufacturer>Ocean</manufacturer>
+		<year>1994</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Monster Truck Wars (USA, Europe)" index="" image="">
+		<description>Monster Truck Wars (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>186c109b</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1994</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Motocross Maniacs (USA)" index="" image="">
+		<description>Motocross Maniacs (USA)</description>
+		<cloneof></cloneof>
+		<crc>318dbde1</crc>
+		<manufacturer>Ultra Soft</manufacturer>
+		<year>1990</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Nigel Mansell&apos;s World Championship (USA)" index="true" image="n">
+		<description>Nigel Mansell\&apos;s World Championship (USA)</description>
+		<cloneof></cloneof>
+		<crc>03e84d7d</crc>
+		<manufacturer>GameTek</manufacturer>
+		<year>1993</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Out of Gas (USA)" index="true" image="o">
+		<description>Out of Gas (USA)</description>
+		<cloneof></cloneof>
+		<crc>1b67e8b1</crc>
+		<manufacturer>FCI, Inc</manufacturer>
+		<year>1992</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Power Racer (USA, Europe)" index="true" image="p">
+		<description>Power Racer (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>cf8aeee8</crc>
+		<manufacturer>Tecmo</manufacturer>
+		<year>1990</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Race Days (USA)" index="true" image="r">
+		<description>Race Days (USA)</description>
+		<cloneof></cloneof>
+		<crc>b9ab5319</crc>
+		<manufacturer>GameTek</manufacturer>
+		<year>1994</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Race Drivin&apos; (USA, Europe)" index="" image="">
+		<description>Race Drivin\&apos; (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>6775ccd6</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>1993</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Road Rash (USA, Europe)" index="" image="">
+		<description>Road Rash (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>88edc83d</crc>
+		<manufacturer>Ocean</manufacturer>
+		<year>1996</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Street Racer (USA, Europe)" index="true" image="s">
+		<description>Street Racer (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>fcfb4ce4</crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>1996</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sunsoft Grand Prix (Europe)" index="" image="">
+		<description>Sunsoft Grand Prix (Europe)</description>
+		<cloneof></cloneof>
+		<crc>8c5dee4d</crc>
+		<manufacturer>SunSoft</manufacturer>
+		<year>1992</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Chase H.Q. (USA, Europe)" index="" image="">
+		<description>Super Chase H.Q. (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>630e0e00</crc>
+		<manufacturer>Taito Corporation</manufacturer>
+		<year>1994</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Off Road (USA)" index="" image="">
+		<description>Super Off Road (USA)</description>
+		<cloneof></cloneof>
+		<crc>3e2810be</crc>
+		<manufacturer>Tradewest</manufacturer>
+		<year>1992</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super R.C. Pro-Am (USA, Europe)" index="" image="">
+		<description>Super R.C. Pro-Am (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>7960f33f</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1991</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="V-Rally - Championship Edition (Europe)" index="true" image="v">
+		<description>V-Rally - Championship Edition (Europe)</description>
+		<cloneof></cloneof>
+		<crc>d149652b</crc>
+		<manufacturer>Ocean</manufacturer>
+		<year>1998</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="World Circuit Series (USA)" index="true" image="w">
+		<description>World Circuit Series (USA)</description>
+		<cloneof></cloneof>
+		<crc>77c3aa0b</crc>
+		<manufacturer>Ultra Soft</manufacturer>
+		<year>1992</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

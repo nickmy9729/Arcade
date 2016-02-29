@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Nintendo Game Boy</listname>
+		<lastlistupdate>06/08/2013</lastlistupdate>
+		<listversion>1.1 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="F-15 Strike Eagle (USA, Europe)" index="true" image="f">
+		<description>F-15 Strike Eagle (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>045dee8c</crc>
+		<manufacturer>MicroProse</manufacturer>
+		<year>1991</year>
+		<genre>Flying</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fighting Simulator 2 in 1 (USA, Europe)" index="" image="">
+		<description>Fighting Simulator 2 in 1 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>52678ae8</crc>
+		<manufacturer>Culture Brain</manufacturer>
+		<year>1992</year>
+		<genre>Flying</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Phantom Air Mission (Europe)" index="true" image="p">
+		<description>Phantom Air Mission (Europe)</description>
+		<cloneof></cloneof>
+		<crc>8aced4a6</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>1992</year>
+		<genre>Flying</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Top Gun - Guts &amp; Glory (USA, Europe)" index="true" image="t">
+		<description>Top Gun - Guts &amp; Glory (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>0506c12b</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1993</year>
+		<genre>Flying</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Turn and Burn (USA)" index="" image="">
+		<description>Turn and Burn (USA)</description>
+		<cloneof></cloneof>
+		<crc>91394bd8</crc>
+		<manufacturer>Absolute Entertainment</manufacturer>
+		<year>1992</year>
+		<genre>Flying</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

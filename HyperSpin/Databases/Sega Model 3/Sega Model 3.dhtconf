@@ -1,0 +1,8 @@
+<DonsHyperSpinListGenerator VersionMajor="4">
+  <Wheel>Sega Model 3</Wheel>
+  <OutputFile>M:\Arcade\HyperSpin\Databases\Sega Model 3\Sega Model 3.xml</OutputFile>
+  <SourceFile>M:\Hyperlists\Sega Model 3.xml</SourceFile>
+  <ExcludeFile>M:\Arcade\HyperSpin\Databases\Sega Model 3\Sega Model 3_excluded.xml</ExcludeFile>
+  <MameXmlFile>
+  </MameXmlFile>
+</DonsHyperSpinListGenerator>

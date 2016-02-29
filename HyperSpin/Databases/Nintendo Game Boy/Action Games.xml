@@ -1,0 +1,949 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Nintendo Game Boy</listname>
+		<lastlistupdate>06/08/2013</lastlistupdate>
+		<listversion>1.1 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="Alien 3 (USA, Europe)" index="true" image="a">
+		<description>Alien 3 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>effb960b</crc>
+		<manufacturer>LJN Ltd.</manufacturer>
+		<year>1993</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Alien vs Predator - The Last of His Clan (USA)" index="" image="">
+		<description>Alien vs Predator - The Last of His Clan (USA)</description>
+		<cloneof></cloneof>
+		<crc>4bbcf652</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>1993</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Alleyway (World)" index="" image="">
+		<description>Alleyway (World)</description>
+		<cloneof></cloneof>
+		<crc>5cc01586</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1989</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Amazing Penguin (USA, Europe)" index="" image="">
+		<description>Amazing Penguin (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>3011d5ca</crc>
+		<manufacturer>Natsume</manufacturer>
+		<year>1990</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Arcade Classics - Battlezone &amp; Super Breakout (USA, Europe)" index="" image="">
+		<description>Arcade Classics - Battlezone &amp; Super Breakout (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>6c292739</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1996</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Atomic Punk (USA)" index="" image="">
+		<description>Atomic Punk (USA)</description>
+		<cloneof></cloneof>
+		<crc>c4720897</crc>
+		<manufacturer>Hudson</manufacturer>
+		<year>1991</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Attack of the Killer Tomatoes (USA, Europe)" index="" image="">
+		<description>Attack of the Killer Tomatoes (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>b5b38860</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>1992</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Balloon Kid (USA, Europe)" index="true" image="b">
+		<description>Balloon Kid (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>d4b655ec</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1990</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Battle Bull (USA)" index="" image="">
+		<description>Battle Bull (USA)</description>
+		<cloneof></cloneof>
+		<crc>d4d1aea2</crc>
+		<manufacturer>Seta Corporation</manufacturer>
+		<year>1991</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Beavis and Butt-Head (USA, Europe)" index="" image="">
+		<description>Beavis and Butt-Head (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>af1ae123</crc>
+		<manufacturer>GT Interactive</manufacturer>
+		<year>1999</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bionic Battler (USA)" index="" image="">
+		<description>Bionic Battler (USA)</description>
+		<cloneof></cloneof>
+		<crc>a1e55dc2</crc>
+		<manufacturer>Electro Brain</manufacturer>
+		<year>1992</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Blaster Master Boy (USA)" index="" image="">
+		<description>Blaster Master Boy (USA)</description>
+		<cloneof></cloneof>
+		<crc>3b2c7118</crc>
+		<manufacturer>SunSoft</manufacturer>
+		<year>1992</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bomberman GB (USA, Europe)" index="" image="">
+		<description>Bomberman GB (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>f372d175</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1998</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Boomer&apos;s Adventure in ASMIK World (USA)" index="" image="">
+		<description>Boomer\&apos;s Adventure in ASMIK World (USA)</description>
+		<cloneof></cloneof>
+		<crc>105bc1c0</crc>
+		<manufacturer>Asmik Ace Entertainment, Inc</manufacturer>
+		<year>1990</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Brain Drain (USA)" index="" image="">
+		<description>Brain Drain (USA)</description>
+		<cloneof></cloneof>
+		<crc>aff0b159</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1998</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bram Stoker&apos;s Dracula (USA, Europe)" index="" image="">
+		<description>Bram Stoker\&apos;s Dracula (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>00cd1876</crc>
+		<manufacturer>Sony Imagesoft</manufacturer>
+		<year>1993</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bubble Ghost (USA, Europe)" index="" image="">
+		<description>Bubble Ghost (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>843068fd</crc>
+		<manufacturer>FCI, Inc</manufacturer>
+		<year>1990</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bugs Bunny Crazy Castle 2, The (USA)" index="" image="">
+		<description>Bugs Bunny Crazy Castle 2, The (USA)</description>
+		<cloneof></cloneof>
+		<crc>a973e604</crc>
+		<manufacturer>Kemco</manufacturer>
+		<year>1991</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="BurgerTime Deluxe (World)" index="" image="">
+		<description>BurgerTime Deluxe (World)</description>
+		<cloneof></cloneof>
+		<crc>88219a49</crc>
+		<manufacturer>Data East</manufacturer>
+		<year>1991</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Buster Bros. (USA)" index="" image="">
+		<description>Buster Bros. (USA)</description>
+		<cloneof></cloneof>
+		<crc>b4245ca3</crc>
+		<manufacturer>Hudson</manufacturer>
+		<year>1993</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Captain America and the Avengers (USA)" index="true" image="c">
+		<description>Captain America and the Avengers (USA)</description>
+		<cloneof></cloneof>
+		<crc>c762b783</crc>
+		<manufacturer>Mindscape Inc.</manufacturer>
+		<year>1994</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Casper (USA)" index="" image="">
+		<description>Casper (USA)</description>
+		<cloneof></cloneof>
+		<crc>e67a10e1</crc>
+		<manufacturer>Natsume</manufacturer>
+		<year>1996</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Crystal Quest (USA)" index="" image="">
+		<description>Crystal Quest (USA)</description>
+		<cloneof></cloneof>
+		<crc>51300cfd</crc>
+		<manufacturer>Data East</manufacturer>
+		<year>1991</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="CutThroat Island (USA, Europe)" index="" image="">
+		<description>CutThroat Island (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>eebdd360</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1996</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cyraid (USA)" index="" image="">
+		<description>Cyraid (USA)</description>
+		<cloneof></cloneof>
+		<crc>9d00da55</crc>
+		<manufacturer>Nexoft</manufacturer>
+		<year>1991</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Darkman (USA)" index="true" image="d">
+		<description>Darkman (USA)</description>
+		<cloneof></cloneof>
+		<crc>ff858da9</crc>
+		<manufacturer>Ocean</manufacturer>
+		<year>1992</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Desert Strike - Return to the Gulf (USA)" index="" image="">
+		<description>Desert Strike - Return to the Gulf (USA)</description>
+		<cloneof></cloneof>
+		<crc>6a702c32</crc>
+		<manufacturer>Malibu Games</manufacturer>
+		<year>1995</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dick Tracy (USA)" index="" image="">
+		<description>Dick Tracy (USA)</description>
+		<cloneof></cloneof>
+		<crc>a308b86b</crc>
+		<manufacturer>Bandai</manufacturer>
+		<year>1991</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="DragonHeart (USA, Europe)" index="" image="">
+		<description>DragonHeart (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>5129a518</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1996</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Faceball 2000 (USA)" index="true" image="f">
+		<description>Faceball 2000 (USA)</description>
+		<cloneof></cloneof>
+		<crc>7d890cd0</crc>
+		<manufacturer>Bullet-Proof Software</manufacturer>
+		<year>1991</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fire Fighter (Europe)" index="" image="">
+		<description>Fire Fighter (Europe)</description>
+		<cloneof></cloneof>
+		<crc>c46bbd49</crc>
+		<manufacturer>Mindscape Inc.</manufacturer>
+		<year>1992</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fish Dude (USA)" index="" image="">
+		<description>Fish Dude (USA)</description>
+		<cloneof></cloneof>
+		<crc>4b929719</crc>
+		<manufacturer>Sofel</manufacturer>
+		<year>1991</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fist of the North Star (USA)" index="" image="">
+		<description>Fist of the North Star (USA)</description>
+		<cloneof></cloneof>
+		<crc>9a84b6cf</crc>
+		<manufacturer>Toei Animation</manufacturer>
+		<year>1989</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Game of Harmony, The (USA)" index="true" image="g">
+		<description>Game of Harmony, The (USA)</description>
+		<cloneof></cloneof>
+		<crc>b0074acb</crc>
+		<manufacturer>The Assembly Line</manufacturer>
+		<year>1995</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gauntlet II (USA, Europe)" index="" image="">
+		<description>Gauntlet II (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>1907dac5</crc>
+		<manufacturer>Tengen</manufacturer>
+		<year>1990</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gear Works (USA, Europe)" index="" image="">
+		<description>Gear Works (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>b2b72056</crc>
+		<manufacturer>Teque Interactive</manufacturer>
+		<year>1993</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ghostbusters II (USA, Europe)" index="" image="">
+		<description>Ghostbusters II (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>5821ecd4</crc>
+		<manufacturer>HAL</manufacturer>
+		<year>1990</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Go! Go! Tank (USA)" index="" image="">
+		<description>Go! Go! Tank (USA)</description>
+		<cloneof></cloneof>
+		<crc>65dfabcb</crc>
+		<manufacturer>Copya Systems</manufacturer>
+		<year>1991</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gremlins 2 - The New Batch (World)" index="" image="">
+		<description>Gremlins 2 - The New Batch (World)</description>
+		<cloneof></cloneof>
+		<crc>3579e297</crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1993</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Heiankyo Alien (USA)" index="true" image="h">
+		<description>Heiankyo Alien (USA)</description>
+		<cloneof></cloneof>
+		<crc>1495bbe5</crc>
+		<manufacturer>Meldac</manufacturer>
+		<year>1990</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Home Alone (USA, Europe)" index="" image="">
+		<description>Home Alone (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>8efc8434</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>1991</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Home Alone 2 - Lost In New York (USA, Europe)" index="" image="">
+		<description>Home Alone 2 - Lost In New York (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>e8e430f1</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>1992</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hudson Hawk (USA)" index="" image="">
+		<description>Hudson Hawk (USA)</description>
+		<cloneof></cloneof>
+		<crc>adff7bbd</crc>
+		<manufacturer>Sony Imagesoft</manufacturer>
+		<year>1991</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hunchback of Notre Dame, The - 5 Foolishly Fun Topsy Turvy Games (USA, Europe)" index="" image="">
+		<description>Hunchback of Notre Dame, The - 5 Foolishly Fun Topsy Turvy Games (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>3a4636ff</crc>
+		<manufacturer>Disney Interactive</manufacturer>
+		<year>1997</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="James Bond 007 (USA, Europe)" index="true" image="j">
+		<description>James Bond 007 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>ca3bc3ce</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1998</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Kingdom Crusade (USA)" index="true" image="k">
+		<description>Kingdom Crusade (USA)</description>
+		<cloneof></cloneof>
+		<crc>920202dc</crc>
+		<manufacturer>Electro Brain</manufacturer>
+		<year>1992</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Kirby&apos;s Block Ball (USA, Europe)" index="" image="">
+		<description>Kirby\&apos;s Block Ball (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>7ad90b4b</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1996</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Kwirk - He&apos;s A-maze-ing! (USA, Europe)" index="" image="">
+		<description>Kwirk - He\&apos;s A-maze-ing! (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>21c98af2</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1990</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Little Mermaid, The (USA)" index="true" image="l">
+		<description>Little Mermaid, The (USA)</description>
+		<cloneof></cloneof>
+		<crc>d7c517e5</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1993</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Max (Europe)" index="true" image="m">
+		<description>Max (Europe)</description>
+		<cloneof></cloneof>
+		<crc>1b167f00</crc>
+		<manufacturer>King Records</manufacturer>
+		<year>1992</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mickey Mouse - Magic Wand (USA, Europe)" index="" image="">
+		<description>Mickey Mouse - Magic Wand (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>f0482567</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1998</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mickey&apos;s Ultimate Challenge (USA, Europe)" index="" image="">
+		<description>Mickey\&apos;s Ultimate Challenge (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>23e9d625</crc>
+		<manufacturer>Hi Tech Expressions</manufacturer>
+		<year>1994</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mouse Trap Hotel (USA)" index="" image="">
+		<description>Mouse Trap Hotel (USA)</description>
+		<cloneof></cloneof>
+		<crc>6edf07e5</crc>
+		<manufacturer>Milton Bradley</manufacturer>
+		<year>1992</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mr. Chin&apos;s Gourmet Paradise (USA)" index="" image="">
+		<description>Mr. Chin\&apos;s Gourmet Paradise (USA)</description>
+		<cloneof></cloneof>
+		<crc>d03e59aa</crc>
+		<manufacturer>Romstar</manufacturer>
+		<year>1990</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mr. Do! (USA)" index="" image="">
+		<description>Mr. Do! (USA)</description>
+		<cloneof></cloneof>
+		<crc>a1122fc0</crc>
+		<manufacturer>Ocean</manufacturer>
+		<year>1992</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ms. Pac-Man (USA)" index="" image="">
+		<description>Ms. Pac-Man (USA)</description>
+		<cloneof></cloneof>
+		<crc>0e5bb1c4</crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1993</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mystical Ninja Starring Goemon (USA)" index="" image="">
+		<description>Mystical Ninja Starring Goemon (USA)</description>
+		<cloneof></cloneof>
+		<crc>fafb343c</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1998</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Nail&apos;n Scale (USA, Europe)" index="true" image="n">
+		<description>Nail\&apos;n Scale (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>44badbb7</crc>
+		<manufacturer>Data East</manufacturer>
+		<year>1992</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ninja Boy (USA, Europe)" index="" image="">
+		<description>Ninja Boy (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>59d3e2ad</crc>
+		<manufacturer>Culture Brain</manufacturer>
+		<year>1990</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ninja Boy 2 (USA, Europe)" index="" image="">
+		<description>Ninja Boy 2 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>64c06d94</crc>
+		<manufacturer>Culture Brain</manufacturer>
+		<year>1993</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pac-In-Time (USA)" index="true" image="p">
+		<description>Pac-In-Time (USA)</description>
+		<cloneof></cloneof>
+		<crc>8690b691</crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1995</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pac-Man (USA)" index="" image="">
+		<description>Pac-Man (USA)</description>
+		<cloneof></cloneof>
+		<crc>b681e243</crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1991</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Paperboy (USA, Europe)" index="" image="">
+		<description>Paperboy (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>46de32ba</crc>
+		<manufacturer>Mindscape Inc.</manufacturer>
+		<year>1990</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Paperboy 2 (USA, Europe)" index="" image="">
+		<description>Paperboy 2 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>8ee404ca</crc>
+		<manufacturer>Mindscape Inc.</manufacturer>
+		<year>1992</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Penguin Wars (USA)" index="" image="">
+		<description>Penguin Wars (USA)</description>
+		<cloneof></cloneof>
+		<crc>eecff7f3</crc>
+		<manufacturer>Ascii</manufacturer>
+		<year>1990</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pocket Bomberman (Europe)" index="" image="">
+		<description>Pocket Bomberman (Europe)</description>
+		<cloneof></cloneof>
+		<crc>0fd1ae54</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1998</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Prophecy - The Viking Child (USA)" index="" image="">
+		<description>Prophecy - The Viking Child (USA)</description>
+		<cloneof></cloneof>
+		<crc>80f62f9a</crc>
+		<manufacturer>GameTek</manufacturer>
+		<year>1992</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Punisher, The - The Ultimate Payback (USA)" index="" image="">
+		<description>Punisher, The - The Ultimate Payback (USA)</description>
+		<cloneof></cloneof>
+		<crc>5916713e</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1991</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Q-bert for Game Boy (USA, Europe)" index="true" image="q">
+		<description>Q-bert for Game Boy (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>b0109545</crc>
+		<manufacturer>Jaleco Entertainment</manufacturer>
+		<year>1992</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Qix (World)" index="" image="">
+		<description>Qix (World)</description>
+		<cloneof></cloneof>
+		<crc>9185e89e</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1990</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rampart (USA, Europe)" index="true" image="r">
+		<description>Rampart (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>6d347812</crc>
+		<manufacturer>Jaleco Entertainment</manufacturer>
+		<year>1993</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Reservoir Rat (Europe)" index="" image="">
+		<description>Reservoir Rat (Europe)</description>
+		<cloneof></cloneof>
+		<crc>2d33e175</crc>
+		<manufacturer>Take-Two Interactive Interactive</manufacturer>
+		<year>1998</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Robin Hood - Prince of Thieves (USA)" index="" image="">
+		<description>Robin Hood - Prince of Thieves (USA)</description>
+		<cloneof></cloneof>
+		<crc>e5c8c2b1</crc>
+		<manufacturer>Virgin Interactive</manufacturer>
+		<year>1993</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rugrats Movie, The (USA)" index="" image="">
+		<description>Rugrats Movie, The (USA)</description>
+		<cloneof></cloneof>
+		<crc>124a0d06</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>1998</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="SeaQuest DSV (USA, Europe)" index="true" image="s">
+		<description>SeaQuest DSV (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>31a3bd99</crc>
+		<manufacturer>Malibu Games</manufacturer>
+		<year>1994</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Serpent (USA)" index="" image="">
+		<description>Serpent (USA)</description>
+		<cloneof></cloneof>
+		<crc>74d466d7</crc>
+		<manufacturer>Taxan</manufacturer>
+		<year>1990</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Simpsons, The - Bart vs. the Juggernauts (USA, Europe)" index="" image="">
+		<description>Simpsons, The - Bart vs. the Juggernauts (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>6819cf0d</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1992</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Spud&apos;s Adventure (USA)" index="" image="">
+		<description>Spud\&apos;s Adventure (USA)</description>
+		<cloneof></cloneof>
+		<crc>70e5ed99</crc>
+		<manufacturer>Atlus Co.</manufacturer>
+		<year>1991</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Spy vs Spy - Operation Boobytrap (USA)" index="" image="">
+		<description>Spy vs Spy - Operation Boobytrap (USA)</description>
+		<cloneof></cloneof>
+		<crc>6d40e5a2</crc>
+		<manufacturer>Kemco</manufacturer>
+		<year>1992</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Star Trek - The Next Generation (USA, Europe)" index="" image="">
+		<description>Star Trek - The Next Generation (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>3a5a56cb</crc>
+		<manufacturer>Absolute Entertainment</manufacturer>
+		<year>1993</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Star Trek Generations - Beyond the Nexus (USA)" index="" image="">
+		<description>Star Trek Generations - Beyond the Nexus (USA)</description>
+		<cloneof></cloneof>
+		<crc>9f2d11c6</crc>
+		<manufacturer>Absolute Entertainment</manufacturer>
+		<year>1994</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Stop That Roach! (USA)" index="" image="">
+		<description>Stop That Roach! (USA)</description>
+		<cloneof></cloneof>
+		<crc>86107477</crc>
+		<manufacturer>Koei</manufacturer>
+		<year>1994</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Swamp Thing (USA, Europe)" index="" image="">
+		<description>Swamp Thing (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>76ae62c8</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>1992</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tasmania Story (USA)" index="true" image="t">
+		<description>Tasmania Story (USA)</description>
+		<cloneof></cloneof>
+		<crc>a33c4fff</crc>
+		<manufacturer>FCI, Inc</manufacturer>
+		<year>1991</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Teenage Mutant Ninja Turtles II - Back from the Sewers (USA)" index="" image="">
+		<description>Teenage Mutant Ninja Turtles II - Back from the Sewers (USA)</description>
+		<cloneof></cloneof>
+		<crc>44f51c73</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1991</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Teenage Mutant Ninja Turtles III - Radical Rescue (USA)" index="" image="">
+		<description>Teenage Mutant Ninja Turtles III - Radical Rescue (USA)</description>
+		<cloneof></cloneof>
+		<crc>58832bbc</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1993</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Terminator 2 - Judgment Day (USA, Europe)" index="" image="">
+		<description>Terminator 2 - Judgment Day (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>21848101</crc>
+		<manufacturer>LJN Ltd.</manufacturer>
+		<year>1992</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Trax (USA, Europe)" index="" image="">
+		<description>Trax (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>4a38be7d</crc>
+		<manufacturer>HAL</manufacturer>
+		<year>1991</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tumble Pop (USA, Europe)" index="" image="">
+		<description>Tumble Pop (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>8a3aab31</crc>
+		<manufacturer>SunSoft</manufacturer>
+		<year>1993</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Urban Strike (USA, Europe)" index="true" image="u">
+		<description>Urban Strike (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>89625945</crc>
+		<manufacturer>Black Pearl Software</manufacturer>
+		<year>1996</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Wario Blast Featuring Bomberman! (USA, Europe)" index="true" image="w">
+		<description>Wario Blast Featuring Bomberman! (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>927b57a1</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1994</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Water World (Europe)" index="" image="">
+		<description>Water World (Europe)</description>
+		<cloneof></cloneof>
+		<crc>4786fd6e</crc>
+		<manufacturer>Ocean</manufacturer>
+		<year>1995</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Wayne&apos;s World (USA)" index="" image="">
+		<description>Wayne\&apos;s World (USA)</description>
+		<cloneof></cloneof>
+		<crc>829ea425</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>1993</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Who Framed Roger Rabbit (USA)" index="" image="">
+		<description>Who Framed Roger Rabbit (USA)</description>
+		<cloneof></cloneof>
+		<crc>b93138fa</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1991</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

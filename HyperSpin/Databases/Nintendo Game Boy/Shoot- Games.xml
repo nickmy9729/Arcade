@@ -1,0 +1,269 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Nintendo Game Boy</listname>
+		<lastlistupdate>06/08/2013</lastlistupdate>
+		<listversion>1.1 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="Aerostar (USA, Europe)" index="true" image="a">
+		<description>Aerostar (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>f6fd275e</crc>
+		<manufacturer>Vic Tokai</manufacturer>
+		<year>1991</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Arcade Classic No. 1 - Asteroids &amp; Missile Command (USA, Europe)" index="" image="">
+		<description>Arcade Classic No. 1 - Asteroids &amp; Missile Command (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>8259ac54</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1995</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Arcade Classic No. 3 - Galaga &amp; Galaxian (USA)" index="" image="">
+		<description>Arcade Classic No. 3 - Galaga &amp; Galaxian (USA)</description>
+		<cloneof></cloneof>
+		<crc>6a6ecfec</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1995</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Arcade Classic No. 4 - Defender &amp; Joust (USA, Europe)" index="" image="">
+		<description>Arcade Classic No. 4 - Defender &amp; Joust (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>1c829ce3</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1995</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Asteroids (USA, Europe)" index="" image="">
+		<description>Asteroids (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>c1f88833</crc>
+		<manufacturer>Accolade</manufacturer>
+		<year>1992</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Battle Unit Zeoth (USA, Europe)" index="true" image="b">
+		<description>Battle Unit Zeoth (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>e67a92b3</crc>
+		<manufacturer>Jaleco Entertainment</manufacturer>
+		<year>1991</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Burai Fighter Deluxe (USA, Europe)" index="" image="">
+		<description>Burai Fighter Deluxe (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>3c86f5db</crc>
+		<manufacturer>Taxan</manufacturer>
+		<year>1991</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Choplifter II - Rescue &amp; Survive (USA)" index="true" image="c">
+		<description>Choplifter II - Rescue &amp; Survive (USA)</description>
+		<cloneof></cloneof>
+		<crc>9c7d5e79</crc>
+		<manufacturer>Victor Interactive Software</manufacturer>
+		<year>1991</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Choplifter III (Europe)" index="" image="">
+		<description>Choplifter III (Europe)</description>
+		<cloneof></cloneof>
+		<crc>1b3b46ef</crc>
+		<manufacturer>Ocean</manufacturer>
+		<year>1994</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cosmo Tank (USA)" index="" image="">
+		<description>Cosmo Tank (USA)</description>
+		<cloneof></cloneof>
+		<crc>2e767d25</crc>
+		<manufacturer>Atlus Co.</manufacturer>
+		<year>1990</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dropzone (Europe)" index="true" image="d">
+		<description>Dropzone (Europe)</description>
+		<cloneof></cloneof>
+		<crc>6cb45fc6</crc>
+		<manufacturer>Mindscape Inc.</manufacturer>
+		<year>1992</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fortified Zone (USA, Europe)" index="true" image="f">
+		<description>Fortified Zone (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>e3b59b7e</crc>
+		<manufacturer>Jaleco Entertainment</manufacturer>
+		<year>1991</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gradius - The Interstellar Assault (USA)" index="true" image="g">
+		<description>Gradius - The Interstellar Assault (USA)</description>
+		<cloneof></cloneof>
+		<crc>90f87d57</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1992</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hunt for Red October, The (USA, Europe)" index="true" image="h">
+		<description>Hunt for Red October, The (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>5a61ee00</crc>
+		<manufacturer>Hi Tech Expressions</manufacturer>
+		<year>1991</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Jungle Strike (USA, Europe)" index="true" image="j">
+		<description>Jungle Strike (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>763ababb</crc>
+		<manufacturer>Malibu Games</manufacturer>
+		<year>1995</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mercenary Force (USA, Europe)" index="true" image="m">
+		<description>Mercenary Force (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>9bb5ba03</crc>
+		<manufacturer>Meldac</manufacturer>
+		<year>1994</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Nemesis (USA)" index="true" image="n">
+		<description>Nemesis (USA)</description>
+		<cloneof></cloneof>
+		<crc>5110e971</crc>
+		<manufacturer>Ultra Soft</manufacturer>
+		<year>1990</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Parodius (Europe)" index="true" image="p">
+		<description>Parodius (Europe)</description>
+		<cloneof></cloneof>
+		<crc>85748525</crc>
+		<manufacturer>Palcom</manufacturer>
+		<year>1992</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pop&apos;n TwinBee (Europe)" index="" image="">
+		<description>Pop&apos;n TwinBee (Europe)</description>
+		<cloneof></cloneof>
+		<crc>d07db274</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1994</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="R-Type (USA, Europe)" index="true" image="r">
+		<description>R-Type (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>e0f23fc0</crc>
+		<manufacturer>Irem</manufacturer>
+		<year>1991</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="R-Type II (Europe)" index="" image="">
+		<description>R-Type II (Europe)</description>
+		<cloneof></cloneof>
+		<crc>2fe2a72d</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1999</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="SolarStriker (World)" index="true" image="s">
+		<description>SolarStriker (World)</description>
+		<cloneof></cloneof>
+		<crc>11817103</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1990</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Star Hawk (Europe)" index="" image="">
+		<description>Star Hawk (Europe)</description>
+		<cloneof></cloneof>
+		<crc>e032e502</crc>
+		<manufacturer>Accolade</manufacturer>
+		<year>1993</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="TaleSpin (USA)" index="true" image="t">
+		<description>TaleSpin (USA)</description>
+		<cloneof></cloneof>
+		<crc>de383e73</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1992</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Torpedo Range (USA)" index="" image="">
+		<description>Torpedo Range (USA)</description>
+		<cloneof></cloneof>
+		<crc>ed9882a9</crc>
+		<manufacturer>Seta Corporation</manufacturer>
+		<year>1996</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Xenon 2 - Megablast (USA, Europe)" index="true" image="x">
+		<description>Xenon 2 - Megablast (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>de398678</crc>
+		<manufacturer>Mindscape Inc.</manufacturer>
+		<year>1992</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Nintendo 64</listname>
+		<lastlistupdate>11/15/2011</lastlistupdate>
+		<listversion>1.1 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="All-Star Baseball &apos;99 (USA)" index="true" image="a">
+		<description>All-Star Baseball &apos;99 (USA)</description>
+		<cloneof></cloneof>
+		<crc>82B7E47D</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1998</year>
+		<genre>Baseball/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="All-Star Baseball 2000 (USA)" index="" image="">
+		<description>All-Star Baseball 2000 (USA)</description>
+		<cloneof></cloneof>
+		<crc>15063EAC</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1999</year>
+		<genre>Baseball/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="All-Star Baseball 2001 (USA)" index="" image="">
+		<description>All-Star Baseball 2001 (USA)</description>
+		<cloneof></cloneof>
+		<crc>3E8BE0E0</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>2000</year>
+		<genre>Baseball/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bottom of the 9th (USA)" index="true" image="b">
+		<description>Bottom of the 9th (USA)</description>
+		<cloneof></cloneof>
+		<crc>0F016E17</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1999</year>
+		<genre>Baseball/Sports</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ken Griffey Jr.&apos;s Slugfest (USA)" index="true" image="k">
+		<description>Ken Griffey Jr.&apos;s Slugfest (USA)</description>
+		<cloneof></cloneof>
+		<crc>42D1ED42</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1999</year>
+		<genre>Baseball/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Major League Baseball featuring Ken Griffey Jr. (USA)" index="true" image="m">
+		<description>Major League Baseball featuring Ken Griffey Jr. (USA)</description>
+		<cloneof></cloneof>
+		<crc>7542D45D</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1998</year>
+		<genre>Baseball/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Triple Play 2000 (USA)" index="true" image="t">
+		<description>Triple Play 2000 (USA)</description>
+		<cloneof></cloneof>
+		<crc>BFB124FC</crc>
+		<manufacturer>EA Sports</manufacturer>
+		<year>1999</year>
+		<genre>Baseball/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

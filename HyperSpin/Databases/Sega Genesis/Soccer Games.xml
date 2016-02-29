@@ -1,0 +1,239 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Sega Genesis</listname>
+		<lastlistupdate>02/21/2013</lastlistupdate>
+		<listversion>1.2 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="AWS Pro Moves Soccer (USA)" index="true" image="a">
+		<description>AWS Pro Moves Soccer (USA)</description>
+		<cloneof></cloneof>
+		<crc>707017e5</crc>
+		<manufacturer>ASCII Entertainment</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Soccer</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Champions World Class Soccer (World)" index="true" image="c">
+		<description>Champions World Class Soccer (World)</description>
+		<cloneof></cloneof>
+		<crc>883e33db</crc>
+		<manufacturer>Park Place Productions</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Soccer</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dino Dini&apos;s Soccer (Europe)" index="true" image="d">
+		<description>Dino Dini\&apos;s Soccer (Europe)</description>
+		<cloneof></cloneof>
+		<crc>4608f53a</crc>
+		<manufacturer>Dini and Dini Productions</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Soccer</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="FIFA 98 - Road to World Cup (Europe)" index="true" image="f">
+		<description>FIFA 98 - Road to World Cup (Europe)</description>
+		<cloneof></cloneof>
+		<crc>96947f57</crc>
+		<manufacturer>Extended Play Productions</manufacturer>
+		<year>1997</year>
+		<genre>Sports/Soccer</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="FIFA International Soccer (USA, Europe)" index="" image="">
+		<description>FIFA International Soccer (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>bddbb763</crc>
+		<manufacturer>Extended Play Productions</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Soccer</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="FIFA Soccer 95 (USA, Europe)" index="" image="">
+		<description>FIFA Soccer 95 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>b389d036</crc>
+		<manufacturer>Extended Play Productions</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Soccer</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="FIFA Soccer 96 (USA, Europe)" index="" image="">
+		<description>FIFA Soccer 96 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>bad30ffa</crc>
+		<manufacturer>Extended Play Productions</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Soccer</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="FIFA Soccer 97 (USA, Europe)" index="" image="">
+		<description>FIFA Soccer 97 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>a33d5803</crc>
+		<manufacturer>Extended Play Productions</manufacturer>
+		<year>1996</year>
+		<genre>Sports/Soccer</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Head-On Soccer (USA)" index="true" image="h">
+		<description>Head-On Soccer (USA)</description>
+		<cloneof></cloneof>
+		<crc>dcffa327</crc>
+		<manufacturer>U.S. Gold</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Soccer</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="International Superstar Soccer Deluxe (Europe)" index="true" image="i">
+		<description>International Superstar Soccer Deluxe (Europe)</description>
+		<cloneof></cloneof>
+		<crc>9bb3b180</crc>
+		<manufacturer>Tec Toy</manufacturer>
+		<year>1996</year>
+		<genre>Sports/Soccer</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Kick Off 3 - European Challenge (Europe)" index="true" image="k">
+		<description>Kick Off 3 - European Challenge (Europe)</description>
+		<cloneof></cloneof>
+		<crc>bc37401a</crc>
+		<manufacturer>Anco Software</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Soccer</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pele II - World Tournament Soccer (USA, Europe)" index="true" image="p">
+		<description>Pele II - World Tournament Soccer (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>05a486e9</crc>
+		<manufacturer>Radical Entertainment</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Soccer</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pele! (USA, Europe)" index="" image="">
+		<description>Pele! (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>5a8abe51</crc>
+		<manufacturer>Accolade</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Soccer</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Premier Manager (Europe)" index="" image="">
+		<description>Premier Manager (Europe)</description>
+		<cloneof></cloneof>
+		<crc>303b889f</crc>
+		<manufacturer>Gremlin Interactive</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Soccer</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Premier Manager 97 (Europe)" index="" image="">
+		<description>Premier Manager 97 (Europe)</description>
+		<cloneof></cloneof>
+		<crc>fccbf69b</crc>
+		<manufacturer>Gremlin Interactive</manufacturer>
+		<year>1996</year>
+		<genre>Sports/Soccer</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sensible Soccer (Europe)" index="true" image="s">
+		<description>Sensible Soccer (Europe)</description>
+		<cloneof></cloneof>
+		<crc>f9b396b8</crc>
+		<manufacturer>Renegade</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Soccer</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sensible Soccer - International Edition (Europe)" index="" image="">
+		<description>Sensible Soccer - International Edition (Europe)</description>
+		<cloneof></cloneof>
+		<crc>04e3bcca</crc>
+		<manufacturer>Renegade</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Soccer</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Striker (Europe)" index="" image="">
+		<description>Striker (Europe)</description>
+		<cloneof></cloneof>
+		<crc>cc5d7ab2</crc>
+		<manufacturer>Rage Software</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Soccer</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Kick Off (Europe)" index="" image="">
+		<description>Super Kick Off (Europe)</description>
+		<cloneof></cloneof>
+		<crc>f43793ff</crc>
+		<manufacturer>Tiertex Design Studios</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Soccer</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tecmo World Cup (USA)" index="true" image="t">
+		<description>Tecmo World Cup (USA)</description>
+		<cloneof></cloneof>
+		<crc>caf8eb2c</crc>
+		<manufacturer>Sims</manufacturer>
+		<year>1990</year>
+		<genre>Sports/Soccer</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="World Championship Soccer (Japan, USA) (v1.2)" index="true" image="w">
+		<description>World Championship Soccer (Japan, USA) (v1.2)</description>
+		<cloneof></cloneof>
+		<crc>bf84ede6</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Soccer</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="World Cup USA 94 (USA, Europe)" index="" image="">
+		<description>World Cup USA 94 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>0171b47f</crc>
+		<manufacturer>Tiertex Design Studios</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Soccer</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="World Trophy Soccer (USA)" index="" image="">
+		<description>World Trophy Soccer (USA)</description>
+		<cloneof></cloneof>
+		<crc>6e3edc7c</crc>
+		<manufacturer>Game Arts</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Soccer</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

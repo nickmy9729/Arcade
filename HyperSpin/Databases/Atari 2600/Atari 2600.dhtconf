@@ -1,0 +1,8 @@
+<DonsHyperSpinListGenerator VersionMajor="4">
+  <Wheel>Atari 2600</Wheel>
+  <OutputFile>M:\Arcade\HyperSpin\Databases\Atari 2600\Atari 2600.xml</OutputFile>
+  <SourceFile>M:\Hyperlists\Atari 2600.xml</SourceFile>
+  <ExcludeFile>M:\Arcade\HyperSpin\Databases\Atari 2600\Atari 2600_excluded.xml</ExcludeFile>
+  <MameXmlFile>
+  </MameXmlFile>
+</DonsHyperSpinListGenerator>

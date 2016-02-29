@@ -1,0 +1,179 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Super Nintendo Entertainment System</listname>
+		<lastlistupdate>11/26/2011</lastlistupdate>
+		<listversion>1.3 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="2020 Super Baseball (USA)" index="true" image="2">
+		<description>2020 Super Baseball (USA)</description>
+		<cloneof></cloneof>
+		<crc>0d77933e</crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Baseball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cal Ripken Jr. Baseball (USA)" index="true" image="c">
+		<description>Cal Ripken Jr. Baseball (USA)</description>
+		<cloneof></cloneof>
+		<crc>ce2eaa41</crc>
+		<manufacturer>Mindscape</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Baseball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ESPN Baseball Tonight (USA)" index="true" image="e">
+		<description>ESPN Baseball Tonight (USA)</description>
+		<cloneof></cloneof>
+		<crc>8606d69b</crc>
+		<manufacturer>Sony Imagesoft</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Baseball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Extra Innings (USA)" index="" image="">
+		<description>Extra Innings (USA)</description>
+		<cloneof></cloneof>
+		<crc>440a4250</crc>
+		<manufacturer>Sony Imagesoft</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Baseball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Frank Thomas Big Hurt Baseball (USA)" index="true" image="f">
+		<description>Frank Thomas Big Hurt Baseball (USA)</description>
+		<cloneof></cloneof>
+		<crc>21239dda</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Baseball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="MLBPA Baseball (USA)" index="true" image="m">
+		<description>MLBPA Baseball (USA)</description>
+		<cloneof></cloneof>
+		<crc>62a92e57</crc>
+		<manufacturer>EA Sports</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Baseball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Nolan Ryan&apos;s Baseball (USA)" index="true" image="n">
+		<description>Nolan Ryan&apos;s Baseball (USA)</description>
+		<cloneof></cloneof>
+		<crc>1919baff</crc>
+		<manufacturer>Romstar</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Baseball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Relief Pitcher (USA)" index="true" image="r">
+		<description>Relief Pitcher (USA)</description>
+		<cloneof></cloneof>
+		<crc>2f48ff14</crc>
+		<manufacturer>Left Field Productions</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Baseball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Roger Clemens&apos; MVP Baseball (USA) (Rev 1)" index="" image="">
+		<description>Roger Clemens&apos; MVP Baseball (USA) (Rev 1)</description>
+		<cloneof></cloneof>
+		<crc>a012d1ad</crc>
+		<manufacturer>LJN Ltd.</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Baseball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sporting News Power Baseball, The (USA)" index="true" image="s">
+		<description>Sporting News Power Baseball, The (USA)</description>
+		<cloneof></cloneof>
+		<crc>315af696</crc>
+		<manufacturer>Hudson</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Baseball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Baseball Simulator 1.000 (USA)" index="" image="">
+		<description>Super Baseball Simulator 1.000 (USA)</description>
+		<cloneof></cloneof>
+		<crc>aa760fec</crc>
+		<manufacturer>Culture Brain</manufacturer>
+		<year>1991</year>
+		<genre>Sports/Baseball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Bases Loaded (USA)" index="" image="">
+		<description>Super Bases Loaded (USA)</description>
+		<cloneof></cloneof>
+		<crc>6b971f1e</crc>
+		<manufacturer>Jaleco</manufacturer>
+		<year>1991</year>
+		<genre>Sports/Baseball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Bases Loaded 3 - License to Steal (USA)" index="" image="">
+		<description>Super Bases Loaded 3 - License to Steal (USA)</description>
+		<cloneof></cloneof>
+		<crc>f0540d1b</crc>
+		<manufacturer>Jaleco</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Baseball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Bases Loaded II (USA)" index="" image="">
+		<description>Super Bases Loaded II (USA)</description>
+		<cloneof></cloneof>
+		<crc>e14128ca</crc>
+		<manufacturer>Jaleco</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Baseball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Batter Up (USA)" index="" image="">
+		<description>Super Batter Up (USA)</description>
+		<cloneof></cloneof>
+		<crc>5896c854</crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Baseball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super R.B.I. Baseball (USA)" index="" image="">
+		<description>Super R.B.I. Baseball (USA)</description>
+		<cloneof></cloneof>
+		<crc>31db6cfe</crc>
+		<manufacturer>Time Warner</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Baseball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tecmo Super Baseball (USA)" index="true" image="t">
+		<description>Tecmo Super Baseball (USA)</description>
+		<cloneof></cloneof>
+		<crc>e302d853</crc>
+		<manufacturer>Tecmo</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Baseball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

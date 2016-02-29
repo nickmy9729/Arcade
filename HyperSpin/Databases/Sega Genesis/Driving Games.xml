@@ -1,0 +1,419 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Sega Genesis</listname>
+		<lastlistupdate>02/21/2013</lastlistupdate>
+		<listversion>1.2 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="Ayrton Senna&apos;s Super Monaco GP II (USA)" index="true" image="a">
+		<description>Ayrton Senna&apos;s Super Monaco GP II (USA)</description>
+		<cloneof></cloneof>
+		<crc>eac8ded6</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1992</year>
+		<genre>Driving</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Championship Pro-Am (USA)" index="true" image="c">
+		<description>Championship Pro-Am (USA)</description>
+		<cloneof></cloneof>
+		<crc>b496de28</crc>
+		<manufacturer>Rare</manufacturer>
+		<year>1992</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Chase H.Q. II (USA)" index="" image="">
+		<description>Chase H.Q. II (USA)</description>
+		<cloneof></cloneof>
+		<crc>f39e4bf2</crc>
+		<manufacturer>Taito</manufacturer>
+		<year>1992</year>
+		<genre>Driving</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Combat Cars (USA, Europe)" index="" image="">
+		<description>Combat Cars (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>e439b101</crc>
+		<manufacturer>Accolade</manufacturer>
+		<year>1994</year>
+		<genre>Driving</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dashin&apos; Desperadoes (USA)" index="true" image="d">
+		<description>Dashin\&apos; Desperadoes (USA)</description>
+		<cloneof></cloneof>
+		<crc>dcb76fb7</crc>
+		<manufacturer>Data East</manufacturer>
+		<year>1993</year>
+		<genre>Driving</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Double Clutch (Europe)" index="" image="">
+		<description>Double Clutch (Europe)</description>
+		<cloneof></cloneof>
+		<crc>d98c623c</crc>
+		<manufacturer>BGS Development</manufacturer>
+		<year>1992</year>
+		<genre>Driving</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ESPN Speed World (USA)" index="true" image="e">
+		<description>ESPN Speed World (USA)</description>
+		<cloneof></cloneof>
+		<crc>f50be478</crc>
+		<manufacturer>Park Place Productions</manufacturer>
+		<year>1994</year>
+		<genre>Driving</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="F1 - World Championship Edition (Europe)" index="true" image="f">
+		<description>F1 - World Championship Edition (Europe)</description>
+		<cloneof></cloneof>
+		<crc>74cee0a7</crc>
+		<manufacturer>Domark</manufacturer>
+		<year>1993</year>
+		<genre>Driving</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ferrari Grand Prix Challenge (USA)" index="" image="">
+		<description>Ferrari Grand Prix Challenge (USA)</description>
+		<cloneof></cloneof>
+		<crc>f73f6bec</crc>
+		<manufacturer>Flying Edge</manufacturer>
+		<year>1992</year>
+		<genre>Driving</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Forgotten Worlds (World) (v1.1)" index="" image="">
+		<description>Forgotten Worlds (World) (v1.1)</description>
+		<cloneof></cloneof>
+		<crc>95513985</crc>
+		<manufacturer>Domark</manufacturer>
+		<year>1993</year>
+		<genre>Driving</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hard Drivin&apos; (World)" index="true" image="h">
+		<description>Hard Drivin\&apos; (World)</description>
+		<cloneof></cloneof>
+		<crc>3225baaf</crc>
+		<manufacturer>Sterling Silver Software</manufacturer>
+		<year>1991</year>
+		<genre>Driving</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Kawasaki Superbike Challenge (USA, Europe)" index="true" image="k">
+		<description>Kawasaki Superbike Challenge (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>631cc8e9</crc>
+		<manufacturer>Lankhor</manufacturer>
+		<year>1994</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lotus II (USA, Europe)" index="true" image="l">
+		<description>Lotus II (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>1d8ee010</crc>
+		<manufacturer>Gremlin Interactive</manufacturer>
+		<year>1993</year>
+		<genre>Driving</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lotus Turbo Challenge (USA, Europe)" index="" image="">
+		<description>Lotus Turbo Challenge (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>a3cf6e9c</crc>
+		<manufacturer>Gremlin Interactive</manufacturer>
+		<year>1992</year>
+		<genre>Driving</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mario Andretti Racing (USA, Europe)" index="true" image="m">
+		<description>Mario Andretti Racing (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>7f1dc0aa</crc>
+		<manufacturer>Stormfront Studios</manufacturer>
+		<year>1994</year>
+		<genre>Driving</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Micro Machines (USA, Europe)" index="" image="">
+		<description>Micro Machines (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>7ffbd1ad</crc>
+		<manufacturer>Codemasters</manufacturer>
+		<year>1993</year>
+		<genre>Driving</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Micro Machines 2 - Turbo Tournament (Europe) (J-Cart)" index="" image="">
+		<description>Micro Machines 2 - Turbo Tournament (Europe) (J-Cart)</description>
+		<cloneof></cloneof>
+		<crc>42bfb7eb</crc>
+		<manufacturer>Codemasters</manufacturer>
+		<year>1994</year>
+		<genre>Driving</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Micro Machines Military (Europe) (J-Cart)" index="" image="">
+		<description>Micro Machines Military (Europe) (J-Cart)</description>
+		<cloneof></cloneof>
+		<crc>b3abb15e</crc>
+		<manufacturer>Supersonic Software</manufacturer>
+		<year>1996</year>
+		<genre>Driving</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Micro Machines Turbo Tournament 96 (Europe) (v1.1) (J-Cart)" index="" image="">
+		<description>Micro Machines Turbo Tournament 96 (Europe) (v1.1) (J-Cart)</description>
+		<cloneof></cloneof>
+		<crc>23319d0d</crc>
+		<manufacturer>Supersonic Software</manufacturer>
+		<year>1995</year>
+		<genre>Driving</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Newman Haas Indy Car Featuring Nigel Mansell (World)" index="true" image="n">
+		<description>Newman Haas Indy Car Featuring Nigel Mansell (World)</description>
+		<cloneof></cloneof>
+		<crc>1233a229</crc>
+		<manufacturer>Gremlin Interactive</manufacturer>
+		<year>1994</year>
+		<genre>Driving</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Nigel Mansell&apos;s World Championship Racing (USA)" index="" image="">
+		<description>Nigel Mansell\&apos;s World Championship Racing (USA)</description>
+		<cloneof></cloneof>
+		<crc>6bc57b2c</crc>
+		<manufacturer>Gremlin Interactive</manufacturer>
+		<year>1993</year>
+		<genre>Driving</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="OutRun (USA, Europe)" index="true" image="o">
+		<description>OutRun (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>fdd9a8d2</crc>
+		<manufacturer>Sanritsu</manufacturer>
+		<year>1991</year>
+		<genre>Driving</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="OutRun 2019 (USA)" index="" image="">
+		<description>OutRun 2019 (USA)</description>
+		<cloneof></cloneof>
+		<crc>e32e17e2</crc>
+		<manufacturer>Sims</manufacturer>
+		<year>1993</year>
+		<genre>Driving</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="OutRunners (USA)" index="" image="">
+		<description>OutRunners (USA)</description>
+		<cloneof></cloneof>
+		<crc>ede636b9</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1994</year>
+		<genre>Driving</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Power Drive (Europe)" index="true" image="p">
+		<description>Power Drive (Europe)</description>
+		<cloneof></cloneof>
+		<crc>8c00ad61</crc>
+		<manufacturer>Rage Software</manufacturer>
+		<year>1994</year>
+		<genre>Driving</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Quad Challenge (USA)" index="true" image="q">
+		<description>Quad Challenge (USA)</description>
+		<cloneof></cloneof>
+		<crc>74736a80</crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1991</year>
+		<genre>Driving</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Race Drivin&apos; (USA)" index="true" image="r">
+		<description>Race Drivin\&apos; (USA)</description>
+		<cloneof></cloneof>
+		<crc>d737cf3d</crc>
+		<manufacturer>Polygames</manufacturer>
+		<year>1993</year>
+		<genre>Driving</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Road Rash (USA, Europe)" index="" image="">
+		<description>Road Rash (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>dea53d19</crc>
+		<manufacturer>Electronic Arts</manufacturer>
+		<year>1992</year>
+		<genre>Driving</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Road Rash 3 (USA, Europe)" index="" image="">
+		<description>Road Rash 3 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>15785956</crc>
+		<manufacturer>Electronic Arts</manufacturer>
+		<year>1995</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Road Rash II (USA, Europe) (v1.2)" index="" image="">
+		<description>Road Rash II (USA, Europe) (v1.2)</description>
+		<cloneof></cloneof>
+		<crc>0876e992</crc>
+		<manufacturer>Electronic Arts</manufacturer>
+		<year>1993</year>
+		<genre>Driving</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="RoadBlasters (USA)" index="" image="">
+		<description>RoadBlasters (USA)</description>
+		<cloneof></cloneof>
+		<crc>ec6cd5f0</crc>
+		<manufacturer>Sterling Silver Software</manufacturer>
+		<year>1991</year>
+		<genre>Driving</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rock n&apos; Roll Racing (USA)" index="" image="">
+		<description>Rock n\&apos; Roll Racing (USA)</description>
+		<cloneof></cloneof>
+		<crc>6abab577</crc>
+		<manufacturer>Blizzard Entertainment</manufacturer>
+		<year>1994</year>
+		<genre>Driving</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Street Racer (Europe)" index="true" image="s">
+		<description>Street Racer (Europe)</description>
+		<cloneof></cloneof>
+		<crc>1a58d5fe</crc>
+		<manufacturer>Vivid Image</manufacturer>
+		<year>1995</year>
+		<genre>Driving</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Hang-On (World) (Rev A)" index="" image="">
+		<description>Super Hang-On (World) (Rev A)</description>
+		<cloneof></cloneof>
+		<crc>3877d107</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1989</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Monaco GP (USA)" index="" image="">
+		<description>Super Monaco GP (USA)</description>
+		<cloneof></cloneof>
+		<crc>725018ee</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1990</year>
+		<genre>Driving</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Off Road (USA, Europe)" index="" image="">
+		<description>Super Off Road (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>8f2fdada</crc>
+		<manufacturer>Software Creations</manufacturer>
+		<year>1994</year>
+		<genre>Driving</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Skidmarks (Europe) (J-Cart)" index="" image="">
+		<description>Super Skidmarks (Europe) (J-Cart)</description>
+		<cloneof></cloneof>
+		<crc>4a9c62f9</crc>
+		<manufacturer>Acid</manufacturer>
+		<year>1995</year>
+		<genre>Driving</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Test Drive II - The Duel (USA, Europe)" index="true" image="t">
+		<description>Test Drive II - The Duel (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>f9bdf8c5</crc>
+		<manufacturer>Distinctive Software</manufacturer>
+		<year>1992</year>
+		<genre>Driving</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Top Gear 2 (USA)" index="" image="">
+		<description>Top Gear 2 (USA)</description>
+		<cloneof></cloneof>
+		<crc>bd3074d2</crc>
+		<manufacturer>Gremlin Interactive</manufacturer>
+		<year>1994</year>
+		<genre>Driving</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Turbo OutRun (Japan, Europe)" index="" image="">
+		<description>Turbo OutRun (Japan, Europe)</description>
+		<cloneof></cloneof>
+		<crc>0c661369</crc>
+		<manufacturer>Tiertex Design Studios</manufacturer>
+		<year>1992</year>
+		<genre>Driving</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Virtua Racing (USA)" index="true" image="v">
+		<description>Virtua Racing (USA)</description>
+		<cloneof></cloneof>
+		<crc>7e1a324a</crc>
+		<manufacturer>Sega-AM2</manufacturer>
+		<year>1994</year>
+		<genre>Driving</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

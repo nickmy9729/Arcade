@@ -1,0 +1,189 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Atari 2600</listname>
+		<lastlistupdate>07/20/2013</lastlistupdate>
+		<listversion>1.0 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="Bump &apos;n&apos; Jump (USA)" index="true" image="b">
+		<description>Bump &apos;n&apos; Jump (USA)</description>
+		<cloneof></cloneof>
+		<crc>DF2BC303</crc>
+		<manufacturer>M Network - INTV</manufacturer>
+		<year>1983</year>
+		<genre>Driving</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Demolition Herby (USA)" index="true" image="d">
+		<description>Demolition Herby (USA)</description>
+		<cloneof></cloneof>
+		<crc>E9305AE2</crc>
+		<manufacturer>Telesys</manufacturer>
+		<year>1983</year>
+		<genre>Driving</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dodge &apos;Em (USA)" index="" image="">
+		<description>Dodge &apos;Em (USA)</description>
+		<cloneof></cloneof>
+		<crc>0C74479B</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1980</year>
+		<genre>Driving</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dragster (USA)" index="" image="">
+		<description>Dragster (USA)</description>
+		<cloneof></cloneof>
+		<crc>4042D3AB</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>1980</year>
+		<genre>Driving</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dukes of Hazzard (USA)" index="" image="">
+		<description>Dukes of Hazzard (USA)</description>
+		<cloneof></cloneof>
+		<crc>2DB406DC</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1983</year>
+		<genre>Driving</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dukes of Hazzard (USA) (Proto)" index="" image="">
+		<description>Dukes of Hazzard (USA) (Proto)</description>
+		<cloneof>Stunt Cycle (USA) (Proto)</cloneof>
+		<crc>2E09A905</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1980</year>
+		<genre>Driving</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Enduro (USA)" index="true" image="e">
+		<description>Enduro (USA)</description>
+		<cloneof></cloneof>
+		<crc>2EF17B2E</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>1983</year>
+		<genre>Driving</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fatal Run (Europe)" index="true" image="f">
+		<description>Fatal Run (Europe)</description>
+		<cloneof></cloneof>
+		<crc>991D2348</crc>
+		<manufacturer>Atari - Sculptured Software</manufacturer>
+		<year>1989</year>
+		<genre>Driving</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Grand Prix (USA)" index="true" image="g">
+		<description>Grand Prix (USA)</description>
+		<cloneof></cloneof>
+		<crc>E855273D</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>1982</year>
+		<genre>Driving</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Indy 500 (USA)" index="true" image="i">
+		<description>Indy 500 (USA)</description>
+		<cloneof></cloneof>
+		<crc>B43DA2A3</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1977</year>
+		<genre>Driving</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="MotoRodeo (USA)" index="true" image="m">
+		<description>MotoRodeo (USA)</description>
+		<cloneof></cloneof>
+		<crc>89998E29</crc>
+		<manufacturer>Atari - Axlon</manufacturer>
+		<year>1990</year>
+		<genre>Driving</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Night Driver (USA)" index="true" image="n">
+		<description>Night Driver (USA)</description>
+		<cloneof></cloneof>
+		<crc>600D8A96</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1980</year>
+		<genre>Driving</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pole Position (USA)" index="true" image="p">
+		<description>Pole Position (USA)</description>
+		<cloneof></cloneof>
+		<crc>BD822518</crc>
+		<manufacturer>Atari - GCC</manufacturer>
+		<year>1983</year>
+		<genre>Driving</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Racing Car (Europe)" index="true" image="r">
+		<description>Racing Car (Europe)</description>
+		<cloneof></cloneof>
+		<crc>18954066</crc>
+		<manufacturer>Home Vision - Gem International Corp. - R.J.P.G.</manufacturer>
+		<year>1983</year>
+		<genre>Driving</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="River Patrol (USA)" index="" image="">
+		<description>River Patrol (USA)</description>
+		<cloneof></cloneof>
+		<crc>C820BD75</crc>
+		<manufacturer>Tigervision</manufacturer>
+		<year>1984</year>
+		<genre>Driving</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sprint Master (USA)" index="true" image="s">
+		<description>Sprint Master (USA)</description>
+		<cloneof></cloneof>
+		<crc>C495904E</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1988</year>
+		<genre>Driving</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Street Racer (USA)" index="" image="">
+		<description>Street Racer (USA)</description>
+		<cloneof></cloneof>
+		<crc>47592880</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1977</year>
+		<genre>Driving</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Unknown 20th Century Fox Game (USA) (Proto)" index="true" image="u">
+		<description>Unknown 20th Century Fox Game (USA) (Proto)</description>
+		<cloneof></cloneof>
+		<crc>0748817D</crc>
+		<manufacturer>20th Century Fox Video Games</manufacturer>
+		<year>1983</year>
+		<genre>Driving</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

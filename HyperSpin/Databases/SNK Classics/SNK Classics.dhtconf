@@ -1,0 +1,8 @@
+<DonsHyperSpinListGenerator VersionMajor="4">
+  <Wheel>SNK Classics</Wheel>
+  <OutputFile>M:\Arcade\HyperSpin\Databases\SNK Classics\SNK Classics.xml</OutputFile>
+  <SourceFile>M:\Hyperlists\SNK Classics.xml</SourceFile>
+  <ExcludeFile>M:\Arcade\HyperSpin\Databases\SNK Classics\SNK Classics_excluded.xml</ExcludeFile>
+  <MameXmlFile>
+  </MameXmlFile>
+</DonsHyperSpinListGenerator>

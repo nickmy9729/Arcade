@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Atari 8-Bit</listname>
+		<lastlistupdate>05/17/2015</lastlistupdate>
+		<listversion>1.0</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="Barbarian (Poland)" index="true" image="b">
+		<description>Barbarian (Poland)</description>
+		<cloneof></cloneof>
+		<crc>14BC2C7E</crc>
+		<manufacturer>L.K. Avalon</manufacturer>
+		<year>1993</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Brutal Karate (Europe)" index="" image="">
+		<description>Brutal Karate (Europe)</description>
+		<cloneof></cloneof>
+		<crc>1452BDE0</crc>
+		<manufacturer>Datri Software</manufacturer>
+		<year>1997</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gladiator (USA)" index="true" image="g">
+		<description>Gladiator (USA)</description>
+		<cloneof></cloneof>
+		<crc>302E2DA5</crc>
+		<manufacturer>K-Tek Software</manufacturer>
+		<year>1983</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Yie Ar Kung Fu (Europe) (Unl)" index="true" image="y">
+		<description>Yie Ar Kung Fu (Europe) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>FF9F01B8</crc>
+		<manufacturer>Imagine</manufacturer>
+		<year>2005</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>HyperSearch</listname>
+	</header>
+  <game name="-search">
+    <description>Full search</description>
+  </game>
+  <game name="-genre">
+    <description>Genre</description>
+  </game>
+  <game name="-fav">
+    <description>Favourites</description>
+  </game>
+  <game name="-settings">
+    <description>Settings</description>
+  </game>
+</menu>

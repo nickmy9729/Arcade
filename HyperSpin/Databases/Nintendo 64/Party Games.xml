@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Nintendo 64</listname>
+		<lastlistupdate>11/15/2011</lastlistupdate>
+		<listversion>1.1 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="Mario Party (USA)" index="true" image="m">
+		<description>Mario Party (USA)</description>
+		<cloneof></cloneof>
+		<crc>4717CD1B</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1999</year>
+		<genre>Party</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mario Party 2 (USA)" index="" image="">
+		<description>Mario Party 2 (USA)</description>
+		<cloneof></cloneof>
+		<crc>3BA5471B</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2000</year>
+		<genre>Party</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="South Park - Chef&apos;s Luv Shack (USA)" index="true" image="s">
+		<description>South Park - Chef&apos;s Luv Shack (USA)</description>
+		<cloneof></cloneof>
+		<crc>67D38382</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1999</year>
+		<genre>Party</genre>
+		<rating>ESRB - M (Mature)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

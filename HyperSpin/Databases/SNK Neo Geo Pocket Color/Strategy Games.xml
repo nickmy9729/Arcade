@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>SNK Neo Geo Pocket Color</listname>
+		<lastlistupdate>10/25/2011</lastlistupdate>
+		<listversion>1.2 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="Biomotor Unitron (USA, Europe)" index="true" image="b">
+		<description>Biomotor Unitron (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>3807DF4F</crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1999</year>
+		<genre>Strategy</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Faselei! (Europe)" index="true" image="f">
+		<description>Faselei! (Europe)</description>
+		<cloneof></cloneof>
+		<crc>E705E30E</crc>
+		<manufacturer>SNK</manufacturer>
+		<year>2000</year>
+		<genre>Strategy</genre>
+		<rating>PEGI - 12 (Everyone 12+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

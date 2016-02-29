@@ -1,0 +1,279 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Nintendo 64</listname>
+		<lastlistupdate>11/15/2011</lastlistupdate>
+		<listversion>1.1 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="007 - GoldenEye (USA)" index="true" image="0">
+		<description>007 - GoldenEye (USA)</description>
+		<cloneof></cloneof>
+		<crc>8B70CB5B</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1997</year>
+		<genre>Shooter</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="007 - The World Is Not Enough (USA)" index="" image="">
+		<description>007 - The World Is Not Enough (USA)</description>
+		<cloneof></cloneof>
+		<crc>34F0EE5B</crc>
+		<manufacturer>Electronic Arts</manufacturer>
+		<year>2000</year>
+		<genre>Shooter</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Armorines - Project S.W.A.R.M. (USA)" index="true" image="a">
+		<description>Armorines - Project S.W.A.R.M. (USA)</description>
+		<cloneof></cloneof>
+		<crc>950985F6</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1999</year>
+		<genre>Shooter</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Army Men - Sarge&apos;s Heroes (USA)" index="" image="">
+		<description>Army Men - Sarge&apos;s Heroes (USA)</description>
+		<cloneof></cloneof>
+		<crc>97BF6DB2</crc>
+		<manufacturer>3DO</manufacturer>
+		<year>1999</year>
+		<genre>Shooter</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Army Men - Sarge&apos;s Heroes 2 (USA)" index="" image="">
+		<description>Army Men - Sarge&apos;s Heroes 2 (USA)</description>
+		<cloneof></cloneof>
+		<crc>3E9D1C51</crc>
+		<manufacturer>3DO</manufacturer>
+		<year>2000</year>
+		<genre>Shooter</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Doom 64 (USA) (Rev A)" index="true" image="d">
+		<description>Doom 64 (USA) (Rev A)</description>
+		<cloneof></cloneof>
+		<crc>0F080D06</crc>
+		<manufacturer>Midway</manufacturer>
+		<year>1997</year>
+		<genre>Shooter</genre>
+		<rating>ESRB - M (Mature)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Duke Nukem - Zero Hour (USA)" index="" image="">
+		<description>Duke Nukem - Zero Hour (USA)</description>
+		<cloneof></cloneof>
+		<crc>912F576F</crc>
+		<manufacturer>GT Interactive</manufacturer>
+		<year>1999</year>
+		<genre>Shooter</genre>
+		<rating>ESRB - M (Mature)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Duke Nukem 64 (USA)" index="" image="">
+		<description>Duke Nukem 64 (USA)</description>
+		<cloneof></cloneof>
+		<crc>1BF948C3</crc>
+		<manufacturer>GT Interactive</manufacturer>
+		<year>1997</year>
+		<genre>Shooter</genre>
+		<rating>ESRB - M (Mature)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Forsaken 64 (USA)" index="true" image="f">
+		<description>Forsaken 64 (USA)</description>
+		<cloneof></cloneof>
+		<crc>F970E4A4</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1998</year>
+		<genre>Shooter</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hexen (USA)" index="true" image="h">
+		<description>Hexen (USA)</description>
+		<cloneof></cloneof>
+		<crc>D2B22343</crc>
+		<manufacturer>GT Interactive</manufacturer>
+		<year>1997</year>
+		<genre>Shooter</genre>
+		<rating>ESRB - M (Mature)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Jet Force Gemini (USA)" index="true" image="j">
+		<description>Jet Force Gemini (USA)</description>
+		<cloneof></cloneof>
+		<crc>B5932174</crc>
+		<manufacturer>Rare Ltd.</manufacturer>
+		<year>1999</year>
+		<genre>Shooter</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="John Romero&apos;s Daikatana (USA)" index="" image="">
+		<description>John Romero&apos;s Daikatana (USA)</description>
+		<cloneof></cloneof>
+		<crc>CB126EA9</crc>
+		<manufacturer>Kemco</manufacturer>
+		<year>2000</year>
+		<genre>Shooter</genre>
+		<rating>ESRB - M (Mature)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Knife Edge - Nose Gunner (USA)" index="true" image="k">
+		<description>Knife Edge - Nose Gunner (USA)</description>
+		<cloneof></cloneof>
+		<crc>CF204405</crc>
+		<manufacturer>Kemco</manufacturer>
+		<year>1998</year>
+		<genre>Shooter</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Perfect Dark (USA) (Rev A)" index="true" image="p">
+		<description>Perfect Dark (USA) (Rev A)</description>
+		<cloneof></cloneof>
+		<crc>F85A16F1</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2000</year>
+		<genre>Shooter</genre>
+		<rating>ESRB - M (Mature)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Quake 64 (USA)" index="true" image="q">
+		<description>Quake 64 (USA)</description>
+		<cloneof></cloneof>
+		<crc>06D5CDBB</crc>
+		<manufacturer>Midway</manufacturer>
+		<year>1998</year>
+		<genre>Shooter</genre>
+		<rating>ESRB - M (Mature)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Quake II (USA)" index="" image="">
+		<description>Quake II (USA)</description>
+		<cloneof></cloneof>
+		<crc>5D880E55</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>1999</year>
+		<genre>Shooter</genre>
+		<rating>ESRB - M (Mature)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="South Park (USA)" index="true" image="s">
+		<description>South Park (USA)</description>
+		<cloneof></cloneof>
+		<crc>FAAE9AA3</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1998</year>
+		<genre>Shooter</genre>
+		<rating>ESRB - M (Mature)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Star Soldier - Vanishing Earth (USA)" index="" image="">
+		<description>Star Soldier - Vanishing Earth (USA)</description>
+		<cloneof></cloneof>
+		<crc>052945E7</crc>
+		<manufacturer>Electro Brain</manufacturer>
+		<year>1998</year>
+		<genre>Shooter</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Star Wars - Rogue Squadron (USA) (Rev A)" index="" image="">
+		<description>Star Wars - Rogue Squadron (USA) (Rev A)</description>
+		<cloneof></cloneof>
+		<crc>4A479574</crc>
+		<manufacturer>LucasArts</manufacturer>
+		<year>1998</year>
+		<genre>Shooter</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Star Wars - Shadows of the Empire (USA) (Rev B)" index="" image="">
+		<description>Star Wars - Shadows of the Empire (USA) (Rev B)</description>
+		<cloneof></cloneof>
+		<crc>F4E546D1</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1999</year>
+		<genre>Shooter</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Star Wars Episode I - Battle for Naboo (USA)" index="" image="">
+		<description>Star Wars Episode I - Battle for Naboo (USA)</description>
+		<cloneof></cloneof>
+		<crc>97EBBEA8</crc>
+		<manufacturer>LucasArts</manufacturer>
+		<year>2000</year>
+		<genre>Shooter</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tom Clancy&apos;s Rainbow Six (USA)" index="true" image="t">
+		<description>Tom Clancy&apos;s Rainbow Six (USA)</description>
+		<cloneof></cloneof>
+		<crc>67F3D120</crc>
+		<manufacturer>Red Storm Entertainment</manufacturer>
+		<year>1999</year>
+		<genre>Shooter</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Turok - Dinosaur Hunter (USA) (Rev B)" index="" image="">
+		<description>Turok - Dinosaur Hunter (USA) (Rev B)</description>
+		<cloneof></cloneof>
+		<crc>AF6EA1B8</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1997</year>
+		<genre>Shooter</genre>
+		<rating>ESRB - M (Mature)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Turok - Rage Wars (USA)" index="" image="">
+		<description>Turok - Rage Wars (USA)</description>
+		<cloneof></cloneof>
+		<crc>416474D8</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1999</year>
+		<genre>Shooter</genre>
+		<rating>ESRB - M (Mature)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Turok 2 - Seeds of Evil (USA) (Rev A)" index="" image="">
+		<description>Turok 2 - Seeds of Evil (USA) (Rev A)</description>
+		<cloneof></cloneof>
+		<crc>ADEC745F</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1998</year>
+		<genre>Shooter</genre>
+		<rating>ESRB - M (Mature)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Turok 3 - Shadow of Oblivion (USA)" index="" image="">
+		<description>Turok 3 - Shadow of Oblivion (USA)</description>
+		<cloneof></cloneof>
+		<crc>E0D0D902</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>2000</year>
+		<genre>Shooter</genre>
+		<rating>ESRB - M (Mature)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="WinBack - Covert Operations (USA)" index="true" image="w">
+		<description>WinBack - Covert Operations (USA)</description>
+		<cloneof></cloneof>
+		<crc>1A6334D0</crc>
+		<manufacturer>Koei</manufacturer>
+		<year>1999</year>
+		<genre>Shooter</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

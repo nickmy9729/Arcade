@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Atari 7800</listname>
+		<lastlistupdate>06/08/2013</lastlistupdate>
+		<listversion>1.1 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="Fatal Run (USA)" index="true" image="f">
+		<description>Fatal Run (USA)</description>
+		<cloneof></cloneof>
+		<crc>718232bb</crc>
+		<manufacturer>Sculptured Software</manufacturer>
+		<year>1990</year>
+		<genre>Driving</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Motor Psycho (USA)" index="true" image="m">
+		<description>Motor Psycho (USA)</description>
+		<cloneof></cloneof>
+		<crc>fc414689</crc>
+		<manufacturer>BlueSky Software</manufacturer>
+		<year>1990</year>
+		<genre>Driving</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pole Position II (USA)" index="true" image="p">
+		<description>Pole Position II (USA)</description>
+		<cloneof></cloneof>
+		<crc>3d57623a</crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1987</year>
+		<genre>Driving</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

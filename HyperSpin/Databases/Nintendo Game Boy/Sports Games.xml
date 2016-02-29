@@ -1,0 +1,849 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Nintendo Game Boy</listname>
+		<lastlistupdate>06/08/2013</lastlistupdate>
+		<listversion>1.1 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="Alien Olympics (Europe)" index="true" image="a">
+		<description>Alien Olympics (Europe)</description>
+		<cloneof></cloneof>
+		<crc>583c0e4e</crc>
+		<manufacturer>Ocean</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Olympic</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="All-Star Baseball 99 (USA)" index="" image="">
+		<description>All-Star Baseball 99 (USA)</description>
+		<cloneof></cloneof>
+		<crc>d51ee6d3</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1998</year>
+		<genre>Sports/Baseball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Baseball (World)" index="true" image="b">
+		<description>Baseball (World)</description>
+		<cloneof></cloneof>
+		<crc>6eea2526</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1989</year>
+		<genre>Sports/Baseball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bases Loaded (USA)" index="" image="">
+		<description>Bases Loaded (USA)</description>
+		<cloneof></cloneof>
+		<crc>d37a2fdf</crc>
+		<manufacturer>Jaleco Entertainment</manufacturer>
+		<year>1990</year>
+		<genre>Sports/Baseball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Black Bass - Lure Fishing (USA)" index="" image="">
+		<description>Black Bass - Lure Fishing (USA)</description>
+		<cloneof></cloneof>
+		<crc>2db3dace</crc>
+		<manufacturer>Hot B</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Fishing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Blades of Steel (USA)" index="" image="">
+		<description>Blades of Steel (USA)</description>
+		<cloneof></cloneof>
+		<crc>e81c9fb9</crc>
+		<manufacturer>Ultra Soft</manufacturer>
+		<year>1991</year>
+		<genre>Sports/Ice Hockey</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bo Jackson - Two Games in One (USA)" index="" image="">
+		<description>Bo Jackson - Two Games in One (USA)</description>
+		<cloneof></cloneof>
+		<crc>7edb78ab</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>1991</year>
+		<genre>Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Championship Pool (USA)" index="true" image="c">
+		<description>Championship Pool (USA)</description>
+		<cloneof></cloneof>
+		<crc>ef02beb6</crc>
+		<manufacturer>Mindscape Inc.</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Pool and Dart</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="College Slam (USA)" index="" image="">
+		<description>College Slam (USA)</description>
+		<cloneof></cloneof>
+		<crc>a549a572</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1996</year>
+		<genre>Sports/Basketball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Double Dribble - 5 on 5 (USA)" index="true" image="d">
+		<description>Double Dribble - 5 on 5 (USA)</description>
+		<cloneof></cloneof>
+		<crc>ee28749d</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1991</year>
+		<genre>Sports/Basketball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Elite Soccer (USA)" index="true" image="e">
+		<description>Elite Soccer (USA)</description>
+		<cloneof></cloneof>
+		<crc>f54158a6</crc>
+		<manufacturer>GameTek</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Soccer</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Extra Bases! (USA)" index="" image="">
+		<description>Extra Bases! (USA)</description>
+		<cloneof></cloneof>
+		<crc>19608641</crc>
+		<manufacturer>Bandai</manufacturer>
+		<year>1991</year>
+		<genre>Sports/Baseball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="FIFA International Soccer (USA, Europe)" index="true" image="f">
+		<description>FIFA International Soccer (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>e5989908</crc>
+		<manufacturer>Malibu Games</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Soccer</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="FIFA Road to the World Cup &apos;98 (Europe)" index="" image="">
+		<description>FIFA Road to the World Cup \&apos;98 (Europe)</description>
+		<cloneof></cloneof>
+		<crc>cdf6a5ac</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>1997</year>
+		<genre>Sports/Soccer</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="FIFA Soccer &apos;96 (USA, Europe)" index="" image="">
+		<description>FIFA Soccer \&apos;96 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>af4a5de1</crc>
+		<manufacturer>EA Sports</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Soccer</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="FIFA Soccer &apos;97 (USA, Europe)" index="" image="">
+		<description>FIFA Soccer \&apos;97 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>dcab906c</crc>
+		<manufacturer>EA Sports</manufacturer>
+		<year>1996</year>
+		<genre>Sports/Soccer</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Foreman for Real (USA, Europe)" index="" image="">
+		<description>Foreman for Real (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>77083ae0</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Boxing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Frank Thomas Big Hurt Baseball (USA, Europe)" index="" image="">
+		<description>Frank Thomas Big Hurt Baseball (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>9a494ae6</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Baseball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="George Foreman&apos;s KO Boxing (USA, Europe)" index="true" image="g">
+		<description>George Foreman\&apos;s KO Boxing (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>7f62456b</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Boxing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Goal! (USA)" index="" image="">
+		<description>Goal! (USA)</description>
+		<cloneof></cloneof>
+		<crc>00d4caf2</crc>
+		<manufacturer>Jaleco Entertainment</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Soccer</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Golf (World)" index="" image="">
+		<description>Golf (World)</description>
+		<cloneof></cloneof>
+		<crc>6ed10383</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1990</year>
+		<genre>Sports/Golf</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="HAL Wrestling (USA)" index="true" image="h">
+		<description>HAL Wrestling (USA)</description>
+		<cloneof></cloneof>
+		<crc>5e4a61d3</crc>
+		<manufacturer>Human Entertainment</manufacturer>
+		<year>1990</year>
+		<genre>Sports/Wrestling</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Heavyweight Championship Boxing (USA)" index="" image="">
+		<description>Heavyweight Championship Boxing (USA)</description>
+		<cloneof></cloneof>
+		<crc>1526a96b</crc>
+		<manufacturer>Tokyo Shoseki</manufacturer>
+		<year>1990</year>
+		<genre>Sports/Boxing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hit the Ice (USA, Europe)" index="" image="">
+		<description>Hit the Ice (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>2c77f399</crc>
+		<manufacturer>Taito Software</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Hockey</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="In Your Face (USA)" index="true" image="i">
+		<description>In Your Face (USA)</description>
+		<cloneof></cloneof>
+		<crc>80ac487e</crc>
+		<manufacturer>Jaleco Entertainment</manufacturer>
+		<year>1990</year>
+		<genre>Sports/Basketball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="International Superstar Soccer (USA, Europe)" index="" image="">
+		<description>International Superstar Soccer (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>94757be8</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1998</year>
+		<genre>Sports/Soccer</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Jack Nicklaus Golf (USA, Europe)" index="true" image="j">
+		<description>Jack Nicklaus Golf (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>654988b2</crc>
+		<manufacturer>Tradewest</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Golf</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Jimmy Connors Tennis (USA, Europe)" index="" image="">
+		<description>Jimmy Connors Tennis (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>9b7ebf91</crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>1998</year>
+		<genre>Sports/Tennis</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Jordan vs Bird - One on One (USA, Europe)" index="" image="">
+		<description>Jordan vs Bird - One on One (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>c90c5456</crc>
+		<manufacturer>EA Sports</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Basketball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ken Griffey Jr. presents Major League Baseball (USA, Europe)" index="true" image="k">
+		<description>Ken Griffey Jr. presents Major League Baseball (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>0a9859c1</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1997</year>
+		<genre>Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Legend of the River King GB (USA)" index="true" image="l">
+		<description>Legend of the River King GB (USA)</description>
+		<cloneof></cloneof>
+		<crc>a6e685dc</crc>
+		<manufacturer>Natsume</manufacturer>
+		<year>1998</year>
+		<genre>Sports/Fishing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Madden &apos;95 (USA, Europe)" index="true" image="m">
+		<description>Madden \&apos;95 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>d2585bbb</crc>
+		<manufacturer>Halestorm</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Football</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Madden &apos;96 (USA, Europe)" index="" image="">
+		<description>Madden \&apos;96 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>fd9dc1ad</crc>
+		<manufacturer>Black Pearl Software</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Football</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Madden &apos;97 (USA)" index="" image="">
+		<description>Madden \&apos;97 (USA)</description>
+		<cloneof></cloneof>
+		<crc>88a837a2</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>1996</year>
+		<genre>Sports/Football</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Magnetic Soccer (Europe)" index="" image="">
+		<description>Magnetic Soccer (Europe)</description>
+		<cloneof></cloneof>
+		<crc>9c318c64</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Soccer</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Malibu Beach Volleyball (USA)" index="" image="">
+		<description>Malibu Beach Volleyball (USA)</description>
+		<cloneof></cloneof>
+		<crc>dfa5da12</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>1990</year>
+		<genre>Sports/Volleyball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Muhammad Ali&apos;s Boxing (USA, Europe)" index="" image="">
+		<description>Muhammad Ali\&apos;s Boxing (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>97bd3e8f</crc>
+		<manufacturer>Virgin Interactive</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Boxing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NBA All Star Challenge (USA, Europe)" index="true" image="n">
+		<description>NBA All Star Challenge (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>f25ba8bf</crc>
+		<manufacturer>LJN Ltd.</manufacturer>
+		<year>1991</year>
+		<genre>Sports/Basketball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NBA All Star Challenge 2 (USA, Europe)" index="" image="">
+		<description>NBA All Star Challenge 2 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>c27c0289</crc>
+		<manufacturer>LJN Ltd.</manufacturer>
+		<year>1999</year>
+		<genre>Sports/Basketball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NBA Jam (USA, Europe)" index="" image="">
+		<description>NBA Jam (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>0ca07cda</crc>
+		<manufacturer>LJN Ltd.</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Basketball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NBA Jam - Tournament Edition (USA, Europe)" index="" image="">
+		<description>NBA Jam - Tournament Edition (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>27d74c50</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Basketball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NBA Live 96 (USA, Europe)" index="" image="">
+		<description>NBA Live 96 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>8885c7cd</crc>
+		<manufacturer>Black Pearl Software</manufacturer>
+		<year>1996</year>
+		<genre>Sports/Basketball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NFL Football (USA)" index="" image="">
+		<description>NFL Football (USA)</description>
+		<cloneof></cloneof>
+		<crc>4c3d1508</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1990</year>
+		<genre>Sports/Football</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NFL Quarterback Club (USA, Europe)" index="" image="">
+		<description>NFL Quarterback Club (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>c7838830</crc>
+		<manufacturer>LJN Ltd.</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Football</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NFL Quarterback Club 2 (USA, Europe)" index="" image="">
+		<description>NFL Quarterback Club 2 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>06f04370</crc>
+		<manufacturer>LJN Ltd.</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Football</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NFL Quarterback Club &apos;96 (USA, Europe)" index="" image="">
+		<description>NFL Quarterback Club \&apos;96 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>d583bc4e</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Football</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NHL Hockey &apos;95 (USA, Europe)" index="" image="">
+		<description>NHL Hockey \&apos;95 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>bcabd2d2</crc>
+		<manufacturer>Malibu Games</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Ice Hockey</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NHL &apos;96 (USA, Europe)" index="" image="">
+		<description>NHL \&apos;96 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>15cd2b63</crc>
+		<manufacturer>Black Pearl Software</manufacturer>
+		<year>1996</year>
+		<genre>Sports/Ice Hockey</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Nintendo World Cup (USA, Europe)" index="" image="">
+		<description>Nintendo World Cup (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>96c24e13</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1991</year>
+		<genre>Sports/Soccer</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Olympic Summer Games (USA, Europe)" index="true" image="o">
+		<description>Olympic Summer Games (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>be81bd61</crc>
+		<manufacturer>Black Pearl Software</manufacturer>
+		<year>1996</year>
+		<genre>Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="PGA European Tour (USA, Europe)" index="true" image="p">
+		<description>PGA European Tour (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>7d7def64</crc>
+		<manufacturer>Malibu Games</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Golf</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="PGA Tour &apos;96 (USA, Europe)" index="" image="">
+		<description>PGA Tour \&apos;96 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>6ff72043</crc>
+		<manufacturer>Black Pearl Software</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Golf</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Play Action Football (USA)" index="" image="">
+		<description>Play Action Football (USA)</description>
+		<cloneof></cloneof>
+		<crc>983caf46</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1990</year>
+		<genre>Sports/Football</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Riddick Bowe Boxing (USA)" index="true" image="r">
+		<description>Riddick Bowe Boxing (USA)</description>
+		<cloneof></cloneof>
+		<crc>fb5d24e0</crc>
+		<manufacturer>Extreme</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Boxing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ring Rage (USA)" index="" image="">
+		<description>Ring Rage (USA)</description>
+		<cloneof></cloneof>
+		<crc>bce5dfb7</crc>
+		<manufacturer>Taito Software</manufacturer>
+		<year>1998</year>
+		<genre>Sports/Wrestling</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Roger Clemens&apos; MVP Baseball (USA)" index="" image="">
+		<description>Roger Clemens\&apos; MVP Baseball (USA)</description>
+		<cloneof></cloneof>
+		<crc>9da8595b</crc>
+		<manufacturer>LJN Ltd.</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Baseball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sensible Soccer - European Champions (Europe)" index="true" image="s">
+		<description>Sensible Soccer - European Champions (Europe)</description>
+		<cloneof></cloneof>
+		<crc>bd022658</crc>
+		<manufacturer>Renegade</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Soccer</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Simpsons Itchy &amp; Scratchy, The - Miniature Golf Madness (USA, Europe)" index="" image="">
+		<description>Simpsons Itchy &amp; Scratchy, The - Miniature Golf Madness (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>ddb147e5</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Golf</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Soccer Mania (Japan, USA)" index="" image="">
+		<description>Soccer Mania (Japan, USA)</description>
+		<cloneof></cloneof>
+		<crc>6f87b543</crc>
+		<manufacturer>Sony Imagesoft</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Soccer</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Speedball 2 - Brutal Deluxe (USA, Europe)" index="" image="">
+		<description>Speedball 2 - Brutal Deluxe (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>fd06e22d</crc>
+		<manufacturer>Mindscape Inc.</manufacturer>
+		<year>1992</year>
+		<genre>Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sports Illustrated - Football &amp; Baseball (USA)" index="" image="">
+		<description>Sports Illustrated - Football &amp; Baseball (USA)</description>
+		<cloneof></cloneof>
+		<crc>235171c4</crc>
+		<manufacturer>Malibu Games</manufacturer>
+		<year>1993</year>
+		<genre>Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sports Illustrated - Golf Classic (USA)" index="" image="">
+		<description>Sports Illustrated - Golf Classic (USA)</description>
+		<cloneof></cloneof>
+		<crc>87b306b4</crc>
+		<manufacturer>Malibu Games</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Golf</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sports Illustrated for Kids - The Ultimate Triple Dare! (USA)" index="" image="">
+		<description>Sports Illustrated for Kids - The Ultimate Triple Dare! (USA)</description>
+		<cloneof></cloneof>
+		<crc>f0d76d49</crc>
+		<manufacturer>Malibu Games</manufacturer>
+		<year>1994</year>
+		<genre>Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Black Bass (USA)" index="" image="">
+		<description>Super Black Bass (USA)</description>
+		<cloneof></cloneof>
+		<crc>6b497842</crc>
+		<manufacturer>Hot B</manufacturer>
+		<year>1998</year>
+		<genre>Sports/Fishing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Kick Off (Europe)" index="" image="">
+		<description>Super Kick Off (Europe)</description>
+		<cloneof></cloneof>
+		<crc>4b1dfe3d</crc>
+		<manufacturer>Imagineer</manufacturer>
+		<year>1991</year>
+		<genre>Sports/Soccer</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tecmo Bowl (USA)" index="true" image="t">
+		<description>Tecmo Bowl (USA)</description>
+		<cloneof></cloneof>
+		<crc>e4f29760</crc>
+		<manufacturer>Tecmo</manufacturer>
+		<year>1991</year>
+		<genre>Sports/Football</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tennis (World)" index="" image="">
+		<description>Tennis (World)</description>
+		<cloneof></cloneof>
+		<crc>5009215f</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1989</year>
+		<genre>Sports/Tennis</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tiny Toon Adventures - Wacky Sports (USA)" index="" image="">
+		<description>Tiny Toon Adventures - Wacky Sports (USA)</description>
+		<cloneof></cloneof>
+		<crc>d3904be9</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1994</year>
+		<genre>Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tip Off (Europe)" index="" image="">
+		<description>Tip Off (Europe)</description>
+		<cloneof></cloneof>
+		<crc>eaf523ec</crc>
+		<manufacturer>Imagineer</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Basketball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Top Rank Tennis (USA)" index="" image="">
+		<description>Top Rank Tennis (USA)</description>
+		<cloneof></cloneof>
+		<crc>3c4e29b4</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Tennis</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Track &amp; Field (USA, Europe)" index="" image="">
+		<description>Track &amp; Field (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>c0ef39f0</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Track &amp; Field</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Track Meet (USA, Europe)" index="" image="">
+		<description>Track Meet (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>7b5dc3e4</crc>
+		<manufacturer>Interplay</manufacturer>
+		<year>1991</year>
+		<genre>Sports/Olympic</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ultra Golf (USA)" index="true" image="u">
+		<description>Ultra Golf (USA)</description>
+		<cloneof></cloneof>
+		<crc>12de9bac</crc>
+		<manufacturer>Ultra Soft</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Golf</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="WCW Main Event (USA, Europe)" index="true" image="w">
+		<description>WCW Main Event (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>974e712b</crc>
+		<manufacturer>FCI, Inc</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Wrestling</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="World Beach Volley - 1992 GB Cup (Europe)" index="" image="">
+		<description>World Beach Volley - 1992 GB Cup (Europe)</description>
+		<cloneof></cloneof>
+		<crc>4023e085</crc>
+		<manufacturer>Taito</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Volleyball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="World Bowling (USA)" index="" image="">
+		<description>World Bowling (USA)</description>
+		<cloneof></cloneof>
+		<crc>896e76a2</crc>
+		<manufacturer>Romstar</manufacturer>
+		<year>1990</year>
+		<genre>Sports/Bowling</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="World Cup 98 (USA, Europe)" index="" image="">
+		<description>World Cup 98 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>6a3272b1</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>1998</year>
+		<genre>Sports/Soccer</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="World Cup USA &apos;94 (Europe)" index="" image="">
+		<description>World Cup USA \&apos;94 (Europe)</description>
+		<cloneof></cloneof>
+		<crc>60231f83</crc>
+		<manufacturer>U.S. Gold</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Soccer</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="WWF King of the Ring (USA, Europe)" index="" image="">
+		<description>WWF King of the Ring (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>7f0cd87c</crc>
+		<manufacturer>LJN Ltd.</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Wrestling</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="WWF Raw (USA, Europe)" index="" image="">
+		<description>WWF Raw (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>1889552f</crc>
+		<manufacturer>LJN Ltd.</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Wrestling</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="WWF Superstars (USA, Europe)" index="" image="">
+		<description>WWF Superstars (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>adbc4e0a</crc>
+		<manufacturer>LJN Ltd.</manufacturer>
+		<year>1991</year>
+		<genre>Sports/Wrestling</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="WWF Superstars 2 (USA, Europe)" index="" image="">
+		<description>WWF Superstars 2 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>8ece1c04</crc>
+		<manufacturer>LJN Ltd.</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Wrestling</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="WWF War Zone (USA, Europe)" index="" image="">
+		<description>WWF War Zone (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>6015b7e1</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1998</year>
+		<genre>Sports/Wrestling</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="XVII Olympic Winter Games, The - Lillehammer 1994 (USA)" index="true" image="x">
+		<description>XVII Olympic Winter Games, The - Lillehammer 1994 (USA)</description>
+		<cloneof></cloneof>
+		<crc>1a98f0a4</crc>
+		<manufacturer>U.S. Gold</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Olympic</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

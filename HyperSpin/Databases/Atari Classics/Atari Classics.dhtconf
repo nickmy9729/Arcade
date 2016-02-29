@@ -1,0 +1,8 @@
+<DonsHyperSpinListGenerator VersionMajor="4">
+  <Wheel>Atari Classics</Wheel>
+  <OutputFile>M:\Arcade\HyperSpin\Databases\Atari Classics\Atari Classics.xml</OutputFile>
+  <SourceFile>M:\Hyperlists\Atari Classics.xml</SourceFile>
+  <ExcludeFile>M:\Arcade\HyperSpin\Databases\Atari Classics\Atari Classics_excluded.xml</ExcludeFile>
+  <MameXmlFile>
+  </MameXmlFile>
+</DonsHyperSpinListGenerator>

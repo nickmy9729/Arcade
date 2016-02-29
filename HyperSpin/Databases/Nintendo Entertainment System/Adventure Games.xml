@@ -1,0 +1,359 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Nintendo Entertainment System</listname>
+		<lastlistupdate>07/28/2013</lastlistupdate>
+		<listversion>1.1 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="Battle of Olympus, The (USA)" index="true" image="b">
+		<description>Battle of Olympus, The (USA)</description>
+		<cloneof></cloneof>
+		<crc>6B53006A</crc>
+		<manufacturer>Broderbund</manufacturer>
+		<year>1989</year>
+		<genre>Adventure</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Castelian (USA)" index="true" image="c">
+		<description>Castelian (USA)</description>
+		<cloneof></cloneof>
+		<crc>0AE6C9E2</crc>
+		<manufacturer>Triffix</manufacturer>
+		<year>1991</year>
+		<genre>Adventure</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cosmic Spacehead (Europe) (En,Fr,De,Es) (Unl)" index="" image="">
+		<description>Cosmic Spacehead (Europe) (En,Fr,De,Es) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>70F31D2C</crc>
+		<manufacturer>Camerica</manufacturer>
+		<year>1991</year>
+		<genre>Adventure</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Deja Vu (USA)" index="true" image="d">
+		<description>Deja Vu (USA)</description>
+		<cloneof></cloneof>
+		<crc>43D01C10</crc>
+		<manufacturer>Seika Corp.</manufacturer>
+		<year>1990</year>
+		<genre>Adventure</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dizzy the Adventurer (USA) (Aladdin Compact Cartridge) (Unl)" index="" image="">
+		<description>Dizzy the Adventurer (USA) (Aladdin Compact Cartridge) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>DB99D0CB</crc>
+		<manufacturer>Camerica</manufacturer>
+		<year>1993</year>
+		<genre>Adventure</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dr. Chaos (USA)" index="" image="">
+		<description>Dr. Chaos (USA)</description>
+		<cloneof></cloneof>
+		<crc>73620901</crc>
+		<manufacturer>FCI, Inc.</manufacturer>
+		<year>1988</year>
+		<genre>Adventure</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fantastic Adventures of Dizzy, The (USA) (Unl)" index="true" image="f">
+		<description>Fantastic Adventures of Dizzy, The (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>38FBCC85</crc>
+		<manufacturer>Camerica</manufacturer>
+		<year>1993</year>
+		<genre>Adventure</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fester&apos;s Quest (USA)" index="" image="">
+		<description>Fester&apos;s Quest (USA)</description>
+		<cloneof></cloneof>
+		<crc>B6BF5137</crc>
+		<manufacturer>SunSoft</manufacturer>
+		<year>1989</year>
+		<genre>Adventure</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gargoyle&apos;s Quest II (USA)" index="true" image="g">
+		<description>Gargoyle&apos;s Quest II (USA)</description>
+		<cloneof></cloneof>
+		<crc>F0E9971B</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1992</year>
+		<genre>Adventure</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Goonies II, The (USA)" index="" image="">
+		<description>Goonies II, The (USA)</description>
+		<cloneof></cloneof>
+		<crc>999577B6</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1987</year>
+		<genre>Adventure</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Immortal, The (USA)" index="true" image="i">
+		<description>Immortal, The (USA)</description>
+		<cloneof></cloneof>
+		<crc>8889C564</crc>
+		<manufacturer>Electronic Arts</manufacturer>
+		<year>1990</year>
+		<genre>Adventure</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Impossible Mission II (USA) (Unl)" index="" image="">
+		<description>Impossible Mission II (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>92A3D007</crc>
+		<manufacturer>SEI</manufacturer>
+		<year>1990</year>
+		<genre>Adventure</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Indiana Jones and the Last Crusade (USA) (Taito)" index="" image="">
+		<description>Indiana Jones and the Last Crusade (USA) (Taito)</description>
+		<cloneof></cloneof>
+		<crc>8BCA5146</crc>
+		<manufacturer>Taito Corporation</manufacturer>
+		<year>1991</year>
+		<genre>Adventure</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Indiana Jones and the Last Crusade (USA) (UBI Soft)" index="" image="">
+		<description>Indiana Jones and the Last Crusade (USA) (UBI Soft)</description>
+		<cloneof></cloneof>
+		<crc>2EA8CC16</crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>1993</year>
+		<genre>Adventure</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Jurassic Park (USA)" index="true" image="j">
+		<description>Jurassic Park (USA)</description>
+		<cloneof></cloneof>
+		<crc>3B7F5B3B</crc>
+		<manufacturer>Ocean</manufacturer>
+		<year>1993</year>
+		<genre>Adventure</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="King Neptune&apos;s Adventure (USA) (Unl)" index="true" image="k">
+		<description>King Neptune&apos;s Adventure (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>CB53C523</crc>
+		<manufacturer>Color Dreams</manufacturer>
+		<year>1990</year>
+		<genre>Adventure</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="King&apos;s Quest V (USA)" index="" image="">
+		<description>King&apos;s Quest V (USA)</description>
+		<cloneof></cloneof>
+		<crc>00837960</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1992</year>
+		<genre>Adventure</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Last Ninja, The (USA)" index="true" image="l">
+		<description>Last Ninja, The (USA)</description>
+		<cloneof></cloneof>
+		<crc>E353969F</crc>
+		<manufacturer>Jaleco Entertainment</manufacturer>
+		<year>1991</year>
+		<genre>Adventure</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Legend of Prince Valiant, The (Europe)" index="" image="">
+		<description>Legend of Prince Valiant, The (Europe)</description>
+		<cloneof></cloneof>
+		<crc>FD7E9A7E</crc>
+		<manufacturer>Ocean</manufacturer>
+		<year>1992</year>
+		<genre>Adventure</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Legend of Zelda, The (USA) (Rev A)" index="" image="">
+		<description>Legend of Zelda, The (USA) (Rev A)</description>
+		<cloneof></cloneof>
+		<crc>EAF7ED72</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1992</year>
+		<genre>Adventure</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Linus Spacehead&apos;s Cosmic Crusade (USA) (En,Fr,De,Es) (Unl)" index="" image="">
+		<description>Linus Spacehead&apos;s Cosmic Crusade (USA) (En,Fr,De,Es) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>9E379698</crc>
+		<manufacturer>Camerica</manufacturer>
+		<year>1991</year>
+		<genre>Adventure</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Maniac Mansion (USA)" index="true" image="m">
+		<description>Maniac Mansion (USA)</description>
+		<cloneof></cloneof>
+		<crc>0D9F5BD1</crc>
+		<manufacturer>Jaleco Entertainment</manufacturer>
+		<year>1990</year>
+		<genre>Adventure</genre>
+		<rating>HSRS - PG (Parental Guidance)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Metroid (USA)" index="" image="">
+		<description>Metroid (USA)</description>
+		<cloneof></cloneof>
+		<crc>70080810</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1986</year>
+		<genre>Adventure</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Muppet Adventure - Chaos at the Carnival (USA)" index="" image="">
+		<description>Muppet Adventure - Chaos at the Carnival (USA)</description>
+		<cloneof></cloneof>
+		<crc>7156CB4D</crc>
+		<manufacturer>Hi-Tech</manufacturer>
+		<year>1990</year>
+		<genre>Adventure</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Princess Tomato in Salad Kingdom (USA)" index="true" image="p">
+		<description>Princess Tomato in Salad Kingdom (USA)</description>
+		<cloneof></cloneof>
+		<crc>56756615</crc>
+		<manufacturer>Hudson</manufacturer>
+		<year>1991</year>
+		<genre>Adventure</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Robin Hood - Prince of Thieves (USA) (Rev A)" index="true" image="r">
+		<description>Robin Hood - Prince of Thieves (USA) (Rev A)</description>
+		<cloneof></cloneof>
+		<crc>C3CCC493</crc>
+		<manufacturer>Virgin Interactive</manufacturer>
+		<year>1991</year>
+		<genre>Adventure</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Shadowgate (USA)" index="true" image="s">
+		<description>Shadowgate (USA)</description>
+		<cloneof></cloneof>
+		<crc>6A1F628A</crc>
+		<manufacturer>Kemco</manufacturer>
+		<year>1989</year>
+		<genre>Adventure</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Snake&apos;s Revenge (USA)" index="" image="">
+		<description>Snake&apos;s Revenge (USA)</description>
+		<cloneof></cloneof>
+		<crc>48E904D0</crc>
+		<manufacturer>Ultra</manufacturer>
+		<year>1990</year>
+		<genre>Adventure</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Stanley - The Search for Dr. Livingston (USA)" index="" image="">
+		<description>Stanley - The Search for Dr. Livingston (USA)</description>
+		<cloneof></cloneof>
+		<crc>62E2E7FC</crc>
+		<manufacturer>Electro Brain</manufacturer>
+		<year>1992</year>
+		<genre>Adventure</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Star Trek - 25th Anniversary (USA)" index="" image="">
+		<description>Star Trek - 25th Anniversary (USA)</description>
+		<cloneof></cloneof>
+		<crc>16EBA50A</crc>
+		<manufacturer>Ultra</manufacturer>
+		<year>1992</year>
+		<genre>Adventure</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="StarTropics (USA)" index="" image="">
+		<description>StarTropics (USA)</description>
+		<cloneof></cloneof>
+		<crc>889129CB</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1990</year>
+		<genre>Adventure</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="StarTropics II - Zoda&apos;s Revenge (USA)" index="" image="">
+		<description>StarTropics II - Zoda&apos;s Revenge (USA)</description>
+		<cloneof></cloneof>
+		<crc>D054FFB0</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1994</year>
+		<genre>Adventure</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Uninvited (USA)" index="true" image="u">
+		<description>Uninvited (USA)</description>
+		<cloneof></cloneof>
+		<crc>9BAC73EF</crc>
+		<manufacturer>Kemco</manufacturer>
+		<year>1991</year>
+		<genre>Adventure</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Wizards &amp; Warriors III - Kuros...Visions of Power (USA)" index="true" image="w">
+		<description>Wizards &amp; Warriors III - Kuros...Visions of Power (USA)</description>
+		<cloneof></cloneof>
+		<crc>D2562072</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1992</year>
+		<genre>Adventure</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Young Indiana Jones Chronicles, The (USA)" index="true" image="y">
+		<description>Young Indiana Jones Chronicles, The (USA)</description>
+		<cloneof></cloneof>
+		<crc>35C6F574</crc>
+		<manufacturer>Jaleco Entertainment</manufacturer>
+		<year>1992</year>
+		<genre>Adventure</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

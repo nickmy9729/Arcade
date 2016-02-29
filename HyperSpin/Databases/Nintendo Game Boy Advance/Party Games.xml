@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Nintendo Game Boy Advance</listname>
+		<lastlistupdate>10/27/2011</lastlistupdate>
+		<listversion>1.1 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="Barbie Groovy Games (USA)" index="true" image="b">
+		<description>Barbie Groovy Games (USA)</description>
+		<cloneof></cloneof>
+		<crc>AA017567</crc>
+		<manufacturer>VU Games</manufacturer>
+		<year>2002</year>
+		<genre>Party</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cartoon Network Block Party (USA)" index="true" image="c">
+		<description>Cartoon Network Block Party (USA)</description>
+		<cloneof></cloneof>
+		<crc>EDC0CCEE</crc>
+		<manufacturer>Majesco Games</manufacturer>
+		<year>2004</year>
+		<genre>Party</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Franklin the Turtle (USA) (En,Fr,De,Es,It,Sv,No,Da,Fi)" index="true" image="f">
+		<description>Franklin the Turtle (USA) (En,Fr,De,Es,It,Sv,No,Da,Fi)</description>
+		<cloneof></cloneof>
+		<crc>9BB561A8</crc>
+		<manufacturer>The Game Factory</manufacturer>
+		<year>2005</year>
+		<genre>Party</genre>
+		<rating>ESRB - EC (Early Childhood)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hello Kitty - Happy Party Pals (USA)" index="true" image="h">
+		<description>Hello Kitty - Happy Party Pals (USA)</description>
+		<cloneof></cloneof>
+		<crc>E49C45A0</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2005</year>
+		<genre>Party</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mario Party Advance (USA)" index="true" image="m">
+		<description>Mario Party Advance (USA)</description>
+		<cloneof></cloneof>
+		<crc>F094A4CB</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2005</year>
+		<genre>Party</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="SpongeBob SquarePants - Lights, Camera, Pants! (USA)" index="true" image="s">
+		<description>SpongeBob SquarePants - Lights, Camera, Pants! (USA)</description>
+		<cloneof></cloneof>
+		<crc>23297579</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2005</year>
+		<genre>Party</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

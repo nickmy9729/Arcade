@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Super Nintendo Entertainment System</listname>
+		<lastlistupdate>11/26/2011</lastlistupdate>
+		<listversion>1.3 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="Andre Agassi Tennis (USA)" index="true" image="a">
+		<description>Andre Agassi Tennis (USA)</description>
+		<cloneof></cloneof>
+		<crc>d1ae87be</crc>
+		<manufacturer>TecMagik</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Tennis</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Brunswick World Tournament of Champions (USA)" index="true" image="b">
+		<description>Brunswick World Tournament of Champions (USA)</description>
+		<cloneof></cloneof>
+		<crc>52e4dc92</crc>
+		<manufacturer>Black Pearl</manufacturer>
+		<year>1997</year>
+		<genre>Sports/Tennis</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="David Crane&apos;s Amazing Tennis (USA)" index="true" image="d">
+		<description>David Crane&apos;s Amazing Tennis (USA)</description>
+		<cloneof></cloneof>
+		<crc>caad18dc</crc>
+		<manufacturer>Absolute Entertainment</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Tennis</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="International Tennis Tour (USA)" index="true" image="i">
+		<description>International Tennis Tour (USA)</description>
+		<cloneof></cloneof>
+		<crc>ad3cd5e6</crc>
+		<manufacturer>Taito</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Tennis</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Jimmy Connors Pro Tennis Tour (USA)" index="true" image="j">
+		<description>Jimmy Connors Pro Tennis Tour (USA)</description>
+		<cloneof></cloneof>
+		<crc>913f1555</crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Tennis</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Smash Tennis (Europe)" index="true" image="s">
+		<description>Smash Tennis (Europe)</description>
+		<cloneof></cloneof>
+		<crc>6f7d1745</crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Tennis</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Tennis (USA)" index="" image="">
+		<description>Super Tennis (USA)</description>
+		<cloneof></cloneof>
+		<crc>8d383776</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1991</year>
+		<genre>Sports/Tennis</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

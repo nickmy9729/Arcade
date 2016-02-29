@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Atari 2600</listname>
+		<lastlistupdate>07/20/2013</lastlistupdate>
+		<listversion>1.0 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="Breakout (USA)" index="true" image="b">
+		<description>Breakout (USA)</description>
+		<cloneof></cloneof>
+		<crc>3037638C</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1978</year>
+		<genre>Breakout</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Circus Atari (USA)" index="true" image="c">
+		<description>Circus Atari (USA)</description>
+		<cloneof></cloneof>
+		<crc>D2A330A3</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1980</year>
+		<genre>Breakout</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fireball (USA)" index="true" image="f">
+		<description>Fireball (USA)</description>
+		<cloneof></cloneof>
+		<crc>B32AE162</crc>
+		<manufacturer>Arcadia Corporation</manufacturer>
+		<year>1982</year>
+		<genre>Breakout</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Off the Wall (USA)" index="true" image="o">
+		<description>Off the Wall (USA)</description>
+		<cloneof></cloneof>
+		<crc>A09779EA</crc>
+		<manufacturer>Atari - Axlon</manufacturer>
+		<year>1989</year>
+		<genre>Breakout</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Breakout (USA)" index="true" image="s">
+		<description>Super Breakout (USA)</description>
+		<cloneof></cloneof>
+		<crc>B0F20D31</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1981</year>
+		<genre>Breakout</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Wall Ball (USA)" index="true" image="w">
+		<description>Wall Ball (USA)</description>
+		<cloneof></cloneof>
+		<crc>9AC6A295</crc>
+		<manufacturer>Avalon Hill</manufacturer>
+		<year>1983</year>
+		<genre>Breakout</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Warlords (USA)" index="" image="">
+		<description>Warlords (USA)</description>
+		<cloneof></cloneof>
+		<crc>CF174B57</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1981</year>
+		<genre>Breakout</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

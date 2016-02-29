@@ -1,0 +1,4109 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Atari 8-Bit</listname>
+		<lastlistupdate>05/17/2015</lastlistupdate>
+		<listversion>1.0</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="AD 2044 (Poland) (Side A)" index="true" image="a">
+		<description>AD 2044 (Poland) (Side A)</description>
+		<cloneof></cloneof>
+		<crc>541F4423</crc>
+		<manufacturer>RMP Software</manufacturer>
+		<year>1991</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="AD 2044 (Poland) (Side B)" index="" image="">
+		<description>AD 2044 (Poland) (Side B)</description>
+		<cloneof></cloneof>
+		<crc>C703F5B3</crc>
+		<manufacturer>RMP Software</manufacturer>
+		<year>1991</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Adax (Poland)" index="" image="">
+		<description>Adax (Poland)</description>
+		<cloneof></cloneof>
+		<crc>F2BA72A6</crc>
+		<manufacturer>L.K. Avalon</manufacturer>
+		<year>1992</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Adventure Creator (USA)" index="" image="">
+		<description>Adventure Creator (USA)</description>
+		<cloneof></cloneof>
+		<crc>787AACA4</crc>
+		<manufacturer>Spinnaker Software</manufacturer>
+		<year>1984</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Adventure in Time (USA)" index="" image="">
+		<description>Adventure in Time (USA)</description>
+		<cloneof></cloneof>
+		<crc>6F59B8CB</crc>
+		<manufacturer>Phoenix Software</manufacturer>
+		<year>1983</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Adventure Master (USA) (Side A)" index="" image="">
+		<description>Adventure Master (USA) (Side A)</description>
+		<cloneof></cloneof>
+		<crc>EDB139BF</crc>
+		<manufacturer>CBS Software</manufacturer>
+		<year>1984</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Adventure Master (USA) (Side B)" index="" image="">
+		<description>Adventure Master (USA) (Side B)</description>
+		<cloneof></cloneof>
+		<crc>3649CEE8</crc>
+		<manufacturer>CBS Software</manufacturer>
+		<year>1984</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Adventure No. 01 - Adventureland (USA)" index="" image="">
+		<description>Adventure No. 01 - Adventureland (USA)</description>
+		<cloneof></cloneof>
+		<crc>E65B8F1F</crc>
+		<manufacturer>Adventure International</manufacturer>
+		<year>1981</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Adventure No. 02 - Pirate Adventure (USA)" index="" image="">
+		<description>Adventure No. 02 - Pirate Adventure (USA)</description>
+		<cloneof></cloneof>
+		<crc>73421AF9</crc>
+		<manufacturer>Adventure International</manufacturer>
+		<year>1981</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Adventure No. 03 - Mission Impossible (USA)" index="" image="">
+		<description>Adventure No. 03 - Mission Impossible (USA)</description>
+		<cloneof></cloneof>
+		<crc>FDE62950</crc>
+		<manufacturer>Adventure International</manufacturer>
+		<year>1981</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Adventure No. 04 - Voodoo Castle (USA)" index="" image="">
+		<description>Adventure No. 04 - Voodoo Castle (USA)</description>
+		<cloneof></cloneof>
+		<crc>9A38B28C</crc>
+		<manufacturer>Adventure International</manufacturer>
+		<year>1981</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Adventure No. 05 - The Count (USA)" index="" image="">
+		<description>Adventure No. 05 - The Count (USA)</description>
+		<cloneof></cloneof>
+		<crc>67D09973</crc>
+		<manufacturer>Adventure International</manufacturer>
+		<year>1981</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Adventure No. 06 - Strange Odyssey (USA)" index="" image="">
+		<description>Adventure No. 06 - Strange Odyssey (USA)</description>
+		<cloneof></cloneof>
+		<crc>90626D11</crc>
+		<manufacturer>Adventure International</manufacturer>
+		<year>1981</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Adventure No. 07 - Mystery Fun House (USA)" index="" image="">
+		<description>Adventure No. 07 - Mystery Fun House (USA)</description>
+		<cloneof></cloneof>
+		<crc>037DA4C6</crc>
+		<manufacturer>Adventure International</manufacturer>
+		<year>1981</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Adventure No. 08 - Pyramid of Doom (USA)" index="" image="">
+		<description>Adventure No. 08 - Pyramid of Doom (USA)</description>
+		<cloneof></cloneof>
+		<crc>CD2CB7B1</crc>
+		<manufacturer>Adventure International</manufacturer>
+		<year>1981</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Adventure No. 09 - Ghost Town (USA)" index="" image="">
+		<description>Adventure No. 09 - Ghost Town (USA)</description>
+		<cloneof></cloneof>
+		<crc>B4725F5A</crc>
+		<manufacturer>Adventure International</manufacturer>
+		<year>1981</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Adventure No. 10 - Savage Island - Part I (USA)" index="" image="">
+		<description>Adventure No. 10 - Savage Island - Part I (USA)</description>
+		<cloneof></cloneof>
+		<crc>51AB1935</crc>
+		<manufacturer>Adventure International</manufacturer>
+		<year>1981</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Adventure No. 11 - Savage Island - Part II (USA)" index="" image="">
+		<description>Adventure No. 11 - Savage Island - Part II (USA)</description>
+		<cloneof></cloneof>
+		<crc>B26A1BFF</crc>
+		<manufacturer>Adventure International</manufacturer>
+		<year>1981</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Adventure No. 12 - The Golden Voyage (USA)" index="" image="">
+		<description>Adventure No. 12 - The Golden Voyage (USA)</description>
+		<cloneof></cloneof>
+		<crc>B084FE3F</crc>
+		<manufacturer>Adventure International</manufacturer>
+		<year>1981</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Adventure No. 13 - The Sorcerer of Claymorgue Castle (USA)" index="" image="">
+		<description>Adventure No. 13 - The Sorcerer of Claymorgue Castle (USA)</description>
+		<cloneof></cloneof>
+		<crc>A5F1FD72</crc>
+		<manufacturer>Adventure International</manufacturer>
+		<year>1981</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Adventure on a Boat (USA)" index="" image="">
+		<description>Adventure on a Boat (USA)</description>
+		<cloneof></cloneof>
+		<crc>8D8C023B</crc>
+		<manufacturer>subLogic</manufacturer>
+		<year>1981</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Adventure Quest (USA)" index="" image="">
+		<description>Adventure Quest (USA)</description>
+		<cloneof></cloneof>
+		<crc>67E1268A</crc>
+		<manufacturer>Level 9 Computing</manufacturer>
+		<year>1983</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Adventure Telephone (Europe)" index="" image="">
+		<description>Adventure Telephone (Europe)</description>
+		<cloneof></cloneof>
+		<crc>D51A92FF</crc>
+		<manufacturer>Tearsoft</manufacturer>
+		<year>1986</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Adventure! (USA)" index="" image="">
+		<description>Adventure! (USA)</description>
+		<cloneof></cloneof>
+		<crc>8F1B03D8</crc>
+		<manufacturer>Creative Computing</manufacturer>
+		<year>1980</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Adventures of Buckaroo Banzai, The (USA) (Side A)" index="" image="">
+		<description>Adventures of Buckaroo Banzai, The (USA) (Side A)</description>
+		<cloneof></cloneof>
+		<crc>4A58EB25</crc>
+		<manufacturer>Adventure International</manufacturer>
+		<year>19xx</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Adventures of Buckaroo Banzai, The (USA) (Side B)" index="" image="">
+		<description>Adventures of Buckaroo Banzai, The (USA) (Side B)</description>
+		<cloneof></cloneof>
+		<crc>52789CF4</crc>
+		<manufacturer>Adventure International</manufacturer>
+		<year>19xx</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="AdventureWriter (USA)" index="" image="">
+		<description>AdventureWriter (USA)</description>
+		<cloneof></cloneof>
+		<crc>C898450C</crc>
+		<manufacturer>CodeWriter</manufacturer>
+		<year>1984</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Aliants (USA) (Disk 1 Side A)" index="" image="">
+		<description>Aliants (USA) (Disk 1 Side A)</description>
+		<cloneof></cloneof>
+		<crc>491ACCC4</crc>
+		<manufacturer>TDC Distributors</manufacturer>
+		<year>1987</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Aliants (USA) (Disk 1 Side B)" index="" image="">
+		<description>Aliants (USA) (Disk 1 Side B)</description>
+		<cloneof></cloneof>
+		<crc>6BC5210C</crc>
+		<manufacturer>TDC Distributors</manufacturer>
+		<year>1987</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Aliants (USA) (Disk 2)" index="" image="">
+		<description>Aliants (USA) (Disk 2)</description>
+		<cloneof></cloneof>
+		<crc>505029B0</crc>
+		<manufacturer>TDC Distributors</manufacturer>
+		<year>1987</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Alien Egg (USA)" index="" image="">
+		<description>Alien Egg (USA)</description>
+		<cloneof></cloneof>
+		<crc>4780026A</crc>
+		<manufacturer>APX</manufacturer>
+		<year>1981</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Alien Hell (USA)" index="" image="">
+		<description>Alien Hell (USA)</description>
+		<cloneof></cloneof>
+		<crc>2AB3EDAF</crc>
+		<manufacturer>Syncro</manufacturer>
+		<year>1981</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Amulet, The (Europe)" index="" image="">
+		<description>Amulet, The (Europe)</description>
+		<cloneof></cloneof>
+		<crc>B61F1C4A</crc>
+		<manufacturer>Tiara Software</manufacturer>
+		<year>1990</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Archers, The (Europe) (Side A)" index="" image="">
+		<description>Archers, The (Europe) (Side A)</description>
+		<cloneof></cloneof>
+		<crc>8D77B950</crc>
+		<manufacturer>Mosaic Publishing</manufacturer>
+		<year>1986</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Archers, The (Europe) (Side B)" index="" image="">
+		<description>Archers, The (Europe) (Side B)</description>
+		<cloneof></cloneof>
+		<crc>6526B731</crc>
+		<manufacturer>Mosaic Publishing</manufacturer>
+		<year>1986</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Around the Planet (Poland)" index="" image="">
+		<description>Around the Planet (Poland)</description>
+		<cloneof></cloneof>
+		<crc>2F4B8130</crc>
+		<manufacturer>Mirage</manufacturer>
+		<year>1994</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Around the World (USA)" index="" image="">
+		<description>Around the World (USA)</description>
+		<cloneof></cloneof>
+		<crc>B90785D8</crc>
+		<manufacturer>SUPERWare</manufacturer>
+		<year>1983</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Artefakt Przodkow (Poland)" index="" image="">
+		<description>Artefakt Przodkow (Poland)</description>
+		<cloneof></cloneof>
+		<crc>7E9EC832</crc>
+		<manufacturer>ASF</manufacturer>
+		<year>1992</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Astron IV (USA)" index="" image="">
+		<description>Astron IV (USA)</description>
+		<cloneof></cloneof>
+		<crc>A46F30FF</crc>
+		<manufacturer>Syncro</manufacturer>
+		<year>1982</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Asylum, The (USA) (Unl)" index="" image="">
+		<description>Asylum, The (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>55CC15DF</crc>
+		<manufacturer>William F. Denman Jr.</manufacturer>
+		<year>19xx</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Atomic Gnom (Germany)" index="" image="">
+		<description>Atomic Gnom (Germany)</description>
+		<cloneof></cloneof>
+		<crc>9AB7F613</crc>
+		<manufacturer>KE-Soft</manufacturer>
+		<year>1989</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="AURA Adventures (Europe) (Unl)" index="" image="">
+		<description>AURA Adventures (Europe) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>AA4FDACA</crc>
+		<manufacturer>AURA</manufacturer>
+		<year>1994</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Aurum (Poland)" index="" image="">
+		<description>Aurum (Poland)</description>
+		<cloneof></cloneof>
+		<crc>583D3D55</crc>
+		<manufacturer>L.K. Avalon</manufacturer>
+		<year>1993</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Aztec (USA)" index="" image="">
+		<description>Aztec (USA)</description>
+		<cloneof></cloneof>
+		<crc>6116D127</crc>
+		<manufacturer>Datamost</manufacturer>
+		<year>1982</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ballyhoo (USA) (Side A)" index="true" image="b">
+		<description>Ballyhoo (USA) (Side A)</description>
+		<cloneof></cloneof>
+		<crc>A89ECC58</crc>
+		<manufacturer>Infocom</manufacturer>
+		<year>1986</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ballyhoo (USA) (Side B)" index="" image="">
+		<description>Ballyhoo (USA) (Side B)</description>
+		<cloneof></cloneof>
+		<crc>63C30326</crc>
+		<manufacturer>Infocom</manufacturer>
+		<year>1986</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Basil the Great Mouse Detective (Europe)" index="" image="">
+		<description>Basil the Great Mouse Detective (Europe)</description>
+		<cloneof></cloneof>
+		<crc>5BB6AC4A</crc>
+		<manufacturer>Gremlin Graphics Software</manufacturer>
+		<year>1987</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Beneath the Pyramids (USA)" index="" image="">
+		<description>Beneath the Pyramids (USA)</description>
+		<cloneof></cloneof>
+		<crc>2F0662C7</crc>
+		<manufacturer>Crystalware</manufacturer>
+		<year>1981</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bertyx (Poland)" index="" image="">
+		<description>Bertyx (Poland)</description>
+		<cloneof></cloneof>
+		<crc>FF002444</crc>
+		<manufacturer>Mirage</manufacturer>
+		<year>1992</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Beyond Castle Wolfenstein (USA)" index="" image="">
+		<description>Beyond Castle Wolfenstein (USA)</description>
+		<cloneof></cloneof>
+		<crc>78EF8DB7</crc>
+		<manufacturer>Muse Software</manufacturer>
+		<year>1984</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Birth of the Phoenix (USA)" index="" image="">
+		<description>Birth of the Phoenix (USA)</description>
+		<cloneof></cloneof>
+		<crc>BE912B37</crc>
+		<manufacturer>Phoenix Software</manufacturer>
+		<year>1982</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Black Forest, The (USA)" index="" image="">
+		<description>Black Forest, The (USA)</description>
+		<cloneof></cloneof>
+		<crc>006CBE61</crc>
+		<manufacturer>SubLOGIC</manufacturer>
+		<year>1982</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Blade of Blackpoole, The (USA) (Side A)" index="" image="">
+		<description>Blade of Blackpoole, The (USA) (Side A)</description>
+		<cloneof></cloneof>
+		<crc>2EE88C41</crc>
+		<manufacturer>Sirius Software</manufacturer>
+		<year>1982</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Blade of Blackpoole, The (USA) (Side B)" index="" image="">
+		<description>Blade of Blackpoole, The (USA) (Side B)</description>
+		<cloneof></cloneof>
+		<crc>B733C82E</crc>
+		<manufacturer>Sirius Software</manufacturer>
+		<year>1982</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Blinky&apos;s Scary School (Europe)" index="" image="">
+		<description>Blinky&apos;s Scary School (Europe)</description>
+		<cloneof></cloneof>
+		<crc>4CD9EA99</crc>
+		<manufacturer>Zeppelin Games</manufacturer>
+		<year>1990</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Brimstone (USA) (Disk 1 Side A)" index="" image="">
+		<description>Brimstone (USA) (Disk 1 Side A)</description>
+		<cloneof></cloneof>
+		<crc>B051FA46</crc>
+		<manufacturer>Synapse Software</manufacturer>
+		<year>1985</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Brimstone (USA) (Disk 1 Side B)" index="" image="">
+		<description>Brimstone (USA) (Disk 1 Side B)</description>
+		<cloneof></cloneof>
+		<crc>D58EF621</crc>
+		<manufacturer>Synapse Software</manufacturer>
+		<year>1985</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Brimstone (USA) (Disk 2 Side A)" index="" image="">
+		<description>Brimstone (USA) (Disk 2 Side A)</description>
+		<cloneof></cloneof>
+		<crc>82D4075B</crc>
+		<manufacturer>Synapse Software</manufacturer>
+		<year>1985</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Brimstone (USA) (Disk 2 Side B)" index="" image="">
+		<description>Brimstone (USA) (Disk 2 Side B)</description>
+		<cloneof></cloneof>
+		<crc>3BCBEBA9</crc>
+		<manufacturer>Synapse Software</manufacturer>
+		<year>1985</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Casebook of Hemlock Soames #1,The (USA)" index="true" image="c">
+		<description>Casebook of Hemlock Soames #1,The (USA)</description>
+		<cloneof></cloneof>
+		<crc>692A0FDB</crc>
+		<manufacturer>CodeWriter</manufacturer>
+		<year>1986</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Castle (USA)" index="" image="">
+		<description>Castle (USA)</description>
+		<cloneof></cloneof>
+		<crc>A73E13A2</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1981</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Castle Wolfenstein (USA)" index="" image="">
+		<description>Castle Wolfenstein (USA)</description>
+		<cloneof></cloneof>
+		<crc>B531DA7C</crc>
+		<manufacturer>Muse</manufacturer>
+		<year>1983</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cavelord (Europe)" index="" image="">
+		<description>Cavelord (Europe)</description>
+		<cloneof></cloneof>
+		<crc>6E3A5D5E</crc>
+		<manufacturer>Ariola</manufacturer>
+		<year>1985</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cavepac (Germany)" index="" image="">
+		<description>Cavepac (Germany)</description>
+		<cloneof></cloneof>
+		<crc>5E27FDAC</crc>
+		<manufacturer>KE-Soft</manufacturer>
+		<year>1994</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cells and Serpents (Europe)" index="" image="">
+		<description>Cells and Serpents (Europe)</description>
+		<cloneof></cloneof>
+		<crc>7158B26E</crc>
+		<manufacturer>ASP Software</manufacturer>
+		<year>1983</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Chimera (Europe)" index="" image="">
+		<description>Chimera (Europe)</description>
+		<cloneof></cloneof>
+		<crc>B5931E49</crc>
+		<manufacturer>Firebird</manufacturer>
+		<year>1985</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Christmas Eve Nightmare, A (USA) (Unl)" index="" image="">
+		<description>Christmas Eve Nightmare, A (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>3F54E657</crc>
+		<manufacturer>Dan Johnson</manufacturer>
+		<year>19xx</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cloak of Death (Europe)" index="" image="">
+		<description>Cloak of Death (Europe)</description>
+		<cloneof></cloneof>
+		<crc>68DE2327</crc>
+		<manufacturer>Bug-Byte</manufacturer>
+		<year>19xx</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Clonus (USA) (Side A)" index="" image="">
+		<description>Clonus (USA) (Side A)</description>
+		<cloneof></cloneof>
+		<crc>E9F615B4</crc>
+		<manufacturer>Crystalware</manufacturer>
+		<year>19xx</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Clonus (USA) (Side B)" index="" image="">
+		<description>Clonus (USA) (Side B)</description>
+		<cloneof></cloneof>
+		<crc>43E2275E</crc>
+		<manufacturer>Crystalware</manufacturer>
+		<year>19xx</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Clonus II (USA)" index="" image="">
+		<description>Clonus II (USA)</description>
+		<cloneof></cloneof>
+		<crc>B6F6E5B7</crc>
+		<manufacturer>Crystalware</manufacturer>
+		<year>1982</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cranston Manor Adventure (USA)" index="" image="">
+		<description>Cranston Manor Adventure (USA)</description>
+		<cloneof></cloneof>
+		<crc>3CFC1C07</crc>
+		<manufacturer>Artworx</manufacturer>
+		<year>19xx</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Crockford&apos;s Trench (USA)" index="" image="">
+		<description>Crockford&apos;s Trench (USA)</description>
+		<cloneof></cloneof>
+		<crc>3E8EAB9D</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1982</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Crypt, The (USA) (Side A)" index="" image="">
+		<description>Crypt, The (USA) (Side A)</description>
+		<cloneof></cloneof>
+		<crc>2C8656D3</crc>
+		<manufacturer>Crystal Vision</manufacturer>
+		<year>1990</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Crypt, The (USA) (Side B)" index="" image="">
+		<description>Crypt, The (USA) (Side B)</description>
+		<cloneof></cloneof>
+		<crc>9605A831</crc>
+		<manufacturer>Crystal Vision</manufacturer>
+		<year>1990</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Crypts of Egypt (Poland)" index="" image="">
+		<description>Crypts of Egypt (Poland)</description>
+		<cloneof></cloneof>
+		<crc>B426DA69</crc>
+		<manufacturer>Mirage</manufacturer>
+		<year>1994</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Crypts of Terror (Canada)" index="" image="">
+		<description>Crypts of Terror (Canada)</description>
+		<cloneof></cloneof>
+		<crc>2FC5CD68</crc>
+		<manufacturer>Inhome Software</manufacturer>
+		<year>1981</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cutthroats (USA) (Disk 1)" index="" image="">
+		<description>Cutthroats (USA) (Disk 1)</description>
+		<cloneof></cloneof>
+		<crc>F492E0A6</crc>
+		<manufacturer>Infocom</manufacturer>
+		<year>1984</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cutthroats (USA) (Disk 2)" index="" image="">
+		<description>Cutthroats (USA) (Disk 2)</description>
+		<cloneof></cloneof>
+		<crc>EC7CD1CF</crc>
+		<manufacturer>Infocom</manufacturer>
+		<year>1984</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cyborg (USA) (Side A)" index="" image="">
+		<description>Cyborg (USA) (Side A)</description>
+		<cloneof></cloneof>
+		<crc>0C6716C5</crc>
+		<manufacturer>Sentient Software</manufacturer>
+		<year>1982</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cyborg (USA) (Side B)" index="" image="">
+		<description>Cyborg (USA) (Side B)</description>
+		<cloneof></cloneof>
+		<crc>E8E40858</crc>
+		<manufacturer>Sentient Software</manufacturer>
+		<year>1982</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cycleknight (USA)" index="" image="">
+		<description>Cycleknight (USA)</description>
+		<cloneof></cloneof>
+		<crc>9608EC10</crc>
+		<manufacturer>Artworx</manufacturer>
+		<year>1986</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dallas Quest, The (USA) (Side A)" index="true" image="d">
+		<description>Dallas Quest, The (USA) (Side A)</description>
+		<cloneof></cloneof>
+		<crc>8C417C0D</crc>
+		<manufacturer>Datasoft</manufacturer>
+		<year>1984</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dallas Quest, The (USA) (Side B)" index="" image="">
+		<description>Dallas Quest, The (USA) (Side B)</description>
+		<cloneof></cloneof>
+		<crc>8119E1A9</crc>
+		<manufacturer>Datasoft</manufacturer>
+		<year>1984</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Darkness Hour (Poland)" index="" image="">
+		<description>Darkness Hour (Poland)</description>
+		<cloneof></cloneof>
+		<crc>BD295A51</crc>
+		<manufacturer>L.K. Avalon</manufacturer>
+		<year>1992</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Deadline (USA) (Disk 1)" index="" image="">
+		<description>Deadline (USA) (Disk 1)</description>
+		<cloneof></cloneof>
+		<crc>465E87F0</crc>
+		<manufacturer>Infocom</manufacturer>
+		<year>1982</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Deadline (USA) (Disk 2)" index="" image="">
+		<description>Deadline (USA) (Disk 2)</description>
+		<cloneof></cloneof>
+		<crc>1CF12C05</crc>
+		<manufacturer>Infocom</manufacturer>
+		<year>1982</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Demon (Poland) (Unl)" index="" image="">
+		<description>Demon (Poland) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>44D0839B</crc>
+		<manufacturer>Glonisz Soft</manufacturer>
+		<year>1993</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Denis through the Drinking Glass (Europe)" index="" image="">
+		<description>Denis through the Drinking Glass (Europe)</description>
+		<cloneof></cloneof>
+		<crc>BBF1E59C</crc>
+		<manufacturer>Applications Software Specialities</manufacturer>
+		<year>1984</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dr. Goodcode&apos;s Cavern (USA)" index="" image="">
+		<description>Dr. Goodcode&apos;s Cavern (USA)</description>
+		<cloneof></cloneof>
+		<crc>F24CFEFB</crc>
+		<manufacturer>Gebelli Software</manufacturer>
+		<year>1982</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Drac Is Back (USA)" index="" image="">
+		<description>Drac Is Back (USA)</description>
+		<cloneof></cloneof>
+		<crc>FB4F6BE4</crc>
+		<manufacturer>Syncro</manufacturer>
+		<year>1981</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Draconus (Europe)" index="" image="">
+		<description>Draconus (Europe)</description>
+		<cloneof></cloneof>
+		<crc>2C38BA72</crc>
+		<manufacturer>Cognito</manufacturer>
+		<year>1988</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dragon Quest or a Twist in the Tail (USA) (Side A)" index="" image="">
+		<description>Dragon Quest or a Twist in the Tail (USA) (Side A)</description>
+		<cloneof></cloneof>
+		<crc>98AAD4C8</crc>
+		<manufacturer>Antic Software</manufacturer>
+		<year>1985</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dragon Quest or a Twist in the Tail (USA) (Side B)" index="" image="">
+		<description>Dragon Quest or a Twist in the Tail (USA) (Side B)</description>
+		<cloneof></cloneof>
+		<crc>23E72C3A</crc>
+		<manufacturer>Antic Software</manufacturer>
+		<year>1985</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dragon&apos;s Eye, The (USA)" index="" image="">
+		<description>Dragon&apos;s Eye, The (USA)</description>
+		<cloneof></cloneof>
+		<crc>C90E61DE</crc>
+		<manufacturer>Epyx</manufacturer>
+		<year>1981</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dragon&apos;s Keep (USA)" index="" image="">
+		<description>Dragon&apos;s Keep (USA)</description>
+		<cloneof></cloneof>
+		<crc>1242D08E</crc>
+		<manufacturer>Sierra On-Line</manufacturer>
+		<year>1984</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ducks Ahoy! (USA)" index="" image="">
+		<description>Ducks Ahoy! (USA)</description>
+		<cloneof></cloneof>
+		<crc>1DE3F015</crc>
+		<manufacturer>CBS Software</manufacturer>
+		<year>1984</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dungeons, Dragons, and Other Perils (USA)" index="" image="">
+		<description>Dungeons, Dragons, and Other Perils (USA)</description>
+		<cloneof></cloneof>
+		<crc>2777C810</crc>
+		<manufacturer>XLent Software</manufacturer>
+		<year>1984</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dwie Wieze (Poland)" index="" image="">
+		<description>Dwie Wieze (Poland)</description>
+		<cloneof></cloneof>
+		<crc>C5013637</crc>
+		<manufacturer>ASF</manufacturer>
+		<year>1993</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dziedzictwo Gigantow (Poland)" index="" image="">
+		<description>Dziedzictwo Gigantow (Poland)</description>
+		<cloneof></cloneof>
+		<crc>DB52D0F1</crc>
+		<manufacturer>Mirage</manufacturer>
+		<year>1993</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Emerald Isle (Europe)" index="true" image="e">
+		<description>Emerald Isle (Europe)</description>
+		<cloneof></cloneof>
+		<crc>4A5E39E4</crc>
+		<manufacturer>Level 9 Computing</manufacturer>
+		<year>1985</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Empire of the Over-Mind (USA)" index="" image="">
+		<description>Empire of the Over-Mind (USA)</description>
+		<cloneof></cloneof>
+		<crc>74CF57CB</crc>
+		<manufacturer>Avalon Hill</manufacturer>
+		<year>1981</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Enchanter (USA) (Side A)" index="" image="">
+		<description>Enchanter (USA) (Side A)</description>
+		<cloneof></cloneof>
+		<crc>003AEC76</crc>
+		<manufacturer>Infocom</manufacturer>
+		<year>1983</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Enchanter (USA) (Side B)" index="" image="">
+		<description>Enchanter (USA) (Side B)</description>
+		<cloneof></cloneof>
+		<crc>14799E8F</crc>
+		<manufacturer>Infocom</manufacturer>
+		<year>1983</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Eryus (USA)" index="" image="">
+		<description>Eryus (USA)</description>
+		<cloneof></cloneof>
+		<crc>776A4F4E</crc>
+		<manufacturer>Klein Keller Software</manufacturer>
+		<year>1984</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Escape from Perilous (Europe)" index="" image="">
+		<description>Escape from Perilous (Europe)</description>
+		<cloneof></cloneof>
+		<crc>69E5A0EB</crc>
+		<manufacturer>English Software Company</manufacturer>
+		<year>1983</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Essex (USA) (Disk 1 Side A)" index="" image="">
+		<description>Essex (USA) (Disk 1 Side A)</description>
+		<cloneof></cloneof>
+		<crc>3D8E38E0</crc>
+		<manufacturer>Synapse Software</manufacturer>
+		<year>1985</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Essex (USA) (Disk 1 Side B)" index="" image="">
+		<description>Essex (USA) (Disk 1 Side B)</description>
+		<cloneof></cloneof>
+		<crc>09D1480C</crc>
+		<manufacturer>Synapse Software</manufacturer>
+		<year>1985</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Essex (USA) (Disk 2 Side A)" index="" image="">
+		<description>Essex (USA) (Disk 2 Side A)</description>
+		<cloneof></cloneof>
+		<crc>0079E7F8</crc>
+		<manufacturer>Synapse Software</manufacturer>
+		<year>1985</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Essex (USA) (Disk 2 Side B)" index="" image="">
+		<description>Essex (USA) (Disk 2 Side B)</description>
+		<cloneof></cloneof>
+		<crc>1826BFEC</crc>
+		<manufacturer>Synapse Software</manufacturer>
+		<year>1985</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Eternal Dagger, The (USA) (Disk 1 Side A)" index="" image="">
+		<description>Eternal Dagger, The (USA) (Disk 1 Side A)</description>
+		<cloneof></cloneof>
+		<crc>49004F30</crc>
+		<manufacturer>SSI</manufacturer>
+		<year>1987</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Eternal Dagger, The (USA) (Disk 1 Side B)" index="" image="">
+		<description>Eternal Dagger, The (USA) (Disk 1 Side B)</description>
+		<cloneof></cloneof>
+		<crc>2EE1D286</crc>
+		<manufacturer>SSI</manufacturer>
+		<year>1987</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Eternal Dagger, The (USA) (Disk 2 Side A)" index="" image="">
+		<description>Eternal Dagger, The (USA) (Disk 2 Side A)</description>
+		<cloneof></cloneof>
+		<crc>E051D4C3</crc>
+		<manufacturer>SSI</manufacturer>
+		<year>1987</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Eternal Dagger, The (USA) (Disk 2 Side B)" index="" image="">
+		<description>Eternal Dagger, The (USA) (Disk 2 Side B)</description>
+		<cloneof></cloneof>
+		<crc>ADCE24D6</crc>
+		<manufacturer>SSI</manufacturer>
+		<year>1987</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Feud - The Graphic Adventure (Europe)" index="true" image="f">
+		<description>Feud - The Graphic Adventure (Europe)</description>
+		<cloneof></cloneof>
+		<crc>39532F12</crc>
+		<manufacturer>Bulldog Software</manufacturer>
+		<year>1987</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Final Exam (USA)" index="" image="">
+		<description>Final Exam (USA)</description>
+		<cloneof></cloneof>
+		<crc>5C927F99</crc>
+		<manufacturer>Silicon Valley Systems</manufacturer>
+		<year>1982</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Flinstone&apos;s Adventures (Czech Republic)" index="" image="">
+		<description>Flinstone&apos;s Adventures (Czech Republic)</description>
+		<cloneof></cloneof>
+		<crc>8AF09010</crc>
+		<manufacturer>JK Soft</manufacturer>
+		<year>1993</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fortune Hunter (USA)" index="" image="">
+		<description>Fortune Hunter (USA)</description>
+		<cloneof></cloneof>
+		<crc>9AD1B37B</crc>
+		<manufacturer>Romox</manufacturer>
+		<year>1982</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fountain of the Gods, The (USA) (Side A)" index="" image="">
+		<description>Fountain of the Gods, The (USA) (Side A)</description>
+		<cloneof></cloneof>
+		<crc>56A2008D</crc>
+		<manufacturer>Butner, Joey</manufacturer>
+		<year>1988</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fountain of the Gods, The (USA) (Side B)" index="" image="">
+		<description>Fountain of the Gods, The (USA) (Side B)</description>
+		<cloneof></cloneof>
+		<crc>4341E400</crc>
+		<manufacturer>Butner, Joey</manufacturer>
+		<year>1988</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Frank &amp; Mark (Poland)" index="" image="">
+		<description>Frank &amp; Mark (Poland)</description>
+		<cloneof></cloneof>
+		<crc>B826CDDC</crc>
+		<manufacturer>L.K. Avalon</manufacturer>
+		<year>1993</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Freaky Factory (Europe)" index="" image="">
+		<description>Freaky Factory (Europe)</description>
+		<cloneof></cloneof>
+		<crc>78F5993E</crc>
+		<manufacturer>Red Rat Software</manufacturer>
+		<year>1986</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fred (Poland)" index="" image="">
+		<description>Fred (Poland)</description>
+		<cloneof></cloneof>
+		<crc>3F088C82</crc>
+		<manufacturer>L.K. Avalon</manufacturer>
+		<year>1991</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="FREE - Funny Risky Evil Escape (Europe) (Disk 1 of 5)" index="" image="">
+		<description>FREE - Funny Risky Evil Escape (Europe) (Disk 1 of 5)</description>
+		<cloneof></cloneof>
+		<crc>89C64CD8</crc>
+		<manufacturer>Epsilon Software</manufacturer>
+		<year>1995</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="FREE - Funny Risky Evil Escape (Europe) (Disk 2 of 5)" index="" image="">
+		<description>FREE - Funny Risky Evil Escape (Europe) (Disk 2 of 5)</description>
+		<cloneof></cloneof>
+		<crc>6E4BDE6C</crc>
+		<manufacturer>Epsilon Software</manufacturer>
+		<year>1995</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="FREE - Funny Risky Evil Escape (Europe) (Disk 3 of 5)" index="" image="">
+		<description>FREE - Funny Risky Evil Escape (Europe) (Disk 3 of 5)</description>
+		<cloneof></cloneof>
+		<crc>5676E473</crc>
+		<manufacturer>Epsilon Software</manufacturer>
+		<year>1995</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="FREE - Funny Risky Evil Escape (Europe) (Disk 4 of 5)" index="" image="">
+		<description>FREE - Funny Risky Evil Escape (Europe) (Disk 4 of 5)</description>
+		<cloneof></cloneof>
+		<crc>4068D0A5</crc>
+		<manufacturer>Epsilon Software</manufacturer>
+		<year>1995</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="FREE - Funny Risky Evil Escape (Europe) (Disk 5 of 5)" index="" image="">
+		<description>FREE - Funny Risky Evil Escape (Europe) (Disk 5 of 5)</description>
+		<cloneof></cloneof>
+		<crc>36C40717</crc>
+		<manufacturer>Epsilon Software</manufacturer>
+		<year>1995</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="G Men (USA)" index="true" image="g">
+		<description>G Men (USA)</description>
+		<cloneof></cloneof>
+		<crc>EE5C288D</crc>
+		<manufacturer>ALA Software</manufacturer>
+		<year>1983</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Galahad and the Holy Grail (USA)" index="" image="">
+		<description>Galahad and the Holy Grail (USA)</description>
+		<cloneof></cloneof>
+		<crc>942F2AE1</crc>
+		<manufacturer>APX</manufacturer>
+		<year>1982</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gallahad (Poland)" index="" image="">
+		<description>Gallahad (Poland)</description>
+		<cloneof></cloneof>
+		<crc>2E3AFAE1</crc>
+		<manufacturer>Domain Software</manufacturer>
+		<year>1992</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="GFS Sorceress (USA)" index="" image="">
+		<description>GFS Sorceress (USA)</description>
+		<cloneof></cloneof>
+		<crc>01D2C011</crc>
+		<manufacturer>Avalon Hill</manufacturer>
+		<year>1981</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ghost Chaser (USA)" index="" image="">
+		<description>Ghost Chaser (USA)</description>
+		<cloneof></cloneof>
+		<crc>9F80ADB2</crc>
+		<manufacturer>Artworx</manufacturer>
+		<year>1984</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gnome Ranger (Europe)" index="" image="">
+		<description>Gnome Ranger (Europe)</description>
+		<cloneof></cloneof>
+		<crc>8DF92E50</crc>
+		<manufacturer>Level 9 Computing</manufacturer>
+		<year>1987</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Growing Pains of Adrian Mole, The (Europe) (Side A)" index="" image="">
+		<description>Growing Pains of Adrian Mole, The (Europe) (Side A)</description>
+		<cloneof></cloneof>
+		<crc>A8A2B2B3</crc>
+		<manufacturer>Virgin Games</manufacturer>
+		<year>1987</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Growing Pains of Adrian Mole, The (Europe) (Side B)" index="" image="">
+		<description>Growing Pains of Adrian Mole, The (Europe) (Side B)</description>
+		<cloneof></cloneof>
+		<crc>0718E48B</crc>
+		<manufacturer>Virgin Games</manufacturer>
+		<year>1987</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gruds in Space (USA) (Side A)" index="" image="">
+		<description>Gruds in Space (USA) (Side A)</description>
+		<cloneof></cloneof>
+		<crc>A8AA34C7</crc>
+		<manufacturer>Sirius Software</manufacturer>
+		<year>1983</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gruds in Space (USA) (Side B)" index="" image="">
+		<description>Gruds in Space (USA) (Side B)</description>
+		<cloneof></cloneof>
+		<crc>D74F5714</crc>
+		<manufacturer>Sirius Software</manufacturer>
+		<year>1983</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Guild of Thieves, The (Europe) (Disk 1)" index="" image="">
+		<description>Guild of Thieves, The (Europe) (Disk 1)</description>
+		<cloneof></cloneof>
+		<crc>B84B4A06</crc>
+		<manufacturer>Rainbird</manufacturer>
+		<year>1987</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Guild of Thieves, The (Europe) (Disk 2)" index="" image="">
+		<description>Guild of Thieves, The (Europe) (Disk 2)</description>
+		<cloneof></cloneof>
+		<crc>92AF36F2</crc>
+		<manufacturer>Rainbird</manufacturer>
+		<year>1987</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gunfighter (Europe)" index="" image="">
+		<description>Gunfighter (Europe)</description>
+		<cloneof></cloneof>
+		<crc>08CF739C</crc>
+		<manufacturer>Atlantis Software</manufacturer>
+		<year>1989</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gunslinger (USA) (Disk 1 Side A)" index="" image="">
+		<description>Gunslinger (USA) (Disk 1 Side A)</description>
+		<cloneof></cloneof>
+		<crc>E1993AE5</crc>
+		<manufacturer>Datasoft</manufacturer>
+		<year>1987</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gunslinger (USA) (Disk 1 Side B)" index="" image="">
+		<description>Gunslinger (USA) (Disk 1 Side B)</description>
+		<cloneof></cloneof>
+		<crc>6C599247</crc>
+		<manufacturer>Datasoft</manufacturer>
+		<year>1987</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gunslinger (USA) (Disk 2 Side A)" index="" image="">
+		<description>Gunslinger (USA) (Disk 2 Side A)</description>
+		<cloneof></cloneof>
+		<crc>09B9219A</crc>
+		<manufacturer>Datasoft</manufacturer>
+		<year>1987</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gunslinger (USA) (Disk 2 Side B)" index="" image="">
+		<description>Gunslinger (USA) (Disk 2 Side B)</description>
+		<cloneof></cloneof>
+		<crc>52C940B8</crc>
+		<manufacturer>Datasoft</manufacturer>
+		<year>1987</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gunslinger (USA) (Disk 3 Side A)" index="" image="">
+		<description>Gunslinger (USA) (Disk 3 Side A)</description>
+		<cloneof></cloneof>
+		<crc>163C3C0F</crc>
+		<manufacturer>Datasoft</manufacturer>
+		<year>1987</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gunslinger (USA) (Disk 3 Side B)" index="" image="">
+		<description>Gunslinger (USA) (Disk 3 Side B)</description>
+		<cloneof></cloneof>
+		<crc>1F74B306</crc>
+		<manufacturer>Datasoft</manufacturer>
+		<year>1987</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gwendolyn (USA) (Side A)" index="" image="">
+		<description>Gwendolyn (USA) (Side A)</description>
+		<cloneof></cloneof>
+		<crc>9DA10AE9</crc>
+		<manufacturer>Artworx</manufacturer>
+		<year>1983</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gwendolyn (USA) (Side B)" index="" image="">
+		<description>Gwendolyn (USA) (Side B)</description>
+		<cloneof></cloneof>
+		<crc>4CE0AEC3</crc>
+		<manufacturer>Artworx</manufacturer>
+		<year>1983</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="H.E.R.O. (USA)" index="true" image="h">
+		<description>H.E.R.O. (USA)</description>
+		<cloneof></cloneof>
+		<crc>B6A1823B</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>1984</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hans Kloss (Poland)" index="" image="">
+		<description>Hans Kloss (Poland)</description>
+		<cloneof></cloneof>
+		<crc>EF5C4741</crc>
+		<manufacturer>L.K. Avalon</manufacturer>
+		<year>1992</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Haunted Palace, The (USA) (Side A)" index="" image="">
+		<description>Haunted Palace, The (USA) (Side A)</description>
+		<cloneof></cloneof>
+		<crc>D7B64296</crc>
+		<manufacturer>Crystalware</manufacturer>
+		<year>1982</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Haunted Palace, The (USA) (Side B)" index="" image="">
+		<description>Haunted Palace, The (USA) (Side B)</description>
+		<cloneof></cloneof>
+		<crc>2FEF1E50</crc>
+		<manufacturer>Crystalware</manufacturer>
+		<year>1982</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hawkmoon (Poland)" index="" image="">
+		<description>Hawkmoon (Poland)</description>
+		<cloneof></cloneof>
+		<crc>256FC452</crc>
+		<manufacturer>L.K. Avalon</manufacturer>
+		<year>1993</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Head over Heels (Europe)" index="" image="">
+		<description>Head over Heels (Europe)</description>
+		<cloneof></cloneof>
+		<crc>0782A90E</crc>
+		<manufacturer>Hit Squad</manufacturer>
+		<year>19xx</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Helix (Poland)" index="" image="">
+		<description>Helix (Poland)</description>
+		<cloneof></cloneof>
+		<crc>29FD18E8</crc>
+		<manufacturer>Mirage</manufacturer>
+		<year>1993</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Her Majesty&apos;s Secret Weapon (USA) (Side A)" index="" image="">
+		<description>Her Majesty&apos;s Secret Weapon (USA) (Side A)</description>
+		<cloneof></cloneof>
+		<crc>D97BAED5</crc>
+		<manufacturer>Distro Enterprises, Inc.</manufacturer>
+		<year>1983</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Her Majesty&apos;s Secret Weapon (USA) (Side B)" index="" image="">
+		<description>Her Majesty&apos;s Secret Weapon (USA) (Side B)</description>
+		<cloneof></cloneof>
+		<crc>95F54C1D</crc>
+		<manufacturer>Distro Enterprises, Inc.</manufacturer>
+		<year>1983</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hi-Res Adventure #0 - Mission Asteroid (USA) (Side A)" index="" image="">
+		<description>Hi-Res Adventure #0 - Mission Asteroid (USA) (Side A)</description>
+		<cloneof></cloneof>
+		<crc>40EC1E3D</crc>
+		<manufacturer>Sierra On-Line</manufacturer>
+		<year>1982</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hi-Res Adventure #0 - Mission Asteroid (USA) (Side B)" index="" image="">
+		<description>Hi-Res Adventure #0 - Mission Asteroid (USA) (Side B)</description>
+		<cloneof></cloneof>
+		<crc>27472B11</crc>
+		<manufacturer>Sierra On-Line</manufacturer>
+		<year>1982</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hi-Res Adventure #2 - The Wizard and the Princess (USA) (Side A)" index="" image="">
+		<description>Hi-Res Adventure #2 - The Wizard and the Princess (USA) (Side A)</description>
+		<cloneof></cloneof>
+		<crc>A5587741</crc>
+		<manufacturer>Sierra On-Line</manufacturer>
+		<year>1982</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hi-Res Adventure #2 - The Wizard and the Princess (USA) (Side B)" index="" image="">
+		<description>Hi-Res Adventure #2 - The Wizard and the Princess (USA) (Side B)</description>
+		<cloneof></cloneof>
+		<crc>31B3D9FC</crc>
+		<manufacturer>Sierra On-Line</manufacturer>
+		<year>1982</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hi-Res Adventure #4 - Ulysses and the Golden Fleece (USA) (Disk 1 Side A)" index="" image="">
+		<description>Hi-Res Adventure #4 - Ulysses and the Golden Fleece (USA) (Disk 1 Side A)</description>
+		<cloneof></cloneof>
+		<crc>A58B047E</crc>
+		<manufacturer>On-Line Systems</manufacturer>
+		<year>1981</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hi-Res Adventure #4 - Ulysses and the Golden Fleece (USA) (Disk 1 Side B)" index="" image="">
+		<description>Hi-Res Adventure #4 - Ulysses and the Golden Fleece (USA) (Disk 1 Side B)</description>
+		<cloneof></cloneof>
+		<crc>40915A46</crc>
+		<manufacturer>Sierra On-Line</manufacturer>
+		<year>1982</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hi-Res Adventure #4 - Ulysses and the Golden Fleece (USA) (Disk 2)" index="" image="">
+		<description>Hi-Res Adventure #4 - Ulysses and the Golden Fleece (USA) (Disk 2)</description>
+		<cloneof></cloneof>
+		<crc>525A47FB</crc>
+		<manufacturer>Sierra On-Line</manufacturer>
+		<year>1982</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hi-Res Adventure #6 - The Dark Crystal (USA) (Disk 1 Side A)" index="" image="">
+		<description>Hi-Res Adventure #6 - The Dark Crystal (USA) (Disk 1 Side A)</description>
+		<cloneof></cloneof>
+		<crc>001CF6A3</crc>
+		<manufacturer>Sierra On-Line</manufacturer>
+		<year>1984</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hi-Res Adventure #6 - The Dark Crystal (USA) (Disk 1 Side B)" index="" image="">
+		<description>Hi-Res Adventure #6 - The Dark Crystal (USA) (Disk 1 Side B)</description>
+		<cloneof></cloneof>
+		<crc>AA1F4CB0</crc>
+		<manufacturer>Sierra On-Line</manufacturer>
+		<year>1984</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hi-Res Adventure #6 - The Dark Crystal (USA) (Disk 2 Side A)" index="" image="">
+		<description>Hi-Res Adventure #6 - The Dark Crystal (USA) (Disk 2 Side A)</description>
+		<cloneof></cloneof>
+		<crc>12CE2830</crc>
+		<manufacturer>Sierra On-Line</manufacturer>
+		<year>1984</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hi-Res Adventure #6 - The Dark Crystal (USA) (Disk 2 Side B)" index="" image="">
+		<description>Hi-Res Adventure #6 - The Dark Crystal (USA) (Disk 2 Side B)</description>
+		<cloneof></cloneof>
+		<crc>2F9296E2</crc>
+		<manufacturer>Sierra On-Line</manufacturer>
+		<year>1984</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hi-Res Adventure #6 - The Dark Crystal (USA) (Disk 3 Side A)" index="" image="">
+		<description>Hi-Res Adventure #6 - The Dark Crystal (USA) (Disk 3 Side A)</description>
+		<cloneof></cloneof>
+		<crc>F2EF9DA2</crc>
+		<manufacturer>Sierra On-Line</manufacturer>
+		<year>1984</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hi-Res Adventure #6 - The Dark Crystal (USA) (Disk 3 Side B)" index="" image="">
+		<description>Hi-Res Adventure #6 - The Dark Crystal (USA) (Disk 3 Side B)</description>
+		<cloneof></cloneof>
+		<crc>5EEA7CED</crc>
+		<manufacturer>Sierra On-Line</manufacturer>
+		<year>1984</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hitchhiker&apos;s Guide to the Galaxy, The (USA) (Disk 1)" index="" image="">
+		<description>Hitchhiker&apos;s Guide to the Galaxy, The (USA) (Disk 1)</description>
+		<cloneof></cloneof>
+		<crc>8B42CFD0</crc>
+		<manufacturer>Infocom</manufacturer>
+		<year>1984</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hitchhiker&apos;s Guide to the Galaxy, The (USA) (Disk 2)" index="" image="">
+		<description>Hitchhiker&apos;s Guide to the Galaxy, The (USA) (Disk 2)</description>
+		<cloneof></cloneof>
+		<crc>40237F3E</crc>
+		<manufacturer>Infocom</manufacturer>
+		<year>1984</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hollywood Hijinx (USA) (Side A)" index="" image="">
+		<description>Hollywood Hijinx (USA) (Side A)</description>
+		<cloneof></cloneof>
+		<crc>6D440BD1</crc>
+		<manufacturer>Infocom</manufacturer>
+		<year>1986</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hollywood Hijinx (USA) (Side B)" index="" image="">
+		<description>Hollywood Hijinx (USA) (Side B)</description>
+		<cloneof></cloneof>
+		<crc>63AF9E48</crc>
+		<manufacturer>Infocom</manufacturer>
+		<year>1986</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hotel Alien (USA)" index="" image="">
+		<description>Hotel Alien (USA)</description>
+		<cloneof></cloneof>
+		<crc>E75080B5</crc>
+		<manufacturer>Artworx</manufacturer>
+		<year>1985</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="House of Usher (USA)" index="" image="">
+		<description>House of Usher (USA)</description>
+		<cloneof></cloneof>
+		<crc>910B810E</crc>
+		<manufacturer>Crystalware</manufacturer>
+		<year>1980</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Imagine (Poland)" index="true" image="i">
+		<description>Imagine (Poland)</description>
+		<cloneof></cloneof>
+		<crc>43294BA8</crc>
+		<manufacturer>L.K. Avalon</manufacturer>
+		<year>1992</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Incydent (Poland)" index="" image="">
+		<description>Incydent (Poland)</description>
+		<cloneof></cloneof>
+		<crc>20814169</crc>
+		<manufacturer>ASF</manufacturer>
+		<year>1993</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Infidel (USA) (Disk 1)" index="" image="">
+		<description>Infidel (USA) (Disk 1)</description>
+		<cloneof></cloneof>
+		<crc>9ED5053D</crc>
+		<manufacturer>Infocom</manufacturer>
+		<year>1983</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Infidel (USA) (Disk 2)" index="" image="">
+		<description>Infidel (USA) (Disk 2)</description>
+		<cloneof></cloneof>
+		<crc>4A1D4F6A</crc>
+		<manufacturer>Infocom</manufacturer>
+		<year>1983</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ingrid&apos;s Back - Part 1 (Europe)" index="" image="">
+		<description>Ingrid&apos;s Back - Part 1 (Europe)</description>
+		<cloneof></cloneof>
+		<crc>7DF82D68</crc>
+		<manufacturer>Level 9 Computing</manufacturer>
+		<year>1988</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ingrid&apos;s Back - Part 2 (Europe)" index="" image="">
+		<description>Ingrid&apos;s Back - Part 2 (Europe)</description>
+		<cloneof></cloneof>
+		<crc>9E26CE87</crc>
+		<manufacturer>Level 9 Computing</manufacturer>
+		<year>1988</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ingrid&apos;s Back - Part 3 (Europe)" index="" image="">
+		<description>Ingrid&apos;s Back - Part 3 (Europe)</description>
+		<cloneof></cloneof>
+		<crc>6057C689</crc>
+		<manufacturer>Level 9 Computing</manufacturer>
+		<year>1988</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Institute, The (USA) (Side A)" index="" image="">
+		<description>Institute, The (USA) (Side A)</description>
+		<cloneof></cloneof>
+		<crc>A6D20B7A</crc>
+		<manufacturer>ScreenPlay</manufacturer>
+		<year>1983</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Institute, The (USA) (Side B)" index="" image="">
+		<description>Institute, The (USA) (Side B)</description>
+		<cloneof></cloneof>
+		<crc>49D6C176</crc>
+		<manufacturer>ScreenPlay</manufacturer>
+		<year>1983</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Into the Eagle&apos;s Nest (USA)" index="" image="">
+		<description>Into the Eagle&apos;s Nest (USA)</description>
+		<cloneof></cloneof>
+		<crc>A69B5D17</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1988</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Jaffar (Poland)" index="true" image="j">
+		<description>Jaffar (Poland)</description>
+		<cloneof></cloneof>
+		<crc>F1D1EB2C</crc>
+		<manufacturer>Mirage</manufacturer>
+		<year>1993</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Janosik (Poland)" index="" image="">
+		<description>Janosik (Poland)</description>
+		<cloneof></cloneof>
+		<crc>3E93C195</crc>
+		<manufacturer>Mirage</manufacturer>
+		<year>1994</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Jenny of the Prairie (USA)" index="" image="">
+		<description>Jenny of the Prairie (USA)</description>
+		<cloneof></cloneof>
+		<crc>2BB2F95E</crc>
+		<manufacturer>Rhiannon Software</manufacturer>
+		<year>1984</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Jet Set Willy (Europe)" index="" image="">
+		<description>Jet Set Willy (Europe)</description>
+		<cloneof></cloneof>
+		<crc>FB2FDC14</crc>
+		<manufacturer>Tynesoft</manufacturer>
+		<year>1986</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Jewels of Darkness #1 - Colossal Adventure (Europe)" index="" image="">
+		<description>Jewels of Darkness #1 - Colossal Adventure (Europe)</description>
+		<cloneof></cloneof>
+		<crc>7077E2FC</crc>
+		<manufacturer>Level 9 Computing</manufacturer>
+		<year>1983</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Jewels of Darkness #2 - Adventure Quest (Europe)" index="" image="">
+		<description>Jewels of Darkness #2 - Adventure Quest (Europe)</description>
+		<cloneof></cloneof>
+		<crc>C245B804</crc>
+		<manufacturer>Level 9 Computing</manufacturer>
+		<year>1983</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Jewels of Darkness #3 - Dungeon Adventure (Europe)" index="" image="">
+		<description>Jewels of Darkness #3 - Dungeon Adventure (Europe)</description>
+		<cloneof></cloneof>
+		<crc>EFE6C241</crc>
+		<manufacturer>Level 9 Computing</manufacturer>
+		<year>1983</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Jinxter (USA) (Side A)" index="" image="">
+		<description>Jinxter (USA) (Side A)</description>
+		<cloneof></cloneof>
+		<crc>6C6D3B7A</crc>
+		<manufacturer>Rainbird</manufacturer>
+		<year>1987</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Jinxter (USA) (Side B)" index="" image="">
+		<description>Jinxter (USA) (Side B)</description>
+		<cloneof></cloneof>
+		<crc>A433BF6B</crc>
+		<manufacturer>Rainbird</manufacturer>
+		<year>1987</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Journey to the Planets (USA)" index="" image="">
+		<description>Journey to the Planets (USA)</description>
+		<cloneof></cloneof>
+		<crc>91E46F32</crc>
+		<manufacturer>JV Software</manufacturer>
+		<year>1982</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Jupiter Mission 1999 (USA) (Disk 1)" index="" image="">
+		<description>Jupiter Mission 1999 (USA) (Disk 1)</description>
+		<cloneof></cloneof>
+		<crc>465F5861</crc>
+		<manufacturer>Avalon Hill</manufacturer>
+		<year>1983</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Jupiter Mission 1999 (USA) (Disk 2)" index="" image="">
+		<description>Jupiter Mission 1999 (USA) (Disk 2)</description>
+		<cloneof></cloneof>
+		<crc>D94A55CF</crc>
+		<manufacturer>Avalon Hill</manufacturer>
+		<year>1983</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Jupiter Mission 1999 (USA) (Disk 3)" index="" image="">
+		<description>Jupiter Mission 1999 (USA) (Disk 3)</description>
+		<cloneof></cloneof>
+		<crc>16441942</crc>
+		<manufacturer>Avalon Hill</manufacturer>
+		<year>1983</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Jupiter Mission 1999 (USA) (Disk 4)" index="" image="">
+		<description>Jupiter Mission 1999 (USA) (Disk 4)</description>
+		<cloneof></cloneof>
+		<crc>871D5457</crc>
+		<manufacturer>Avalon Hill</manufacturer>
+		<year>1983</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Jurassic Park (USA)" index="" image="">
+		<description>Jurassic Park (USA)</description>
+		<cloneof></cloneof>
+		<crc>8C50098F</crc>
+		<manufacturer>JK Soft</manufacturer>
+		<year>19xx</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Kasiarz (Poland)" index="true" image="k">
+		<description>Kasiarz (Poland)</description>
+		<cloneof></cloneof>
+		<crc>0BDDB295</crc>
+		<manufacturer>Krysal</manufacturer>
+		<year>1994</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="King Arthur&apos;s Heir (USA)" index="" image="">
+		<description>King Arthur&apos;s Heir (USA)</description>
+		<cloneof></cloneof>
+		<crc>107FB858</crc>
+		<manufacturer>Epyx</manufacturer>
+		<year>1982</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Klatwa (Europe)" index="" image="">
+		<description>Klatwa (Europe)</description>
+		<cloneof></cloneof>
+		<crc>324457AF</crc>
+		<manufacturer>LK Avalon</manufacturer>
+		<year>1992</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Knight Lore (Poland) (Unl)" index="" image="">
+		<description>Knight Lore (Poland) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>F8E2B206</crc>
+		<manufacturer>XXL</manufacturer>
+		<year>2008</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Knight Orc (Europe)" index="" image="">
+		<description>Knight Orc (Europe)</description>
+		<cloneof></cloneof>
+		<crc>FED63AEA</crc>
+		<manufacturer>Rainbird</manufacturer>
+		<year>1987</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Koronis Rift (USA)" index="" image="">
+		<description>Koronis Rift (USA)</description>
+		<cloneof></cloneof>
+		<crc>0101EAB4</crc>
+		<manufacturer>Lucasfilm</manufacturer>
+		<year>1985</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Krucjata (Poland)" index="" image="">
+		<description>Krucjata (Poland)</description>
+		<cloneof></cloneof>
+		<crc>873875A3</crc>
+		<manufacturer>ASF</manufacturer>
+		<year>1993</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Labyrinth of Crete, The (USA) (Side A)" index="true" image="l">
+		<description>Labyrinth of Crete, The (USA) (Side A)</description>
+		<cloneof></cloneof>
+		<crc>49849641</crc>
+		<manufacturer>Adventure International</manufacturer>
+		<year>1983</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Labyrinth of Crete, The (USA) (Side B)" index="" image="">
+		<description>Labyrinth of Crete, The (USA) (Side B)</description>
+		<cloneof></cloneof>
+		<crc>26747C85</crc>
+		<manufacturer>Adventure International</manufacturer>
+		<year>1983</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Labyrinth of Crete, The (USA) (Side C)" index="" image="">
+		<description>Labyrinth of Crete, The (USA) (Side C)</description>
+		<cloneof></cloneof>
+		<crc>DD686A61</crc>
+		<manufacturer>Adventure International</manufacturer>
+		<year>1983</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Labyrinth of Crete, The (USA) (Side D)" index="" image="">
+		<description>Labyrinth of Crete, The (USA) (Side D)</description>
+		<cloneof></cloneof>
+		<crc>4BF435D3</crc>
+		<manufacturer>Adventure International</manufacturer>
+		<year>1983</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Labyrinths of Kamerra (USA) (Unl)" index="" image="">
+		<description>Labyrinths of Kamerra (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>8AAE1766</crc>
+		<manufacturer>Codebusters</manufacturer>
+		<year>1985</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lancelot (Europe)" index="" image="">
+		<description>Lancelot (Europe)</description>
+		<cloneof></cloneof>
+		<crc>AB8B69C5</crc>
+		<manufacturer>Level 9 Computing</manufacturer>
+		<year>1988</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lapis Philosophorum - The Philosophers&apos; Stone (Europe) (Side A)" index="" image="">
+		<description>Lapis Philosophorum - The Philosophers&apos; Stone (Europe) (Side A)</description>
+		<cloneof></cloneof>
+		<crc>8931CBAF</crc>
+		<manufacturer>Ariolasoft</manufacturer>
+		<year>1986</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lapis Philosophorum - The Philosophers&apos; Stone (Europe) (Side B)" index="" image="">
+		<description>Lapis Philosophorum - The Philosophers&apos; Stone (Europe) (Side B)</description>
+		<cloneof></cloneof>
+		<crc>83501A35</crc>
+		<manufacturer>Ariolasoft</manufacturer>
+		<year>1986</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Leather Godesses of Phobos (USA) (Side A)" index="" image="">
+		<description>Leather Godesses of Phobos (USA) (Side A)</description>
+		<cloneof></cloneof>
+		<crc>059207D9</crc>
+		<manufacturer>Infocom</manufacturer>
+		<year>1986</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Leather Godesses of Phobos (USA) (Side B)" index="" image="">
+		<description>Leather Godesses of Phobos (USA) (Side B)</description>
+		<cloneof></cloneof>
+		<crc>023FD7C0</crc>
+		<manufacturer>Infocom</manufacturer>
+		<year>1986</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lode Runner&apos;s Rescue (USA) (Side A)" index="" image="">
+		<description>Lode Runner&apos;s Rescue (USA) (Side A)</description>
+		<cloneof></cloneof>
+		<crc>63DFDEB2</crc>
+		<manufacturer>Synapse Software</manufacturer>
+		<year>1985</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lode Runner&apos;s Rescue (USA) (Side B)" index="" image="">
+		<description>Lode Runner&apos;s Rescue (USA) (Side B)</description>
+		<cloneof></cloneof>
+		<crc>ED0F35D8</crc>
+		<manufacturer>Synapse Software</manufacturer>
+		<year>1985</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lords of Karma (USA)" index="" image="">
+		<description>Lords of Karma (USA)</description>
+		<cloneof></cloneof>
+		<crc>EA962CEC</crc>
+		<manufacturer>Avalon Hill</manufacturer>
+		<year>1981</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lords of Time (Europe)" index="" image="">
+		<description>Lords of Time (Europe)</description>
+		<cloneof></cloneof>
+		<crc>A5A233CC</crc>
+		<manufacturer>Level 9 Computing</manufacturer>
+		<year>1983</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lucifer&apos;s Realm (American Eagle Software) (USA) (Disk 1 Side A)" index="" image="">
+		<description>Lucifer&apos;s Realm (American Eagle Software) (USA) (Disk 1 Side A)</description>
+		<cloneof></cloneof>
+		<crc>B5EB6EB4</crc>
+		<manufacturer>American Eagle Software</manufacturer>
+		<year>1984</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lucifer&apos;s Realm (American Eagle Software) (USA) (Disk 1 Side B)" index="" image="">
+		<description>Lucifer&apos;s Realm (American Eagle Software) (USA) (Disk 1 Side B)</description>
+		<cloneof></cloneof>
+		<crc>A8E97550</crc>
+		<manufacturer>American Eagle Software</manufacturer>
+		<year>1984</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lucifer&apos;s Realm (American Eagle Software) (USA) (Disk 2)" index="" image="">
+		<description>Lucifer&apos;s Realm (American Eagle Software) (USA) (Disk 2)</description>
+		<cloneof></cloneof>
+		<crc>F8EA5F24</crc>
+		<manufacturer>American Eagle Software</manufacturer>
+		<year>1984</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lucifer&apos;s Realm (Med Systems) (USA)" index="" image="">
+		<description>Lucifer&apos;s Realm (Med Systems) (USA)</description>
+		<cloneof></cloneof>
+		<crc>F3FC6E77</crc>
+		<manufacturer>Med Systems</manufacturer>
+		<year>1981</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lurking Horror, The (USA) (Side A)" index="" image="">
+		<description>Lurking Horror, The (USA) (Side A)</description>
+		<cloneof></cloneof>
+		<crc>140F4409</crc>
+		<manufacturer>Infocom</manufacturer>
+		<year>1987</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lurking Horror, The (USA) (Side B)" index="" image="">
+		<description>Lurking Horror, The (USA) (Side B)</description>
+		<cloneof></cloneof>
+		<crc>E44DC177</crc>
+		<manufacturer>Infocom</manufacturer>
+		<year>1987</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Magic Dimension (Poland)" index="true" image="m">
+		<description>Magic Dimension (Poland)</description>
+		<cloneof></cloneof>
+		<crc>B8FF3F5D</crc>
+		<manufacturer>ASF</manufacturer>
+		<year>19xx</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Marketing Adventure (USA) (Proto)" index="" image="">
+		<description>Marketing Adventure (USA) (Proto)</description>
+		<cloneof></cloneof>
+		<crc>4B9DE509</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>19xx</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mask of the Sun, The (USA) (Disk 1 Side A)" index="" image="">
+		<description>Mask of the Sun, The (USA) (Disk 1 Side A)</description>
+		<cloneof></cloneof>
+		<crc>595D1D15</crc>
+		<manufacturer>Broderbund</manufacturer>
+		<year>1982</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mask of the Sun, The (USA) (Disk 1 Side B)" index="" image="">
+		<description>Mask of the Sun, The (USA) (Disk 1 Side B)</description>
+		<cloneof></cloneof>
+		<crc>4A2D9557</crc>
+		<manufacturer>Broderbund</manufacturer>
+		<year>1982</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mask of the Sun, The (USA) (Disk 2 Side A)" index="" image="">
+		<description>Mask of the Sun, The (USA) (Disk 2 Side A)</description>
+		<cloneof></cloneof>
+		<crc>9EB4EAAA</crc>
+		<manufacturer>Broderbund</manufacturer>
+		<year>1982</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mask of the Sun, The (USA) (Disk 2 Side B)" index="" image="">
+		<description>Mask of the Sun, The (USA) (Disk 2 Side B)</description>
+		<cloneof></cloneof>
+		<crc>A9D73B89</crc>
+		<manufacturer>Broderbund</manufacturer>
+		<year>1982</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Maxwell Manor - Skull of Doom (USA)" index="" image="">
+		<description>Maxwell Manor - Skull of Doom (USA)</description>
+		<cloneof></cloneof>
+		<crc>737D14A2</crc>
+		<manufacturer>Avalon Hill</manufacturer>
+		<year>1984</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Microworld (USA)" index="" image="">
+		<description>Microworld (USA)</description>
+		<cloneof></cloneof>
+		<crc>C7834834</crc>
+		<manufacturer>Med Systems Software</manufacturer>
+		<year>19xx</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mindshadow (USA) (Side A)" index="" image="">
+		<description>Mindshadow (USA) (Side A)</description>
+		<cloneof></cloneof>
+		<crc>2A7D25A1</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>1985</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mindshadow (USA) (Side B)" index="" image="">
+		<description>Mindshadow (USA) (Side B)</description>
+		<cloneof></cloneof>
+		<crc>1E970CE8</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>1985</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mindwheel (USA) (Disk 1 Side A)" index="" image="">
+		<description>Mindwheel (USA) (Disk 1 Side A)</description>
+		<cloneof></cloneof>
+		<crc>F198EFC8</crc>
+		<manufacturer>Synapse Software</manufacturer>
+		<year>1984</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mindwheel (USA) (Disk 1 Side B)" index="" image="">
+		<description>Mindwheel (USA) (Disk 1 Side B)</description>
+		<cloneof></cloneof>
+		<crc>3C86470D</crc>
+		<manufacturer>Synapse Software</manufacturer>
+		<year>1984</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mindwheel (USA) (Disk 2 Side A)" index="" image="">
+		<description>Mindwheel (USA) (Disk 2 Side A)</description>
+		<cloneof></cloneof>
+		<crc>65694F73</crc>
+		<manufacturer>Synapse Software</manufacturer>
+		<year>1984</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mindwheel (USA) (Disk 2 Side B)" index="" image="">
+		<description>Mindwheel (USA) (Disk 2 Side B)</description>
+		<cloneof></cloneof>
+		<crc>9FB8C70E</crc>
+		<manufacturer>Synapse Software</manufacturer>
+		<year>1984</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Moonmist (USA) (Side A)" index="" image="">
+		<description>Moonmist (USA) (Side A)</description>
+		<cloneof></cloneof>
+		<crc>AFF16287</crc>
+		<manufacturer>Infocom</manufacturer>
+		<year>1986</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Moonmist (USA) (Side B)" index="" image="">
+		<description>Moonmist (USA) (Side B)</description>
+		<cloneof></cloneof>
+		<crc>48889BEF</crc>
+		<manufacturer>Infocom</manufacturer>
+		<year>1986</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mordon&apos;s Quest (Europe)" index="" image="">
+		<description>Mordon&apos;s Quest (Europe)</description>
+		<cloneof></cloneof>
+		<crc>C7B06D04</crc>
+		<manufacturer>Melbourne House</manufacturer>
+		<year>1985</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mysterious Adventure #01 - Golden Baton, The (Europe)" index="" image="">
+		<description>Mysterious Adventure #01 - Golden Baton, The (Europe)</description>
+		<cloneof></cloneof>
+		<crc>91868DF6</crc>
+		<manufacturer>Digtal Fantasia</manufacturer>
+		<year>1982</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mysterious Adventure #02 - The Time Machine (Europe)" index="" image="">
+		<description>Mysterious Adventure #02 - The Time Machine (Europe)</description>
+		<cloneof></cloneof>
+		<crc>F3143ACA</crc>
+		<manufacturer>Digital Fantasia</manufacturer>
+		<year>1982</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mysterious Adventure #03 - Arrow of Death Part 1 (Europe)" index="" image="">
+		<description>Mysterious Adventure #03 - Arrow of Death Part 1 (Europe)</description>
+		<cloneof></cloneof>
+		<crc>2940ADD4</crc>
+		<manufacturer>Digital Fantasia</manufacturer>
+		<year>1982</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mysterious Adventure #04 - Arrow of Death Part 2 (Europe)" index="" image="">
+		<description>Mysterious Adventure #04 - Arrow of Death Part 2 (Europe)</description>
+		<cloneof></cloneof>
+		<crc>503693A2</crc>
+		<manufacturer>Digital Fantasia</manufacturer>
+		<year>1982</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mysterious Adventure #05 - Escape From Pulsar 7 (Europe)" index="" image="">
+		<description>Mysterious Adventure #05 - Escape From Pulsar 7 (Europe)</description>
+		<cloneof></cloneof>
+		<crc>8BBF9769</crc>
+		<manufacturer>Digital Fantasia</manufacturer>
+		<year>1982</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mysterious Adventure #06 - Circus (Europe)" index="" image="">
+		<description>Mysterious Adventure #06 - Circus (Europe)</description>
+		<cloneof></cloneof>
+		<crc>65EA112D</crc>
+		<manufacturer>Digital Fantasia</manufacturer>
+		<year>1982</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mysterious Adventure #07 - Feasibility Experiment (Europe)" index="" image="">
+		<description>Mysterious Adventure #07 - Feasibility Experiment (Europe)</description>
+		<cloneof></cloneof>
+		<crc>0B17D830</crc>
+		<manufacturer>Digital Fantasia</manufacturer>
+		<year>1982</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mysterious Adventure #08 - Wizard of Akyrz, The (Europe)" index="" image="">
+		<description>Mysterious Adventure #08 - Wizard of Akyrz, The (Europe)</description>
+		<cloneof></cloneof>
+		<crc>70A422E9</crc>
+		<manufacturer>Digital Fantasia</manufacturer>
+		<year>1982</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mysterious Adventure #09 - Perseus &amp; Andromeda (Europe)" index="" image="">
+		<description>Mysterious Adventure #09 - Perseus &amp; Andromeda (Europe)</description>
+		<cloneof></cloneof>
+		<crc>E142A3A6</crc>
+		<manufacturer>Digital Fantasia</manufacturer>
+		<year>1982</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mysterious Adventure #10 - Ten Little Indians (Europe)" index="" image="">
+		<description>Mysterious Adventure #10 - Ten Little Indians (Europe)</description>
+		<cloneof></cloneof>
+		<crc>5545DA23</crc>
+		<manufacturer>Digital Fantasia</manufacturer>
+		<year>1982</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mysterious Adventure #11 - Waxworks (Europe)" index="" image="">
+		<description>Mysterious Adventure #11 - Waxworks (Europe)</description>
+		<cloneof></cloneof>
+		<crc>702CEB78</crc>
+		<manufacturer>Digital Fantasia</manufacturer>
+		<year>1984</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Naturix (Czech Republic) (Unl)" index="true" image="n">
+		<description>Naturix (Czech Republic) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>2057D41F</crc>
+		<manufacturer>Raster Software</manufacturer>
+		<year>1994</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Neron (Poland)" index="" image="">
+		<description>Neron (Poland)</description>
+		<cloneof></cloneof>
+		<crc>DF9B6D47</crc>
+		<manufacturer>L.K. Avalon</manufacturer>
+		<year>1993</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Neverending Story, The (USA)" index="" image="">
+		<description>Neverending Story, The (USA)</description>
+		<cloneof></cloneof>
+		<crc>1F999A12</crc>
+		<manufacturer>Datasoft</manufacturer>
+		<year>1986</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Nexus (Poland)" index="" image="">
+		<description>Nexus (Poland)</description>
+		<cloneof></cloneof>
+		<crc>AB2B249E</crc>
+		<manufacturer>Sikor Soft</manufacturer>
+		<year>19xx</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Nightmare Manor (USA) (Unl)" index="" image="">
+		<description>Nightmare Manor (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>C49D368F</crc>
+		<manufacturer>Completely Grounded Software</manufacturer>
+		<year>1988</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Nightshade (Poland) (Unl)" index="" image="">
+		<description>Nightshade (Poland) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>6709F15F</crc>
+		<manufacturer>XXL</manufacturer>
+		<year>2009</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Nuclear Adventure or the North Base (Europe)" index="" image="">
+		<description>Nuclear Adventure or the North Base (Europe)</description>
+		<cloneof></cloneof>
+		<crc>3AD27FC7</crc>
+		<manufacturer>JRC</manufacturer>
+		<year>1990</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="OCI (Europe)" index="true" image="o">
+		<description>OCI (Europe)</description>
+		<cloneof></cloneof>
+		<crc>CC31BB14</crc>
+		<manufacturer>Tearsoft</manufacturer>
+		<year>1988</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Opera House + Qa! (Europe)" index="" image="">
+		<description>Opera House + Qa! (Europe)</description>
+		<cloneof></cloneof>
+		<crc>8335E974</crc>
+		<manufacturer>Bignose Software</manufacturer>
+		<year>1985</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Orb of Zarramier, The (Europe)" index="" image="">
+		<description>Orb of Zarramier, The (Europe)</description>
+		<cloneof></cloneof>
+		<crc>C8B40D15</crc>
+		<manufacturer>Futureware</manufacturer>
+		<year>1986</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Other Ventures #1 - Saigon the Final Days (USA)" index="" image="">
+		<description>Other Ventures #1 - Saigon the Final Days (USA)</description>
+		<cloneof></cloneof>
+		<crc>61416C6F</crc>
+		<manufacturer>Adventure International</manufacturer>
+		<year>1982</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Other Ventures #2 - Crowley Manor (Europe)" index="" image="">
+		<description>Other Ventures #2 - Crowley Manor (Europe)</description>
+		<cloneof></cloneof>
+		<crc>C0CA466D</crc>
+		<manufacturer>Adventure International</manufacturer>
+		<year>1982</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Other Ventures #3 - Escape From Traam (USA)" index="" image="">
+		<description>Other Ventures #3 - Escape From Traam (USA)</description>
+		<cloneof></cloneof>
+		<crc>A0DFAF4A</crc>
+		<manufacturer>Adventure International</manufacturer>
+		<year>1981</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Other Ventures #4 - San Francisco 1906 (USA)" index="" image="">
+		<description>Other Ventures #4 - San Francisco 1906 (USA)</description>
+		<cloneof></cloneof>
+		<crc>CA6F9684</crc>
+		<manufacturer>Adventure International</manufacturer>
+		<year>1981</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Paradise Threat, The (USA)" index="true" image="p">
+		<description>Paradise Threat, The (USA)</description>
+		<cloneof></cloneof>
+		<crc>3B801C8A</crc>
+		<manufacturer>Med Systems Software</manufacturer>
+		<year>1982</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Paul Daniels&apos; Magic Adventure (Europe)" index="" image="">
+		<description>Paul Daniels&apos; Magic Adventure (Europe)</description>
+		<cloneof></cloneof>
+		<crc>A0DA0B8C</crc>
+		<manufacturer>Amazon Systems</manufacturer>
+		<year>1983</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pawn, The (Europe) (Disk 1)" index="" image="">
+		<description>Pawn, The (Europe) (Disk 1)</description>
+		<cloneof></cloneof>
+		<crc>8F7D764E</crc>
+		<manufacturer>Rainbird</manufacturer>
+		<year>1985</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pawn, The (Europe) (Disk 2)" index="" image="">
+		<description>Pawn, The (Europe) (Disk 2)</description>
+		<cloneof></cloneof>
+		<crc>B32C932F</crc>
+		<manufacturer>Rainbird</manufacturer>
+		<year>1985</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pay-Off, The (Europe)" index="" image="">
+		<description>Pay-Off, The (Europe)</description>
+		<cloneof></cloneof>
+		<crc>5F7E7CC3</crc>
+		<manufacturer>Bug-Byte</manufacturer>
+		<year>1987</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Plan B (Czech Republic) (Unl)" index="" image="">
+		<description>Plan B (Czech Republic) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>78B3C36C</crc>
+		<manufacturer>Andrew Foord</manufacturer>
+		<year>2012</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Planetfall (USA) (Disk 1)" index="" image="">
+		<description>Planetfall (USA) (Disk 1)</description>
+		<cloneof></cloneof>
+		<crc>389DD505</crc>
+		<manufacturer>Infocom</manufacturer>
+		<year>1983</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Planetfall (USA) (Disk 2)" index="" image="">
+		<description>Planetfall (USA) (Disk 2)</description>
+		<cloneof></cloneof>
+		<crc>33CBA0DD</crc>
+		<manufacturer>Infocom</manufacturer>
+		<year>1983</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Plundered Hearts (USA) (Side A)" index="" image="">
+		<description>Plundered Hearts (USA) (Side A)</description>
+		<cloneof></cloneof>
+		<crc>EB8B0272</crc>
+		<manufacturer>Infocom</manufacturer>
+		<year>1987</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Plundered Hearts (USA) (Side B)" index="" image="">
+		<description>Plundered Hearts (USA) (Side B)</description>
+		<cloneof></cloneof>
+		<crc>9D0DC8E9</crc>
+		<manufacturer>Infocom</manufacturer>
+		<year>1987</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Powerstar (USA)" index="" image="">
+		<description>Powerstar (USA)</description>
+		<cloneof></cloneof>
+		<crc>DC0DCA6E</crc>
+		<manufacturer>Pandora Software</manufacturer>
+		<year>1985</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Price of Magik, The (Europe)" index="" image="">
+		<description>Price of Magik, The (Europe)</description>
+		<cloneof></cloneof>
+		<crc>39BC71A3</crc>
+		<manufacturer>Level 9 Computing</manufacturer>
+		<year>1986</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Prisoner 2 (USA) (Side A)" index="" image="">
+		<description>Prisoner 2 (USA) (Side A)</description>
+		<cloneof></cloneof>
+		<crc>74020F92</crc>
+		<manufacturer>Edu-Ware</manufacturer>
+		<year>1982</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Prisoner 2 (USA) (Side B)" index="" image="">
+		<description>Prisoner 2 (USA) (Side B)</description>
+		<cloneof></cloneof>
+		<crc>9450A600</crc>
+		<manufacturer>Edu-Ware</manufacturer>
+		<year>1982</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Probe One - The Transmitter (USA)" index="" image="">
+		<description>Probe One - The Transmitter (USA)</description>
+		<cloneof></cloneof>
+		<crc>07DD64AA</crc>
+		<manufacturer>Synergistic Software</manufacturer>
+		<year>1982</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pyramidos (Europe) (Side A)" index="" image="">
+		<description>Pyramidos (Europe) (Side A)</description>
+		<cloneof></cloneof>
+		<crc>6C37B18E</crc>
+		<manufacturer>AMC-Verlag</manufacturer>
+		<year>1985</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pyramidos (Europe) (Side B)" index="" image="">
+		<description>Pyramidos (Europe) (Side B)</description>
+		<cloneof></cloneof>
+		<crc>82539F43</crc>
+		<manufacturer>AMC-Verlag</manufacturer>
+		<year>1985</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pyramidos (Europe) (Side C)" index="" image="">
+		<description>Pyramidos (Europe) (Side C)</description>
+		<cloneof></cloneof>
+		<crc>D9025C08</crc>
+		<manufacturer>AMC-Verlag</manufacturer>
+		<year>1985</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pyramidos (Europe) (Side D)" index="" image="">
+		<description>Pyramidos (Europe) (Side D)</description>
+		<cloneof></cloneof>
+		<crc>D91C29E2</crc>
+		<manufacturer>AMC-Verlag</manufacturer>
+		<year>1985</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pyromania (Europe)" index="" image="">
+		<description>Pyromania (Europe)</description>
+		<cloneof></cloneof>
+		<crc>15A2E561</crc>
+		<manufacturer>Datri Software</manufacturer>
+		<year>1996</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Quest for Eternity (Europe)" index="true" image="q">
+		<description>Quest for Eternity (Europe)</description>
+		<cloneof></cloneof>
+		<crc>7D30D4D5</crc>
+		<manufacturer>Bug-Byte</manufacturer>
+		<year>1985</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Quest for Quintana Roo (USA)" index="" image="">
+		<description>Quest for Quintana Roo (USA)</description>
+		<cloneof></cloneof>
+		<crc>BF60C5C2</crc>
+		<manufacturer>Sunrise Software</manufacturer>
+		<year>1984</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Quest of the Space Beagle, The (USA) (Side A)" index="" image="">
+		<description>Quest of the Space Beagle, The (USA) (Side A)</description>
+		<cloneof></cloneof>
+		<crc>1A9920AB</crc>
+		<manufacturer>Avalon Hill</manufacturer>
+		<year>1984</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Quest of the Space Beagle, The (USA) (Side B)" index="" image="">
+		<description>Quest of the Space Beagle, The (USA) (Side B)</description>
+		<cloneof></cloneof>
+		<crc>E1B8ED0E</crc>
+		<manufacturer>Avalon Hill</manufacturer>
+		<year>1984</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Quest, The (USA) (Side A)" index="" image="">
+		<description>Quest, The (USA) (Side A)</description>
+		<cloneof></cloneof>
+		<crc>EF91B524</crc>
+		<manufacturer>Penguin Software</manufacturer>
+		<year>1984</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Quest, The (USA) (Side B)" index="" image="">
+		<description>Quest, The (USA) (Side B)</description>
+		<cloneof></cloneof>
+		<crc>FF18D794</crc>
+		<manufacturer>Penguin Software</manufacturer>
+		<year>1984</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Questprobe #1 - The Incredible Hulk (USA) (Side A)" index="" image="">
+		<description>Questprobe #1 - The Incredible Hulk (USA) (Side A)</description>
+		<cloneof></cloneof>
+		<crc>33FDAEF3</crc>
+		<manufacturer>Adventure International</manufacturer>
+		<year>1985</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Questprobe #1 - The Incredible Hulk (USA) (Side B)" index="" image="">
+		<description>Questprobe #1 - The Incredible Hulk (USA) (Side B)</description>
+		<cloneof></cloneof>
+		<crc>CFFE69B8</crc>
+		<manufacturer>Adventure International</manufacturer>
+		<year>1985</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Questprobe #2 - Spider-Man (Europe) (Side A)" index="" image="">
+		<description>Questprobe #2 - Spider-Man (Europe) (Side A)</description>
+		<cloneof></cloneof>
+		<crc>96F4560D</crc>
+		<manufacturer>Americana Software</manufacturer>
+		<year>1986</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Questprobe #2 - Spider-Man (Europe) (Side B)" index="" image="">
+		<description>Questprobe #2 - Spider-Man (Europe) (Side B)</description>
+		<cloneof></cloneof>
+		<crc>25B6700C</crc>
+		<manufacturer>Americana Software</manufacturer>
+		<year>1986</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Questprobe #3 - Fantastic Four (USA) (Side A)" index="" image="">
+		<description>Questprobe #3 - Fantastic Four (USA) (Side A)</description>
+		<cloneof></cloneof>
+		<crc>7368986A</crc>
+		<manufacturer>Adventure International</manufacturer>
+		<year>1985</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Questprobe #3 - Fantastic Four (USA) (Side B)" index="" image="">
+		<description>Questprobe #3 - Fantastic Four (USA) (Side B)</description>
+		<cloneof></cloneof>
+		<crc>3FF891F9</crc>
+		<manufacturer>Adventure International</manufacturer>
+		<year>1985</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Realm of Impossibility (USA)" index="true" image="r">
+		<description>Realm of Impossibility (USA)</description>
+		<cloneof></cloneof>
+		<crc>A294EF59</crc>
+		<manufacturer>Electronic Arts</manufacturer>
+		<year>1984</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Red Moon (Europe)" index="" image="">
+		<description>Red Moon (Europe)</description>
+		<cloneof></cloneof>
+		<crc>E1A9EE31</crc>
+		<manufacturer>Level 9 Computing</manufacturer>
+		<year>1985</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rick Hanson (Europe)" index="" image="">
+		<description>Rick Hanson (Europe)</description>
+		<cloneof></cloneof>
+		<crc>1590BE17</crc>
+		<manufacturer>Robico Software</manufacturer>
+		<year>1986</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Robin - Wojownik Czasu (Poland)" index="" image="">
+		<description>Robin - Wojownik Czasu (Poland)</description>
+		<cloneof></cloneof>
+		<crc>55203090</crc>
+		<manufacturer>L.K. Avalon</manufacturer>
+		<year>1992</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Roderic (Europe)" index="" image="">
+		<description>Roderic (Europe)</description>
+		<cloneof></cloneof>
+		<crc>48E3FD60</crc>
+		<manufacturer>Mirage Software</manufacturer>
+		<year>1991</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="SAGA No. 01 - Adventureland (USA) (Side A)" index="true" image="s">
+		<description>SAGA No. 01 - Adventureland (USA) (Side A)</description>
+		<cloneof></cloneof>
+		<crc>37CC8F67</crc>
+		<manufacturer>Adventure International</manufacturer>
+		<year>1982</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="SAGA No. 01 - Adventureland (USA) (Side B)" index="" image="">
+		<description>SAGA No. 01 - Adventureland (USA) (Side B)</description>
+		<cloneof></cloneof>
+		<crc>419F54E5</crc>
+		<manufacturer>Adventure International</manufacturer>
+		<year>1982</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="SAGA No. 02 - Pirate Adventure (USA) (Side A)" index="" image="">
+		<description>SAGA No. 02 - Pirate Adventure (USA) (Side A)</description>
+		<cloneof></cloneof>
+		<crc>FE4C3579</crc>
+		<manufacturer>Adventure International</manufacturer>
+		<year>1982</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="SAGA No. 02 - Pirate Adventure (USA) (Side B)" index="" image="">
+		<description>SAGA No. 02 - Pirate Adventure (USA) (Side B)</description>
+		<cloneof></cloneof>
+		<crc>E529005B</crc>
+		<manufacturer>Adventure International</manufacturer>
+		<year>1982</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="SAGA No. 03 - Mission Impossible (USA) (Side A)" index="" image="">
+		<description>SAGA No. 03 - Mission Impossible (USA) (Side A)</description>
+		<cloneof></cloneof>
+		<crc>6DB6ADFA</crc>
+		<manufacturer>Adventure International</manufacturer>
+		<year>1982</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="SAGA No. 03 - Mission Impossible (USA) (Side B)" index="" image="">
+		<description>SAGA No. 03 - Mission Impossible (USA) (Side B)</description>
+		<cloneof></cloneof>
+		<crc>C1011866</crc>
+		<manufacturer>Adventure International</manufacturer>
+		<year>1982</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="SAGA No. 04 - Voodoo Castle (USA) (Side A)" index="" image="">
+		<description>SAGA No. 04 - Voodoo Castle (USA) (Side A)</description>
+		<cloneof></cloneof>
+		<crc>E9142CE3</crc>
+		<manufacturer>Adventure International</manufacturer>
+		<year>1983</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="SAGA No. 04 - Voodoo Castle (USA) (Side B)" index="" image="">
+		<description>SAGA No. 04 - Voodoo Castle (USA) (Side B)</description>
+		<cloneof></cloneof>
+		<crc>57196BC6</crc>
+		<manufacturer>Adventure International</manufacturer>
+		<year>1983</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="SAGA No. 05 - The Count (USA) (Side A)" index="" image="">
+		<description>SAGA No. 05 - The Count (USA) (Side A)</description>
+		<cloneof></cloneof>
+		<crc>A1DDAF08</crc>
+		<manufacturer>Adventure International</manufacturer>
+		<year>1983</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="SAGA No. 05 - The Count (USA) (Side B)" index="" image="">
+		<description>SAGA No. 05 - The Count (USA) (Side B)</description>
+		<cloneof></cloneof>
+		<crc>E1108F3A</crc>
+		<manufacturer>Adventure International</manufacturer>
+		<year>1983</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="SAGA No. 06 - Strange Odyssey (USA) (Side A)" index="" image="">
+		<description>SAGA No. 06 - Strange Odyssey (USA) (Side A)</description>
+		<cloneof></cloneof>
+		<crc>1D2B412D</crc>
+		<manufacturer>Adventure International</manufacturer>
+		<year>1982</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="SAGA No. 06 - Strange Odyssey (USA) (Side B)" index="" image="">
+		<description>SAGA No. 06 - Strange Odyssey (USA) (Side B)</description>
+		<cloneof></cloneof>
+		<crc>321445C1</crc>
+		<manufacturer>Adventure International</manufacturer>
+		<year>1982</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="SAGA No. 13 - The Sorcerer of Claymorgue Castle (USA) (Side A)" index="" image="">
+		<description>SAGA No. 13 - The Sorcerer of Claymorgue Castle (USA) (Side A)</description>
+		<cloneof></cloneof>
+		<crc>88AF1AEF</crc>
+		<manufacturer>Adventure International</manufacturer>
+		<year>1983</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="SAGA No. 13 - The Sorcerer of Claymorgue Castle (USA) (Side B)" index="" image="">
+		<description>SAGA No. 13 - The Sorcerer of Claymorgue Castle (USA) (Side B)</description>
+		<cloneof></cloneof>
+		<crc>A2C74469</crc>
+		<manufacturer>Adventure International</manufacturer>
+		<year>1983</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Saigon - The Final Days (USA) (Side A)" index="" image="">
+		<description>Saigon - The Final Days (USA) (Side A)</description>
+		<cloneof></cloneof>
+		<crc>372DCCB8</crc>
+		<manufacturer>Adventure International</manufacturer>
+		<year>19xx</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Saigon - The Final Days (USA) (Side B)" index="" image="">
+		<description>Saigon - The Final Days (USA) (Side B)</description>
+		<cloneof></cloneof>
+		<crc>2F6CDE9C</crc>
+		<manufacturer>Adventure International</manufacturer>
+		<year>19xx</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sands of Egypt, The (USA)" index="" image="">
+		<description>Sands of Egypt, The (USA)</description>
+		<cloneof></cloneof>
+		<crc>3FFBDA4A</crc>
+		<manufacturer>Datasoft</manufacturer>
+		<year>1982</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sands of Mars (USA) (Side A)" index="" image="">
+		<description>Sands of Mars (USA) (Side A)</description>
+		<cloneof></cloneof>
+		<crc>3C4F7270</crc>
+		<manufacturer>Crystalware</manufacturer>
+		<year>1981</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sands of Mars (USA) (Side B)" index="" image="">
+		<description>Sands of Mars (USA) (Side B)</description>
+		<cloneof></cloneof>
+		<crc>5C611BE2</crc>
+		<manufacturer>Crystalware</manufacturer>
+		<year>1981</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Search, The (Europe)" index="" image="">
+		<description>Search, The (Europe)</description>
+		<cloneof></cloneof>
+		<crc>A56D2892</crc>
+		<manufacturer>Red Rat Software</manufacturer>
+		<year>19xx</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Seastalker (USA) (Side A)" index="" image="">
+		<description>Seastalker (USA) (Side A)</description>
+		<cloneof></cloneof>
+		<crc>FCAF5370</crc>
+		<manufacturer>Infocom</manufacturer>
+		<year>1984</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Seastalker (USA) (Side B)" index="" image="">
+		<description>Seastalker (USA) (Side B)</description>
+		<cloneof></cloneof>
+		<crc>88062668</crc>
+		<manufacturer>Infocom</manufacturer>
+		<year>1984</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Secret Diary of Adrian Mole, The - Part 1 (Europe)" index="" image="">
+		<description>Secret Diary of Adrian Mole, The - Part 1 (Europe)</description>
+		<cloneof></cloneof>
+		<crc>91EA109D</crc>
+		<manufacturer>Mosaic Publishing</manufacturer>
+		<year>1985</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Secret Diary of Adrian Mole, The - Part 2 (Europe)" index="" image="">
+		<description>Secret Diary of Adrian Mole, The - Part 2 (Europe)</description>
+		<cloneof></cloneof>
+		<crc>D6E0E8EA</crc>
+		<manufacturer>Mosaic Publishing</manufacturer>
+		<year>1985</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Secret Diary of Adrian Mole, The - Part 3 (Europe)" index="" image="">
+		<description>Secret Diary of Adrian Mole, The - Part 3 (Europe)</description>
+		<cloneof></cloneof>
+		<crc>6FCB508E</crc>
+		<manufacturer>Mosaic Publishing</manufacturer>
+		<year>1985</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Secret Diary of Adrian Mole, The - Part 4 (Europe)" index="" image="">
+		<description>Secret Diary of Adrian Mole, The - Part 4 (Europe)</description>
+		<cloneof></cloneof>
+		<crc>EA900FB2</crc>
+		<manufacturer>Mosaic Publishing</manufacturer>
+		<year>1985</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Serpent&apos;s Star, The (USA) (Disk 1 Side A)" index="" image="">
+		<description>Serpent&apos;s Star, The (USA) (Disk 1 Side A)</description>
+		<cloneof></cloneof>
+		<crc>1BCA0D69</crc>
+		<manufacturer>Broderbund</manufacturer>
+		<year>1984</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Serpent&apos;s Star, The (USA) (Disk 1 Side B)" index="" image="">
+		<description>Serpent&apos;s Star, The (USA) (Disk 1 Side B)</description>
+		<cloneof></cloneof>
+		<crc>AA294763</crc>
+		<manufacturer>Broderbund</manufacturer>
+		<year>1984</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Serpent&apos;s Star, The (USA) (Disk 2 Side A)" index="" image="">
+		<description>Serpent&apos;s Star, The (USA) (Disk 2 Side A)</description>
+		<cloneof></cloneof>
+		<crc>DF1B058C</crc>
+		<manufacturer>Broderbund</manufacturer>
+		<year>1984</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Serpent&apos;s Star, The (USA) (Disk 2 Side B)" index="" image="">
+		<description>Serpent&apos;s Star, The (USA) (Disk 2 Side B)</description>
+		<cloneof></cloneof>
+		<crc>17D4ABAD</crc>
+		<manufacturer>Broderbund</manufacturer>
+		<year>1984</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Silicon Dreams (Europe)" index="" image="">
+		<description>Silicon Dreams (Europe)</description>
+		<cloneof></cloneof>
+		<crc>AFA9D621</crc>
+		<manufacturer>Level 9 Computer</manufacturer>
+		<year>1986</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Slave, The (Europe)" index="" image="">
+		<description>Slave, The (Europe)</description>
+		<cloneof></cloneof>
+		<crc>1A50EF80</crc>
+		<manufacturer>Gregory Software</manufacturer>
+		<year>1986</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sleazy Adventure (USA)" index="" image="">
+		<description>Sleazy Adventure (USA)</description>
+		<cloneof></cloneof>
+		<crc>7254EADB</crc>
+		<manufacturer>APX</manufacturer>
+		<year>1981</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Snooper Troops - Disappearing Dolphin (USA)" index="" image="">
+		<description>Snooper Troops - Disappearing Dolphin (USA)</description>
+		<cloneof></cloneof>
+		<crc>BFE6B30B</crc>
+		<manufacturer>Spinnaker</manufacturer>
+		<year>1982</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Snooper Troops - Granite Point Ghost (USA)" index="" image="">
+		<description>Snooper Troops - Granite Point Ghost (USA)</description>
+		<cloneof></cloneof>
+		<crc>19E0E9F9</crc>
+		<manufacturer>Spinnaker</manufacturer>
+		<year>1982</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Softporn Adventure (USA)" index="" image="">
+		<description>Softporn Adventure (USA)</description>
+		<cloneof></cloneof>
+		<crc>89BE33C1</crc>
+		<manufacturer>On-Line Systems</manufacturer>
+		<year>1981</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="SoftSide Adventure No. 1 - Arabian Adventure (USA)" index="" image="">
+		<description>SoftSide Adventure No. 1 - Arabian Adventure (USA)</description>
+		<cloneof></cloneof>
+		<crc>3CF8A6C6</crc>
+		<manufacturer>SoftSide Publications</manufacturer>
+		<year>1981</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="SoftSide Adventure No. 10 - James Brand (USA)" index="" image="">
+		<description>SoftSide Adventure No. 10 - James Brand (USA)</description>
+		<cloneof></cloneof>
+		<crc>327CE0FE</crc>
+		<manufacturer>SoftSide Publications</manufacturer>
+		<year>1982</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="SoftSide Adventure No. 13 - Arrow One (USA)" index="" image="">
+		<description>SoftSide Adventure No. 13 - Arrow One (USA)</description>
+		<cloneof></cloneof>
+		<crc>5CEFC1C0</crc>
+		<manufacturer>SoftSide Publications</manufacturer>
+		<year>1982</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="SoftSide Adventure No. 14 - Robin Hood (USA)" index="" image="">
+		<description>SoftSide Adventure No. 14 - Robin Hood (USA)</description>
+		<cloneof></cloneof>
+		<crc>C8AAB56F</crc>
+		<manufacturer>SoftSide Publications</manufacturer>
+		<year>1982</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="SoftSide Adventure No. 15 - The Mouse That Ate Chicago (USA)" index="" image="">
+		<description>SoftSide Adventure No. 15 - The Mouse That Ate Chicago (USA)</description>
+		<cloneof></cloneof>
+		<crc>0DE341A1</crc>
+		<manufacturer>SoftSide Publications</manufacturer>
+		<year>1982</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="SoftSide Adventure No. 17 - The Deadly Game (USA)" index="" image="">
+		<description>SoftSide Adventure No. 17 - The Deadly Game (USA)</description>
+		<cloneof></cloneof>
+		<crc>9362FDA7</crc>
+		<manufacturer>SoftSide Publications</manufacturer>
+		<year>1982</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="SoftSide Adventure No. 4 - Jack the Ripper (USA)" index="" image="">
+		<description>SoftSide Adventure No. 4 - Jack the Ripper (USA)</description>
+		<cloneof></cloneof>
+		<crc>0A90B091</crc>
+		<manufacturer>SoftSide Publications</manufacturer>
+		<year>1981</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="SoftSide Adventure No. 5 - Crime Adventure (USA)" index="" image="">
+		<description>SoftSide Adventure No. 5 - Crime Adventure (USA)</description>
+		<cloneof></cloneof>
+		<crc>06054A42</crc>
+		<manufacturer>SoftSide Publications</manufacturer>
+		<year>1981</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sorcerer (USA) (Side A)" index="" image="">
+		<description>Sorcerer (USA) (Side A)</description>
+		<cloneof></cloneof>
+		<crc>0B0E1BFF</crc>
+		<manufacturer>Infocom</manufacturer>
+		<year>1984</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sorcerer (USA) (Side B)" index="" image="">
+		<description>Sorcerer (USA) (Side B)</description>
+		<cloneof></cloneof>
+		<crc>5A0CF49E</crc>
+		<manufacturer>Infocom</manufacturer>
+		<year>1984</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Spellbreaker (USA) (Side A)" index="" image="">
+		<description>Spellbreaker (USA) (Side A)</description>
+		<cloneof></cloneof>
+		<crc>A3DF5A27</crc>
+		<manufacturer>Infocom</manufacturer>
+		<year>1985</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Spellbreaker (USA) (Side B)" index="" image="">
+		<description>Spellbreaker (USA) (Side B)</description>
+		<cloneof></cloneof>
+		<crc>4FC97498</crc>
+		<manufacturer>Infocom</manufacturer>
+		<year>1985</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Star Trek Adventure, The (USA)" index="" image="">
+		<description>Star Trek Adventure, The (USA)</description>
+		<cloneof></cloneof>
+		<crc>0D2C6377</crc>
+		<manufacturer>Hibyte</manufacturer>
+		<year>1985</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Star Voyage 1 &amp; Star Voyage 2 (USA)" index="" image="">
+		<description>Star Voyage 1 &amp; Star Voyage 2 (USA)</description>
+		<cloneof></cloneof>
+		<crc>F48BE397</crc>
+		<manufacturer>CodeWriter</manufacturer>
+		<year>19xx</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Starblade (Europe)" index="" image="">
+		<description>Starblade (Europe)</description>
+		<cloneof></cloneof>
+		<crc>16DFDAFA</crc>
+		<manufacturer>Electric Dreams</manufacturer>
+		<year>1986</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Starcross (USA)" index="" image="">
+		<description>Starcross (USA)</description>
+		<cloneof></cloneof>
+		<crc>66108BC8</crc>
+		<manufacturer>Infocom</manufacturer>
+		<year>1982</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Stationfall (USA) (Side A)" index="" image="">
+		<description>Stationfall (USA) (Side A)</description>
+		<cloneof></cloneof>
+		<crc>402381D8</crc>
+		<manufacturer>Infocom</manufacturer>
+		<year>1987</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Stationfall (USA) (Side B)" index="" image="">
+		<description>Stationfall (USA) (Side B)</description>
+		<cloneof></cloneof>
+		<crc>C3117CAD</crc>
+		<manufacturer>Infocom</manufacturer>
+		<year>1987</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Stone of Sisyphus, The (USA) (Side A)" index="" image="">
+		<description>Stone of Sisyphus, The (USA) (Side A)</description>
+		<cloneof></cloneof>
+		<crc>059EB5B1</crc>
+		<manufacturer>Adventure International</manufacturer>
+		<year>1982</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Stone of Sisyphus, The (USA) (Side B)" index="" image="">
+		<description>Stone of Sisyphus, The (USA) (Side B)</description>
+		<cloneof></cloneof>
+		<crc>B272AA65</crc>
+		<manufacturer>Adventure International</manufacturer>
+		<year>1982</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Stonequest (USA)" index="" image="">
+		<description>Stonequest (USA)</description>
+		<cloneof></cloneof>
+		<crc>57ED9EE6</crc>
+		<manufacturer>LotsaBytes</manufacturer>
+		<year>1984</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Stranded (Europe)" index="" image="">
+		<description>Stranded (Europe)</description>
+		<cloneof></cloneof>
+		<crc>E7AD41FE</crc>
+		<manufacturer>English Software</manufacturer>
+		<year>1984</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sultan&apos;s Palace (USA)" index="" image="">
+		<description>Sultan&apos;s Palace (USA)</description>
+		<cloneof></cloneof>
+		<crc>15A4E4B5</crc>
+		<manufacturer>APX</manufacturer>
+		<year>1981</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Survival Adventure (USA)" index="" image="">
+		<description>Survival Adventure (USA)</description>
+		<cloneof></cloneof>
+		<crc>FEE0AA6A</crc>
+		<manufacturer>United Software of America</manufacturer>
+		<year>1980</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Suspect (USA) (Side A)" index="" image="">
+		<description>Suspect (USA) (Side A)</description>
+		<cloneof></cloneof>
+		<crc>0DB1728F</crc>
+		<manufacturer>Infocom</manufacturer>
+		<year>1984</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Suspect (USA) (Side B)" index="" image="">
+		<description>Suspect (USA) (Side B)</description>
+		<cloneof></cloneof>
+		<crc>6A66EF87</crc>
+		<manufacturer>Infocom</manufacturer>
+		<year>1984</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Suspended (USA) (Side A)" index="" image="">
+		<description>Suspended (USA) (Side A)</description>
+		<cloneof></cloneof>
+		<crc>1D171091</crc>
+		<manufacturer>Infocom</manufacturer>
+		<year>1983</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Suspended (USA) (Side B)" index="" image="">
+		<description>Suspended (USA) (Side B)</description>
+		<cloneof></cloneof>
+		<crc>64B34ADE</crc>
+		<manufacturer>Infocom</manufacturer>
+		<year>1983</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tagalon (Europe)" index="true" image="t">
+		<description>Tagalon (Europe)</description>
+		<cloneof></cloneof>
+		<crc>CBAA1AF7</crc>
+		<manufacturer>Tynesoft</manufacturer>
+		<year>19xx</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tarkus and the Crystal of Fear (Europe)" index="" image="">
+		<description>Tarkus and the Crystal of Fear (Europe)</description>
+		<cloneof></cloneof>
+		<crc>D02C9A5E</crc>
+		<manufacturer>Tiger Developments</manufacturer>
+		<year>1992</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tarkus and the Orbs of Doom (Europe)" index="" image="">
+		<description>Tarkus and the Orbs of Doom (Europe)</description>
+		<cloneof></cloneof>
+		<crc>380CDBB1</crc>
+		<manufacturer>Tiger Developments</manufacturer>
+		<year>1993</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Time Warp (Europe)" index="" image="">
+		<description>Time Warp (Europe)</description>
+		<cloneof></cloneof>
+		<crc>11E4D6EE</crc>
+		<manufacturer>English Software Company</manufacturer>
+		<year>1982</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Transylvania (USA)" index="" image="">
+		<description>Transylvania (USA)</description>
+		<cloneof></cloneof>
+		<crc>5C50F3B3</crc>
+		<manufacturer>Penguin Software</manufacturer>
+		<year>1984</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Treasure Quest (USA)" index="" image="">
+		<description>Treasure Quest (USA)</description>
+		<cloneof></cloneof>
+		<crc>A89753D1</crc>
+		<manufacturer>Adventure International</manufacturer>
+		<year>1981</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Uczen Czarnoksieznika (Poland)" index="true" image="u">
+		<description>Uczen Czarnoksieznika (Poland)</description>
+		<cloneof></cloneof>
+		<crc>BA1A3EBD</crc>
+		<manufacturer>L.K. Avalon</manufacturer>
+		<year>1992</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Universal Hero (Europe)" index="" image="">
+		<description>Universal Hero (Europe)</description>
+		<cloneof></cloneof>
+		<crc>6F164E0B</crc>
+		<manufacturer>Mastertronic</manufacturer>
+		<year>1987</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Valley of the Kings (USA)" index="true" image="v">
+		<description>Valley of the Kings (USA)</description>
+		<cloneof></cloneof>
+		<crc>FA822FBD</crc>
+		<manufacturer>Dynacomp</manufacturer>
+		<year>1982</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Vicky (Poland)" index="" image="">
+		<description>Vicky (Poland)</description>
+		<cloneof></cloneof>
+		<crc>D037C99A</crc>
+		<manufacturer>L.K. Avalon</manufacturer>
+		<year>1992</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Voyager I (USA)" index="" image="">
+		<description>Voyager I (USA)</description>
+		<cloneof></cloneof>
+		<crc>5CE78BCE</crc>
+		<manufacturer>Avalon Hill</manufacturer>
+		<year>1982</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Walt Disney&apos;s Alice in Wonderland (USA) (Side A)" index="true" image="w">
+		<description>Walt Disney&apos;s Alice in Wonderland (USA) (Side A)</description>
+		<cloneof></cloneof>
+		<crc>9DF7F16C</crc>
+		<manufacturer>ArgoSoft Software</manufacturer>
+		<year>1986</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Walt Disney&apos;s Alice in Wonderland (USA) (Side B)" index="" image="">
+		<description>Walt Disney&apos;s Alice in Wonderland (USA) (Side B)</description>
+		<cloneof></cloneof>
+		<crc>FD4976ED</crc>
+		<manufacturer>ArgoSoft Software</manufacturer>
+		<year>1986</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Warlock&apos;s Revenge (USA) (Side A)" index="" image="">
+		<description>Warlock&apos;s Revenge (USA) (Side A)</description>
+		<cloneof></cloneof>
+		<crc>7D26B666</crc>
+		<manufacturer>Synergistic</manufacturer>
+		<year>1982</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Warlock&apos;s Revenge (USA) (Side B)" index="" image="">
+		<description>Warlock&apos;s Revenge (USA) (Side B)</description>
+		<cloneof></cloneof>
+		<crc>A4B8252B</crc>
+		<manufacturer>Synergistic</manufacturer>
+		<year>1982</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Wayout (USA)" index="" image="">
+		<description>Wayout (USA)</description>
+		<cloneof></cloneof>
+		<crc>AC6E24EB</crc>
+		<manufacturer>Sirius Software</manufacturer>
+		<year>1982</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="White Barrows, The (Europe)" index="" image="">
+		<description>White Barrows, The (Europe)</description>
+		<cloneof></cloneof>
+		<crc>4E4A4282</crc>
+		<manufacturer>ASP Software</manufacturer>
+		<year>1983</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Wing Wars (USA)" index="" image="">
+		<description>Wing Wars (USA)</description>
+		<cloneof></cloneof>
+		<crc>B03884A4</crc>
+		<manufacturer>Imagic</manufacturer>
+		<year>19xx</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Wishbringer (USA) (Side A)" index="" image="">
+		<description>Wishbringer (USA) (Side A)</description>
+		<cloneof></cloneof>
+		<crc>1476F550</crc>
+		<manufacturer>Infocom</manufacturer>
+		<year>1985</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Wishbringer (USA) (Side B)" index="" image="">
+		<description>Wishbringer (USA) (Side B)</description>
+		<cloneof></cloneof>
+		<crc>CF70249D</crc>
+		<manufacturer>Infocom</manufacturer>
+		<year>1985</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Witness, The (USA) (Side A)" index="" image="">
+		<description>Witness, The (USA) (Side A)</description>
+		<cloneof></cloneof>
+		<crc>A3F1F91A</crc>
+		<manufacturer>Infocom</manufacturer>
+		<year>1983</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Witness, The (USA) (Side B)" index="" image="">
+		<description>Witness, The (USA) (Side B)</description>
+		<cloneof></cloneof>
+		<crc>4CD7FBAC</crc>
+		<manufacturer>Infocom</manufacturer>
+		<year>1983</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Wizard&apos;s Gold (USA)" index="" image="">
+		<description>Wizard&apos;s Gold (USA)</description>
+		<cloneof></cloneof>
+		<crc>C789B50C</crc>
+		<manufacturer>APX</manufacturer>
+		<year>1981</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Wizard&apos;s Revenge (USA)" index="" image="">
+		<description>Wizard&apos;s Revenge (USA)</description>
+		<cloneof></cloneof>
+		<crc>2BBA1429</crc>
+		<manufacturer>APX</manufacturer>
+		<year>1981</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Wladcy Ciemnosci (Europe)" index="" image="">
+		<description>Wladcy Ciemnosci (Europe)</description>
+		<cloneof></cloneof>
+		<crc>DB3EE8A8</crc>
+		<manufacturer>LK Avalon</manufacturer>
+		<year>19xx</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Wombats I (USA)" index="" image="">
+		<description>Wombats I (USA)</description>
+		<cloneof></cloneof>
+		<crc>E1BFD6EA</crc>
+		<manufacturer>Dynamic Software Design</manufacturer>
+		<year>1984</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Yogi Bear and Friends in The Greed Monster (Europe)" index="true" image="y">
+		<description>Yogi Bear and Friends in The Greed Monster (Europe)</description>
+		<cloneof></cloneof>
+		<crc>6EE16FD2</crc>
+		<manufacturer>Hi-Tec Software</manufacturer>
+		<year>1990</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Yogi&apos;s Great Escape (Europe)" index="" image="">
+		<description>Yogi&apos;s Great Escape (Europe)</description>
+		<cloneof></cloneof>
+		<crc>0CE12D1C</crc>
+		<manufacturer>Hi-Tec Software</manufacturer>
+		<year>1990</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Zbir (Poland)" index="true" image="z">
+		<description>Zbir (Poland)</description>
+		<cloneof></cloneof>
+		<crc>7245AE0E</crc>
+		<manufacturer>Mirage</manufacturer>
+		<year>199x</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Zero War (Europe)" index="" image="">
+		<description>Zero War (Europe)</description>
+		<cloneof></cloneof>
+		<crc>0D5B801D</crc>
+		<manufacturer>Harlequin Software</manufacturer>
+		<year>1990</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Zeus (Poland)" index="" image="">
+		<description>Zeus (Poland)</description>
+		<cloneof></cloneof>
+		<crc>F14CCBE5</crc>
+		<manufacturer>L.K. Avalon</manufacturer>
+		<year>1993</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Zombies (USA)" index="" image="">
+		<description>Zombies (USA)</description>
+		<cloneof></cloneof>
+		<crc>3E8C84C2</crc>
+		<manufacturer>Bram</manufacturer>
+		<year>1983</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Zone X (Europe)" index="" image="">
+		<description>Zone X (Europe)</description>
+		<cloneof></cloneof>
+		<crc>D4EB3E63</crc>
+		<manufacturer>Gremlin Graphics</manufacturer>
+		<year>1985</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Zork I - The Great Underground Empire (USA)" index="" image="">
+		<description>Zork I - The Great Underground Empire (USA)</description>
+		<cloneof></cloneof>
+		<crc>B81B846D</crc>
+		<manufacturer>Infocom</manufacturer>
+		<year>1982</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Zork II - The Wizard of Frobozz (USA)" index="" image="">
+		<description>Zork II - The Wizard of Frobozz (USA)</description>
+		<cloneof></cloneof>
+		<crc>DE7AB432</crc>
+		<manufacturer>Infocom</manufacturer>
+		<year>1982</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Zork III - The Dungeon Master (USA)" index="" image="">
+		<description>Zork III - The Dungeon Master (USA)</description>
+		<cloneof></cloneof>
+		<crc>552B8DEC</crc>
+		<manufacturer>Infocom</manufacturer>
+		<year>1982</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Zorro (USA)" index="" image="">
+		<description>Zorro (USA)</description>
+		<cloneof></cloneof>
+		<crc>0F052AB2</crc>
+		<manufacturer>Datasoft</manufacturer>
+		<year>1985</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Zumbaja (Poland)" index="" image="">
+		<description>Zumbaja (Poland)</description>
+		<cloneof></cloneof>
+		<crc>28325468</crc>
+		<manufacturer>Krysal Software</manufacturer>
+		<year>1993</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

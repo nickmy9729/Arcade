@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Nintendo Game Boy Advance</listname>
+		<lastlistupdate>10/27/2011</lastlistupdate>
+		<listversion>1.1 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="Backyard Hockey (USA)" index="true" image="b">
+		<description>Backyard Hockey (USA)</description>
+		<cloneof></cloneof>
+		<crc>3A8E31AF</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>2003</year>
+		<genre>Hockey/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NHL 2002 (USA)" index="true" image="n">
+		<description>NHL 2002 (USA)</description>
+		<cloneof></cloneof>
+		<crc>D1D9E515</crc>
+		<manufacturer>EA Sports</manufacturer>
+		<year>2002</year>
+		<genre>Hockey/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NHL Hitz 20-03 (USA)" index="" image="">
+		<description>NHL Hitz 20-03 (USA)</description>
+		<cloneof></cloneof>
+		<crc>4F1ADF75</crc>
+		<manufacturer>Midway</manufacturer>
+		<year>2002</year>
+		<genre>Hockey/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

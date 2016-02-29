@@ -1,0 +1,8 @@
+<DonsHyperSpinListGenerator VersionMajor="4">
+  <Wheel>Sammy Atomiswave</Wheel>
+  <OutputFile>M:\Arcade\HyperSpin\Databases\Sammy Atomiswave\Sammy Atomiswave.xml</OutputFile>
+  <SourceFile>M:\Hyperlists\Sammy Atomiswave.xml</SourceFile>
+  <ExcludeFile>M:\Arcade\HyperSpin\Databases\Sammy Atomiswave\Sammy Atomiswave_excluded.xml</ExcludeFile>
+  <MameXmlFile>
+  </MameXmlFile>
+</DonsHyperSpinListGenerator>

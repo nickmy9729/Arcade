@@ -1,0 +1,259 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Super Nintendo Entertainment System</listname>
+		<lastlistupdate>11/26/2011</lastlistupdate>
+		<listversion>1.3 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="ABC Monday Night Football (USA)" index="true" image="a">
+		<description>ABC Monday Night Football (USA)</description>
+		<cloneof></cloneof>
+		<crc>e0dc8ad7</crc>
+		<manufacturer>Data East</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Football</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bill Walsh College Football (USA)" index="true" image="b">
+		<description>Bill Walsh College Football (USA)</description>
+		<cloneof></cloneof>
+		<crc>25391c9f</crc>
+		<manufacturer>EA Sports</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Football</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Capcom&apos;s MVP Football (USA)" index="true" image="c">
+		<description>Capcom&apos;s MVP Football (USA)</description>
+		<cloneof></cloneof>
+		<crc>bd0a0c0e</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Football</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Emmitt Smith Football (USA)" index="true" image="e">
+		<description>Emmitt Smith Football (USA)</description>
+		<cloneof></cloneof>
+		<crc>09c3c0ef</crc>
+		<manufacturer>JVC Digital Studios</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Football</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ESPN Sunday Night NFL (USA)" index="" image="">
+		<description>ESPN Sunday Night NFL (USA)</description>
+		<cloneof></cloneof>
+		<crc>26849f90</crc>
+		<manufacturer>Sony Imagesoft</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Football</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Football Fury (USA)" index="true" image="f">
+		<description>Football Fury (USA)</description>
+		<cloneof></cloneof>
+		<crc>729a5524</crc>
+		<manufacturer>American Sammy</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Football</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="John Madden Football &apos;93 (USA) (Rev 1)" index="true" image="j">
+		<description>John Madden Football &apos;93 (USA) (Rev 1)</description>
+		<cloneof></cloneof>
+		<crc>dc5a250b</crc>
+		<manufacturer>Electronic Arts</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Football</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Madden NFL &apos;94 (USA)" index="true" image="m">
+		<description>Madden NFL &apos;94 (USA)</description>
+		<cloneof></cloneof>
+		<crc>8bed5914</crc>
+		<manufacturer>Electronic Arts</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Football</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Madden NFL 95 (USA)" index="" image="">
+		<description>Madden NFL 95 (USA)</description>
+		<cloneof></cloneof>
+		<crc>021a3f69</crc>
+		<manufacturer>EA Sports</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Football</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Madden NFL 96 (USA)" index="" image="">
+		<description>Madden NFL 96 (USA)</description>
+		<cloneof></cloneof>
+		<crc>51a1fe86</crc>
+		<manufacturer>EA Sports</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Football</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Madden NFL 97 (USA)" index="" image="">
+		<description>Madden NFL 97 (USA)</description>
+		<cloneof></cloneof>
+		<crc>abcf026e</crc>
+		<manufacturer>EA Sports</manufacturer>
+		<year>1996</year>
+		<genre>Sports/Football</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Madden NFL 98 (USA)" index="" image="">
+		<description>Madden NFL 98 (USA)</description>
+		<cloneof></cloneof>
+		<crc>cf10cc01</crc>
+		<manufacturer>Black Pearl</manufacturer>
+		<year>1997</year>
+		<genre>Sports/Football</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NCAA Football (USA)" index="true" image="n">
+		<description>NCAA Football (USA)</description>
+		<cloneof></cloneof>
+		<crc>2641c12a</crc>
+		<manufacturer>Mindscape</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Football</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NFL Football (USA)" index="" image="">
+		<description>NFL Football (USA)</description>
+		<cloneof></cloneof>
+		<crc>adb7731b</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Football</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NFL Quarterback Club (USA)" index="" image="">
+		<description>NFL Quarterback Club (USA)</description>
+		<cloneof></cloneof>
+		<crc>79f16421</crc>
+		<manufacturer>LJN Ltd.</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Football</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NFL Quarterback Club 96 (USA)" index="" image="">
+		<description>NFL Quarterback Club 96 (USA)</description>
+		<cloneof></cloneof>
+		<crc>e557689f</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Football</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pro Quarterback (USA)" index="true" image="p">
+		<description>Pro Quarterback (USA)</description>
+		<cloneof></cloneof>
+		<crc>6910626d</crc>
+		<manufacturer>Tradewest</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Football</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Space Football - One on One (USA)" index="true" image="s">
+		<description>Space Football - One on One (USA)</description>
+		<cloneof></cloneof>
+		<crc>55dcf09e</crc>
+		<manufacturer>Triffix</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Football</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super High Impact (USA)" index="" image="">
+		<description>Super High Impact (USA)</description>
+		<cloneof></cloneof>
+		<crc>2eed70fb</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Football</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Play Action Football (USA)" index="" image="">
+		<description>Super Play Action Football (USA)</description>
+		<cloneof></cloneof>
+		<crc>0f359a60</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Football</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tecmo Super Bowl (USA)" index="true" image="t">
+		<description>Tecmo Super Bowl (USA)</description>
+		<cloneof></cloneof>
+		<crc>cde3746b</crc>
+		<manufacturer>Tecmo</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Football</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tecmo Super Bowl II - Special Edition (USA)" index="" image="">
+		<description>Tecmo Super Bowl II - Special Edition (USA)</description>
+		<cloneof></cloneof>
+		<crc>d67d507b</crc>
+		<manufacturer>Tecmo</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Football</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tecmo Super Bowl III - Final Edition (USA)" index="" image="">
+		<description>Tecmo Super Bowl III - Final Edition (USA)</description>
+		<cloneof></cloneof>
+		<crc>8ef1411f</crc>
+		<manufacturer>Tecmo</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Football</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Troy Aikman NFL Football (USA)" index="" image="">
+		<description>Troy Aikman NFL Football (USA)</description>
+		<cloneof></cloneof>
+		<crc>0b26446b</crc>
+		<manufacturer>Tradewest</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Football</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="World Class Rugby (Europe)" index="true" image="w">
+		<description>World Class Rugby (Europe)</description>
+		<cloneof></cloneof>
+		<crc>d73d6c80</crc>
+		<manufacturer>Imagineer</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Football</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

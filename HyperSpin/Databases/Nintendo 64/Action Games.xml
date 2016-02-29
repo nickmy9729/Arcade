@@ -1,0 +1,229 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Nintendo 64</listname>
+		<lastlistupdate>11/15/2011</lastlistupdate>
+		<listversion>1.1 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="Army Men - Air Combat (USA)" index="true" image="a">
+		<description>Army Men - Air Combat (USA)</description>
+		<cloneof></cloneof>
+		<crc>2355E4F3</crc>
+		<manufacturer>3DO</manufacturer>
+		<year>2000</year>
+		<genre>Action</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="BattleTanx (USA)" index="true" image="b">
+		<description>BattleTanx (USA)</description>
+		<cloneof></cloneof>
+		<crc>66123C8B</crc>
+		<manufacturer>3DO</manufacturer>
+		<year>1998</year>
+		<genre>Action</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="BattleTanx - Global Assault (USA)" index="" image="">
+		<description>BattleTanx - Global Assault (USA)</description>
+		<cloneof></cloneof>
+		<crc>5819D423</crc>
+		<manufacturer>3DO</manufacturer>
+		<year>1999</year>
+		<genre>Action</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Blast Corps (USA) (Rev A)" index="" image="">
+		<description>Blast Corps (USA) (Rev A)</description>
+		<cloneof></cloneof>
+		<crc>23D415F8</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1997</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Body Harvest (USA)" index="" image="">
+		<description>Body Harvest (USA)</description>
+		<cloneof></cloneof>
+		<crc>7B878C56</crc>
+		<manufacturer>Midway</manufacturer>
+		<year>1998</year>
+		<genre>Action</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bomberman 64 (USA)" index="" image="">
+		<description>Bomberman 64 (USA)</description>
+		<cloneof></cloneof>
+		<crc>50A98BDF</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1997</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bomberman 64 - The Second Attack! (USA)" index="" image="">
+		<description>Bomberman 64 - The Second Attack! (USA)</description>
+		<cloneof></cloneof>
+		<crc>302B3135</crc>
+		<manufacturer>Vatical Entertainment</manufacturer>
+		<year>2000</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Buck Bumble (USA)" index="" image="">
+		<description>Buck Bumble (USA)</description>
+		<cloneof></cloneof>
+		<crc>DA2ACD5E</crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>1998</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Charlie Blast&apos;s Territory (USA)" index="true" image="c">
+		<description>Charlie Blast&apos;s Territory (USA)</description>
+		<cloneof></cloneof>
+		<crc>928A2968</crc>
+		<manufacturer>Kemco</manufacturer>
+		<year>1999</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Chopper Attack (USA)" index="" image="">
+		<description>Chopper Attack (USA)</description>
+		<cloneof></cloneof>
+		<crc>2C22147D</crc>
+		<manufacturer>Midway</manufacturer>
+		<year>1998</year>
+		<genre>Action</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gauntlet Legends (USA)" index="true" image="g">
+		<description>Gauntlet Legends (USA)</description>
+		<cloneof></cloneof>
+		<crc>7E90C0A8</crc>
+		<manufacturer>Midway</manufacturer>
+		<year>1999</year>
+		<genre>Action</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lode Runner 3-D (USA)" index="true" image="l">
+		<description>Lode Runner 3-D (USA)</description>
+		<cloneof></cloneof>
+		<crc>5AF38589</crc>
+		<manufacturer>Infogrames</manufacturer>
+		<year>1999</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ms. Pac-Man - Maze Madness (USA)" index="true" image="m">
+		<description>Ms. Pac-Man - Maze Madness (USA)</description>
+		<cloneof></cloneof>
+		<crc>D5017D76</crc>
+		<manufacturer>Namco</manufacturer>
+		<year>2000</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mystical Ninja Starring Goemon (USA)" index="" image="">
+		<description>Mystical Ninja Starring Goemon (USA)</description>
+		<cloneof></cloneof>
+		<crc>81C10AD9</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1998</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Nuclear Strike 64 (USA)" index="true" image="n">
+		<description>Nuclear Strike 64 (USA)</description>
+		<cloneof></cloneof>
+		<crc>1A70D11A</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>1999</year>
+		<genre>Action</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Paperboy (USA)" index="true" image="p">
+		<description>Paperboy (USA)</description>
+		<cloneof></cloneof>
+		<crc>2FCEEFF6</crc>
+		<manufacturer>Midway</manufacturer>
+		<year>1999</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pokemon Snap (USA)" index="" image="">
+		<description>Pokemon Snap (USA)</description>
+		<cloneof></cloneof>
+		<crc>DF387848</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1999</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Power Rangers - Lightspeed Rescue (USA)" index="" image="">
+		<description>Power Rangers - Lightspeed Rescue (USA)</description>
+		<cloneof></cloneof>
+		<crc>EB8CE95B</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2000</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Powerpuff Girls, The - Chemical X-Traction (USA)" index="" image="">
+		<description>Powerpuff Girls, The - Chemical X-Traction (USA)</description>
+		<cloneof></cloneof>
+		<crc>4EE7CD7E</crc>
+		<manufacturer>Bam Entertainment</manufacturer>
+		<year>2001</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rampage - World Tour (USA)" index="true" image="r">
+		<description>Rampage - World Tour (USA)</description>
+		<cloneof></cloneof>
+		<crc>6FE4DA23</crc>
+		<manufacturer>Midway</manufacturer>
+		<year>1998</year>
+		<genre>Action</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rampage 2 - Universal Tour (USA)" index="" image="">
+		<description>Rampage 2 - Universal Tour (USA)</description>
+		<cloneof></cloneof>
+		<crc>75E8C2AD</crc>
+		<manufacturer>Midway</manufacturer>
+		<year>1999</year>
+		<genre>Action</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Robotron 64 (USA)" index="" image="">
+		<description>Robotron 64 (USA)</description>
+		<cloneof></cloneof>
+		<crc>123D44CC</crc>
+		<manufacturer>Crave</manufacturer>
+		<year>1998</year>
+		<genre>Action</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

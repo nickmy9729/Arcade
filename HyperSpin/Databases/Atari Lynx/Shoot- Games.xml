@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Atari Lynx</listname>
+		<lastlistupdate>10/27/2011</lastlistupdate>
+		<listversion>1.1 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="Gates of Zendocon, The (USA, Europe)" index="true" image="g">
+		<description>Gates of Zendocon, The (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>494CC568</crc>
+		<manufacturer>Epyx</manufacturer>
+		<year>1993</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Raiden (USA) (v3.0)" index="true" image="r">
+		<description>Raiden (USA) (v3.0)</description>
+		<cloneof></cloneof>
+		<crc>BCD10C3A</crc>
+		<manufacturer>Fabtek</manufacturer>
+		<year>1997</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Robotron 2084 (USA, Europe)" index="" image="">
+		<description>Robotron 2084 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>7A6049B5</crc>
+		<manufacturer>Shadowsoft</manufacturer>
+		<year>1991</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Asteroids, Missile Command (USA, Europe)" index="true" image="s">
+		<description>Super Asteroids, Missile Command (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>2DA7E2A8</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1995</year>
+		<genre>Shoot-&apos;Em-Up/Shooter</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

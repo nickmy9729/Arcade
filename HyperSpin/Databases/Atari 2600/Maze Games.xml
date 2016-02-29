@@ -1,0 +1,319 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Atari 2600</listname>
+		<lastlistupdate>07/20/2013</lastlistupdate>
+		<listversion>1.0 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="Alien (USA)" index="true" image="a">
+		<description>Alien (USA)</description>
+		<cloneof></cloneof>
+		<crc>6D61059F</crc>
+		<manufacturer>20th Century Fox Video Games</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cat Trax (USA) (Proto)" index="true" image="c">
+		<description>Cat Trax (USA) (Proto)</description>
+		<cloneof></cloneof>
+		<crc>C847E5EC</crc>
+		<manufacturer>UA Limited</manufacturer>
+		<year>1983</year>
+		<genre>Maze</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Chase the Chuckwagon (USA)" index="" image="">
+		<description>Chase the Chuckwagon (USA)</description>
+		<cloneof></cloneof>
+		<crc>63E4FC7F</crc>
+		<manufacturer>Spectravideo - Video Games Industries Corporation</manufacturer>
+		<year>1983</year>
+		<genre>Maze</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Crypts of Chaos (USA)" index="" image="">
+		<description>Crypts of Chaos (USA)</description>
+		<cloneof></cloneof>
+		<crc>C5B29962</crc>
+		<manufacturer>20th Century Fox Video Games</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Encaved (USA) (Unl)" index="true" image="e">
+		<description>Encaved (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>C6CB6BD4</crc>
+		<manufacturer>AtariAge - Simon Quernhorst</manufacturer>
+		<year>2007</year>
+		<genre>Maze</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Entombed (USA)" index="" image="">
+		<description>Entombed (USA)</description>
+		<cloneof></cloneof>
+		<crc>E48EC9DC</crc>
+		<manufacturer>U.S. Games Corporation</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Escape from the Mindmaster (USA)" index="" image="">
+		<description>Escape from the Mindmaster (USA)</description>
+		<cloneof></cloneof>
+		<crc>FD0C8BFC</crc>
+		<manufacturer>Starpath Corporation</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Extra Terrestrials (Canada)" index="" image="">
+		<description>Extra Terrestrials (Canada)</description>
+		<cloneof></cloneof>
+		<crc>3889D018</crc>
+		<manufacturer>Skill Screen Games</manufacturer>
+		<year>1984</year>
+		<genre>Maze</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Go Go Home Monster (Europe)" index="true" image="g">
+		<description>Go Go Home Monster (Europe)</description>
+		<cloneof></cloneof>
+		<crc>C161F53B</crc>
+		<manufacturer>Homevision - Gem International Corp.</manufacturer>
+		<year>1983</year>
+		<genre>Maze</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="GoSub (USA) (Unl)" index="" image="">
+		<description>GoSub (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>3A4CAF44</crc>
+		<manufacturer>AtariAge - Chris Read, Micheal Rideout &amp; Fred Quimby</manufacturer>
+		<year>2007</year>
+		<genre>Maze</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Jawbreaker (USA)" index="true" image="j">
+		<description>Jawbreaker (USA)</description>
+		<cloneof></cloneof>
+		<crc>FC11BF67</crc>
+		<manufacturer>Tigervision</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Jr. Pac-Man (USA)" index="" image="">
+		<description>Jr. Pac-Man (USA)</description>
+		<cloneof></cloneof>
+		<crc>5C345BAC</crc>
+		<manufacturer>Atari - GCC</manufacturer>
+		<year>1986</year>
+		<genre>Maze</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lady Bug (USA) (Unl)" index="true" image="l">
+		<description>Lady Bug (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>622D813A</crc>
+		<manufacturer>AtariAge - John W. Champeau</manufacturer>
+		<year>2006</year>
+		<genre>Maze</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lochjaw (USA)" index="" image="">
+		<description>Lochjaw (USA)</description>
+		<cloneof></cloneof>
+		<crc>B2A2FF31</crc>
+		<manufacturer>Apollo - Games by Apollo</manufacturer>
+		<year>1981</year>
+		<genre>Maze</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lock &apos;n&apos; Chase (USA)" index="" image="">
+		<description>Lock &apos;n&apos; Chase (USA)</description>
+		<cloneof></cloneof>
+		<crc>7994BF16</crc>
+		<manufacturer>M Network - INTV</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="London Blitz (USA)" index="" image="">
+		<description>London Blitz (USA)</description>
+		<cloneof></cloneof>
+		<crc>D23CD66C</crc>
+		<manufacturer>Avalon Hill</manufacturer>
+		<year>1983</year>
+		<genre>Maze</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Malagai (USA)" index="true" image="m">
+		<description>Malagai (USA)</description>
+		<cloneof></cloneof>
+		<crc>65790EF9</crc>
+		<manufacturer>Answer Software Corporation - TY Associates</manufacturer>
+		<year>1983</year>
+		<genre>Maze</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Marble Craze (USA) (Unl)" index="" image="">
+		<description>Marble Craze (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>E521497F</crc>
+		<manufacturer>XYPE &amp; AtariAge - Paul Slocum</manufacturer>
+		<year>2002</year>
+		<genre>Maze</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Maze Craze - A Game of Cops &apos;n Robbers (USA)" index="" image="">
+		<description>Maze Craze - A Game of Cops &apos;n Robbers (USA)</description>
+		<cloneof></cloneof>
+		<crc>0098E428</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1980</year>
+		<genre>Maze</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Merlin&apos;s Walls (France) (Unl)" index="" image="">
+		<description>Merlin&apos;s Walls (France) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>50486785</crc>
+		<manufacturer>Ebivision</manufacturer>
+		<year>1999</year>
+		<genre>Maze</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mines of Minos (USA)" index="" image="">
+		<description>Mines of Minos (USA)</description>
+		<cloneof></cloneof>
+		<crc>C799E944</crc>
+		<manufacturer>CommaVid</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mouse Trap (USA)" index="" image="">
+		<description>Mouse Trap (USA)</description>
+		<cloneof></cloneof>
+		<crc>9DDD45D3</crc>
+		<manufacturer>Coleco</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ms. Pac-Man (USA)" index="" image="">
+		<description>Ms. Pac-Man (USA)</description>
+		<cloneof></cloneof>
+		<crc>B2D08FC9</crc>
+		<manufacturer>Atari - GCC</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pac-Man (USA)" index="true" image="p">
+		<description>Pac-Man (USA)</description>
+		<cloneof></cloneof>
+		<crc>DDC9A881</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1981</year>
+		<genre>Maze</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pac-Man 4K (USA) (Unl)" index="" image="">
+		<description>Pac-Man 4K (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>76876F98</crc>
+		<manufacturer>AtariAge - Dennis Debro</manufacturer>
+		<year>2011</year>
+		<genre>Maze</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pesco (France) (Unl)" index="" image="">
+		<description>Pesco (France) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>73B5550A</crc>
+		<manufacturer>Ebivision</manufacturer>
+		<year>1999</year>
+		<genre>Maze</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Skeleton (USA) (Unl)" index="true" image="s">
+		<description>Skeleton (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>72D48641</crc>
+		<manufacturer>AtariAge - Eric Ball</manufacturer>
+		<year>2002</year>
+		<genre>Maze</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Skeleton+ (USA) (Unl)" index="" image="">
+		<description>Skeleton+ (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>69666409</crc>
+		<manufacturer>AtariAge - Eric Ball</manufacturer>
+		<year>2003</year>
+		<genre>Maze</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Slot Racers (USA)" index="" image="">
+		<description>Slot Racers (USA)</description>
+		<cloneof></cloneof>
+		<crc>177DBDF8</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1978</year>
+		<genre>Maze</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tunnel Runner (USA)" index="true" image="t">
+		<description>Tunnel Runner (USA)</description>
+		<cloneof></cloneof>
+		<crc>A02745F8</crc>
+		<manufacturer>CBS Electronics</manufacturer>
+		<year>1983</year>
+		<genre>Maze</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Wizard (USA) (Proto)" index="true" image="w">
+		<description>Wizard (USA) (Proto)</description>
+		<cloneof></cloneof>
+		<crc>A0BCC502</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1980</year>
+		<genre>Maze</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

@@ -1,0 +1,713 @@
+<?xml version="1.0"?>
+<menu>
+        <game name="aquarush" index="true" image="a">
+                <description>Aqua Rush (JP) Ver. A</description>
+                <cloneof></cloneof>
+                <crc></crc>
+                <manufacturer>Namco</manufacturer>
+                <year>1999</year>
+                <genre>Puzzle</genre>
+                <rating>Other - NR (Not Rated)</rating>
+                <enabled>Yes</enabled>
+        </game>
+        <game name="ts2j" index="true" image="b">
+                <description>Battle Arena Toshinden 2 (JP 951124)</description>
+                <cloneof>22</cloneof>
+                <crc></crc>
+                <manufacturer>Capcom / Takara</manufacturer>
+                <year>1995</year>
+                <genre>Fighter</genre>
+                <rating>Other - NR (Not Rated)</rating>
+                <enabled>Yes</enabled>
+        </game>
+        <game name="ts2" index="" image="">
+                <description>Battle Arena Toshinden 2 (US 951124)</description>
+                <cloneof></cloneof>
+                <crc></crc>
+                <manufacturer>Capcom / Takara</manufacturer>
+                <year>1995</year>
+                <genre>Fighter</genre>
+                <rating>Other - NR (Not Rated)</rating>
+                <enabled>Yes</enabled>
+        </game>
+        <game name="beastrzr" index="" image="">
+                <description>Beastorizer (US)</description>
+                <cloneof></cloneof>
+                <crc></crc>
+                <manufacturer>Eighting / Raizing</manufacturer>
+                <year>1997</year>
+                <genre>Fighter</genre>
+                <rating>Other - NR (Not Rated)</rating>
+                <enabled>Yes</enabled>
+        </game>
+        <game name="beastrzb" index="" image="">
+                <description>Beastorizer (US) *bootleg*</description>
+                <cloneof></cloneof>
+                <crc></crc>
+                <manufacturer>bootleg</manufacturer>
+                <year>1997</year>
+                <genre>Fighter</genre>
+                <rating>Other - NR (Not Rated)</rating>
+                <enabled>Yes</enabled>
+        </game>
+        <game name="bldyror2" index="" image="">
+                <description>Bloody Roar 2 (JP)</description>
+                <cloneof></cloneof>
+                <crc></crc>
+                <manufacturer>Eighting / Raizing</manufacturer>
+                <year>1998</year>
+                <genre>Fighter</genre>
+                <rating>Other - NR (Not Rated)</rating>
+                <enabled>Yes</enabled>
+        </game>
+        <game name="brvblade" index="" image="">
+                <description>Brave Blade (JP)</description>
+                <cloneof></cloneof>
+                <crc></crc>
+                <manufacturer>Eighting / Raizing</manufacturer>
+                <year>2000</year>
+                <genre>Shooter</genre>
+                <rating>Other - NR (Not Rated)</rating>
+                <enabled>Yes</enabled>
+        </game>
+        <game name="cbaj" index="true" image="c">
+                <description>Cool Boarders Arcade Jam (US)</description>
+                <cloneof></cloneof>
+                <crc></crc>
+                <manufacturer>Tecmo</manufacturer>
+                <year>1998</year>
+                <genre>Sports</genre>
+                <rating>Other - NR (Not Rated)</rating>
+                <enabled>Yes</enabled>
+        </game>
+        <game name="danceyes" index="true" image="d">
+                <description>Dancing Eyes (JP) Ver. A</description>
+                <cloneof></cloneof>
+                <crc></crc>
+                <manufacturer>Namco</manufacturer>
+                <year>1996</year>
+                <genre>Maze</genre>
+                <rating>AAMA - Yellow (Sexual Content Mild)</rating>
+                <enabled>Yes</enabled>
+        </game>
+        <game name="doapp" index="" image="">
+                <description>Dead or Alive++</description>
+                <cloneof></cloneof>
+                <crc></crc>
+                <manufacturer>Sega</manufacturer>
+                <year>1996</year>
+                <genre>Fighter</genre>
+                <rating>Other - NR (Not Rated)</rating>
+                <enabled>Yes</enabled>
+        </game>
+        <game name="dunkmnia" index="" image="">
+                <description>Dunk Mania (US) DM2 Ver. C</description>
+                <cloneof></cloneof>
+                <crc></crc>
+                <manufacturer>Namco</manufacturer>
+                <year>1995</year>
+                <genre>Sports/Basketball</genre>
+                <rating>Other - NR (Not Rated)</rating>
+                <enabled>Yes</enabled>
+        </game>
+        <game name="dunkmnic" index="" image="">
+                <description>Dunk Mania (JP) DM1 Ver. C</description>
+                <cloneof>52</cloneof>
+                <crc></crc>
+                <manufacturer>Namco</manufacturer>
+                <year>1995</year>
+                <genre>Sports/Basketball</genre>
+                <rating>Other - NR (Not Rated)</rating>
+                <enabled>Yes</enabled>
+        </game>
+        <game name="ehrgeiz" index="true" image="e">
+                <description>Ehrgeiz (US) Ver. A</description>
+                <cloneof></cloneof>
+                <crc></crc>
+                <manufacturer>Square / Namco</manufacturer>
+                <year>1998</year>
+                <genre>Fighter</genre>
+                <rating>Other - NR (Not Rated)</rating>
+                <enabled>Yes</enabled>
+        </game>
+        <game name="ftimpcta" index="true" image="f">
+                <description>Fighters Impact A (JP 2.00J)</description>
+                <cloneof></cloneof>
+                <crc></crc>
+                <manufacturer>Taito</manufacturer>
+                <year>1997</year>
+                <genre>Fighter</genre>
+                <rating>Other - NR (Not Rated)</rating>
+                <enabled>Yes</enabled>
+        </game>
+        <game name="fgtlayer" index="" image="">
+                <description>Fighting Layer (JP) Ver. B</description>
+                <cloneof></cloneof>
+                <crc></crc>
+                <manufacturer>Arika / Namco</manufacturer>
+                <year>1998</year>
+                <genre>Fighter</genre>
+                <rating>Other - NR (Not Rated)</rating>
+                <enabled>Yes</enabled>
+        </game>
+        <game name="gdarius" index="true" image="g">
+                <description>G-Darius (JP 2.01J)</description>
+                <cloneof></cloneof>
+                <crc></crc>
+                <manufacturer>Taito</manufacturer>
+                <year>1997</year>
+                <genre>Shooter</genre>
+                <rating>Other - NR (Not Rated)</rating>
+                <enabled>Yes</enabled>
+        </game>
+        <game name="gdarius2" index="" image="">
+                <description>G-Darius Ver.2 (JP 2.03J)</description>
+                <cloneof>37</cloneof>
+                <crc></crc>
+                <manufacturer>Taito</manufacturer>
+                <year>1997</year>
+                <genre>Shooter</genre>
+                <rating>Other - NR (Not Rated)</rating>
+                <enabled>Yes</enabled>
+        </game>
+        <game name="glpracr3" index="" image="">
+                <description>Gallop Racer 3 (JP)</description>
+                <cloneof></cloneof>
+                <crc></crc>
+                <manufacturer>Tecmo</manufacturer>
+                <year>1999</year>
+                <genre>Sports/Horse Racing</genre>
+                <rating>Other - NR (Not Rated)</rating>
+                <enabled>Yes</enabled>
+        </game>
+        <game name="hvnsgate" index="true" image="h">
+                <description>Heaven's Gate</description>
+                <cloneof></cloneof>
+                <crc></crc>
+                <manufacturer>Atlus / Racdym</manufacturer>
+                <year>1996</year>
+                <genre>Fighter</genre>
+                <rating>Other - NR (Not Rated)</rating>
+                <enabled>Yes</enabled>
+        </game>
+        <game name="hyperath" index="" image="">
+                <description>Hyper Athlete (JP) Ver. 1.00</description>
+                <cloneof></cloneof>
+                <crc></crc>
+                <manufacturer>Konami</manufacturer>
+                <year>1996</year>
+                <genre>Sports/Track &amp; Field</genre>
+                <rating>Other - NR (Not Rated)</rating>
+                <enabled>Yes</enabled>
+        </game>
+        <game name="jgakuen" index="true" image="j">
+                <description>Justice Gakuen (JP 991117)</description>
+                <cloneof>17</cloneof>
+                <crc></crc>
+                <manufacturer>Capcom</manufacturer>
+                <year>1997</year>
+                <genre>Fighter</genre>
+                <rating>Other - NR (Not Rated)</rating>
+                <enabled>Yes</enabled>
+        </game>
+        <game name="kikaioh" index="true" image="k">
+                <description>Kikaioh (JP 980914)</description>
+                <cloneof>21</cloneof>
+                <crc></crc>
+                <manufacturer>Capcom</manufacturer>
+                <year>1998</year>
+                <genre>Fighter</genre>
+                <rating>Other - NR (Not Rated)</rating>
+                <enabled>Yes</enabled>
+        </game>
+        <game name="myangel3" index="" image="">
+                <description>Kosodate Quiz My Angel 3 (JP) Ver. A</description>
+                <cloneof></cloneof>
+                <crc></crc>
+                <manufacturer>Namco</manufacturer>
+                <year>1998</year>
+                <genre>Quiz</genre>
+                <rating>Other - NR (Not Rated)</rating>
+                <enabled>Yes</enabled>
+        </game>
+        <game name="mgcldtex" index="true" image="m">
+                <description>Magical Date EX - sotsugyou kokuhaku daisakusen (JP 2.01J)</description>
+                <cloneof></cloneof>
+                <crc></crc>
+                <manufacturer>Taito</manufacturer>
+                <year>1997</year>
+                <genre>Mini-Games</genre>
+                <rating>Other - NR (Not Rated)</rating>
+                <enabled>Yes</enabled>
+        </game>
+        <game name="mfjump" index="" image="">
+                <description>Monster Farm Jump (JP)</description>
+                <cloneof></cloneof>
+                <crc></crc>
+                <manufacturer>Tecmo</manufacturer>
+                <year>2001</year>
+                <genre>Platform</genre>
+                <rating>Other - NR (Not Rated)</rating>
+                <enabled>Yes</enabled>
+        </game>
+        <game name="mrdrillr" index="" image="">
+                <description>Mr Driller (JP) Ver. A</description>
+                <cloneof></cloneof>
+                <crc></crc>
+                <manufacturer>Namco</manufacturer>
+                <year>1999</year>
+                <genre>Puzzle</genre>
+                <rating>Other - NR (Not Rated)</rating>
+                <enabled>Yes</enabled>
+        </game>
+        <game name="pacapp" index="true" image="p">
+                <description>Paca Paca Passion (JP) Ver. A</description>
+                <cloneof></cloneof>
+                <crc></crc>
+                <manufacturer>Produce / Namco</manufacturer>
+                <year>1999</year>
+                <genre>Rhythm</genre>
+                <rating>Other - NR (Not Rated)</rating>
+                <enabled>Yes</enabled>
+        </game>
+        <game name="plsmaswd" index="" image="">
+                <description>Plasma Sword (US 980316)</description>
+                <cloneof></cloneof>
+                <crc></crc>
+                <manufacturer>Capcom</manufacturer>
+                <year>1998</year>
+                <genre>Fighter</genre>
+                <rating>Other - NR (Not Rated)</rating>
+                <enabled>Yes</enabled>
+        </game>
+        <game name="pbball96" index="" image="">
+                <description>Powerful Baseball 96 (JP) Ver. 1.03</description>
+                <cloneof></cloneof>
+                <crc></crc>
+                <manufacturer>Konami</manufacturer>
+                <year>1996</year>
+                <genre>Sports/Baseball</genre>
+                <rating>Other - NR (Not Rated)</rating>
+                <enabled>Yes</enabled>
+        </game>
+        <game name="primglex" index="" image="">
+                <description>Prime Goal EX (JP) Ver. A</description>
+                <cloneof></cloneof>
+                <crc></crc>
+                <manufacturer>Namco</manufacturer>
+                <year>1996</year>
+                <genre>Sports/Soccer</genre>
+                <rating>Other - NR (Not Rated)</rating>
+                <enabled>Yes</enabled>
+        </game>
+        <game name="psyforce" index="" image="">
+                <description>Psychic Force (World 2.4O)</description>
+                <cloneof></cloneof>
+                <crc></crc>
+                <manufacturer>Taito</manufacturer>
+                <year>1995</year>
+                <genre>Fighter</genre>
+                <rating>Other - NR (Not Rated)</rating>
+                <enabled>Yes</enabled>
+        </game>
+        <game name="psyforcj" index="" image="">
+                <description>Psychic Force (JP 2.4J)</description>
+                <cloneof>31</cloneof>
+                <crc></crc>
+                <manufacturer>Taito</manufacturer>
+                <year>1995</year>
+                <genre>Fighter</genre>
+                <rating>Other - NR (Not Rated)</rating>
+                <enabled>Yes</enabled>
+        </game>
+        <game name="psyfrcex" index="" image="">
+                <description>Psychic Force EX (JP 2.0J)</description>
+                <cloneof>31</cloneof>
+                <crc></crc>
+                <manufacturer>Taito</manufacturer>
+                <year>1995</year>
+                <genre>Fighter</genre>
+                <rating>Other - NR (Not Rated)</rating>
+                <enabled>Yes</enabled>
+        </game>
+        <game name="raystorj" index="true" image="r">
+                <description>Raystorm (JP 2.05J)</description>
+                <cloneof>35</cloneof>
+                <crc></crc>
+                <manufacturer>Taito</manufacturer>
+                <year>1996</year>
+                <genre>Shooter</genre>
+                <rating>Other - NR (Not Rated)</rating>
+                <enabled>Yes</enabled>
+        </game>
+        <game name="raystorm" index="" image="">
+                <description>Raystorm (US 2.06A)</description>
+                <cloneof></cloneof>
+                <crc></crc>
+                <manufacturer>Taito</manufacturer>
+                <year>1996</year>
+                <genre>Shooter</genre>
+                <rating>Other - NR (Not Rated)</rating>
+                <enabled>Yes</enabled>
+        </game>
+        <game name="rvschool" index="" image="">
+                <description>Rival Schools (US 971117)</description>
+                <cloneof></cloneof>
+                <crc></crc>
+                <manufacturer>Capcom</manufacturer>
+                <year>1997</year>
+                <genre>Fighter</genre>
+                <rating>Other - NR (Not Rated)</rating>
+                <enabled>Yes</enabled>
+        </game>
+        <game name="rvschola" index="" image="">
+                <description>Rival Schools (ASIA 971117)</description>
+                <cloneof>17</cloneof>
+                <crc></crc>
+                <manufacturer>Capcom</manufacturer>
+                <year>1997</year>
+                <genre>Fighter</genre>
+                <rating>Other - NR (Not Rated)</rating>
+                <enabled>Yes</enabled>
+        </game>
+        <game name="shngmtkb" index="true" image="s">
+                <description>Shanghai Matekibuyuu (JP)</description>
+                <cloneof></cloneof>
+                <crc></crc>
+                <manufacturer>Sunsoft / Activision</manufacturer>
+                <year>1998</year>
+                <genre>Puzzle</genre>
+                <rating>Other - NR (Not Rated)</rating>
+                <enabled>Yes</enabled>
+        </game>
+        <game name="sncwgltd" index="" image="">
+                <description>Sonic Wings Limited (JP)</description>
+                <cloneof></cloneof>
+                <crc></crc>
+                <manufacturer>Video System Co.</manufacturer>
+                <year>1996</year>
+                <genre>Shooter</genre>
+                <rating>Other - NR (Not Rated)</rating>
+                <enabled>Yes</enabled>
+        </game>
+        <game name="souledge" index="" image="">
+                <description>Soul Edge Ver. II (JP) SO4 Ver. C</description>
+                <cloneof></cloneof>
+                <crc></crc>
+                <manufacturer>Namco</manufacturer>
+                <year>1996</year>
+                <genre>Fighter</genre>
+                <rating>Other - NR (Not Rated)</rating>
+                <enabled>Yes</enabled>
+        </game>
+        <game name="souledga" index="" image="">
+                <description>Soul Edge (JP) SO3 Ver. A</description>
+                <cloneof>51</cloneof>
+                <crc></crc>
+                <manufacturer>Namco</manufacturer>
+                <year>1996</year>
+                <genre>Fighter</genre>
+                <rating>Other - NR (Not Rated)</rating>
+                <enabled>Yes</enabled>
+        </game>
+        <game name="souledgb" index="" image="">
+                <description>Soul Edge (JP) SO1 Ver. A</description>
+                <cloneof>51</cloneof>
+                <crc></crc>
+                <manufacturer>Namco</manufacturer>
+                <year>1996</year>
+                <genre>Fighter</genre>
+                <rating>Other - NR (Not Rated)</rating>
+                <enabled>Yes</enabled>
+        </game>
+        <game name="starglad" index="" image="">
+                <description>Star Gladiator (US 960627)</description>
+                <cloneof></cloneof>
+                <crc></crc>
+                <manufacturer>Capcom</manufacturer>
+                <year>1996</year>
+                <genre>Fighter</genre>
+                <rating>Other - NR (Not Rated)</rating>
+                <enabled>Yes</enabled>
+        </game>
+        <game name="stargld2" index="" image="">
+                <description>Star Gladiator 2 (JP 980316)</description>
+                <cloneof>13</cloneof>
+                <crc></crc>
+                <manufacturer>Capcom</manufacturer>
+                <year>1998</year>
+                <genre>Fighter</genre>
+                <rating>Other - NR (Not Rated)</rating>
+                <enabled>Yes</enabled>
+        </game>
+        <game name="starswep" index="" image="">
+                <description>Star Sweep (JP) Ver. A</description>
+                <cloneof></cloneof>
+                <crc></crc>
+                <manufacturer>Axela/Namco</manufacturer>
+                <year>1997</year>
+                <genre>Puzzle</genre>
+                <rating>Other - NR (Not Rated)</rating>
+                <enabled>Yes</enabled>
+        </game>
+        <game name="sfex" index="" image="">
+                <description>Street Fighter EX (US 961219)</description>
+                <cloneof></cloneof>
+                <crc></crc>
+                <manufacturer>Capcom / Arika</manufacturer>
+                <year>1996</year>
+                <genre>Fighter</genre>
+                <rating>Other - NR (Not Rated)</rating>
+                <enabled>Yes</enabled>
+        </game>
+        <game name="sfexj" index="" image="">
+                <description>Street Fighter EX (JP 961130)</description>
+                <cloneof>2</cloneof>
+                <crc></crc>
+                <manufacturer>Capcom / Arika</manufacturer>
+                <year>1996</year>
+                <genre>Fighter</genre>
+                <rating>Other - NR (Not Rated)</rating>
+                <enabled>Yes</enabled>
+        </game>
+        <game name="sfexa" index="" image="">
+                <description>Street Fighter EX (ASIA 961219)</description>
+                <cloneof>2</cloneof>
+                <crc></crc>
+                <manufacturer>Capcom / Arika</manufacturer>
+                <year>1996</year>
+                <genre>Fighter</genre>
+                <rating>Other - NR (Not Rated)</rating>
+                <enabled>Yes</enabled>
+        </game>
+        <game name="sfex2" index="" image="">
+                <description>Street Fighter EX 2 (US 980526)</description>
+                <cloneof></cloneof>
+                <crc></crc>
+                <manufacturer>Capcom / Arika</manufacturer>
+                <year>1998</year>
+                <genre>Fighter</genre>
+                <rating>Other - NR (Not Rated)</rating>
+                <enabled>Yes</enabled>
+        </game>
+        <game name="sfex2j" index="" image="">
+                <description>Street Fighter EX 2 (JP 980312)</description>
+                <cloneof>8</cloneof>
+                <crc></crc>
+                <manufacturer>Capcom / Arika</manufacturer>
+                <year>1998</year>
+                <genre>Fighter</genre>
+                <rating>Other - NR (Not Rated)</rating>
+                <enabled>Yes</enabled>
+        </game>
+        <game name="sfex2p" index="" image="">
+                <description>Street Fighter EX 2 PLUS (US 990611)</description>
+                <cloneof></cloneof>
+                <crc></crc>
+                <manufacturer>Capcom / Arika</manufacturer>
+                <year>1999</year>
+                <genre>Fighter</genre>
+                <rating>Other - NR (Not Rated)</rating>
+                <enabled>Yes</enabled>
+        </game>
+        <game name="sfex2pj" index="" image="">
+                <description>Street Fighter EX 2 PLUS (JP 990611)</description>
+                <cloneof>10</cloneof>
+                <crc></crc>
+                <manufacturer>Capcom / Arika</manufacturer>
+                <year>1999</year>
+                <genre>Fighter</genre>
+                <rating>Other - NR (Not Rated)</rating>
+                <enabled>Yes</enabled>
+        </game>
+        <game name="sfex2pa" index="" image="">
+                <description>Street Fighter EX 2 PLUS (ASIA 990611)</description>
+                <cloneof>10</cloneof>
+                <crc></crc>
+                <manufacturer>Capcom / Arika</manufacturer>
+                <year>1999</year>
+                <genre>Fighter</genre>
+                <rating>Other - NR (Not Rated)</rating>
+                <enabled>Yes</enabled>
+        </game>
+        <game name="sfexp" index="" image="">
+                <description>Street Fighter EX Plus (US 970407)</description>
+                <cloneof></cloneof>
+                <crc></crc>
+                <manufacturer>Capcom / Arika</manufacturer>
+                <year>1997</year>
+                <genre>Fighter</genre>
+                <rating>Other - NR (Not Rated)</rating>
+                <enabled>Yes</enabled>
+        </game>
+        <game name="sfexpu1" index="" image="">
+                <description>Street Fighter EX Plus (US 970311)</description>
+                <cloneof>5</cloneof>
+                <crc></crc>
+                <manufacturer>Capcom / Arika</manufacturer>
+                <year>1997</year>
+                <genre>Fighter</genre>
+                <rating>Other - NR (Not Rated)</rating>
+                <enabled>Yes</enabled>
+        </game>
+        <game name="sfexpj" index="" image="">
+                <description>Street Fighter EX Plus (JP 970311)</description>
+                <cloneof>5</cloneof>
+                <crc></crc>
+                <manufacturer>Capcom / Arika</manufacturer>
+                <year>1997</year>
+                <genre>Fighter</genre>
+                <rating>Other - NR (Not Rated)</rating>
+                <enabled>Yes</enabled>
+        </game>
+        <game name="strider2" index="" image="">
+                <description>Strider 2 (ASIA 991213)</description>
+                <cloneof></cloneof>
+                <crc></crc>
+                <manufacturer>Capcom</manufacturer>
+                <year>1999</year>
+                <genre>Platform</genre>
+                <rating>Other - NR (Not Rated)</rating>
+                <enabled>Yes</enabled>
+        </game>
+        <game name="shiryu2" index="" image="">
+                <description>Strider Hiryu 2 (JP 991213)</description>
+                <cloneof>19</cloneof>
+                <crc></crc>
+                <manufacturer>Capcom</manufacturer>
+                <year>1999</year>
+                <genre>Platform</genre>
+                <rating>Other - NR (Not Rated)</rating>
+                <enabled>Yes</enabled>
+        </game>
+        <game name="susume" index="" image="">
+                <description>Susume! Taisen Puzzle-Dama (JP) Ver. 1.20</description>
+                <cloneof></cloneof>
+                <crc></crc>
+                <manufacturer>Konami</manufacturer>
+                <year>1996</year>
+                <genre>Puzzle</genre>
+                <rating>Other - NR (Not Rated)</rating>
+                <enabled>Yes</enabled>
+        </game>
+        <game name="techromn" index="true" image="t">
+                <description>Tech Romancer (US 980914)</description>
+                <cloneof></cloneof>
+                <crc></crc>
+                <manufacturer>Capcom</manufacturer>
+                <year>1998</year>
+                <genre>Fighter</genre>
+                <rating>Other - NR (Not Rated)</rating>
+                <enabled>Yes</enabled>
+        </game>
+        <game name="tekken" index="" image="">
+                <description>Tekken (WORLD) Ver. C</description>
+                <cloneof></cloneof>
+                <crc></crc>
+                <manufacturer>Namco</manufacturer>
+                <year>1994</year>
+                <genre>Fighter</genre>
+                <rating>Other - NR (Not Rated)</rating>
+                <enabled>Yes</enabled>
+        </game>
+        <game name="tekkenb" index="" image="">
+                <description>Tekken (JP) Ver. B</description>
+                <cloneof>45</cloneof>
+                <crc></crc>
+                <manufacturer>Namco</manufacturer>
+                <year>1994</year>
+                <genre>Fighter</genre>
+                <rating>Other - NR (Not Rated)</rating>
+                <enabled>Yes</enabled>
+        </game>
+        <game name="tekkena" index="" image="">
+                <description>Tekken (WORLD) Ver. B</description>
+                <cloneof>45</cloneof>
+                <crc></crc>
+                <manufacturer>Namco</manufacturer>
+                <year>1994</year>
+                <genre>Fighter</genre>
+                <rating>Other - NR (Not Rated)</rating>
+                <enabled>Yes</enabled>
+        </game>
+        <game name="tekken2" index="" image="">
+                <description>Tekken 2 (World) Ver. B</description>
+                <cloneof></cloneof>
+                <crc></crc>
+                <manufacturer>Namco</manufacturer>
+                <year>1995</year>
+                <genre>Fighter</genre>
+                <rating>Other - NR (Not Rated)</rating>
+                <enabled>Yes</enabled>
+        </game>
+        <game name="tekken2b" index="" image="">
+                <description>Tekken 2 (JP) Ver. B</description>
+                <cloneof>48</cloneof>
+                <crc></crc>
+                <manufacturer>Namco</manufacturer>
+                <year>1995</year>
+                <genre>Fighter</genre>
+                <rating>Other - NR (Not Rated)</rating>
+                <enabled>Yes</enabled>
+        </game>
+        <game name="tekken2a" index="" image="">
+                <description>Tekken 2 (World) Ver. A</description>
+                <cloneof>48</cloneof>
+                <crc></crc>
+                <manufacturer>Namco</manufacturer>
+                <year>1995</year>
+                <genre>Fighter</genre>
+                <rating>Other - NR (Not Rated)</rating>
+                <enabled>Yes</enabled>
+        </game>
+        <game name="tekken3" index="" image="">
+                <description>Tekken 3 (JP) Ver. A</description>
+                <cloneof></cloneof>
+                <crc></crc>
+                <manufacturer>Namco</manufacturer>
+                <year>1996</year>
+                <genre>Fighter</genre>
+                <rating>Other - NR (Not Rated)</rating>
+                <enabled>Yes</enabled>
+        </game>
+        <game name="tgmj" index="" image="">
+                <description>Tetris The Grand Master (JP 980710)</description>
+                <cloneof></cloneof>
+                <crc></crc>
+                <manufacturer>Arika / Capcom</manufacturer>
+                <year>1998</year>
+                <genre>Puzzle</genre>
+                <rating>Other - NR (Not Rated)</rating>
+                <enabled>Yes</enabled>
+        </game>
+        <game name="tondemo" index="" image="">
+                <description>Tondemo Crisis</description>
+                <cloneof></cloneof>
+                <crc></crc>
+                <manufacturer>Tecmo</manufacturer>
+                <year>1999</year>
+                <genre>Mini-Games</genre>
+                <rating>Other - NR (Not Rated)</rating>
+                <enabled>Yes</enabled>
+        </game>
+        <game name="weddingr" index="true" image="w">
+                <description>Wedding Rhapsody (JP) Ver. JAA</description>
+                <cloneof></cloneof>
+                <crc></crc>
+                <manufacturer>Konami</manufacturer>
+                <year>1997</year>
+                <genre>Quiz</genre>
+                <rating>Other - NR (Not Rated)</rating>
+                <enabled>Yes</enabled>
+        </game>
+        <game name="xevi3dg" index="true" image="x">
+                <description>Xevious 3D/G (JP) Ver. A</description>
+                <cloneof></cloneof>
+                <crc></crc>
+                <manufacturer>Namco</manufacturer>
+                <year>1995</year>
+                <genre>Shooter</genre>
+                <rating>Other - NR (Not Rated)</rating>
+                <enabled>Yes</enabled>
+        </game>
+</menu>

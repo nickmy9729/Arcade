@@ -1,0 +1,919 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Nintendo Famicom Disk System</listname>
+		<lastlistupdate>05/13/2015</lastlistupdate>
+		<listversion>1.0</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="Ai Senshi Nicol (Japan) [b]" index="true" image="a">
+		<description>Ai Senshi Nicol</description>
+		<cloneof></cloneof>
+		<crc>CRC</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1987</year>
+		<genre>Not Classified</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Aki to Tsukasa no Fushigi no Kabe (Japan) (Unl)" index="" image="">
+		<description>Aki to Tsukasa no Fushigi no Kabe</description>
+		<cloneof></cloneof>
+		<crc>CRC</crc>
+		<manufacturer>Super PIG</manufacturer>
+		<year>1988</year>
+		<genre>Not Classified</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Akumajou Dracula (Japan) (v1.2) [b]" index="" image="">
+		<description>Akumajou Dracula</description>
+		<cloneof></cloneof>
+		<crc>CRC</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1986</year>
+		<genre>Not Classified</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="All Night Nippon Super Mario Brothers (Japan) (Promotion Cart)" index="" image="">
+		<description>All Night Nippon Super Mario Brothers</description>
+		<cloneof></cloneof>
+		<crc>CRC</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1986</year>
+		<genre>Not Classified</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Apple Town Monogatari - Little Computer People (Japan)" index="" image="">
+		<description>Apple Town Monogatari: Little Computer People</description>
+		<cloneof></cloneof>
+		<crc>CRC</crc>
+		<manufacturer>Square</manufacturer>
+		<year>1987</year>
+		<genre>Not Classified</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Armana no Kiseki (Japan)" index="" image="">
+		<description>Armana no Kiseki</description>
+		<cloneof></cloneof>
+		<crc>CRC</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1987</year>
+		<genre>Not Classified</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Aspic - Majaou no Noroi (Japan)" index="" image="">
+		<description>Aspic: Majaou no Noroi</description>
+		<cloneof></cloneof>
+		<crc>CRC</crc>
+		<manufacturer>Bothtec</manufacturer>
+		<year>1988</year>
+		<genre>Not Classified</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bio Miracle Bokutte Upa (Japan)" index="true" image="b">
+		<description>Bio Miracle Bokutte Upa</description>
+		<cloneof></cloneof>
+		<crc>CRC</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1988</year>
+		<genre>Not Classified</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bishoujo Control (Japan) (Unl)" index="" image="">
+		<description>Bishoujo Control</description>
+		<cloneof></cloneof>
+		<crc>CRC</crc>
+		<manufacturer>Wild</manufacturer>
+		<year>1988</year>
+		<genre>Not Classified</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bishoujo Mahjong Club (Japan) (Unl)" index="" image="">
+		<description>Bishoujo Mahjong Club</description>
+		<cloneof></cloneof>
+		<crc>CRC</crc>
+		<manufacturer>Hacker International</manufacturer>
+		<year>1988</year>
+		<genre>Not Classified</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bishoujo Sexy Derby (Japan) (Unl)" index="" image="">
+		<description>Bishoujo Sexy Derby</description>
+		<cloneof></cloneof>
+		<crc>CRC</crc>
+		<manufacturer>Super PIG</manufacturer>
+		<year>1988</year>
+		<genre>Not Classified</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bishoujo Sexy Slot (Japan) (Unl)" index="" image="">
+		<description>Bishoujo Sexy Slot</description>
+		<cloneof></cloneof>
+		<crc>CRC</crc>
+		<manufacturer>Super PIG</manufacturer>
+		<year>1988</year>
+		<genre>Not Classified</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bishoujo SF Alien Battle (Japan) (Unl)" index="" image="">
+		<description>Bishoujo SF Alien Battle</description>
+		<cloneof></cloneof>
+		<crc>CRC</crc>
+		<manufacturer>Hacker International</manufacturer>
+		<year>1990</year>
+		<genre>Not Classified</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bishoujo Shashinkan - Studio Cut (Japan) (Unl)" index="" image="">
+		<description>Bishoujo Shashinkan: Studio Cut</description>
+		<cloneof></cloneof>
+		<crc>CRC</crc>
+		<manufacturer>Phoenix</manufacturer>
+		<year>1988</year>
+		<genre>Not Classified</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cocona World (Japan)" index="true" image="c">
+		<description>Cocona World</description>
+		<cloneof></cloneof>
+		<crc>CRC</crc>
+		<manufacturer>Sofel</manufacturer>
+		<year>1987</year>
+		<genre>Not Classified</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Deep Dungeon II - Yuushi no Monshou (Japan) (v1.1) [b]" index="true" image="d">
+		<description>Deep Dungeon II: Yuushi no Monshou</description>
+		<cloneof></cloneof>
+		<crc>CRC</crc>
+		<manufacturer>HummingBirdSoft</manufacturer>
+		<year>1987</year>
+		<genre>Not Classified</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Deep Dungeon - Madou Senki (Japan) [b]" index="" image="">
+		<description>Deep Dungeon: Madou Senki</description>
+		<cloneof></cloneof>
+		<crc>CRC</crc>
+		<manufacturer>HummingBirdSoft</manufacturer>
+		<year>1986</year>
+		<genre>Not Classified</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dirty Pair - Project Eden (Japan) [b]" index="" image="">
+		<description>Dirty Pair: Project Eden</description>
+		<cloneof></cloneof>
+		<crc>CRC</crc>
+		<manufacturer>Bandai</manufacturer>
+		<year>1987</year>
+		<genre>Not Classified</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Donkey Kong (Japan) (Disk Writer)" index="" image="">
+		<description>Donkey Kong</description>
+		<cloneof></cloneof>
+		<crc>CRC</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1988</year>
+		<genre>Not Classified</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Donkey Kong Jr. (Japan) (Disk Writer)" index="" image="">
+		<description>Donkey Kong Jr.</description>
+		<cloneof></cloneof>
+		<crc>CRC</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1988</year>
+		<genre>Not Classified</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dr. Chaos - Jigoku no Tobira (Japan) [b]" index="" image="">
+		<description>Dr. Chaos: Jigoku no Tobira</description>
+		<cloneof></cloneof>
+		<crc>CRC</crc>
+		<manufacturer>Pony Canyon</manufacturer>
+		<year>1987</year>
+		<genre>Not Classified</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dracula II - Noroi no Fuuin (Japan)" index="" image="">
+		<description>Dracula II: Noroi no Fuuin</description>
+		<cloneof></cloneof>
+		<crc>CRC</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1987</year>
+		<genre>Not Classified</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Druid - Kyoufu no Tobira (Japan)" index="" image="">
+		<description>Druid: Kyoufu no Tobira</description>
+		<cloneof></cloneof>
+		<crc>CRC</crc>
+		<manufacturer>Jaleco</manufacturer>
+		<year>1988</year>
+		<genre>Not Classified</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Egger Land (Japan) [b]" index="true" image="e">
+		<description>Egger Land</description>
+		<cloneof></cloneof>
+		<crc>CRC</crc>
+		<manufacturer>HAL Laboratory</manufacturer>
+		<year>1987</year>
+		<genre>Not Classified</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Emi-chan no Moero Yakyuuken! (Japan) (Unl)" index="" image="">
+		<description>Emi-chan no Moero Yakyuuken!</description>
+		<cloneof></cloneof>
+		<crc>CRC</crc>
+		<manufacturer>Super PIG</manufacturer>
+		<year>1989</year>
+		<genre>Not Classified</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Esper Dream (Japan) (v1.1) [b]" index="" image="">
+		<description>Esper Dream</description>
+		<cloneof></cloneof>
+		<crc>CRC</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1987</year>
+		<genre>Not Classified</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Exciting Baseball (Japan)" index="" image="">
+		<description>Exciting Baseball</description>
+		<cloneof></cloneof>
+		<crc>CRC</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1987</year>
+		<genre>Not Classified</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Exciting Basket (Japan)" index="" image="">
+		<description>Exciting Basketball</description>
+		<cloneof></cloneof>
+		<crc>CRC</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1987</year>
+		<genre>Not Classified</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Exciting Billiard (Japan)" index="" image="">
+		<description>Exciting Billiard</description>
+		<cloneof></cloneof>
+		<crc>CRC</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1987</year>
+		<genre>Not Classified</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Exciting Soccer - Konami Cup (Japan) [b]" index="" image="">
+		<description>Exciting Soccer: Konami Cup</description>
+		<cloneof></cloneof>
+		<crc>CRC</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1988</year>
+		<genre>Not Classified</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Falsion (Japan)" index="true" image="f">
+		<description>Falsion</description>
+		<cloneof></cloneof>
+		<crc>CRC</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1987</year>
+		<genre>Not Classified</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Famicom Grand Prix II - 3D Hot Rally (Japan)" index="" image="">
+		<description>Famicom Grand Prix II: 3D Hot Rally</description>
+		<cloneof></cloneof>
+		<crc>CRC</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1988</year>
+		<genre>Not Classified</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Family Computer Golf Japan Course (Japan)" index="" image="">
+		<description>Family Computer Golf Japan Course</description>
+		<cloneof></cloneof>
+		<crc>CRC</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1987</year>
+		<genre>Not Classified</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Family Computer Golf U.S. Course (Japan)" index="" image="">
+		<description>Family Computer Golf U.S. Course</description>
+		<cloneof></cloneof>
+		<crc>CRC</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1987</year>
+		<genre>Not Classified</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Family Computer Othello (Japan)" index="" image="">
+		<description>Family Computer Othello</description>
+		<cloneof></cloneof>
+		<crc>CRC</crc>
+		<manufacturer>Kawada</manufacturer>
+		<year>1986</year>
+		<genre>Not Classified</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Final Commando - Akai Yousai (Japan)" index="" image="">
+		<description>Final Commando: Akai Yousai</description>
+		<cloneof></cloneof>
+		<crc>CRC</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1988</year>
+		<genre>Not Classified</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fire Rock (Japan)" index="" image="">
+		<description>Fire Rock</description>
+		<cloneof></cloneof>
+		<crc>CRC</crc>
+		<manufacturer>System Saco</manufacturer>
+		<year>1988</year>
+		<genre>Not Classified</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ginga Denshou - Galaxy Odyssey (Japan)" index="true" image="g">
+		<description>Ginga Denshou: Galaxy Odyssey</description>
+		<cloneof></cloneof>
+		<crc>CRC</crc>
+		<manufacturer>Imagineer</manufacturer>
+		<year>1986</year>
+		<genre>Not Classified</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Golf (Japan) (v1.1)" index="" image="">
+		<description>Golf</description>
+		<cloneof></cloneof>
+		<crc>CRC</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1986</year>
+		<genre>Not Classified</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Golf, The - Bishoujo Classic (Japan) (Unl)" index="" image="">
+		<description>Golf, The: Bishoujo Classic</description>
+		<cloneof></cloneof>
+		<crc>CRC</crc>
+		<manufacturer>Hacker International</manufacturer>
+		<year>1987</year>
+		<genre>Not Classified</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hayama Reiko no Date de Blackjack (Japan) (Unl)" index="true" image="h">
+		<description>Hayama Reiko no Date de Blackjack</description>
+		<cloneof></cloneof>
+		<crc>CRC</crc>
+		<manufacturer>Hacker International</manufacturer>
+		<year>1988</year>
+		<genre>Not Classified</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hikari Shinwa - Parthenon no Kagami (Japan) (v1.1) [b]" index="" image="">
+		<description>Hikari Shinwa: Parthenon no Kagami</description>
+		<cloneof></cloneof>
+		<crc>CRC</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1986</year>
+		<genre>Not Classified</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ice Hockey (Japan)" index="true" image="i">
+		<description>Ice Hockey</description>
+		<cloneof></cloneof>
+		<crc>CRC</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1988</year>
+		<genre>Not Classified</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Idol Hotline - Nakayama Miho no Tokimeki High School (Japan)" index="" image="">
+		<description>Idol Hotline: Nakayama Miho no Tokimeki High School</description>
+		<cloneof></cloneof>
+		<crc>CRC</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1987</year>
+		<genre>Not Classified</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Karate Champ (Japan)" index="true" image="k">
+		<description>Karate Champ</description>
+		<cloneof></cloneof>
+		<crc>CRC</crc>
+		<manufacturer>Data East</manufacturer>
+		<year>1988</year>
+		<genre>Not Classified</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Karin no Tsurugi (Japan) [b]" index="" image="">
+		<description>Karin no Tsurugi</description>
+		<cloneof></cloneof>
+		<crc>CRC</crc>
+		<manufacturer>DOG</manufacturer>
+		<year>1987</year>
+		<genre>Not Classified</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Kieta Princess (Japan)" index="" image="">
+		<description>Kieta Princess</description>
+		<cloneof></cloneof>
+		<crc>CRC</crc>
+		<manufacturer>Imagineer</manufacturer>
+		<year>1986</year>
+		<genre>Not Classified</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Knight Move (Japan)" index="" image="">
+		<description>Knight Move</description>
+		<cloneof></cloneof>
+		<crc>CRC</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1990</year>
+		<genre>Not Classified</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Kobayashi Hitomi no Hold Up (Japan) (Unl)" index="" image="">
+		<description>Kobayashi Hitomi no Hold Up</description>
+		<cloneof></cloneof>
+		<crc>CRC</crc>
+		<manufacturer>Hacker International</manufacturer>
+		<year>1990</year>
+		<genre>Not Classified</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Legend of Zelda 2, The - Link no Bouken (Japan) (v1.1)" index="true" image="l">
+		<description>Legend of Zelda 2, The: Link no Bouken</description>
+		<cloneof></cloneof>
+		<crc>CRC</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1987</year>
+		<genre>Not Classified</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lipstick #.1 - Lolita Hen (Japan) (Unl)" index="" image="">
+		<description>Lipstick #.1: Lolita Hen</description>
+		<cloneof></cloneof>
+		<crc>CRC</crc>
+		<manufacturer>Mimi Pro</manufacturer>
+		<year>1988</year>
+		<genre>Not Classified</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lipstick #.2 - Joshi Gakusei Hen (Japan) (Unl)" index="" image="">
+		<description>Lipstick #.2: Joshi Gakusei Hen</description>
+		<cloneof></cloneof>
+		<crc>CRC</crc>
+		<manufacturer>Mimi Pro</manufacturer>
+		<year>1988</year>
+		<genre>Not Classified</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lipstick #.3 - OL Hen (Japan) (Unl)" index="" image="">
+		<description>Lipstick #.3: OL Hen</description>
+		<cloneof></cloneof>
+		<crc>CRC</crc>
+		<manufacturer>Mimi Pro</manufacturer>
+		<year>1988</year>
+		<genre>Not Classified</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lipstick #.4 - Hakui no Tenshi Hen (Japan) (Unl)" index="" image="">
+		<description>Lipstick #.4: Hakui no Tenshi Hen</description>
+		<cloneof></cloneof>
+		<crc>CRC</crc>
+		<manufacturer>Mimi Pro</manufacturer>
+		<year>1988</year>
+		<genre>Not Classified</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lipstick #.5 - Stewardess Hen (Japan) (Unl)" index="" image="">
+		<description>Lipstick #.5: Stewardess Hen</description>
+		<cloneof></cloneof>
+		<crc>CRC</crc>
+		<manufacturer>Mimi Pro</manufacturer>
+		<year>1988</year>
+		<genre>Not Classified</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Meikyuu Jiin Dababa (Japan)" index="true" image="m">
+		<description>Meikyuu Jiin Dababa</description>
+		<cloneof></cloneof>
+		<crc>CRC</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1987</year>
+		<genre>Not Classified</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Metroid (Japan) (v1.2) [b]" index="" image="">
+		<description>Metroid</description>
+		<cloneof></cloneof>
+		<crc>CRC</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1986</year>
+		<genre>Not Classified</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Michael English Daibouken (Japan) (Unl)" index="" image="">
+		<description>Michael English Daibouken</description>
+		<cloneof></cloneof>
+		<crc>CRC</crc>
+		<manufacturer>Scorpion Soft</manufacturer>
+		<year>1987</year>
+		<genre>Not Classified</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Moero TwinBee - Cinnamon Hakase wo Sukue! (Japan)" index="" image="">
+		<description>Moero TwinBee: Cinnamon Hakase wo Sukue!</description>
+		<cloneof></cloneof>
+		<crc>CRC</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1986</year>
+		<genre>Not Classified</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Monitor Puzzle Kineko, The - Kinetic Connection (Japan)" index="" image="">
+		<description>Monitor Puzzle Kineko, The: Kinetic Connection</description>
+		<cloneof></cloneof>
+		<crc>CRC</crc>
+		<manufacturer>Irem</manufacturer>
+		<year>1986</year>
+		<genre>Not Classified</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Monty on the Run - Monty no Doki Doki Dai Dassou (Japan) [b]" index="" image="">
+		<description>Monty on the Run: Monty no Doki Doki Dai Dassou</description>
+		<cloneof></cloneof>
+		<crc>CRC</crc>
+		<manufacturer>Jaleco</manufacturer>
+		<year>1987</year>
+		<genre>Not Classified</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Nazo no Kabe - Block Kuzushi (Japan) [b]" index="true" image="n">
+		<description>Nazo no Kabe: Block Kuzushi</description>
+		<cloneof></cloneof>
+		<crc>CRC</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1986</year>
+		<genre>Not Classified</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Nazo no Murasame Jou (Japan)" index="" image="">
+		<description>Nazo no Murasame Jou</description>
+		<cloneof></cloneof>
+		<crc>CRC</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1986</year>
+		<genre>Not Classified</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Nazoraa Land Dai 2 Gou (Japan) (Nazo Magazine Disk)" index="" image="">
+		<description>Nazoraa Land Dai 2 Gou</description>
+		<cloneof></cloneof>
+		<crc>CRC</crc>
+		<manufacturer>Sunsoft</manufacturer>
+		<year>1987</year>
+		<genre>Not Classified</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Nazoraa Land Dai 3 Gou (Japan) (Nazo Magazine Disk) [b]" index="" image="">
+		<description>Nazoraa Land Dai 3 Gou</description>
+		<cloneof></cloneof>
+		<crc>CRC</crc>
+		<manufacturer>Sunsoft</manufacturer>
+		<year>1988</year>
+		<genre>Not Classified</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Nazoraa Land Soukan Gou (Japan) (Nazo Magazine Disk) [b]" index="" image="">
+		<description>Nazoraa Land Soukan Gou</description>
+		<cloneof></cloneof>
+		<crc>CRC</crc>
+		<manufacturer>Sunsoft</manufacturer>
+		<year>1987</year>
+		<genre>Not Classified</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Nazoraa Land Zoukan Gou - Quiz Ou wo Sagase! (Japan) (Nazo Magazine Disk) [b]" index="" image="">
+		<description>Nazoraa Land Zoukan Gou: Quiz Ou wo Sagase!</description>
+		<cloneof></cloneof>
+		<crc>CRC</crc>
+		<manufacturer>Sunsoft</manufacturer>
+		<year>1987</year>
+		<genre>Not Classified</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Neunzehn (Japan) [b]" index="" image="">
+		<description>Neunzehn</description>
+		<cloneof></cloneof>
+		<crc>CRC</crc>
+		<manufacturer>Soft Pro</manufacturer>
+		<year>1988</year>
+		<genre>Not Classified</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Professional Mahjong Gokuu (Japan)" index="true" image="p">
+		<description>Professional Mahjong Gokuu</description>
+		<cloneof></cloneof>
+		<crc>CRC</crc>
+		<manufacturer>Chatnoir</manufacturer>
+		<year>1986</year>
+		<genre>Not Classified</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ProWres - Famicom Wrestling Association (Japan) [b]" index="" image="">
+		<description>ProWres: Famicom Wrestling Association</description>
+		<cloneof></cloneof>
+		<crc>CRC</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1986</year>
+		<genre>Not Classified</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Risa no Yousei Densetsu (Japan)" index="true" image="r">
+		<description>Risa no Yousei Densetsu</description>
+		<cloneof></cloneof>
+		<crc>CRC</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1988</year>
+		<genre>Not Classified</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sailor Fuku Bishoujo Zukan Vol. 1 (Japan) (Unl)" index="true" image="s">
+		<description>Sailor Fuku Bishoujo Zukan Vol. 1</description>
+		<cloneof></cloneof>
+		<crc>CRC</crc>
+		<manufacturer>Mimi Pro</manufacturer>
+		<year>1989</year>
+		<genre>Not Classified</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sailor Fuku Bishoujo Zukan Vol. 3 (Japan) (Unl)" index="" image="">
+		<description>Sailor Fuku Bishoujo Zukan Vol. 3</description>
+		<cloneof></cloneof>
+		<crc>CRC</crc>
+		<manufacturer>Mimi Pro</manufacturer>
+		<year>1989</year>
+		<genre>Not Classified</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sailor Fuku Bishoujo Zukan Vol. 4 (Japan) (Unl)" index="" image="">
+		<description>Sailor Fuku Bishoujo Zukan Vol. 4</description>
+		<cloneof></cloneof>
+		<crc>CRC</crc>
+		<manufacturer>Mimi Pro</manufacturer>
+		<year>1989</year>
+		<genre>Not Classified</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sailor Fuku Bishoujo Zukan Vol. 5 (Japan) (Unl)" index="" image="">
+		<description>Sailor Fuku Bishoujo Zukan Vol. 5</description>
+		<cloneof></cloneof>
+		<crc>CRC</crc>
+		<manufacturer>Mimi Pro</manufacturer>
+		<year>1989</year>
+		<genre>Not Classified</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sailor Fuku Bishoujo Zukan Vol. 6 (Japan) (Unl)" index="" image="">
+		<description>Sailor Fuku Bishoujo Zukan Vol. 6</description>
+		<cloneof></cloneof>
+		<crc>CRC</crc>
+		<manufacturer>Mimi Pro</manufacturer>
+		<year>1989</year>
+		<genre>Not Classified</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Samurai Sword (Japan) [b]" index="" image="">
+		<description>Samurai Sword</description>
+		<cloneof></cloneof>
+		<crc>CRC</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1988</year>
+		<genre>Not Classified</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Smash Ping Pong (Japan) [b]" index="" image="">
+		<description>Smash Ping Pong</description>
+		<cloneof></cloneof>
+		<crc>CRC</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1987</year>
+		<genre>Not Classified</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Soccer (Japan)" index="" image="">
+		<description>Soccer</description>
+		<cloneof></cloneof>
+		<crc>CRC</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1985</year>
+		<genre>Not Classified</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Lode Runner (Japan) [b]" index="" image="">
+		<description>Super Lode Runner</description>
+		<cloneof></cloneof>
+		<crc>CRC</crc>
+		<manufacturer>Irem</manufacturer>
+		<year>1987</year>
+		<genre>Not Classified</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Lode Runner II (Japan) (Disk Writer) [b]" index="" image="">
+		<description>Super Lode Runner II</description>
+		<cloneof></cloneof>
+		<crc>CRC</crc>
+		<manufacturer>Irem</manufacturer>
+		<year>1987</year>
+		<genre>Not Classified</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Mario Brothers (Japan)" index="" image="">
+		<description>Super Mario Brothers</description>
+		<cloneof></cloneof>
+		<crc>CRC</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1985</year>
+		<genre>Not Classified</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Mario Brothers 2 (Japan)" index="" image="">
+		<description>Super Mario Brothers 2</description>
+		<cloneof></cloneof>
+		<crc>CRC</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1986</year>
+		<genre>Not Classified</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tanigawa Kouji no Shougi Shinan II - Meijin heno Michi (Japan)" index="true" image="t">
+		<description>Tanigawa Kouji no Shougi Shinan II: Meijin heno Michi</description>
+		<cloneof></cloneof>
+		<crc>CRC</crc>
+		<manufacturer>Pony</manufacturer>
+		<year>1987</year>
+		<genre>Not Classified</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tennis (Japan)" index="" image="">
+		<description>Tennis</description>
+		<cloneof></cloneof>
+		<crc>CRC</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1983</year>
+		<genre>Not Classified</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="TwinBee (Japan) (Disk Writer)" index="" image="">
+		<description>TwinBee</description>
+		<cloneof></cloneof>
+		<crc>CRC</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1988</year>
+		<genre>Not Classified</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Vs. Excitebike (Japan)" index="true" image="v">
+		<description>Vs. Excitebike</description>
+		<cloneof></cloneof>
+		<crc>CRC</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1988</year>
+		<genre>Not Classified</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Yume Koujou Doki Doki Panic (Japan) [b]" index="true" image="y">
+		<description>Yume Koujou Doki Doki Panic</description>
+		<cloneof></cloneof>
+		<crc>CRC</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1987</year>
+		<genre>Not Classified</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Yuu Maze (Japan)" index="" image="">
+		<description>Yuu Maze</description>
+		<cloneof></cloneof>
+		<crc>CRC</crc>
+		<manufacturer>Taito</manufacturer>
+		<year>1988</year>
+		<genre>Not Classified</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Zatsugaku Olympic Quiz Part II (Japan) (Unl)" index="true" image="z">
+		<description>Zatsugaku Olympic Quiz Part II</description>
+		<cloneof></cloneof>
+		<crc>CRC</crc>
+		<manufacturer>Phoenix</manufacturer>
+		<year>1988</year>
+		<genre>Not Classified</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Zelda no Densetsu - The Hyrule Fantasy (Japan) (v1.1)" index="" image="">
+		<description>Zelda no Densetsu: The Hyrule Fantasy</description>
+		<cloneof></cloneof>
+		<crc>CRC</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1986</year>
+		<genre>Not Classified</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

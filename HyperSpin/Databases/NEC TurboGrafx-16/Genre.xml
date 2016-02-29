@@ -1,0 +1,25 @@
+<menu>
+  <game name="Action Games"/>
+  <game name="Baseball Games"/>
+  <game name="Basketball Games"/>
+  <game name="Beat- Games"/>
+  <game name="Board Games Games"/>
+  <game name="Boxing Games"/>
+  <game name="Casino Games"/>
+  <game name="Driving Games"/>
+  <game name="Football Games" />
+  <game name="Golf Games" />
+  <game name="Hockey Games" />
+  <game name="Olympic Games" />
+  <game name="Pinball Games" />
+  <game name="Platform Games" />
+  <game name="Puzzle Games" />
+  <game name="Role-Playing Games" />
+  <game name="Shoot- Games" />
+  <game name="Shooter Games" />
+  <game name="Sports Games" />
+  <game name="Strategy Games" />
+  <game name="Tennis Games" />
+  <game name="Volleyball Games" />
+  <game name="Wrestling Games" />
+</menu>

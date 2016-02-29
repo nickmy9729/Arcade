@@ -1,0 +1,8 @@
+<DonsHyperSpinListGenerator VersionMajor="4">
+  <Wheel>Namco Classics</Wheel>
+  <OutputFile>M:\Arcade\HyperSpin\Databases\Namco Classics\Namco Classics.xml</OutputFile>
+  <SourceFile>M:\Hyperlists\Namco Classics.xml</SourceFile>
+  <ExcludeFile>M:\Arcade\HyperSpin\Databases\Namco Classics\Namco Classics_excluded.xml</ExcludeFile>
+  <MameXmlFile>
+  </MameXmlFile>
+</DonsHyperSpinListGenerator>

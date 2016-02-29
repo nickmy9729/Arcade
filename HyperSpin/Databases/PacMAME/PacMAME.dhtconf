@@ -1,0 +1,8 @@
+<DonsHyperSpinListGenerator VersionMajor="4">
+  <Wheel>PacMAME</Wheel>
+  <OutputFile>M:\Arcade\HyperSpin\Databases\PacMAME\PacMAME.xml</OutputFile>
+  <SourceFile>M:\Hyperlists\PacMAME.xml</SourceFile>
+  <ExcludeFile>M:\Arcade\HyperSpin\Databases\PacMAME\PacMAME_excluded.xml</ExcludeFile>
+  <MameXmlFile>
+  </MameXmlFile>
+</DonsHyperSpinListGenerator>

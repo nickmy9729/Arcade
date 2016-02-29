@@ -1,0 +1,769 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Super Nintendo Entertainment System</listname>
+		<lastlistupdate>11/26/2011</lastlistupdate>
+		<listversion>1.3 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="3 Ninjas Kick Back (USA)" index="true" image="3">
+		<description>3 Ninjas Kick Back (USA)</description>
+		<cloneof></cloneof>
+		<crc>f2ee11f9</crc>
+		<manufacturer>Sony Imagesoft</manufacturer>
+		<year>1994</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Alien vs. Predator (USA)" index="true" image="a">
+		<description>Alien vs. Predator (USA)</description>
+		<cloneof></cloneof>
+		<crc>1803cf20</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>1993</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Art of Fighting (USA)" index="" image="">
+		<description>Art of Fighting (USA)</description>
+		<cloneof></cloneof>
+		<crc>9fa74067</crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1993</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ballz 3D - Fighting at Its Ballziest (USA)" index="true" image="b">
+		<description>Ballz 3D - Fighting at Its Ballziest (USA)</description>
+		<cloneof></cloneof>
+		<crc>1c058b7d</crc>
+		<manufacturer>Accolade</manufacturer>
+		<year>1995</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Batman Forever (USA)" index="" image="">
+		<description>Batman Forever (USA)</description>
+		<cloneof></cloneof>
+		<crc>d9b5e9cf</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1995</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Batman Returns (USA)" index="" image="">
+		<description>Batman Returns (USA)</description>
+		<cloneof></cloneof>
+		<crc>e87dfdf6</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1993</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Battle Blaze (USA)" index="" image="">
+		<description>Battle Blaze (USA)</description>
+		<cloneof></cloneof>
+		<crc>d933bd8d</crc>
+		<manufacturer>Sammy Studios</manufacturer>
+		<year>1993</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Battletoads in Battlemaniacs (USA)" index="" image="">
+		<description>Battletoads in Battlemaniacs (USA)</description>
+		<cloneof></cloneof>
+		<crc>617ac925</crc>
+		<manufacturer>Tradewest</manufacturer>
+		<year>1993</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bebe&apos;s Kids (USA)" index="" image="">
+		<description>Bebe&apos;s Kids (USA)</description>
+		<cloneof></cloneof>
+		<crc>bda2e412</crc>
+		<manufacturer>Motown Games</manufacturer>
+		<year>1994</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Brawl Brothers (USA)" index="" image="">
+		<description>Brawl Brothers (USA)</description>
+		<cloneof></cloneof>
+		<crc>e822065c</crc>
+		<manufacturer>Jaleco</manufacturer>
+		<year>1993</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Brutal - Paws of Fury (USA)" index="" image="">
+		<description>Brutal - Paws of Fury (USA)</description>
+		<cloneof></cloneof>
+		<crc>8fe49f80</crc>
+		<manufacturer>Cybersoft</manufacturer>
+		<year>1994</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Captain America and the Avengers (USA)" index="true" image="c">
+		<description>Captain America and the Avengers (USA)</description>
+		<cloneof></cloneof>
+		<crc>456ab5c8</crc>
+		<manufacturer>Mindscape</manufacturer>
+		<year>1993</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Captain Commando (USA)" index="" image="">
+		<description>Captain Commando (USA)</description>
+		<cloneof></cloneof>
+		<crc>81db73c7</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1995</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Clay Fighter (USA)" index="" image="">
+		<description>Clay Fighter (USA)</description>
+		<cloneof></cloneof>
+		<crc>c814e3c2</crc>
+		<manufacturer>Interplay</manufacturer>
+		<year>1993</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Clay Fighter - Tournament Edition (USA)" index="" image="">
+		<description>Clay Fighter - Tournament Edition (USA)</description>
+		<cloneof></cloneof>
+		<crc>b360f7af</crc>
+		<manufacturer>Interplay</manufacturer>
+		<year>1994</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Clay Fighter 2 - Judgment Clay (USA)" index="" image="">
+		<description>Clay Fighter 2 - Judgment Clay (USA)</description>
+		<cloneof></cloneof>
+		<crc>20b5c364</crc>
+		<manufacturer>Interplay</manufacturer>
+		<year>1994</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cliffhanger (USA)" index="" image="">
+		<description>Cliffhanger (USA)</description>
+		<cloneof></cloneof>
+		<crc>12f8a26c</crc>
+		<manufacturer>Sony Imagesoft</manufacturer>
+		<year>1993</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Death and Return of Superman, The (USA)" index="true" image="d">
+		<description>Death and Return of Superman, The (USA)</description>
+		<cloneof></cloneof>
+		<crc>a567957c</crc>
+		<manufacturer>Sun Soft</manufacturer>
+		<year>1994</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Doomsday Warrior (USA)" index="" image="">
+		<description>Doomsday Warrior (USA)</description>
+		<cloneof></cloneof>
+		<crc>ceeb7c32</crc>
+		<manufacturer>Renovation</manufacturer>
+		<year>1992</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Double Dragon V - The Shadow Falls (USA)" index="" image="">
+		<description>Double Dragon V - The Shadow Falls (USA)</description>
+		<cloneof></cloneof>
+		<crc>98a96ae8</crc>
+		<manufacturer>Tradewest</manufacturer>
+		<year>1994</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fatal Fury (USA)" index="true" image="f">
+		<description>Fatal Fury (USA)</description>
+		<cloneof></cloneof>
+		<crc>c67257d0</crc>
+		<manufacturer>Takara</manufacturer>
+		<year>1993</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fatal Fury 2 (USA)" index="" image="">
+		<description>Fatal Fury 2 (USA)</description>
+		<cloneof></cloneof>
+		<crc>a26ebfef</crc>
+		<manufacturer>Takuyo</manufacturer>
+		<year>1994</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fatal Fury Special (USA)" index="" image="">
+		<description>Fatal Fury Special (USA)</description>
+		<cloneof></cloneof>
+		<crc>93935bee</crc>
+		<manufacturer>Takuyo</manufacturer>
+		<year>1995</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fighter&apos;s History (USA) (Rev 1)" index="" image="">
+		<description>Fighter&apos;s History (USA) (Rev 1)</description>
+		<cloneof></cloneof>
+		<crc>3d17f6ea</crc>
+		<manufacturer>Data East</manufacturer>
+		<year>1994</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Final Fight (USA)" index="" image="">
+		<description>Final Fight (USA)</description>
+		<cloneof></cloneof>
+		<crc>4cab21db</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1991</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Final Fight 2 (USA)" index="" image="">
+		<description>Final Fight 2 (USA)</description>
+		<cloneof></cloneof>
+		<crc>8c37ff55</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1993</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Final Fight 3 (USA)" index="" image="">
+		<description>Final Fight 3 (USA)</description>
+		<cloneof></cloneof>
+		<crc>a916e708</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1995</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Final Fight Guy (USA)" index="" image="">
+		<description>Final Fight Guy (USA)</description>
+		<cloneof></cloneof>
+		<crc>bc1ae3c2</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1992</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Jim Lee&apos;s WildC.A.T.S - Covert Action Teams (USA)" index="true" image="j">
+		<description>Jim Lee&apos;s WildC.A.T.S - Covert Action Teams (USA)</description>
+		<cloneof></cloneof>
+		<crc>10c6f5ad</crc>
+		<manufacturer>Playmates</manufacturer>
+		<year>1995</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Justice League Task Force (USA)" index="" image="">
+		<description>Justice League Task Force (USA)</description>
+		<cloneof></cloneof>
+		<crc>31cf46d1</crc>
+		<manufacturer>Sun Soft</manufacturer>
+		<year>1995</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Killer Instinct (USA) (Rev 1)" index="true" image="k">
+		<description>Killer Instinct (USA) (Rev 1)</description>
+		<cloneof></cloneof>
+		<crc>09e9a04e</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1995</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="King of Dragons, The (USA)" index="" image="">
+		<description>King of Dragons, The (USA)</description>
+		<cloneof></cloneof>
+		<crc>dd505df7</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1994</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="King of the Monsters (USA)" index="" image="">
+		<description>King of the Monsters (USA)</description>
+		<cloneof></cloneof>
+		<crc>c285c7ff</crc>
+		<manufacturer>Takara</manufacturer>
+		<year>1992</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="King of the Monsters 2 (USA)" index="" image="">
+		<description>King of the Monsters 2 (USA)</description>
+		<cloneof></cloneof>
+		<crc>0b677a37</crc>
+		<manufacturer>Takara</manufacturer>
+		<year>1993</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Knights of the Round (USA)" index="" image="">
+		<description>Knights of the Round (USA)</description>
+		<cloneof></cloneof>
+		<crc>aaa82126</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1994</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Last Action Hero (USA)" index="true" image="l">
+		<description>Last Action Hero (USA)</description>
+		<cloneof></cloneof>
+		<crc>88017df9</crc>
+		<manufacturer>Sony Imagesoft</manufacturer>
+		<year>1993</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Legend (USA)" index="" image="">
+		<description>Legend (USA)</description>
+		<cloneof></cloneof>
+		<crc>0a6dd870</crc>
+		<manufacturer>Seika Corp</manufacturer>
+		<year>1994</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mighty Morphin Power Rangers (USA)" index="true" image="m">
+		<description>Mighty Morphin Power Rangers (USA)</description>
+		<cloneof></cloneof>
+		<crc>a56eb77a</crc>
+		<manufacturer>Bandai</manufacturer>
+		<year>1995</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mighty Morphin Power Rangers - The Fighting Edition (USA)" index="" image="">
+		<description>Mighty Morphin Power Rangers - The Fighting Edition (USA)</description>
+		<cloneof></cloneof>
+		<crc>460b0a60</crc>
+		<manufacturer>Bandai</manufacturer>
+		<year>1995</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mighty Morphin Power Rangers - The Movie (USA)" index="" image="">
+		<description>Mighty Morphin Power Rangers - The Movie (USA)</description>
+		<cloneof></cloneof>
+		<crc>e3ef6201</crc>
+		<manufacturer>Bandai</manufacturer>
+		<year>1995</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mortal Kombat (USA)" index="" image="">
+		<description>Mortal Kombat (USA)</description>
+		<cloneof></cloneof>
+		<crc>def42945</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1993</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mortal Kombat 3 (USA)" index="" image="">
+		<description>Mortal Kombat 3 (USA)</description>
+		<cloneof></cloneof>
+		<crc>4e6af725</crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1995</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mortal Kombat II (USA) (Rev 1)" index="" image="">
+		<description>Mortal Kombat II (USA) (Rev 1)</description>
+		<cloneof></cloneof>
+		<crc>70bb5513</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1994</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ninja Warriors, The (USA)" index="true" image="n">
+		<description>Ninja Warriors, The (USA)</description>
+		<cloneof></cloneof>
+		<crc>7537d8d7</crc>
+		<manufacturer>Taito corporation</manufacturer>
+		<year>1994</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Peace Keepers, The (USA)" index="true" image="p">
+		<description>Peace Keepers, The (USA)</description>
+		<cloneof></cloneof>
+		<crc>8071e5db</crc>
+		<manufacturer>Jaleco</manufacturer>
+		<year>1994</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pirates of Dark Water, The (USA)" index="" image="">
+		<description>Pirates of Dark Water, The (USA)</description>
+		<cloneof></cloneof>
+		<crc>7ca0ca4d</crc>
+		<manufacturer>SunSoft</manufacturer>
+		<year>1994</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pit-Fighter (USA)" index="" image="">
+		<description>Pit-Fighter (USA)</description>
+		<cloneof></cloneof>
+		<crc>9fab69fc</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>1992</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Power Instinct (USA)" index="" image="">
+		<description>Power Instinct (USA)</description>
+		<cloneof></cloneof>
+		<crc>cb8a4f8e</crc>
+		<manufacturer>Atlus</manufacturer>
+		<year>1994</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Power Moves (USA)" index="" image="">
+		<description>Power Moves (USA)</description>
+		<cloneof></cloneof>
+		<crc>c2e094b5</crc>
+		<manufacturer>Kaneko</manufacturer>
+		<year>1993</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Primal Rage (USA)" index="" image="">
+		<description>Primal Rage (USA)</description>
+		<cloneof></cloneof>
+		<crc>3753e4b6</crc>
+		<manufacturer>Bitmasters</manufacturer>
+		<year>1995</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ranma 1-2 - Hard Battle (USA)" index="true" image="r">
+		<description>Ranma 1-2 - Hard Battle (USA)</description>
+		<cloneof></cloneof>
+		<crc>8e4dadcd</crc>
+		<manufacturer>NCS</manufacturer>
+		<year>1992</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rise of the Robots (USA)" index="" image="">
+		<description>Rise of the Robots (USA)</description>
+		<cloneof></cloneof>
+		<crc>83ba0ac0</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1994</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rival Turf! (USA)" index="" image="">
+		<description>Rival Turf! (USA)</description>
+		<cloneof></cloneof>
+		<crc>ca988f59</crc>
+		<manufacturer>Jaleco</manufacturer>
+		<year>1992</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Samurai Shodown (USA)" index="true" image="s">
+		<description>Samurai Shodown (USA)</description>
+		<cloneof></cloneof>
+		<crc>2e614a53</crc>
+		<manufacturer>Takara</manufacturer>
+		<year>1994</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Shaq Fu (USA)" index="" image="">
+		<description>Shaq Fu (USA)</description>
+		<cloneof></cloneof>
+		<crc>52916c9d</crc>
+		<manufacturer>Electronic Arts</manufacturer>
+		<year>1994</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sonic Blast Man (USA)" index="" image="">
+		<description>Sonic Blast Man (USA)</description>
+		<cloneof></cloneof>
+		<crc>8886396e</crc>
+		<manufacturer>Taito</manufacturer>
+		<year>1992</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sonic Blast Man II (USA)" index="" image="">
+		<description>Sonic Blast Man II (USA)</description>
+		<cloneof></cloneof>
+		<crc>24229a34</crc>
+		<manufacturer>Taito</manufacturer>
+		<year>1994</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Spider-Man-Venom - Maximum Carnage (USA)" index="" image="">
+		<description>Spider-Man-Venom - Maximum Carnage (USA)</description>
+		<cloneof></cloneof>
+		<crc>7ef2bb0c</crc>
+		<manufacturer>LJN</manufacturer>
+		<year>1994</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Stone Protectors (USA)" index="" image="">
+		<description>Stone Protectors (USA)</description>
+		<cloneof></cloneof>
+		<crc>a7e58592</crc>
+		<manufacturer>Kemco</manufacturer>
+		<year>1994</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Street Combat (USA)" index="" image="">
+		<description>Street Combat (USA)</description>
+		<cloneof></cloneof>
+		<crc>1969bbd9</crc>
+		<manufacturer>Irem</manufacturer>
+		<year>1993</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Street Fighter Alpha 2 (USA)" index="" image="">
+		<description>Street Fighter Alpha 2 (USA)</description>
+		<cloneof></cloneof>
+		<crc>9c59ddff</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1996</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Street Fighter II (USA)" index="" image="">
+		<description>Street Fighter II (USA)</description>
+		<cloneof></cloneof>
+		<crc>bc3dcd9d</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1992</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Street Fighter II Turbo (USA)" index="" image="">
+		<description>Street Fighter II Turbo (USA)</description>
+		<cloneof></cloneof>
+		<crc>a45cadd6</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1993</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Double Dragon (USA)" index="" image="">
+		<description>Super Double Dragon (USA)</description>
+		<cloneof></cloneof>
+		<crc>09ed12a5</crc>
+		<manufacturer>Tradewest</manufacturer>
+		<year>1992</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Street Fighter II (USA)" index="" image="">
+		<description>Super Street Fighter II (USA)</description>
+		<cloneof></cloneof>
+		<crc>f16d5ce9</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1994</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Teenage Mutant Ninja Turtles - Tournament Fighters (USA)" index="true" image="t">
+		<description>Teenage Mutant Ninja Turtles - Tournament Fighters (USA)</description>
+		<cloneof></cloneof>
+		<crc>e2fe5dbf</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1993</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Teenage Mutant Ninja Turtles IV - Turtles in Time (USA)" index="" image="">
+		<description>Teenage Mutant Ninja Turtles IV - Turtles in Time (USA)</description>
+		<cloneof></cloneof>
+		<crc>5940bd99</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1992</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tick, The (USA)" index="" image="">
+		<description>Tick, The (USA)</description>
+		<cloneof></cloneof>
+		<crc>12ab22a7</crc>
+		<manufacturer>Fox Interactive</manufacturer>
+		<year>1994</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tuff E Nuff (USA)" index="" image="">
+		<description>Tuff E Nuff (USA)</description>
+		<cloneof></cloneof>
+		<crc>865f37bf</crc>
+		<manufacturer>Jaleco Entertainment</manufacturer>
+		<year>1993</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ultimate Fighter (USA)" index="true" image="u">
+		<description>Ultimate Fighter (USA)</description>
+		<cloneof></cloneof>
+		<crc>9dfc8897</crc>
+		<manufacturer>Culture Brain</manufacturer>
+		<year>1993</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ultimate Mortal Kombat 3 (USA)" index="" image="">
+		<description>Ultimate Mortal Kombat 3 (USA)</description>
+		<cloneof></cloneof>
+		<crc>f5bfe41e</crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1996</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ultraman - Towards the Future (USA)" index="" image="">
+		<description>Ultraman - Towards the Future (USA)</description>
+		<cloneof></cloneof>
+		<crc>1ded2814</crc>
+		<manufacturer>Bandai</manufacturer>
+		<year>1991</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Venom-Spider-Man - Separation Anxiety (USA)" index="true" image="v">
+		<description>Venom-Spider-Man - Separation Anxiety (USA)</description>
+		<cloneof></cloneof>
+		<crc>919c509d</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1995</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="WeaponLord (USA)" index="true" image="w">
+		<description>WeaponLord (USA)</description>
+		<cloneof></cloneof>
+		<crc>0e7e7102</crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1995</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="World Heroes (USA)" index="" image="">
+		<description>World Heroes (USA)</description>
+		<cloneof></cloneof>
+		<crc>1228ad30</crc>
+		<manufacturer>Sun Soft</manufacturer>
+		<year>1993</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="World Heroes 2 (USA)" index="" image="">
+		<description>World Heroes 2 (USA)</description>
+		<cloneof></cloneof>
+		<crc>098d7eaa</crc>
+		<manufacturer>Takara</manufacturer>
+		<year>1994</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

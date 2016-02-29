@@ -1,0 +1,8 @@
+<DonsHyperSpinListGenerator VersionMajor="4">
+  <Wheel>NEC TurboGrafx-16</Wheel>
+  <OutputFile>M:\Arcade\HyperSpin\Databases\NEC TurboGrafx-16\NEC TurboGrafx-16.xml</OutputFile>
+  <SourceFile>M:\Hyperlists\NEC TurboGrafx-16.xml</SourceFile>
+  <ExcludeFile>M:\Arcade\HyperSpin\Databases\NEC TurboGrafx-16\NEC TurboGrafx-16_excluded.xml</ExcludeFile>
+  <MameXmlFile>
+  </MameXmlFile>
+</DonsHyperSpinListGenerator>

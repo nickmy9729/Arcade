@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Sega Game Gear</listname>
+		<lastlistupdate>11/01/2011</lastlistupdate>
+		<listversion>1.1 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="Joe Montana&apos;s Football (USA, Europe)" index="true" image="j">
+		<description>Joe Montana&apos;s Football (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>2E01BA6C</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1991</year>
+		<genre>Football/Sports</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Madden NFL &apos;95 (USA)" index="true" image="m">
+		<description>Madden NFL &apos;95 (USA)</description>
+		<cloneof></cloneof>
+		<crc>75C71EBF</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>1995</year>
+		<genre>Football/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Madden NFL &apos;96 (USA, Europe)" index="" image="">
+		<description>Madden NFL &apos;96 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>9F59D302</crc>
+		<manufacturer>Electronic Arts</manufacturer>
+		<year>1996</year>
+		<genre>Football/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NFL &apos;95 (USA)" index="true" image="n">
+		<description>NFL &apos;95 (USA)</description>
+		<cloneof></cloneof>
+		<crc>DC5B0407</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1994</year>
+		<genre>Football/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NFL Quarterback Club &apos;96 (USA, Europe)" index="" image="">
+		<description>NFL Quarterback Club &apos;96 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>C348E53A</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1995</year>
+		<genre>Football/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NFL Quarterback Club (World)" index="" image="">
+		<description>NFL Quarterback Club (World)</description>
+		<cloneof></cloneof>
+		<crc>61785ED5</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1994</year>
+		<genre>Football/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sports Illustrated Championship Football &amp; Baseball (USA, Europe)" index="true" image="s">
+		<description>Sports Illustrated Championship Football &amp; Baseball (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>DE25E2D8</crc>
+		<manufacturer>Black Pearl</manufacturer>
+		<year>1993</year>
+		<genre>Baseball/Football/Sports</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

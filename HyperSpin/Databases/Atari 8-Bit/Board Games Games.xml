@@ -1,0 +1,809 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Atari 8-Bit</listname>
+		<lastlistupdate>05/17/2015</lastlistupdate>
+		<listversion>1.0</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="221B Baker Street (USA) (Disk 1 Side A)" index="true" image="2">
+		<description>221B Baker Street (USA) (Disk 1 Side A)</description>
+		<cloneof></cloneof>
+		<crc>12B75C66</crc>
+		<manufacturer>Datasoft</manufacturer>
+		<year>1987</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="221B Baker Street (USA) (Disk 1 Side B)" index="" image="">
+		<description>221B Baker Street (USA) (Disk 1 Side B)</description>
+		<cloneof></cloneof>
+		<crc>87BBF16C</crc>
+		<manufacturer>Datasoft</manufacturer>
+		<year>1987</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="221B Baker Street (USA) (Disk 2) (Case Library 1)" index="" image="">
+		<description>221B Baker Street (USA) (Disk 2) (Case Library 1)</description>
+		<cloneof></cloneof>
+		<crc>D0177AD2</crc>
+		<manufacturer>Datasoft</manufacturer>
+		<year>1987</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="221B Baker Street (USA) (Disk 3) (Case Library 2)" index="" image="">
+		<description>221B Baker Street (USA) (Disk 3) (Case Library 2)</description>
+		<cloneof></cloneof>
+		<crc>DB0E9B6F</crc>
+		<manufacturer>Datasoft</manufacturer>
+		<year>1987</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Archon (USA)" index="true" image="a">
+		<description>Archon (USA)</description>
+		<cloneof></cloneof>
+		<crc>1DEA59EC</crc>
+		<manufacturer>Electronic Arts</manufacturer>
+		<year>1983</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Archon II - Adept (USA)" index="" image="">
+		<description>Archon II - Adept (USA)</description>
+		<cloneof></cloneof>
+		<crc>F04DACD5</crc>
+		<manufacturer>Electronic Arts</manufacturer>
+		<year>1984</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Backgammon (Dynacomp) (USA)" index="true" image="b">
+		<description>Backgammon (Dynacomp) (USA)</description>
+		<cloneof></cloneof>
+		<crc>DAB4A12E</crc>
+		<manufacturer>Dynacomp</manufacturer>
+		<year>19xx</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Backgammon (TK Computer Products) (USA)" index="" image="">
+		<description>Backgammon (TK Computer Products) (USA)</description>
+		<cloneof></cloneof>
+		<crc>452BA0C3</crc>
+		<manufacturer>TK Computer Products</manufacturer>
+		<year>19xx</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Battle Ships (Poland) (Side A)" index="" image="">
+		<description>Battle Ships (Poland) (Side A)</description>
+		<cloneof></cloneof>
+		<crc>9117881C</crc>
+		<manufacturer>Mirage</manufacturer>
+		<year>1989</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Battle Ships (Poland) (Side B)" index="" image="">
+		<description>Battle Ships (Poland) (Side B)</description>
+		<cloneof></cloneof>
+		<crc>1F2704D6</crc>
+		<manufacturer>Mirage</manufacturer>
+		<year>1989</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Body Parts (USA)" index="" image="">
+		<description>Body Parts (USA)</description>
+		<cloneof></cloneof>
+		<crc>14B649C8</crc>
+		<manufacturer>PartlySoft Software</manufacturer>
+		<year>1983</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Buzzword (USA) (Side A)" index="" image="">
+		<description>Buzzword (USA) (Side A)</description>
+		<cloneof></cloneof>
+		<crc>C9F26429</crc>
+		<manufacturer>Buzzword Game Company</manufacturer>
+		<year>1986</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Buzzword (USA) (Side B)" index="" image="">
+		<description>Buzzword (USA) (Side B)</description>
+		<cloneof></cloneof>
+		<crc>5BAB56BD</crc>
+		<manufacturer>Buzzword Game Company</manufacturer>
+		<year>1986</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Can&apos;t Quit (USA)" index="true" image="c">
+		<description>Can&apos;t Quit (USA)</description>
+		<cloneof></cloneof>
+		<crc>4AC0BB17</crc>
+		<manufacturer>APX</manufacturer>
+		<year>1983</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Checker King (USA)" index="" image="">
+		<description>Checker King (USA)</description>
+		<cloneof></cloneof>
+		<crc>47F14A25</crc>
+		<manufacturer>Personal Software</manufacturer>
+		<year>1980</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Checkers (Odesta) (USA)" index="" image="">
+		<description>Checkers (Odesta) (USA)</description>
+		<cloneof></cloneof>
+		<crc>2589466F</crc>
+		<manufacturer>Odesta</manufacturer>
+		<year>1982</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Checkers (Silicon Valley Systems) (USA)" index="" image="">
+		<description>Checkers (Silicon Valley Systems) (USA)</description>
+		<cloneof></cloneof>
+		<crc>80A9D1C4</crc>
+		<manufacturer>Silicon Valley Systems</manufacturer>
+		<year>19xx</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Chess (USA)" index="" image="">
+		<description>Chess (USA)</description>
+		<cloneof></cloneof>
+		<crc>2BE20460</crc>
+		<manufacturer>Parker Brothers</manufacturer>
+		<year>1983</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Chess v7.0 (USA)" index="" image="">
+		<description>Chess v7.0 (USA)</description>
+		<cloneof></cloneof>
+		<crc>A5C4F846</crc>
+		<manufacturer>Odesta</manufacturer>
+		<year>1982</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Chessmaster 2000, The (USA) (Disk 1)" index="" image="">
+		<description>Chessmaster 2000, The (USA) (Disk 1)</description>
+		<cloneof></cloneof>
+		<crc>823E49BA</crc>
+		<manufacturer>Software Country</manufacturer>
+		<year>1986</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Chessmaster 2000, The (USA) (Disk 2)" index="" image="">
+		<description>Chessmaster 2000, The (USA) (Disk 2)</description>
+		<cloneof></cloneof>
+		<crc>3BB60A93</crc>
+		<manufacturer>Software Country</manufacturer>
+		<year>1986</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Colossus Chess 3.0 (Europe)" index="" image="">
+		<description>Colossus Chess 3.0 (Europe)</description>
+		<cloneof></cloneof>
+		<crc>7E7BAEB4</crc>
+		<manufacturer>English Software</manufacturer>
+		<year>1984</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Colossus Chess 4.0 (Europe)" index="" image="">
+		<description>Colossus Chess 4.0 (Europe)</description>
+		<cloneof></cloneof>
+		<crc>708A2C11</crc>
+		<manufacturer>CDS Software</manufacturer>
+		<year>1987</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Compute 4 &amp; Reversi (Europe) (Side A)" index="" image="">
+		<description>Compute 4 &amp; Reversi (Europe) (Side A)</description>
+		<cloneof></cloneof>
+		<crc>3E942DE8</crc>
+		<manufacturer>Thorn EMI</manufacturer>
+		<year>1982</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Compute 4 &amp; Reversi (Europe) (Side B)" index="" image="">
+		<description>Compute 4 &amp; Reversi (Europe) (Side B)</description>
+		<cloneof></cloneof>
+		<crc>381B4825</crc>
+		<manufacturer>Thorn EMI</manufacturer>
+		<year>1982</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Computer Chess (USA)" index="" image="">
+		<description>Computer Chess (USA)</description>
+		<cloneof></cloneof>
+		<crc>B720D923</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1979</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cribbage (APX) (USA)" index="" image="">
+		<description>Cribbage (APX) (USA)</description>
+		<cloneof></cloneof>
+		<crc>B3E3E0B8</crc>
+		<manufacturer>APX</manufacturer>
+		<year>1982</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cribbage (THESIS) (USA)" index="" image="">
+		<description>Cribbage (THESIS) (USA)</description>
+		<cloneof></cloneof>
+		<crc>D613E332</crc>
+		<manufacturer>THESIS</manufacturer>
+		<year>1980</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Draughts (Europe)" index="true" image="d">
+		<description>Draughts (Europe)</description>
+		<cloneof></cloneof>
+		<crc>4F545F24</crc>
+		<manufacturer>Stack Computer Services</manufacturer>
+		<year>1983</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ennumereight (USA)" index="true" image="e">
+		<description>Ennumereight (USA)</description>
+		<cloneof></cloneof>
+		<crc>A8E4D091</crc>
+		<manufacturer>APX</manufacturer>
+		<year>1983</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="European Scene Jigsaw Puzzles - Volume 1 (Europe) (Side A)" index="" image="">
+		<description>European Scene Jigsaw Puzzles - Volume 1 (Europe) (Side A)</description>
+		<cloneof></cloneof>
+		<crc>435837DA</crc>
+		<manufacturer>Thorn EMI</manufacturer>
+		<year>1981</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="European Scene Jigsaw Puzzles - Volume 1 (Europe) (Side B)" index="" image="">
+		<description>European Scene Jigsaw Puzzles - Volume 1 (Europe) (Side B)</description>
+		<cloneof></cloneof>
+		<crc>0AF0D537</crc>
+		<manufacturer>Thorn EMI</manufacturer>
+		<year>1981</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="European Scene Jigsaw Puzzles - Volume 2 (Europe) (Side A)" index="" image="">
+		<description>European Scene Jigsaw Puzzles - Volume 2 (Europe) (Side A)</description>
+		<cloneof></cloneof>
+		<crc>6A91941B</crc>
+		<manufacturer>Thorn EMI</manufacturer>
+		<year>1981</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="European Scene Jigsaw Puzzles - Volume 2 (Europe) (Side B)" index="" image="">
+		<description>European Scene Jigsaw Puzzles - Volume 2 (Europe) (Side B)</description>
+		<cloneof></cloneof>
+		<crc>64C312BF</crc>
+		<manufacturer>Thorn EMI</manufacturer>
+		<year>1981</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fastgammon (USA)" index="true" image="f">
+		<description>Fastgammon (USA)</description>
+		<cloneof></cloneof>
+		<crc>6082F51D</crc>
+		<manufacturer>Quality Software</manufacturer>
+		<year>1980</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fleet (USA)" index="" image="">
+		<description>Fleet (USA)</description>
+		<cloneof></cloneof>
+		<crc>8E25BDE9</crc>
+		<manufacturer>Programma International</manufacturer>
+		<year>19xx</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fortress (USA)" index="" image="">
+		<description>Fortress (USA)</description>
+		<cloneof></cloneof>
+		<crc>25C5C738</crc>
+		<manufacturer>SSI</manufacturer>
+		<year>1983</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Go (Europe)" index="true" image="g">
+		<description>Go (Europe)</description>
+		<cloneof></cloneof>
+		<crc>A11E9B10</crc>
+		<manufacturer>Stack Computer Services</manufacturer>
+		<year>1983</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Go (USA)" index="" image="">
+		<description>Go (USA)</description>
+		<cloneof></cloneof>
+		<crc>071524C5</crc>
+		<manufacturer>Hayden Software</manufacturer>
+		<year>1982</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="HexxagonXE (Czech Republic) (Unl)" index="true" image="h">
+		<description>HexxagonXE (Czech Republic) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>567BF3C4</crc>
+		<manufacturer>Flop Magazine</manufacturer>
+		<year>2003</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Klony (Poland) (Unl)" index="true" image="k">
+		<description>Klony (Poland) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>F4832FFD</crc>
+		<manufacturer>ArSoft Corporation</manufacturer>
+		<year>2006</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mankala (USA)" index="true" image="m">
+		<description>Mankala (USA)</description>
+		<cloneof></cloneof>
+		<crc>DC13339C</crc>
+		<manufacturer>APX</manufacturer>
+		<year>1982</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Master Chess (USA)" index="" image="">
+		<description>Master Chess (USA)</description>
+		<cloneof></cloneof>
+		<crc>BF80CBA5</crc>
+		<manufacturer>Mastertronic</manufacturer>
+		<year>198x</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Match Wits (USA)" index="" image="">
+		<description>Match Wits (USA)</description>
+		<cloneof></cloneof>
+		<crc>9B01D0BD</crc>
+		<manufacturer>CBS Software</manufacturer>
+		<year>1983</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Micro Chess (USA)" index="" image="">
+		<description>Micro Chess (USA)</description>
+		<cloneof></cloneof>
+		<crc>077EAC22</crc>
+		<manufacturer>Personal Software</manufacturer>
+		<year>19xx</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Midway (USA)" index="" image="">
+		<description>Midway (USA)</description>
+		<cloneof></cloneof>
+		<crc>6E14D372</crc>
+		<manufacturer>Dynacomp</manufacturer>
+		<year>1981</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mychess II (USA)" index="" image="">
+		<description>Mychess II (USA)</description>
+		<cloneof></cloneof>
+		<crc>A60583DE</crc>
+		<manufacturer>Datamost</manufacturer>
+		<year>1984</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Nominoes Jigsaw (USA)" index="true" image="n">
+		<description>Nominoes Jigsaw (USA)</description>
+		<cloneof></cloneof>
+		<crc>E54A94AB</crc>
+		<manufacturer>Dynacomp</manufacturer>
+		<year>1981</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Odin (USA)" index="true" image="o">
+		<description>Odin (USA)</description>
+		<cloneof></cloneof>
+		<crc>D8EE5F8B</crc>
+		<manufacturer>Odesta</manufacturer>
+		<year>19xx</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Omar (USA) (Side A)" index="" image="">
+		<description>Omar (USA) (Side A)</description>
+		<cloneof></cloneof>
+		<crc>722868B1</crc>
+		<manufacturer>Antic Software</manufacturer>
+		<year>1985</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Omar (USA) (Side B)" index="" image="">
+		<description>Omar (USA) (Side B)</description>
+		<cloneof></cloneof>
+		<crc>48CB6089</crc>
+		<manufacturer>Antic Software</manufacturer>
+		<year>1985</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Othello (USA)" index="" image="">
+		<description>Othello (USA)</description>
+		<cloneof></cloneof>
+		<crc>68E4DAA9</crc>
+		<manufacturer>Russ Segal</manufacturer>
+		<year>1981</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Owari (Europe)" index="" image="">
+		<description>Owari (Europe)</description>
+		<cloneof></cloneof>
+		<crc>6AB50F60</crc>
+		<manufacturer>Thorn EMI</manufacturer>
+		<year>1982</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Peggammon (USA)" index="true" image="p">
+		<description>Peggammon (USA)</description>
+		<cloneof></cloneof>
+		<crc>4F73CA73</crc>
+		<manufacturer>Artworx</manufacturer>
+		<year>1986</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pornopoly (USA)" index="" image="">
+		<description>Pornopoly (USA)</description>
+		<cloneof></cloneof>
+		<crc>FB0C83A0</crc>
+		<manufacturer>Computer Consultants of Iowa</manufacturer>
+		<year>1980</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Puzzle Construction Set (USA)" index="" image="">
+		<description>Puzzle Construction Set (USA)</description>
+		<cloneof></cloneof>
+		<crc>387D3BFF</crc>
+		<manufacturer>SGM Software</manufacturer>
+		<year>1984</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="QS Reversi (USA)" index="true" image="q">
+		<description>QS Reversi (USA)</description>
+		<cloneof></cloneof>
+		<crc>615982A0</crc>
+		<manufacturer>Quality Software</manufacturer>
+		<year>19xx</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Renaissance (USA)" index="true" image="r">
+		<description>Renaissance (USA)</description>
+		<cloneof></cloneof>
+		<crc>35F5DD62</crc>
+		<manufacturer>UMI</manufacturer>
+		<year>1982</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Reversi (APX) (USA)" index="" image="">
+		<description>Reversi (APX) (USA)</description>
+		<cloneof></cloneof>
+		<crc>E27B55E5</crc>
+		<manufacturer>APX</manufacturer>
+		<year>19xx</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Reversi (ArtSci) (USA)" index="" image="">
+		<description>Reversi (ArtSci) (USA)</description>
+		<cloneof></cloneof>
+		<crc>4E2ADEDD</crc>
+		<manufacturer>Artsci</manufacturer>
+		<year>1980</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Reversi II (USA)" index="" image="">
+		<description>Reversi II (USA)</description>
+		<cloneof></cloneof>
+		<crc>53C91566</crc>
+		<manufacturer>APX</manufacturer>
+		<year>1981</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Risk (USA) (Proto)" index="" image="">
+		<description>Risk (USA) (Proto)</description>
+		<cloneof></cloneof>
+		<crc>6DF7575E</crc>
+		<manufacturer>Parker Brothers</manufacturer>
+		<year>1983</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Roman Checkers (USA)" index="" image="">
+		<description>Roman Checkers (USA)</description>
+		<cloneof></cloneof>
+		<crc>C14E8E2A</crc>
+		<manufacturer>Sears</manufacturer>
+		<year>1979</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sargon II (USA)" index="true" image="s">
+		<description>Sargon II (USA)</description>
+		<cloneof></cloneof>
+		<crc>C386AD36</crc>
+		<manufacturer>Hayden Software</manufacturer>
+		<year>1982</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sargon III (USA)" index="" image="">
+		<description>Sargon III (USA)</description>
+		<cloneof></cloneof>
+		<crc>6015AA79</crc>
+		<manufacturer>Hayden Software</manufacturer>
+		<year>1985</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Seeschlacht (Germany)" index="" image="">
+		<description>Seeschlacht (Germany)</description>
+		<cloneof></cloneof>
+		<crc>0C7538FF</crc>
+		<manufacturer>Europa Computer Club</manufacturer>
+		<year>1984</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="SexVersi (Poland)" index="" image="">
+		<description>SexVersi (Poland)</description>
+		<cloneof></cloneof>
+		<crc>05E0808A</crc>
+		<manufacturer>Mirage</manufacturer>
+		<year>1993</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Spite &amp; Malice (USA)" index="" image="">
+		<description>Spite &amp; Malice (USA)</description>
+		<cloneof></cloneof>
+		<crc>C927A747</crc>
+		<manufacturer>Cosmi</manufacturer>
+		<year>1986</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Yahtsee (Europe)" index="" image="">
+		<description>Super Yahtsee (Europe)</description>
+		<cloneof></cloneof>
+		<crc>A80405FB</crc>
+		<manufacturer>Smyth, D. P.</manufacturer>
+		<year>1988</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="TGIF (USA)" index="true" image="t">
+		<description>TGIF (USA)</description>
+		<cloneof></cloneof>
+		<crc>40048D78</crc>
+		<manufacturer>Avalon Hill</manufacturer>
+		<year>1983</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Trivia Quest (USA) (Disk 1)" index="" image="">
+		<description>Trivia Quest (USA) (Disk 1)</description>
+		<cloneof></cloneof>
+		<crc>0BFE0FC0</crc>
+		<manufacturer>Royal Software</manufacturer>
+		<year>1984</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Trivia Quest (USA) (Disk 2)" index="" image="">
+		<description>Trivia Quest (USA) (Disk 2)</description>
+		<cloneof></cloneof>
+		<crc>AB70FBC8</crc>
+		<manufacturer>Royal Software</manufacturer>
+		<year>1984</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Trivia Quest (USA) (Disk 3)" index="" image="">
+		<description>Trivia Quest (USA) (Disk 3)</description>
+		<cloneof></cloneof>
+		<crc>D57A2C63</crc>
+		<manufacturer>Royal Software</manufacturer>
+		<year>1984</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Trivia Quest (USA) (Disk 4)" index="" image="">
+		<description>Trivia Quest (USA) (Disk 4)</description>
+		<cloneof></cloneof>
+		<crc>576C6451</crc>
+		<manufacturer>Royal Software</manufacturer>
+		<year>1984</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Trivial Pursuit - Atari Genus-Edition (Europe) (Disk 1)" index="" image="">
+		<description>Trivial Pursuit - Atari Genus-Edition (Europe) (Disk 1)</description>
+		<cloneof></cloneof>
+		<crc>575334C7</crc>
+		<manufacturer>Domark</manufacturer>
+		<year>19xx</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Trivial Pursuit - Atari Genus-Edition (Europe) (Disk 2)" index="" image="">
+		<description>Trivial Pursuit - Atari Genus-Edition (Europe) (Disk 2)</description>
+		<cloneof></cloneof>
+		<crc>A76F1316</crc>
+		<manufacturer>Domark</manufacturer>
+		<year>19xx</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Trivial Pursuit - Atari Genus-Edition (Europe) (Disk 3)" index="" image="">
+		<description>Trivial Pursuit - Atari Genus-Edition (Europe) (Disk 3)</description>
+		<cloneof></cloneof>
+		<crc>371789ED</crc>
+		<manufacturer>Domark</manufacturer>
+		<year>19xx</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Trivial Pursuit - Atari Genus-Edition (Europe) (Disk 4)" index="" image="">
+		<description>Trivial Pursuit - Atari Genus-Edition (Europe) (Disk 4)</description>
+		<cloneof></cloneof>
+		<crc>3AA3E03C</crc>
+		<manufacturer>Domark</manufacturer>
+		<year>19xx</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Video Yahtze (USA)" index="true" image="v">
+		<description>Video Yahtze (USA)</description>
+		<cloneof></cloneof>
+		<crc>E288B656</crc>
+		<manufacturer>Sunset Software</manufacturer>
+		<year>1983</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Warships (USA)" index="true" image="w">
+		<description>Warships (USA)</description>
+		<cloneof></cloneof>
+		<crc>301612AC</crc>
+		<manufacturer>CE Software</manufacturer>
+		<year>1981</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

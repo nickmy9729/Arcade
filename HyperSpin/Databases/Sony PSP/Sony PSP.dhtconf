@@ -1,0 +1,8 @@
+<DonsHyperSpinListGenerator VersionMajor="4">
+  <Wheel>Sony PSP</Wheel>
+  <OutputFile>M:\Arcade\HyperSpin\Databases\Sony PSP\Sony PSP.xml</OutputFile>
+  <SourceFile>M:\Hyperlists\Sony PSP.xml</SourceFile>
+  <ExcludeFile>M:\Arcade\HyperSpin\Databases\Sony PSP\Sony PSP_excluded.xml</ExcludeFile>
+  <MameXmlFile>
+  </MameXmlFile>
+</DonsHyperSpinListGenerator>

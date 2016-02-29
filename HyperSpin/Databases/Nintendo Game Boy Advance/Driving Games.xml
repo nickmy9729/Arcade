@@ -1,0 +1,979 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Nintendo Game Boy Advance</listname>
+		<lastlistupdate>10/27/2011</lastlistupdate>
+		<listversion>1.1 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="2 Game Pack! - Hot Wheels - Stunt Track Challenge + Hot Wheels - World Race (USA, Europe)" index="true" image="2">
+		<description>2 Game Pack! - Hot Wheels - Stunt Track Challenge + Hot Wheels - World Race (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>20929EC1</crc>
+		<manufacturer>Destination Software</manufacturer>
+		<year>2006</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="2 Game Pack! - Matchbox Missions - Emergency Response + Air, Land and Sea Rescue (USA)" index="" image="">
+		<description>2 Game Pack! - Matchbox Missions - Emergency Response + Air, Land and Sea Rescue (USA)</description>
+		<cloneof></cloneof>
+		<crc>4080AAC1</crc>
+		<manufacturer>DSI Games</manufacturer>
+		<year>2006</year>
+		<genre>Driving/Flying</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="2 Games in 1 - Cartoon Network Block Party + Cartoon Network Speedway (USA)" index="" image="">
+		<description>2 Games in 1 - Cartoon Network Block Party + Cartoon Network Speedway (USA)</description>
+		<cloneof></cloneof>
+		<crc>B3D323E4</crc>
+		<manufacturer>Majesco Games</manufacturer>
+		<year>2005</year>
+		<genre>Driving/Miscellaneous</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="2 Games in 1 - Hot Wheels - Velocity X + Hot Wheels - World Race (USA)" index="" image="">
+		<description>2 Games in 1 - Hot Wheels - Velocity X + Hot Wheels - World Race (USA)</description>
+		<cloneof></cloneof>
+		<crc>A440A760</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2005</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="2 Games in 1 - Moto GP + GT Advance 3 - Pro Concept Racing (Europe) (En,Fr,De,Es,It+En)" index="" image="">
+		<description>2 Games in 1 - Moto GP + GT Advance 3 - Pro Concept Racing (Europe) (En,Fr,De,Es,It+En)</description>
+		<cloneof></cloneof>
+		<crc>51D6CEB0</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2004</year>
+		<genre>Driving/Motorcycle</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="2 Games in 1 - Quad Desert Fury + Monster Trucks (USA)" index="" image="">
+		<description>2 Games in 1 - Quad Desert Fury + Monster Trucks (USA)</description>
+		<cloneof></cloneof>
+		<crc>F9EC06A9</crc>
+		<manufacturer>Majesco Games</manufacturer>
+		<year>2005</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="2 Games in One! - Spy Hunter + Super Sprint (USA)" index="" image="">
+		<description>2 Games in One! - Spy Hunter + Super Sprint (USA)</description>
+		<cloneof></cloneof>
+		<crc>AD2F5353</crc>
+		<manufacturer>DSI Games</manufacturer>
+		<year>2005</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="2 in 1 - V-Rally 3 + Stuntman (Europe) (En,Fr,De,Es,It)" index="" image="">
+		<description>2 in 1 - V-Rally 3 + Stuntman (Europe) (En,Fr,De,Es,It)</description>
+		<cloneof></cloneof>
+		<crc>5813810F</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>2005</year>
+		<genre>Driving</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="4 Games on One Game Pak (Racing) (USA) (En,Fr,De,Es,It,Nl)" index="true" image="4">
+		<description>4 Games on One Game Pak (Racing) (USA) (En,Fr,De,Es,It,Nl)</description>
+		<cloneof></cloneof>
+		<crc>04A40017</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2007</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Antz - Extreme Racing (USA)" index="true" image="a">
+		<description>Antz - Extreme Racing (USA)</description>
+		<cloneof></cloneof>
+		<crc>F4EFC5ED</crc>
+		<manufacturer>Empire Interactive</manufacturer>
+		<year>2002</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ATV - Quad Power Racing (USA, Europe)" index="" image="">
+		<description>ATV - Quad Power Racing (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>9C1A7DCB</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>2002</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ATV - Thunder Ridge Riders (USA)" index="" image="">
+		<description>ATV - Thunder Ridge Riders (USA)</description>
+		<cloneof></cloneof>
+		<crc>773E73C7</crc>
+		<manufacturer>DSI Games</manufacturer>
+		<year>2006</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Banjo Pilot (USA)" index="true" image="b">
+		<description>Banjo Pilot (USA)</description>
+		<cloneof></cloneof>
+		<crc>6E4030A1</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2005</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Big Mutha Truckers (USA)" index="" image="">
+		<description>Big Mutha Truckers (USA)</description>
+		<cloneof></cloneof>
+		<crc>574907F4</crc>
+		<manufacturer>Destination Games</manufacturer>
+		<year>2005</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Carrera Power Slide (Europe) (En,Fr,De,Es,It,Nl)" index="true" image="c">
+		<description>Carrera Power Slide (Europe) (En,Fr,De,Es,It,Nl)</description>
+		<cloneof></cloneof>
+		<crc>98D72420</crc>
+		<manufacturer>Stadlbauer</manufacturer>
+		<year>2003</year>
+		<genre>Driving</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cars (USA, Europe)" index="" image="">
+		<description>Cars (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>107639A8</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2006</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cars - Mater-National Championship (USA) (En,Fr)" index="" image="">
+		<description>Cars - Mater-National Championship (USA) (En,Fr)</description>
+		<cloneof></cloneof>
+		<crc>189DA289</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2007</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cartoon Network Speedway (USA)" index="" image="">
+		<description>Cartoon Network Speedway (USA)</description>
+		<cloneof></cloneof>
+		<crc>066A2705</crc>
+		<manufacturer>Majesco Games</manufacturer>
+		<year>2003</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cocoto - Kart Racer (Europe) (En,Fr,De,Es,It)" index="" image="">
+		<description>Cocoto - Kart Racer (Europe) (En,Fr,De,Es,It)</description>
+		<cloneof></cloneof>
+		<crc>DAB7C402</crc>
+		<manufacturer>BigBen Interactive</manufacturer>
+		<year>2005</year>
+		<genre>Driving</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Colin McRae Rally 2.0 (USA) (En,Fr,De)" index="" image="">
+		<description>Colin McRae Rally 2.0 (USA) (En,Fr,De)</description>
+		<cloneof></cloneof>
+		<crc>A2E19014</crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>2002</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Corvette (USA) (En,Fr,De,Es,It)" index="" image="">
+		<description>Corvette (USA) (En,Fr,De,Es,It)</description>
+		<cloneof></cloneof>
+		<crc>A4C6DB01</crc>
+		<manufacturer>TDK Mediactive</manufacturer>
+		<year>2003</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Crash &amp; Spyro Super Pack Volume 2 (Europe) (En,Fr,De,Es,It,Nl)" index="" image="">
+		<description>Crash &amp; Spyro Super Pack Volume 2 (Europe) (En,Fr,De,Es,It,Nl)</description>
+		<cloneof></cloneof>
+		<crc>7B3C4F90</crc>
+		<manufacturer>Sierra Entertainment</manufacturer>
+		<year>2005</year>
+		<genre>Driving/Platform</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Crash Nitro Kart (USA)" index="" image="">
+		<description>Crash Nitro Kart (USA)</description>
+		<cloneof></cloneof>
+		<crc>E6D58AA0</crc>
+		<manufacturer>Universal Interactive</manufacturer>
+		<year>2003</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Crash Superpack (USA)" index="" image="">
+		<description>Crash Superpack (USA)</description>
+		<cloneof></cloneof>
+		<crc>2C38BAE2</crc>
+		<manufacturer>Sierra Entertainment</manufacturer>
+		<year>2005</year>
+		<genre>Driving/Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Crazy Frog Racer (Europe) (En,Fr,De,Nl)" index="" image="">
+		<description>Crazy Frog Racer (Europe) (En,Fr,De,Nl)</description>
+		<cloneof></cloneof>
+		<crc>2723236B</crc>
+		<manufacturer>Digital Jesters</manufacturer>
+		<year>2005</year>
+		<genre>Driving</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Crazy Taxi - Catch a Ride (USA)" index="" image="">
+		<description>Crazy Taxi - Catch a Ride (USA)</description>
+		<cloneof></cloneof>
+		<crc>8EC709D6</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2003</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cruis&apos;n Velocity (USA, Europe)" index="" image="">
+		<description>Cruis&apos;n Velocity (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>ADF14DB5</crc>
+		<manufacturer>Midway</manufacturer>
+		<year>2001</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Digimon Racing (USA) (En,Fr,De,Es,It)" index="true" image="d">
+		<description>Digimon Racing (USA) (En,Fr,De,Es,It)</description>
+		<cloneof></cloneof>
+		<crc>DADD4C10</crc>
+		<manufacturer>Bandai</manufacturer>
+		<year>2004</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Downforce (USA, Europe) (En,Fr,De,Es,It)" index="" image="">
+		<description>Downforce (USA, Europe) (En,Fr,De,Es,It)</description>
+		<cloneof></cloneof>
+		<crc>EB326294</crc>
+		<manufacturer>Titus Software</manufacturer>
+		<year>2002</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Driv3r (USA)" index="" image="">
+		<description>Driv3r (USA)</description>
+		<cloneof></cloneof>
+		<crc>6C66CFBE</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>2005</year>
+		<genre>Driving</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Driven (USA) (En,Fr,De,Es,It)" index="" image="">
+		<description>Driven (USA) (En,Fr,De,Es,It)</description>
+		<cloneof></cloneof>
+		<crc>F2068738</crc>
+		<manufacturer>Bam Entertainment</manufacturer>
+		<year>2001</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Driver 2 Advance (USA)" index="" image="">
+		<description>Driver 2 Advance (USA)</description>
+		<cloneof></cloneof>
+		<crc>BBE2A163</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>2002</year>
+		<genre>Driving</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Drome Racers (USA)" index="" image="">
+		<description>Drome Racers (USA)</description>
+		<cloneof></cloneof>
+		<crc>AD356FB9</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2003</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="F-Zero - GP Legend (USA)" index="true" image="f">
+		<description>F-Zero - GP Legend (USA)</description>
+		<cloneof></cloneof>
+		<crc>781AAB58</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2004</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="F-Zero - Maximum Velocity (USA, Europe)" index="" image="">
+		<description>F-Zero - Maximum Velocity (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>BD5E9798</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2001</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="F1 2002 (USA, Europe)" index="" image="">
+		<description>F1 2002 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>7DD20F33</crc>
+		<manufacturer>EA Sports</manufacturer>
+		<year>2003</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ford Racing 3 (USA)" index="" image="">
+		<description>Ford Racing 3 (USA)</description>
+		<cloneof></cloneof>
+		<crc>56D38756</crc>
+		<manufacturer>Destination Software</manufacturer>
+		<year>2005</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gadget Racers (USA)" index="true" image="g">
+		<description>Gadget Racers (USA)</description>
+		<cloneof></cloneof>
+		<crc>95DD156A</crc>
+		<manufacturer>Crave</manufacturer>
+		<year>2001</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="GT Advance - Championship Racing (USA, Europe)" index="" image="">
+		<description>GT Advance - Championship Racing (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>8C411ACC</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2001</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="GT Advance 2 - Rally Racing (USA)" index="" image="">
+		<description>GT Advance 2 - Rally Racing (USA)</description>
+		<cloneof></cloneof>
+		<crc>F335DB88</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2002</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="GT Advance 3 - Pro Concept Racing (USA)" index="" image="">
+		<description>GT Advance 3 - Pro Concept Racing (USA)</description>
+		<cloneof></cloneof>
+		<crc>0A331E11</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2003</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="GT Racers (Europe) (En,Fr,De,Es,It)" index="" image="">
+		<description>GT Racers (Europe) (En,Fr,De,Es,It)</description>
+		<cloneof></cloneof>
+		<crc>362D9F86</crc>
+		<manufacturer>Liquid Games</manufacturer>
+		<year>2006</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Herbie - Fully Loaded (USA)" index="true" image="h">
+		<description>Herbie - Fully Loaded (USA)</description>
+		<cloneof></cloneof>
+		<crc>9C6A3DD1</crc>
+		<manufacturer>Buena Vista Interactive</manufacturer>
+		<year>2005</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hot Wheels - All Out (USA)" index="" image="">
+		<description>Hot Wheels - All Out (USA)</description>
+		<cloneof></cloneof>
+		<crc>C73658F9</crc>
+		<manufacturer>DSI Games</manufacturer>
+		<year>2006</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hot Wheels - Burnin&apos; Rubber (USA)" index="" image="">
+		<description>Hot Wheels - Burnin&apos; Rubber (USA)</description>
+		<cloneof></cloneof>
+		<crc>37DCBB0D</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2001</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hot Wheels - Stunt Track Challenge (USA, Europe)" index="" image="">
+		<description>Hot Wheels - Stunt Track Challenge (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>D0AB6A37</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2004</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hot Wheels - Velocity X (USA)" index="" image="">
+		<description>Hot Wheels - Velocity X (USA)</description>
+		<cloneof></cloneof>
+		<crc>9592F553</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2002</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hot Wheels - World Race (USA)" index="" image="">
+		<description>Hot Wheels - World Race (USA)</description>
+		<cloneof></cloneof>
+		<crc>CB313505</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2003</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hugo - Bukkazoom! (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl)" index="" image="">
+		<description>Hugo - Bukkazoom! (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl)</description>
+		<cloneof></cloneof>
+		<crc>B34A2071</crc>
+		<manufacturer>Namco</manufacturer>
+		<year>2003</year>
+		<genre>Driving</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hugo 2 in 1 (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl)" index="" image="">
+		<description>Hugo 2 in 1 (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl)</description>
+		<cloneof></cloneof>
+		<crc>8EAE8860</crc>
+		<manufacturer>ITE Media</manufacturer>
+		<year>2005</year>
+		<genre>Driving/Platform</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Inspector Gadget Racing (Europe) (En,Fr,De,Es,It,Nl)" index="true" image="i">
+		<description>Inspector Gadget Racing (Europe) (En,Fr,De,Es,It,Nl)</description>
+		<cloneof></cloneof>
+		<crc>B0D1C070</crc>
+		<manufacturer>LSP</manufacturer>
+		<year>2003</year>
+		<genre>Driving</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Karnaaj Rally (USA, Europe)" index="true" image="k">
+		<description>Karnaaj Rally (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>63FE3DFE</crc>
+		<manufacturer>Jaleco Entertainment</manufacturer>
+		<year>2003</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Konami Krazy Racers (USA)" index="" image="">
+		<description>Konami Krazy Racers (USA)</description>
+		<cloneof></cloneof>
+		<crc>C80D4F5C</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>2001</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="LEGO Island - Xtreme Stunts (USA, Europe) (En,Fr,De,Es,It,Nl,Sv,Da)" index="true" image="l">
+		<description>LEGO Island - Xtreme Stunts (USA, Europe) (En,Fr,De,Es,It,Nl,Sv,Da)</description>
+		<cloneof></cloneof>
+		<crc>3BEB5446</crc>
+		<manufacturer>Lego Media</manufacturer>
+		<year>2002</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="LEGO Racers 2 (USA) (En,Fr)" index="" image="">
+		<description>LEGO Racers 2 (USA) (En,Fr)</description>
+		<cloneof></cloneof>
+		<crc>E13B63AD</crc>
+		<manufacturer>Lego Media</manufacturer>
+		<year>2001</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mario Kart - Super Circuit (USA)" index="true" image="m">
+		<description>Mario Kart - Super Circuit (USA)</description>
+		<cloneof></cloneof>
+		<crc>ED316E37</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2006</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mary-Kate and Ashley Sweet 16 - Licensed to Drive (USA)" index="" image="">
+		<description>Mary-Kate and Ashley Sweet 16 - Licensed to Drive (USA)</description>
+		<cloneof></cloneof>
+		<crc>5FE092C6</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>2002</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Matchbox Cross Town Heroes (USA)" index="" image="">
+		<description>Matchbox Cross Town Heroes (USA)</description>
+		<cloneof></cloneof>
+		<crc>0FFFB458</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2002</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Micro Machines (Europe) (En,Fr,De,Es,It)" index="" image="">
+		<description>Micro Machines (Europe) (En,Fr,De,Es,It)</description>
+		<cloneof></cloneof>
+		<crc>9D102C82</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2003</year>
+		<genre>Driving</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Midnight Club - Street Racing (USA)" index="" image="">
+		<description>Midnight Club - Street Racing (USA)</description>
+		<cloneof></cloneof>
+		<crc>911BE520</crc>
+		<manufacturer>Destination Software</manufacturer>
+		<year>2001</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Monster Jam - Maximum Destruction (USA)" index="" image="">
+		<description>Monster Jam - Maximum Destruction (USA)</description>
+		<cloneof></cloneof>
+		<crc>43D9B9F1</crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>2002</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Monster Truck Madness (USA, Europe)" index="" image="">
+		<description>Monster Truck Madness (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>DD872538</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2003</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Monster Trucks (USA, Europe)" index="" image="">
+		<description>Monster Trucks (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>4A72170A</crc>
+		<manufacturer>Majesco Games</manufacturer>
+		<year>2004</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Monster Trucks Mayhem (USA)" index="" image="">
+		<description>Monster Trucks Mayhem (USA)</description>
+		<cloneof></cloneof>
+		<crc>F47C5CF9</crc>
+		<manufacturer>DSI Games</manufacturer>
+		<year>2006</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NASCAR Heat 2002 (USA)" index="true" image="n">
+		<description>NASCAR Heat 2002 (USA)</description>
+		<cloneof></cloneof>
+		<crc>87E15F5B</crc>
+		<manufacturer>Infogrames</manufacturer>
+		<year>2002</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Need for Speed - Most Wanted (USA, Europe) (En,Fr,De,It)" index="" image="">
+		<description>Need for Speed - Most Wanted (USA, Europe) (En,Fr,De,It)</description>
+		<cloneof></cloneof>
+		<crc>EA15A16E</crc>
+		<manufacturer>Electronic Arts</manufacturer>
+		<year>2005</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Need for Speed - Porsche Unleashed (USA)" index="" image="">
+		<description>Need for Speed - Porsche Unleashed (USA)</description>
+		<cloneof></cloneof>
+		<crc>99078AF4</crc>
+		<manufacturer>Destination Software</manufacturer>
+		<year>2004</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Need for Speed - Underground (USA, Europe) (En,Fr,De,It)" index="" image="">
+		<description>Need for Speed - Underground (USA, Europe) (En,Fr,De,It)</description>
+		<cloneof></cloneof>
+		<crc>828020E9</crc>
+		<manufacturer>Electronic Arts</manufacturer>
+		<year>2003</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Need for Speed - Underground 2 (USA, Europe) (En,Fr,De,It)" index="" image="">
+		<description>Need for Speed - Underground 2 (USA, Europe) (En,Fr,De,It)</description>
+		<cloneof></cloneof>
+		<crc>9A0C5090</crc>
+		<manufacturer>Electronic Arts</manufacturer>
+		<year>2004</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Need for Speed Carbon - Own the City (USA, Europe) (En,Fr,De,Es,It)" index="" image="">
+		<description>Need for Speed Carbon - Own the City (USA, Europe) (En,Fr,De,Es,It)</description>
+		<cloneof></cloneof>
+		<crc>F4C0D140</crc>
+		<manufacturer>EA Games</manufacturer>
+		<year>2006</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Nicktoons Racing (USA)" index="" image="">
+		<description>Nicktoons Racing (USA)</description>
+		<cloneof></cloneof>
+		<crc>50AB9BB6</crc>
+		<manufacturer>Infogrames</manufacturer>
+		<year>2002</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Penny Racers (Europe)" index="true" image="p">
+		<description>Penny Racers (Europe)</description>
+		<cloneof></cloneof>
+		<crc>8FDDD48B</crc>
+		<manufacturer>Xicat Interactive</manufacturer>
+		<year>2002</year>
+		<genre>Driving</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Quad Desert Fury (USA, Europe)" index="true" image="q">
+		<description>Quad Desert Fury (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>95BE56E6</crc>
+		<manufacturer>Majesco Games</manufacturer>
+		<year>2003</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Racing Fever (Europe) (En,De,Es,It)" index="true" image="r">
+		<description>Racing Fever (Europe) (En,De,Es,It)</description>
+		<cloneof></cloneof>
+		<crc>E40EC737</crc>
+		<manufacturer>Neko Entertainment</manufacturer>
+		<year>2005</year>
+		<genre>Driving</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Racing Gears Advance (USA)" index="" image="">
+		<description>Racing Gears Advance (USA)</description>
+		<cloneof></cloneof>
+		<crc>BF648E5C</crc>
+		<manufacturer>Orbital Media, Inc.</manufacturer>
+		<year>2005</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Road Trip - Shifting Gears (USA)" index="" image="">
+		<description>Road Trip - Shifting Gears (USA)</description>
+		<cloneof></cloneof>
+		<crc>549BF1C5</crc>
+		<manufacturer>Conspiracy Entertainment</manufacturer>
+		<year>2004</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Robot Wars - Advanced Destruction (USA)" index="" image="">
+		<description>Robot Wars - Advanced Destruction (USA)</description>
+		<cloneof></cloneof>
+		<crc>E6CB567D</crc>
+		<manufacturer>VU Games</manufacturer>
+		<year>2002</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Robot Wars - Extreme Destruction (Europe) (En,Fr,De,Es,It,Nl)" index="" image="">
+		<description>Robot Wars - Extreme Destruction (Europe) (En,Fr,De,Es,It,Nl)</description>
+		<cloneof></cloneof>
+		<crc>5EE9D6C5</crc>
+		<manufacturer>BBC Multimedia</manufacturer>
+		<year>2002</year>
+		<genre>Driving</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rock n&apos; Roll Racing (USA)" index="" image="">
+		<description>Rock n&apos; Roll Racing (USA)</description>
+		<cloneof></cloneof>
+		<crc>15F2DD16</crc>
+		<manufacturer>Blizzard Classic Arcade</manufacturer>
+		<year>2003</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sega Rally Championship (USA)" index="true" image="s">
+		<description>Sega Rally Championship (USA)</description>
+		<cloneof></cloneof>
+		<crc>1AE3EB16</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2003</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Shrek - Smash n&apos; Crash Racing (USA)" index="" image="">
+		<description>Shrek - Smash n&apos; Crash Racing (USA)</description>
+		<cloneof></cloneof>
+		<crc>EA8AE3B2</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2006</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Shrek - Swamp Kart Speedway (USA, Europe) (En,Fr,De,Es,It,Nl)" index="" image="">
+		<description>Shrek - Swamp Kart Speedway (USA, Europe) (En,Fr,De,Es,It,Nl)</description>
+		<cloneof></cloneof>
+		<crc>91483D87</crc>
+		<manufacturer>TDK Mediactive</manufacturer>
+		<year>2002</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Simpsons, The - Road Rage (USA, Europe)" index="" image="">
+		<description>Simpsons, The - Road Rage (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>409E8252</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2003</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Smashing Drive (USA)" index="" image="">
+		<description>Smashing Drive (USA)</description>
+		<cloneof></cloneof>
+		<crc>2390ACA6</crc>
+		<manufacturer>DSI Games</manufacturer>
+		<year>2004</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Smuggler&apos;s Run (USA)" index="" image="">
+		<description>Smuggler&apos;s Run (USA)</description>
+		<cloneof></cloneof>
+		<crc>1A6AEA5E</crc>
+		<manufacturer>Rockstar Games</manufacturer>
+		<year>2002</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Spy Hunter (USA) (En,Ja,Fr,De,Es)" index="" image="">
+		<description>Spy Hunter (USA) (En,Ja,Fr,De,Es)</description>
+		<cloneof></cloneof>
+		<crc>B04892C9</crc>
+		<manufacturer>Midway</manufacturer>
+		<year>2002</year>
+		<genre>Driving</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Starsky &amp; Hutch (USA)" index="" image="">
+		<description>Starsky &amp; Hutch (USA)</description>
+		<cloneof></cloneof>
+		<crc>B3993252</crc>
+		<manufacturer>Bam Entertainment</manufacturer>
+		<year>2003</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Street Racing Syndicate (USA)" index="" image="">
+		<description>Street Racing Syndicate (USA)</description>
+		<cloneof></cloneof>
+		<crc>F44B6A70</crc>
+		<manufacturer>Namco</manufacturer>
+		<year>2005</year>
+		<genre>Driving</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Stuntman (USA) (En,Fr,Es)" index="" image="">
+		<description>Stuntman (USA) (En,Fr,Es)</description>
+		<cloneof></cloneof>
+		<crc>0D58BA07</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>2003</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Three Stooges, The (USA)" index="true" image="t">
+		<description>Three Stooges, The (USA)</description>
+		<cloneof></cloneof>
+		<crc>C3C855EA</crc>
+		<manufacturer>XS Games</manufacturer>
+		<year>2004</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Thunder Alley (USA)" index="" image="">
+		<description>Thunder Alley (USA)</description>
+		<cloneof></cloneof>
+		<crc>25E8E649</crc>
+		<manufacturer>XS Games</manufacturer>
+		<year>2004</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="TOCA World Touring Cars (Europe)" index="" image="">
+		<description>TOCA World Touring Cars (Europe)</description>
+		<cloneof></cloneof>
+		<crc>D8125874</crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>2003</year>
+		<genre>Driving</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tokyo Xtreme Racer Advance (USA)" index="" image="">
+		<description>Tokyo Xtreme Racer Advance (USA)</description>
+		<cloneof></cloneof>
+		<crc>AB272800</crc>
+		<manufacturer>Crave</manufacturer>
+		<year>2005</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Top Gear GT Championship (USA)" index="" image="">
+		<description>Top Gear GT Championship (USA)</description>
+		<cloneof></cloneof>
+		<crc>0A9C9968</crc>
+		<manufacturer>Kemco</manufacturer>
+		<year>2001</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Top Gear Rally (USA)" index="" image="">
+		<description>Top Gear Rally (USA)</description>
+		<cloneof></cloneof>
+		<crc>4DD90762</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2003</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Trick Star (Europe) (En,Fr,De,Es,It)" index="" image="">
+		<description>Trick Star (Europe) (En,Fr,De,Es,It)</description>
+		<cloneof></cloneof>
+		<crc>961260AE</crc>
+		<manufacturer>Oxygen Interactive</manufacturer>
+		<year>2006</year>
+		<genre>Driving</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="V-Rally 3 (USA) (En,Fr,Es)" index="true" image="v">
+		<description>V-Rally 3 (USA) (En,Fr,Es)</description>
+		<cloneof></cloneof>
+		<crc>D3AE3D37</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>2002</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

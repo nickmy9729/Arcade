@@ -1,0 +1,7 @@
+<DonsHyperSpinListGenerator VersionMajor="4">
+  <Wheel>MAME</Wheel>
+  <OutputFile>M:\Arcade\HyperSpin\Databases\MAME\MAME.xml</OutputFile>
+  <SourceFile>M:\Hyperlists\MAME.xml</SourceFile>
+  <ExcludeFile>M:\Arcade\HyperSpin\Databases\MAME\MAME_excluded.xml</ExcludeFile>
+  <MameXmlFile>M:\Arcade\Emulators\MAME\mame0163b_64bit\mamelist.xml</MameXmlFile>
+</DonsHyperSpinListGenerator>

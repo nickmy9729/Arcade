@@ -1,0 +1,8 @@
+<DonsHyperSpinListGenerator VersionMajor="4">
+  <Wheel>Atari Jaguar</Wheel>
+  <OutputFile>M:\Arcade\HyperSpin\Databases\Atari Jaguar\Atari Jaguar.xml</OutputFile>
+  <SourceFile>M:\Hyperlists\Atari Jaguar.xml</SourceFile>
+  <ExcludeFile>M:\Arcade\HyperSpin\Databases\Atari Jaguar\Atari Jaguar_excluded.xml</ExcludeFile>
+  <MameXmlFile>
+  </MameXmlFile>
+</DonsHyperSpinListGenerator>

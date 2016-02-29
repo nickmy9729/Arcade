@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Super Nintendo Entertainment System</listname>
+		<lastlistupdate>11/26/2011</lastlistupdate>
+		<listversion>1.3 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="Revolution X (USA)" index="true" image="r">
+		<description>Revolution X (USA)</description>
+		<cloneof></cloneof>
+		<crc>0dc5e7ba</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1995</year>
+		<genre>Gun</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Scope 6 (USA)" index="true" image="s">
+		<description>Super Scope 6 (USA)</description>
+		<cloneof></cloneof>
+		<crc>b141ea99</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1992</year>
+		<genre>Gun</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="T2 - The Arcade Game (USA)" index="true" image="t">
+		<description>T2 - The Arcade Game (USA)</description>
+		<cloneof></cloneof>
+		<crc>5dc6b9fe</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1994</year>
+		<genre>Gun</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tin Star (USA)" index="" image="">
+		<description>Tin Star (USA)</description>
+		<cloneof></cloneof>
+		<crc>ec26f75b</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1994</year>
+		<genre>Gun</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="X Zone (Japan, USA)" index="true" image="x">
+		<description>X Zone (Japan, USA)</description>
+		<cloneof></cloneof>
+		<crc>99627bb0</crc>
+		<manufacturer>Kemco</manufacturer>
+		<year>1992</year>
+		<genre>Gun</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Yoshi&apos;s Safari (USA)" index="true" image="y">
+		<description>Yoshi&apos;s Safari (USA)</description>
+		<cloneof></cloneof>
+		<crc>59490ce8</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1993</year>
+		<genre>Gun</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

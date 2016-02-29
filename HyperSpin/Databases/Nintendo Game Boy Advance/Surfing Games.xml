@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Nintendo Game Boy Advance</listname>
+		<lastlistupdate>10/27/2011</lastlistupdate>
+		<listversion>1.1 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="2 in 1 Game Pack - Tony Hawk&apos;s Underground + Kelly Slater&apos;s Pro Surfer (USA, Europe)" index="true" image="2">
+		<description>2 in 1 Game Pack - Tony Hawk&apos;s Underground + Kelly Slater&apos;s Pro Surfer (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>6D8EF48A</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2006</year>
+		<genre>Skateboarding/Surfing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Kelly Slater&apos;s Pro Surfer (USA, Europe)" index="true" image="k">
+		<description>Kelly Slater&apos;s Pro Surfer (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>31F85DBE</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2002</year>
+		<genre>Sports/Surfing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Surf&apos;s Up (USA) (En,Fr,Es)" index="true" image="s">
+		<description>Surf&apos;s Up (USA) (En,Fr,Es)</description>
+		<cloneof></cloneof>
+		<crc>0ADF57C5</crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>2007</year>
+		<genre>Sports/Surfing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

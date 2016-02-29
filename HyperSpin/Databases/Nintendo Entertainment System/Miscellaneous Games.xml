@@ -1,0 +1,229 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Nintendo Entertainment System</listname>
+		<lastlistupdate>07/28/2013</lastlistupdate>
+		<listversion>1.1 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="Action 52 (USA) (Rev A) (Unl)" index="true" image="a">
+		<description>Action 52 (USA) (Rev A) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>51C0B27E</crc>
+		<manufacturer>Active Enterprises</manufacturer>
+		<year>1991</year>
+		<genre>Miscellaneous</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Caltron - 6 in 1 (USA) (Unl)" index="true" image="c">
+		<description>Caltron - 6 in 1 (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>4686C5DD</crc>
+		<manufacturer>Caltron</manufacturer>
+		<year>1992</year>
+		<genre>Miscellaneous</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Color a Dinosaur (USA)" index="" image="">
+		<description>Color a Dinosaur (USA)</description>
+		<cloneof></cloneof>
+		<crc>0123BFFE</crc>
+		<manufacturer>Virgin Interactive</manufacturer>
+		<year>1993</year>
+		<genre>Miscellaneous</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Donkey Kong Jr. Math (USA, Europe)" index="true" image="d">
+		<description>Donkey Kong Jr. Math (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>0504B007</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1985</year>
+		<genre>Miscellaneous</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fisher-Price - I Can Remember (USA)" index="true" image="f">
+		<description>Fisher-Price - I Can Remember (USA)</description>
+		<cloneof></cloneof>
+		<crc>267DE4CC</crc>
+		<manufacturer>GameTek</manufacturer>
+		<year>1990</year>
+		<genre>Miscellaneous</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fisher-Price - Perfect Fit (USA)" index="" image="">
+		<description>Fisher-Price - Perfect Fit (USA)</description>
+		<cloneof></cloneof>
+		<crc>B9762DA8</crc>
+		<manufacturer>GameTek</manufacturer>
+		<year>1990</year>
+		<genre>Miscellaneous</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Great Waldo Search, The (USA)" index="true" image="g">
+		<description>Great Waldo Search, The (USA)</description>
+		<cloneof></cloneof>
+		<crc>2DFF7FDC</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>1992</year>
+		<genre>Miscellaneous</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mario Is Missing! (USA)" index="true" image="m">
+		<description>Mario Is Missing! (USA)</description>
+		<cloneof></cloneof>
+		<crc>2055971A</crc>
+		<manufacturer>Software Toolworks</manufacturer>
+		<year>1993</year>
+		<genre>Miscellaneous</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mario&apos;s Time Machine (USA)" index="" image="">
+		<description>Mario&apos;s Time Machine (USA)</description>
+		<cloneof></cloneof>
+		<crc>55DB7E2A</crc>
+		<manufacturer>Software Toolworks</manufacturer>
+		<year>1994</year>
+		<genre>Miscellaneous</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Maxi 15 (USA) (Rev 1) (Unl)" index="" image="">
+		<description>Maxi 15 (USA) (Rev 1) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>7EAE9A13</crc>
+		<manufacturer>American Video Entertainment</manufacturer>
+		<year>1992</year>
+		<genre>Miscellaneous</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mickey&apos;s Adventure in Numberland (USA)" index="" image="">
+		<description>Mickey&apos;s Adventure in Numberland (USA)</description>
+		<cloneof></cloneof>
+		<crc>6FB349E2</crc>
+		<manufacturer>Hi-Tech</manufacturer>
+		<year>1994</year>
+		<genre>Miscellaneous</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mickey&apos;s Safari in Letterland (USA)" index="" image="">
+		<description>Mickey&apos;s Safari in Letterland (USA)</description>
+		<cloneof></cloneof>
+		<crc>982DFB38</crc>
+		<manufacturer>High Tech</manufacturer>
+		<year>1993</year>
+		<genre>Miscellaneous</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Nintendo World Championships 1990 (USA)" index="true" image="n">
+		<description>Nintendo World Championships 1990 (USA)</description>
+		<cloneof></cloneof>
+		<crc>0B0E128F</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1990</year>
+		<genre>Miscellaneous</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Quattro Adventure (USA) (Unl)" index="true" image="q">
+		<description>Quattro Adventure (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>B89888C9</crc>
+		<manufacturer>Camerica</manufacturer>
+		<year>1991</year>
+		<genre>Miscellaneous</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Quattro Arcade (USA) (Unl)" index="" image="">
+		<description>Quattro Arcade (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>792070A9</crc>
+		<manufacturer>Camerica</manufacturer>
+		<year>1992</year>
+		<genre>Miscellaneous</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sesame Street 123 (USA)" index="true" image="s">
+		<description>Sesame Street 123 (USA)</description>
+		<cloneof></cloneof>
+		<crc>339437F6</crc>
+		<manufacturer>Hi-Tech</manufacturer>
+		<year>1989</year>
+		<genre>Miscellaneous</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sesame Street ABC &amp; 123 (USA)" index="" image="">
+		<description>Sesame Street ABC &amp; 123 (USA)</description>
+		<cloneof></cloneof>
+		<crc>24EECC15</crc>
+		<manufacturer>Hi-Tech</manufacturer>
+		<year>1991</year>
+		<genre>Miscellaneous</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sesame Street ABC (USA)" index="" image="">
+		<description>Sesame Street ABC (USA)</description>
+		<cloneof></cloneof>
+		<crc>EC0FC2DE</crc>
+		<manufacturer>Hi Tech Expressions</manufacturer>
+		<year>1989</year>
+		<genre>Miscellaneous</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sesame Street Countdown (USA)" index="" image="">
+		<description>Sesame Street Countdown (USA)</description>
+		<cloneof></cloneof>
+		<crc>5CF6A82E</crc>
+		<manufacturer>Hi-Tech</manufacturer>
+		<year>1992</year>
+		<genre>Miscellaneous</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Taboo - The Sixth Sense (USA) (Rev A)" index="true" image="t">
+		<description>Taboo - The Sixth Sense (USA) (Rev A)</description>
+		<cloneof></cloneof>
+		<crc>482C79AF</crc>
+		<manufacturer>Tradewest</manufacturer>
+		<year>1989</year>
+		<genre>Miscellaneous</genre>
+		<rating>HSRS - 17 (17+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tiny Toon Adventures Cartoon Workshop (USA)" index="" image="">
+		<description>Tiny Toon Adventures Cartoon Workshop (USA)</description>
+		<cloneof></cloneof>
+		<crc>9E6092A4</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1992</year>
+		<genre>Miscellaneous</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Videomation (USA)" index="true" image="v">
+		<description>Videomation (USA)</description>
+		<cloneof></cloneof>
+		<crc>5E66EAEA</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>1991</year>
+		<genre>Miscellaneous</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

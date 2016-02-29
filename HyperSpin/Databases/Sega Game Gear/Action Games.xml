@@ -1,0 +1,729 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Sega Game Gear</listname>
+		<lastlistupdate>11/01/2011</lastlistupdate>
+		<listversion>1.1 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="Adventures of Batman &amp; Robin, The (USA, Europe)" index="true" image="a">
+		<description>Adventures of Batman &amp; Robin, The (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>BB4F23FF</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1995</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Alien Syndrome (USA, Europe)" index="" image="">
+		<description>Alien Syndrome (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>BB5E10E0</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1992</year>
+		<genre>Action</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ariel the Little Mermaid (USA, Europe)" index="" image="">
+		<description>Ariel the Little Mermaid (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>97E3A18C</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1992</year>
+		<genre>Action</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Asterix and the Great Rescue (USA)" index="" image="">
+		<description>Asterix and the Great Rescue (USA)</description>
+		<cloneof></cloneof>
+		<crc>78208B40</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1995</year>
+		<genre>Action</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Asterix and the Secret Mission (Europe) (En,Fr,De)" index="" image="">
+		<description>Asterix and the Secret Mission (Europe) (En,Fr,De)</description>
+		<cloneof></cloneof>
+		<crc>C01A8051</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1993</year>
+		<genre>Action</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ax Battler - A Legend of Golden Axe (USA, Europe) (v2.4)" index="" image="">
+		<description>Ax Battler - A Legend of Golden Axe (USA, Europe) (v2.4)</description>
+		<cloneof></cloneof>
+		<crc>663BCF8A</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1991</year>
+		<genre>Action</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Batman Returns (World)" index="true" image="b">
+		<description>Batman Returns (World)</description>
+		<cloneof></cloneof>
+		<crc>7AC4A3CA</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1992</year>
+		<genre>Action</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Berenstain Bears&apos; Camping Adventure, The (USA)" index="" image="">
+		<description>Berenstain Bears&apos; Camping Adventure, The (USA)</description>
+		<cloneof></cloneof>
+		<crc>A4BB9FFB</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1994</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bram Stoker&apos;s Dracula (USA)" index="" image="">
+		<description>Bram Stoker&apos;s Dracula (USA)</description>
+		<cloneof></cloneof>
+		<crc>D966EC47</crc>
+		<manufacturer>Sony Imagesoft</manufacturer>
+		<year>1993</year>
+		<genre>Action</genre>
+		<rating>HSRS - PG (Parental Guidance)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bugs Bunny in Double Trouble (USA, Europe)" index="" image="">
+		<description>Bugs Bunny in Double Trouble (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>5C34D9CD</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1996</year>
+		<genre>Action</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Captain America and the Avengers (USA, Europe)" index="true" image="c">
+		<description>Captain America and the Avengers (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>5675DFDD</crc>
+		<manufacturer>Mindscape Inc.</manufacturer>
+		<year>1993</year>
+		<genre>Action</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Castle of Illusion Starring Mickey Mouse (USA, Europe)" index="" image="">
+		<description>Castle of Illusion Starring Mickey Mouse (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>59840FD6</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1991</year>
+		<genre>Action</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Chakan (USA, Europe)" index="" image="">
+		<description>Chakan (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>DFC7ADC8</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1992</year>
+		<genre>Action</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Chicago Syndicate (USA, Europe)" index="" image="">
+		<description>Chicago Syndicate (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>6B0FCEC3</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1995</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Choplifter III (USA, Europe)" index="" image="">
+		<description>Choplifter III (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>C2E8A692</crc>
+		<manufacturer>Extreme Entertainment Group</manufacturer>
+		<year>1995</year>
+		<genre>Action</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Chuck Rock II - Son of Chuck (USA)" index="" image="">
+		<description>Chuck Rock II - Son of Chuck (USA)</description>
+		<cloneof></cloneof>
+		<crc>3FCC28C9</crc>
+		<manufacturer>Virgin Games</manufacturer>
+		<year>1993</year>
+		<genre>Action</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cliffhanger (USA, Europe)" index="" image="">
+		<description>Cliffhanger (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>BF75B153</crc>
+		<manufacturer>Sony Imagesoft</manufacturer>
+		<year>1994</year>
+		<genre>Action</genre>
+		<rating>HSRS - PG (Parental Guidance)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cosmic Spacehead (Europe)" index="" image="">
+		<description>Cosmic Spacehead (Europe)</description>
+		<cloneof></cloneof>
+		<crc>6CAA625B</crc>
+		<manufacturer>Codemasters</manufacturer>
+		<year>1996</year>
+		<genre>Action</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cutthroat Island (USA, Europe)" index="" image="">
+		<description>Cutthroat Island (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>6A24E47E</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1995</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Desert Speedtrap (USA)" index="true" image="d">
+		<description>Desert Speedtrap (USA)</description>
+		<cloneof></cloneof>
+		<crc>C2E111AC</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1994</year>
+		<genre>Action</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Desert Strike - Return to the Gulf (USA, Europe)" index="" image="">
+		<description>Desert Strike - Return to the Gulf (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>F6C400DA</crc>
+		<manufacturer>Electronic Arts</manufacturer>
+		<year>1994</year>
+		<genre>Action</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Devilish (USA)" index="" image="">
+		<description>Devilish (USA)</description>
+		<cloneof></cloneof>
+		<crc>C01293B0</crc>
+		<manufacturer>Sage&apos;s Creation</manufacturer>
+		<year>1991</year>
+		<genre>Action</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dynamite Headdy (USA, Europe)" index="" image="">
+		<description>Dynamite Headdy (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>610FF95C</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1994</year>
+		<genre>Action</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ecco II - The Tides of Time (USA, Europe)" index="true" image="e">
+		<description>Ecco II - The Tides of Time (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>E2F3B203</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1994</year>
+		<genre>Action</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ecco the Dolphin (USA, Europe)" index="" image="">
+		<description>Ecco the Dolphin (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>866C7113</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1994</year>
+		<genre>Action</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Excellent Dizzy Collection, The (Europe)" index="" image="">
+		<description>Excellent Dizzy Collection, The (Europe)</description>
+		<cloneof></cloneof>
+		<crc>AA140C9C</crc>
+		<manufacturer>Codemasters</manufacturer>
+		<year>1993</year>
+		<genre>Action</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Factory Panic (Europe)" index="true" image="f">
+		<description>Factory Panic (Europe)</description>
+		<cloneof></cloneof>
+		<crc>59E3BE92</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1991</year>
+		<genre>Action</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fantastic Dizzy (Europe) (En,Fr,De,Es,It)" index="" image="">
+		<description>Fantastic Dizzy (Europe) (En,Fr,De,Es,It)</description>
+		<cloneof></cloneof>
+		<crc>C888222B</crc>
+		<manufacturer>Codemasters</manufacturer>
+		<year>1993</year>
+		<genre>Action</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gear Works (USA)" index="true" image="g">
+		<description>Gear Works (USA)</description>
+		<cloneof></cloneof>
+		<crc>E9A2EFB4</crc>
+		<manufacturer>Sony Imagesoft</manufacturer>
+		<year>1994</year>
+		<genre>Action</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Greendog (USA, Europe)" index="" image="">
+		<description>Greendog (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>F27925B0</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1993</year>
+		<genre>Action</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Home Alone (USA, Europe)" index="true" image="h">
+		<description>Home Alone (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>DDE29F74</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1992</year>
+		<genre>Action</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hurricanes (Europe)" index="" image="">
+		<description>Hurricanes (Europe)</description>
+		<cloneof></cloneof>
+		<crc>0A25EEC5</crc>
+		<manufacturer>U.S. Gold</manufacturer>
+		<year>1994</year>
+		<genre>Action</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Incredible Crash Dummies, The (USA, Europe)" index="true" image="i">
+		<description>Incredible Crash Dummies, The (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>087FC247</crc>
+		<manufacturer>Flying Edge</manufacturer>
+		<year>1992</year>
+		<genre>Action</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Incredible Hulk, The (USA, Europe)" index="" image="">
+		<description>Incredible Hulk, The (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>D7055F88</crc>
+		<manufacturer>U.S. Gold</manufacturer>
+		<year>1995</year>
+		<genre>Action</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Indiana Jones and the Last Crusade (USA, Europe)" index="" image="">
+		<description>Indiana Jones and the Last Crusade (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>B875226B</crc>
+		<manufacturer>U.S. Gold</manufacturer>
+		<year>1992</year>
+		<genre>Action</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Itchy &amp; Scratchy Game, The (USA, Europe)" index="" image="">
+		<description>Itchy &amp; Scratchy Game, The (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>44E7E2DA</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1995</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="James Bond 007 - The Duel (Europe)" index="true" image="j">
+		<description>James Bond 007 - The Duel (Europe)</description>
+		<cloneof></cloneof>
+		<crc>881A4524</crc>
+		<manufacturer>Domark</manufacturer>
+		<year>1993</year>
+		<genre>Action</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="James Pond II - Codename RoboCod (USA)" index="" image="">
+		<description>James Pond II - Codename RoboCod (USA)</description>
+		<cloneof></cloneof>
+		<crc>9FB5C155</crc>
+		<manufacturer>U.S. Gold</manufacturer>
+		<year>1993</year>
+		<genre>Action</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Judge Dredd (USA, Europe)" index="" image="">
+		<description>Judge Dredd (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>04D23FC4</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1995</year>
+		<genre>Action</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Jungle Book, The (USA)" index="" image="">
+		<description>Jungle Book, The (USA)</description>
+		<cloneof></cloneof>
+		<crc>30C09F31</crc>
+		<manufacturer>Majesco Games</manufacturer>
+		<year>1994</year>
+		<genre>Action</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Land of Illusion Starring Mickey Mouse (USA, Europe)" index="true" image="l">
+		<description>Land of Illusion Starring Mickey Mouse (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>52DBF3E1</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1993</year>
+		<genre>Action</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Last Action Hero (USA)" index="" image="">
+		<description>Last Action Hero (USA)</description>
+		<cloneof></cloneof>
+		<crc>2D367C43</crc>
+		<manufacturer>Sony Imagesoft</manufacturer>
+		<year>1992</year>
+		<genre>Action</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Legend of Illusion Starring Mickey Mouse (USA, Europe)" index="" image="">
+		<description>Legend of Illusion Starring Mickey Mouse (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>CE5AD8B7</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1995</year>
+		<genre>Action</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lion King, The (USA)" index="" image="">
+		<description>Lion King, The (USA)</description>
+		<cloneof></cloneof>
+		<crc>9808D7B3</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1995</year>
+		<genre>Action</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lost World, The - Jurassic Park (USA)" index="" image="">
+		<description>Lost World, The - Jurassic Park (USA)</description>
+		<cloneof></cloneof>
+		<crc>8D1597F5</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1997</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lucky Dime Caper, The (USA, Europe)" index="" image="">
+		<description>Lucky Dime Caper, The (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>07A7815A</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1992</year>
+		<genre>Action</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Marble Madness (USA, Europe)" index="true" image="m">
+		<description>Marble Madness (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>9559E339</crc>
+		<manufacturer>Tengen</manufacturer>
+		<year>1992</year>
+		<genre>Action</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mick &amp; Mack as the Global Gladiators (USA, Europe)" index="" image="">
+		<description>Mick &amp; Mack as the Global Gladiators (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>D2B6021E</crc>
+		<manufacturer>Virgin Interactive</manufacturer>
+		<year>1992</year>
+		<genre>Action</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mickey&apos;s Ultimate Challenge (USA, Europe)" index="" image="">
+		<description>Mickey&apos;s Ultimate Challenge (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>ECCF7A4F</crc>
+		<manufacturer>Hi Tech Expressions</manufacturer>
+		<year>1994</year>
+		<genre>Action</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Monster Truck Wars (USA, Europe)" index="" image="">
+		<description>Monster Truck Wars (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>453C5CEC</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1995</year>
+		<genre>Action</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ms. Pac-Man (USA)" index="" image="">
+		<description>Ms. Pac-Man (USA)</description>
+		<cloneof></cloneof>
+		<crc>5EE88BD5</crc>
+		<manufacturer>Majesco Games</manufacturer>
+		<year>1995</year>
+		<genre>Action</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pac-Man (USA)" index="true" image="p">
+		<description>Pac-Man (USA)</description>
+		<cloneof></cloneof>
+		<crc>B318DD37</crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1991</year>
+		<genre>Action</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Paperboy II (USA, Europe)" index="" image="">
+		<description>Paperboy II (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>8B2C454B</crc>
+		<manufacturer>Tengen</manufacturer>
+		<year>1992</year>
+		<genre>Action</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pengo (USA, Europe)" index="" image="">
+		<description>Pengo (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>0DA23CC1</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1991</year>
+		<genre>Action</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Predator 2 (USA, Europe)" index="" image="">
+		<description>Predator 2 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>E5F789B9</crc>
+		<manufacturer>Arena</manufacturer>
+		<year>1992</year>
+		<genre>Action</genre>
+		<rating>HSRS - PG (Parental Guidance)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Psychic World (USA, Europe) (v1.1)" index="" image="">
+		<description>Psychic World (USA, Europe) (v1.1)</description>
+		<cloneof></cloneof>
+		<crc>73779B22</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1991</year>
+		<genre>Action</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="RoboCop versus The Terminator (USA, Europe)" index="true" image="r">
+		<description>RoboCop versus The Terminator (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>4AB7FA4E</crc>
+		<manufacturer>Virgin Interactive</manufacturer>
+		<year>1993</year>
+		<genre>Action</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Simpsons, The - Bart vs. The World (USA, Europe)" index="true" image="s">
+		<description>Simpsons, The - Bart vs. The World (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>DA7BD5C7</crc>
+		<manufacturer>Flying Edge</manufacturer>
+		<year>1993</year>
+		<genre>Action</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Slider (USA, Europe)" index="" image="">
+		<description>Slider (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>4DC6F555</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1991</year>
+		<genre>Action</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Spider-Man vs. The Kingpin (USA, Europe)" index="" image="">
+		<description>Spider-Man vs. The Kingpin (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>2651024E</crc>
+		<manufacturer>Flying Edge</manufacturer>
+		<year>1992</year>
+		<genre>Action</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Star Trek Generations - Beyond the Nexus (USA, Europe)" index="" image="">
+		<description>Star Trek Generations - Beyond the Nexus (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>087FC5F0</crc>
+		<manufacturer>Absolute Entertainment</manufacturer>
+		<year>1995</year>
+		<genre>Action</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Star Wars (USA)" index="" image="">
+		<description>Star Wars (USA)</description>
+		<cloneof></cloneof>
+		<crc>0228769C</crc>
+		<manufacturer>U.S. Gold</manufacturer>
+		<year>1993</year>
+		<genre>Action</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Stargate (World)" index="" image="">
+		<description>Stargate (World)</description>
+		<cloneof></cloneof>
+		<crc>FC7C64E4</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1994</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Battletank (USA)" index="" image="">
+		<description>Super Battletank (USA)</description>
+		<cloneof></cloneof>
+		<crc>73D6745A</crc>
+		<manufacturer>Majesco Games</manufacturer>
+		<year>2001</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Return of the Jedi (USA, Europe)" index="" image="">
+		<description>Super Return of the Jedi (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>4A38B6B6</crc>
+		<manufacturer>Black Pearl</manufacturer>
+		<year>1994</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tale Spin (USA, Europe)" index="true" image="t">
+		<description>Tale Spin (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>F1732FFE</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1993</year>
+		<genre>Action</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tarzan - Lord of the Jungle (Europe)" index="" image="">
+		<description>Tarzan - Lord of the Jungle (Europe)</description>
+		<cloneof></cloneof>
+		<crc>EF3AFE8B</crc>
+		<manufacturer>GameTek</manufacturer>
+		<year>1994</year>
+		<genre>Action</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Terminator 2 - Judgment Day (USA, Europe)" index="" image="">
+		<description>Terminator 2 - Judgment Day (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>1BD15773</crc>
+		<manufacturer>Flying Edge</manufacturer>
+		<year>1993</year>
+		<genre>Action</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="True Lies (World)" index="" image="">
+		<description>True Lies (World)</description>
+		<cloneof></cloneof>
+		<crc>5173B02A</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1995</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Urban Strike (USA, Europe)" index="true" image="u">
+		<description>Urban Strike (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>185E9FC1</crc>
+		<manufacturer>Electronic Arts</manufacturer>
+		<year>1995</year>
+		<genre>Action</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Woody Pop (USA, Europe) (v1.1)" index="true" image="w">
+		<description>Woody Pop (USA, Europe) (v1.1)</description>
+		<cloneof></cloneof>
+		<crc>B74F3A4F</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1991</year>
+		<genre>Action</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="World Class Leader Board (USA, Europe)" index="" image="">
+		<description>World Class Leader Board (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>868FE528</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1991</year>
+		<genre>Action</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

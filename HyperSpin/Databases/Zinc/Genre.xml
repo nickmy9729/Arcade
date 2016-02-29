@@ -1,0 +1,18 @@
+<menu>
+  <game name="Baseball Games"/>
+  <game name="Basketball Games"/>
+  <game name="Fighter Games"/>
+  <game name="Flying Games"/>
+  <game name="Horse Racing Games" />
+  <game name="Mature Games"/>
+  <game name="Maze Games" />
+  <game name="Mini-Games Games" />
+  <game name="Platform Games" />
+  <game name="Puzzle Games" />
+  <game name="Quiz Games" />
+  <game name="Rhythm Games" />
+  <game name="Shooter Games" />
+  <game name="Soccer Games" />
+  <game name="Sports Games" />
+  <game name="Track & Field Games" />
+</menu>

@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Sega Genesis</listname>
+		<lastlistupdate>02/21/2013</lastlistupdate>
+		<listversion>1.2 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="Bass Masters Classic (USA)" index="true" image="b">
+		<description>Bass Masters Classic (USA)</description>
+		<cloneof></cloneof>
+		<crc>cf1ff00a</crc>
+		<manufacturer>Black Pearl</manufacturer>
+		<year>1996</year>
+		<genre>Sports/Fishing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bass Masters Classic - Pro Edition (USA)" index="" image="">
+		<description>Bass Masters Classic - Pro Edition (USA)</description>
+		<cloneof></cloneof>
+		<crc>9eddeb3d</crc>
+		<manufacturer>Black Pearl</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Fishing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="King Salmon - The Big Catch (USA)" index="true" image="k">
+		<description>King Salmon - The Big Catch (USA)</description>
+		<cloneof></cloneof>
+		<crc>f516e7d9</crc>
+		<manufacturer>Sage&apos;s Creation</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Fishing</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="TNN Bass Tournament of Champions (USA)" index="true" image="t">
+		<description>TNN Bass Tournament of Champions (USA)</description>
+		<cloneof></cloneof>
+		<crc>c83ffa1b</crc>
+		<manufacturer>Imagitec Design</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Fishing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="TNN Outdoors Bass Tournament &apos;96 (USA)" index="" image="">
+		<description>TNN Outdoors Bass Tournament \&apos;96 (USA)</description>
+		<cloneof></cloneof>
+		<crc>5c523c0b</crc>
+		<manufacturer>Imagitec Design</manufacturer>
+		<year>1996</year>
+		<genre>Sports/Fishing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

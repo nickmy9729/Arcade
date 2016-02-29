@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Atari Jaguar</listname>
+		<lastlistupdate>06/08/2013</lastlistupdate>
+		<listversion>1.1 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="NBA Jam T.E. (World)" index="true" image="n">
+		<description>NBA Jam T.E. (World)</description>
+		<cloneof></cloneof>
+		<crc>0AC83D77</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1996</year>
+		<genre>Basketball/Sports</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="White Men Can&apos;t Jump (World)" index="true" image="w">
+		<description>White Men Can&apos;t Jump (World)</description>
+		<cloneof></cloneof>
+		<crc>14915F20</crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1995</year>
+		<genre>Basketball/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

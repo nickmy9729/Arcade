@@ -1,0 +1,399 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Atari 8-Bit</listname>
+		<lastlistupdate>05/17/2015</lastlistupdate>
+		<listversion>1.0</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="Baja Buggies (USA)" index="true" image="b">
+		<description>Baja Buggies (USA)</description>
+		<cloneof></cloneof>
+		<crc>54EC3EAF</crc>
+		<manufacturer>Gamestar</manufacturer>
+		<year>1982</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="California Run (Europe)" index="true" image="c">
+		<description>California Run (Europe)</description>
+		<cloneof></cloneof>
+		<crc>A0AE66EA</crc>
+		<manufacturer>Alternative Software</manufacturer>
+		<year>1988</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Death Race (Europe)" index="true" image="d">
+		<description>Death Race (Europe)</description>
+		<cloneof></cloneof>
+		<crc>E1294318</crc>
+		<manufacturer>Atlantis Software</manufacturer>
+		<year>1987</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Death Races (USA) (Unl)" index="" image="">
+		<description>Death Races (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>596F7624</crc>
+		<manufacturer>Tony Goacher</manufacturer>
+		<year>1987</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Elektra Glide (USA)" index="true" image="e">
+		<description>Elektra Glide (USA)</description>
+		<cloneof></cloneof>
+		<crc>E55C820C</crc>
+		<manufacturer>Mastertronic</manufacturer>
+		<year>198x</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="FEAR - Figure Eight Auto Racing (USA)" index="true" image="f">
+		<description>FEAR - Figure Eight Auto Racing (USA)</description>
+		<cloneof></cloneof>
+		<crc>FD18E99D</crc>
+		<manufacturer>RASCOM</manufacturer>
+		<year>1985</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Formula 1 Racing (USA)" index="" image="">
+		<description>Formula 1 Racing (USA)</description>
+		<cloneof></cloneof>
+		<crc>0D1C38C7</crc>
+		<manufacturer>Acorn Software</manufacturer>
+		<year>1982</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Getaway! (USA)" index="true" image="g">
+		<description>Getaway! (USA)</description>
+		<cloneof></cloneof>
+		<crc>6FFCC750</crc>
+		<manufacturer>APX</manufacturer>
+		<year>1982</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Go Cart (Europe)" index="" image="">
+		<description>Go Cart (Europe)</description>
+		<cloneof></cloneof>
+		<crc>B242B5C6</crc>
+		<manufacturer>AMC-Verlag</manufacturer>
+		<year>19xx</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Grand Prix Simulator (Europe)" index="" image="">
+		<description>Grand Prix Simulator (Europe)</description>
+		<cloneof></cloneof>
+		<crc>E862A50D</crc>
+		<manufacturer>Code Masters</manufacturer>
+		<year>1992</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Great American Cross Country Road Race, The (USA)" index="" image="">
+		<description>Great American Cross Country Road Race, The (USA)</description>
+		<cloneof></cloneof>
+		<crc>E49F4941</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>1985</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hazard Run (USA)" index="true" image="h">
+		<description>Hazard Run (USA)</description>
+		<cloneof></cloneof>
+		<crc>7A94CC64</crc>
+		<manufacturer>Artworx</manufacturer>
+		<year>1983</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Highway Duel (Germany)" index="" image="">
+		<description>Highway Duel (Germany)</description>
+		<cloneof></cloneof>
+		<crc>84A7DAC6</crc>
+		<manufacturer>Dynamics Marketing</manufacturer>
+		<year>1984</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ion Roadway (USA)" index="true" image="i">
+		<description>Ion Roadway (USA)</description>
+		<cloneof></cloneof>
+		<crc>890FE9C6</crc>
+		<manufacturer>APX</manufacturer>
+		<year>1983</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="John Anderson&apos;s Rally Speedway (USA)" index="true" image="j">
+		<description>John Anderson&apos;s Rally Speedway (USA)</description>
+		<cloneof></cloneof>
+		<crc>30769463</crc>
+		<manufacturer>Adventure International</manufacturer>
+		<year>1983</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Last V8, The (Europe)" index="true" image="l">
+		<description>Last V8, The (Europe)</description>
+		<cloneof></cloneof>
+		<crc>446B4EA3</crc>
+		<manufacturer>Mastertronic</manufacturer>
+		<year>1985</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Maniac Driver (Europe) (Unl)" index="true" image="m">
+		<description>Maniac Driver (Europe) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>0B55CBE1</crc>
+		<manufacturer>UKACOC</manufacturer>
+		<year>19xx</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Match Racer (USA)" index="" image="">
+		<description>Match Racer (USA)</description>
+		<cloneof></cloneof>
+		<crc>44FEE6B5</crc>
+		<manufacturer>Gebelli Software</manufacturer>
+		<year>1981</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Night Driver (Poland) (Unl)" index="true" image="n">
+		<description>Night Driver (Poland) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>885A6DCF</crc>
+		<manufacturer>XXL</manufacturer>
+		<year>2008</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="On-Track Computer Model Car Racing (USA)" index="true" image="o">
+		<description>On-Track Computer Model Car Racing (USA)</description>
+		<cloneof></cloneof>
+		<crc>6D41DA9C</crc>
+		<manufacturer>Gamestar</manufacturer>
+		<year>1985</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pitstop (USA)" index="true" image="p">
+		<description>Pitstop (USA)</description>
+		<cloneof></cloneof>
+		<crc>2E99F066</crc>
+		<manufacturer>Epyx</manufacturer>
+		<year>1983</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pitstop II (USA)" index="" image="">
+		<description>Pitstop II (USA)</description>
+		<cloneof></cloneof>
+		<crc>3FA73C18</crc>
+		<manufacturer>Epyx</manufacturer>
+		<year>1984</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pole Position (USA)" index="" image="">
+		<description>Pole Position (USA)</description>
+		<cloneof></cloneof>
+		<crc>3A9564BE</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1983</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Race in Space (USA)" index="true" image="r">
+		<description>Race in Space (USA)</description>
+		<cloneof></cloneof>
+		<crc>5720B96A</crc>
+		<manufacturer>ANALOG Software</manufacturer>
+		<year>1981</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Racing Destruction Set (USA) (Side A)" index="" image="">
+		<description>Racing Destruction Set (USA) (Side A)</description>
+		<cloneof></cloneof>
+		<crc>5CB9D2B8</crc>
+		<manufacturer>Electronic Arts</manufacturer>
+		<year>1985</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Racing Destruction Set (USA) (Side B)" index="" image="">
+		<description>Racing Destruction Set (USA) (Side B)</description>
+		<cloneof></cloneof>
+		<crc>E8ECBF3B</crc>
+		<manufacturer>Electronic Arts</manufacturer>
+		<year>1985</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rally Speedway (USA)" index="" image="">
+		<description>Rally Speedway (USA)</description>
+		<cloneof></cloneof>
+		<crc>B3484D3D</crc>
+		<manufacturer>Adventure International</manufacturer>
+		<year>1983</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Richard Petty&apos;s Talladega (USA)" index="" image="">
+		<description>Richard Petty&apos;s Talladega (USA)</description>
+		<cloneof></cloneof>
+		<crc>66E3FDA2</crc>
+		<manufacturer>Cosmi</manufacturer>
+		<year>1984</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="River Rat (USA)" index="" image="">
+		<description>River Rat (USA)</description>
+		<cloneof></cloneof>
+		<crc>F518F8E4</crc>
+		<manufacturer>ZiMAG</manufacturer>
+		<year>1982</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rush Hour (USA)" index="" image="">
+		<description>Rush Hour (USA)</description>
+		<cloneof></cloneof>
+		<crc>8B47E537</crc>
+		<manufacturer>APX</manufacturer>
+		<year>1983</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Speed Run (Europe)" index="true" image="s">
+		<description>Speed Run (Europe)</description>
+		<cloneof></cloneof>
+		<crc>28407A85</crc>
+		<manufacturer>Red Rat Software</manufacturer>
+		<year>1988</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Speed Up! (Czech Republic) (Unl)" index="" image="">
+		<description>Speed Up! (Czech Republic) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>F24B9D18</crc>
+		<manufacturer>CPU</manufacturer>
+		<year>2007</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Speed Up! - Gold Edition (Czech Republic) (Unl)" index="" image="">
+		<description>Speed Up! - Gold Edition (Czech Republic) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>16A7EEF6</crc>
+		<manufacturer>CPU</manufacturer>
+		<year>2007</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Spy Hunter (USA)" index="" image="">
+		<description>Spy Hunter (USA)</description>
+		<cloneof></cloneof>
+		<crc>11A9659C</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1984</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Taxicab Hill (USA)" index="true" image="t">
+		<description>Taxicab Hill (USA)</description>
+		<cloneof></cloneof>
+		<crc>CE30818D</crc>
+		<manufacturer>Antic Software</manufacturer>
+		<year>1985</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Test Drive (Hungary)" index="" image="">
+		<description>Test Drive (Hungary)</description>
+		<cloneof></cloneof>
+		<crc>42EB6ED9</crc>
+		<manufacturer>JK Soft</manufacturer>
+		<year>1994</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="TT Racer (Europe)" index="" image="">
+		<description>TT Racer (Europe)</description>
+		<cloneof></cloneof>
+		<crc>CD6FAB0F</crc>
+		<manufacturer>Centaursoft</manufacturer>
+		<year>1982</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Turf-Form (Europe)" index="" image="">
+		<description>Turf-Form (Europe)</description>
+		<cloneof></cloneof>
+		<crc>B9D839C0</crc>
+		<manufacturer>Blue Ribbon Software</manufacturer>
+		<year>1988</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Up&apos;n Down (USA)" index="true" image="u">
+		<description>Up&apos;n Down (USA)</description>
+		<cloneof></cloneof>
+		<crc>4D5D512A</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1984</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

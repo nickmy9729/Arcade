@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Atari 8-Bit</listname>
+		<lastlistupdate>05/17/2015</lastlistupdate>
+		<listversion>1.0</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="All-Pro Football (USA) (Side A)" index="true" image="a">
+		<description>All-Pro Football (USA) (Side A)</description>
+		<cloneof></cloneof>
+		<crc>3FB04D54</crc>
+		<manufacturer>Nexa</manufacturer>
+		<year>1984</year>
+		<genre>Sports/Football</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="All-Pro Football (USA) (Side B)" index="" image="">
+		<description>All-Pro Football (USA) (Side B)</description>
+		<cloneof></cloneof>
+		<crc>FC58CAB3</crc>
+		<manufacturer>Nexa</manufacturer>
+		<year>1984</year>
+		<genre>Sports/Football</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Computer Football Strategy (USA)" index="true" image="c">
+		<description>Computer Football Strategy (USA)</description>
+		<cloneof></cloneof>
+		<crc>793220B4</crc>
+		<manufacturer>Avalon Hill</manufacturer>
+		<year>1983</year>
+		<genre>Sports/Football</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Computer Quarterback (USA)" index="" image="">
+		<description>Computer Quarterback (USA)</description>
+		<cloneof></cloneof>
+		<crc>DD15E8E4</crc>
+		<manufacturer>SSI</manufacturer>
+		<year>1981</year>
+		<genre>Sports/Football</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cypher Bowl (USA)" index="" image="">
+		<description>Cypher Bowl (USA)</description>
+		<cloneof></cloneof>
+		<crc>07A434B0</crc>
+		<manufacturer>Artsci</manufacturer>
+		<year>1981</year>
+		<genre>Sports/Football</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gridiron Glory (USA)" index="true" image="g">
+		<description>Gridiron Glory (USA)</description>
+		<cloneof></cloneof>
+		<crc>42B72F0C</crc>
+		<manufacturer>APX</manufacturer>
+		<year>1982</year>
+		<genre>Sports/Football</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Nelson Football League, The (USA)" index="true" image="n">
+		<description>Nelson Football League, The (USA)</description>
+		<cloneof></cloneof>
+		<crc>5FCFE4FD</crc>
+		<manufacturer>DSD Video</manufacturer>
+		<year>1986</year>
+		<genre>Sports/Football</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="RealSports Football (USA)" index="true" image="r">
+		<description>RealSports Football (USA)</description>
+		<cloneof></cloneof>
+		<crc>CC850110</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1983</year>
+		<genre>Sports/Football</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Starbowl Football (USA)" index="true" image="s">
+		<description>Starbowl Football (USA)</description>
+		<cloneof></cloneof>
+		<crc>C3B77BFB</crc>
+		<manufacturer>Gamestar</manufacturer>
+		<year>1982</year>
+		<genre>Sports/Football</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Touchdown Football (USA)" index="true" image="t">
+		<description>Touchdown Football (USA)</description>
+		<cloneof></cloneof>
+		<crc>284CBCB8</crc>
+		<manufacturer>Electronic Arts</manufacturer>
+		<year>1986</year>
+		<genre>Sports/Football</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

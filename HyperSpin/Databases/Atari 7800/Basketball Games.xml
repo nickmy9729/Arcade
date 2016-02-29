@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Atari 7800</listname>
+		<lastlistupdate>06/08/2013</lastlistupdate>
+		<listversion>1.1 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="Basketbrawl (USA)" index="true" image="b">
+		<description>Basketbrawl (USA)</description>
+		<cloneof></cloneof>
+		<crc>fd3aec38</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1990</year>
+		<genre>Basketball/Sports</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="One-on-One Basketball (USA)" index="true" image="o">
+		<description>One-on-One Basketball (USA)</description>
+		<cloneof></cloneof>
+		<crc>859c8456</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1987</year>
+		<genre>Basketball/Sports</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

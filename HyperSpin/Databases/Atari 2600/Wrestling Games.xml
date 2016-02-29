@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Atari 2600</listname>
+		<lastlistupdate>07/20/2013</lastlistupdate>
+		<listversion>1.0 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="Title Match Pro Wrestling (USA)" index="true" image="t">
+		<description>Title Match Pro Wrestling (USA)</description>
+		<cloneof></cloneof>
+		<crc>EF708C03</crc>
+		<manufacturer>Absolute Entertainment</manufacturer>
+		<year>1987</year>
+		<genre>Sports/Wrestling</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

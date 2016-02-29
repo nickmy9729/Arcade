@@ -1,0 +1,429 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Atari 2600</listname>
+		<lastlistupdate>07/20/2013</lastlistupdate>
+		<listversion>1.0 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="Adventures of TRON (USA)" index="true" image="a">
+		<description>Adventures of TRON (USA)</description>
+		<cloneof></cloneof>
+		<crc>1B8019D6</crc>
+		<manufacturer>M Network - INTV</manufacturer>
+		<year>1982</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Airlock (USA)" index="" image="">
+		<description>Airlock (USA)</description>
+		<cloneof></cloneof>
+		<crc>25C90CE7</crc>
+		<manufacturer>Data Age</manufacturer>
+		<year>1982</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Alfred Challenge (France) (Unl)" index="" image="">
+		<description>Alfred Challenge (France) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>9F8C676E</crc>
+		<manufacturer>Ebivision</manufacturer>
+		<year>1998</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bobby Is Going Home (Europe)" index="true" image="b">
+		<description>Bobby Is Going Home (Europe)</description>
+		<cloneof></cloneof>
+		<crc>F061E27F</crc>
+		<manufacturer>Bit Corporation</manufacturer>
+		<year>1983</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="BurgerTime (USA)" index="" image="">
+		<description>BurgerTime (USA)</description>
+		<cloneof></cloneof>
+		<crc>C183FBBC</crc>
+		<manufacturer>M Network - INTV</manufacturer>
+		<year>1982</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cabbage Patch Kids - Adventures in the Park (USA) (Proto)" index="true" image="c">
+		<description>Cabbage Patch Kids - Adventures in the Park (USA) (Proto)</description>
+		<cloneof></cloneof>
+		<crc>7025D30D</crc>
+		<manufacturer>Coleco</manufacturer>
+		<year>1984</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Congo Bongo (USA)" index="" image="">
+		<description>Congo Bongo (USA)</description>
+		<cloneof></cloneof>
+		<crc>3F6E7E0C</crc>
+		<manufacturer>Sega - Beck-Tech</manufacturer>
+		<year>1983</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Criminal Persuit (Europe)" index="" image="">
+		<description>Criminal Persuit (Europe)</description>
+		<cloneof>Mysterious Thief, A (USA) (Proto)</cloneof>
+		<crc>B93A7346</crc>
+		<manufacturer>Suntek</manufacturer>
+		<year>1983</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Donkey Kong (USA)" index="true" image="d">
+		<description>Donkey Kong (USA)</description>
+		<cloneof></cloneof>
+		<crc>F331B069</crc>
+		<manufacturer>Coleco</manufacturer>
+		<year>1982</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Donkey Kong Junior (USA)" index="" image="">
+		<description>Donkey Kong Junior (USA)</description>
+		<cloneof></cloneof>
+		<crc>9EF649E5</crc>
+		<manufacturer>Coleco</manufacturer>
+		<year>1983</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Elevators Amiss (USA) (Unl)" index="true" image="e">
+		<description>Elevators Amiss (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>4EE28C1B</crc>
+		<manufacturer>AtariAge - Bob &amp; Tommy Montgomery</manufacturer>
+		<year>2007</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fast Eddie (USA)" index="true" image="f">
+		<description>Fast Eddie (USA)</description>
+		<cloneof></cloneof>
+		<crc>0C0A7A02</crc>
+		<manufacturer>20th Century Fox Video Games - Sirius Software</manufacturer>
+		<year>1982</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Frankenstein&apos;s Monster (USA)" index="" image="">
+		<description>Frankenstein&apos;s Monster (USA)</description>
+		<cloneof></cloneof>
+		<crc>AD44DFF9</crc>
+		<manufacturer>Data Age</manufacturer>
+		<year>1983</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Garfield (USA) (Proto)" index="true" image="g">
+		<description>Garfield (USA) (Proto)</description>
+		<cloneof></cloneof>
+		<crc>F20CADCF</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1984</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Inca Gold - Spider Monster (Europe)" index="true" image="i">
+		<description>Inca Gold - Spider Monster (Europe)</description>
+		<cloneof></cloneof>
+		<crc>AC53D608</crc>
+		<manufacturer>Funvision - Fund. International Co.</manufacturer>
+		<year>1982</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Infiltrate (USA)" index="" image="">
+		<description>Infiltrate (USA)</description>
+		<cloneof></cloneof>
+		<crc>612BD4DA</crc>
+		<manufacturer>Apollo - Games by Apollo</manufacturer>
+		<year>1981</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Joust (USA)" index="true" image="j">
+		<description>Joust (USA)</description>
+		<cloneof></cloneof>
+		<crc>A07B3304</crc>
+		<manufacturer>Atari - GCC</manufacturer>
+		<year>1983</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Kangaroo (USA)" index="true" image="k">
+		<description>Kangaroo (USA)</description>
+		<cloneof></cloneof>
+		<crc>B9AB57E6</crc>
+		<manufacturer>Atari - GCC</manufacturer>
+		<year>1983</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Keystone Kapers (USA)" index="" image="">
+		<description>Keystone Kapers (USA)</description>
+		<cloneof></cloneof>
+		<crc>3E55F3A1</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>1983</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="King Kong (USA)" index="" image="">
+		<description>King Kong (USA)</description>
+		<cloneof></cloneof>
+		<crc>CB6F5617</crc>
+		<manufacturer>Tigervision</manufacturer>
+		<year>1982</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lilly Adventure (Europe)" index="true" image="l">
+		<description>Lilly Adventure (Europe)</description>
+		<cloneof></cloneof>
+		<crc>3544C6D6</crc>
+		<manufacturer>Homevision - Gem International Corp.</manufacturer>
+		<year>1983</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mario Bros. (USA)" index="true" image="m">
+		<description>Mario Bros. (USA)</description>
+		<cloneof></cloneof>
+		<crc>8FBF7E90</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1983</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Miner 2049er - Starring Bounty Bob (USA)" index="" image="">
+		<description>Miner 2049er - Starring Bounty Bob (USA)</description>
+		<cloneof></cloneof>
+		<crc>19F9EF1C</crc>
+		<manufacturer>Tigervision</manufacturer>
+		<year>1982</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Miner 2049er Volume II (USA)" index="" image="">
+		<description>Miner 2049er Volume II (USA)</description>
+		<cloneof></cloneof>
+		<crc>71E814E9</crc>
+		<manufacturer>Tigervision</manufacturer>
+		<year>1983</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Montezuma&apos;s Revenge - Featuring Panama Joe (USA)" index="" image="">
+		<description>Montezuma&apos;s Revenge - Featuring Panama Joe (USA)</description>
+		<cloneof></cloneof>
+		<crc>E680A1C9</crc>
+		<manufacturer>Parker Brothers</manufacturer>
+		<year>1984</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mountain King (USA)" index="" image="">
+		<description>Mountain King (USA)</description>
+		<cloneof></cloneof>
+		<crc>ED778991</crc>
+		<manufacturer>CBS Electronics</manufacturer>
+		<year>1983</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mr. Do!&apos;s Castle (USA)" index="" image="">
+		<description>Mr. Do!&apos;s Castle (USA)</description>
+		<cloneof></cloneof>
+		<crc>044735B9</crc>
+		<manufacturer>Parker Brothers</manufacturer>
+		<year>1984</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mysterious Thief, A (USA) (Proto)" index="" image="">
+		<description>Mysterious Thief, A (USA) (Proto)</description>
+		<cloneof></cloneof>
+		<crc>8755C57C</crc>
+		<manufacturer>ZiMAG - Emag - Vidco</manufacturer>
+		<year>1983</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Nightmare (Europe)" index="true" image="n">
+		<description>Nightmare (Europe)</description>
+		<cloneof></cloneof>
+		<crc>B733F921</crc>
+		<manufacturer>Sancho - Tang&apos;s Electronic Co.</manufacturer>
+		<year>1983</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Open Sesame (Europe)" index="true" image="o">
+		<description>Open Sesame (Europe)</description>
+		<cloneof></cloneof>
+		<crc>D01B5A1F</crc>
+		<manufacturer>Puzzy - Bit Corporation</manufacturer>
+		<year>1982</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Panda Chase (Europe)" index="true" image="p">
+		<description>Panda Chase (Europe)</description>
+		<cloneof></cloneof>
+		<crc>AF417A00</crc>
+		<manufacturer>Homevision - Gem International Corp.</manufacturer>
+		<year>1983</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pitfall II - Lost Caverns (USA)" index="" image="">
+		<description>Pitfall II - Lost Caverns (USA)</description>
+		<cloneof></cloneof>
+		<crc>097CE7AD</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>1983</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pitfall! - Pitfall Harry&apos;s Jungle Adventure (USA)" index="" image="">
+		<description>Pitfall! - Pitfall Harry&apos;s Jungle Adventure (USA)</description>
+		<cloneof></cloneof>
+		<crc>42AD47BF</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>1982</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Popeye (USA)" index="" image="">
+		<description>Popeye (USA)</description>
+		<cloneof></cloneof>
+		<crc>7D287F20</crc>
+		<manufacturer>Parker Brothers</manufacturer>
+		<year>1983</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Power Off! (France) (Unl)" index="" image="">
+		<description>Power Off! (France) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>9BDD0B28</crc>
+		<manufacturer>Ebivision</manufacturer>
+		<year>2004</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Roc &apos;n Rope (USA)" index="true" image="r">
+		<description>Roc &apos;n Rope (USA)</description>
+		<cloneof></cloneof>
+		<crc>9D51C969</crc>
+		<manufacturer>Coleco</manufacturer>
+		<year>1984</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Smurf - Rescue in Gargamel&apos;s Castle (USA)" index="true" image="s">
+		<description>Smurf - Rescue in Gargamel&apos;s Castle (USA)</description>
+		<cloneof></cloneof>
+		<crc>E0624A7F</crc>
+		<manufacturer>Coleco</manufacturer>
+		<year>1982</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Snail Against Squirrel (Europe)" index="" image="">
+		<description>Snail Against Squirrel (Europe)</description>
+		<cloneof></cloneof>
+		<crc>5C5B9E1A</crc>
+		<manufacturer>Bit Corporation</manufacturer>
+		<year>1983</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Springer (USA)" index="" image="">
+		<description>Springer (USA)</description>
+		<cloneof></cloneof>
+		<crc>DD183A4F</crc>
+		<manufacturer>Tigervision</manufacturer>
+		<year>1982</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tax Avoiders (USA)" index="true" image="t">
+		<description>Tax Avoiders (USA)</description>
+		<cloneof></cloneof>
+		<crc>468D734C</crc>
+		<manufacturer>American Videogame - Dunhill Electronics</manufacturer>
+		<year>1982</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Walker (Europe)" index="true" image="w">
+		<description>Walker (Europe)</description>
+		<cloneof>Robin (Europe)</cloneof>
+		<crc>DA8E49FB</crc>
+		<manufacturer>Suntek</manufacturer>
+		<year>1983</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Zoo Fun (Europe)" index="true" image="z">
+		<description>Zoo Fun (Europe)</description>
+		<cloneof></cloneof>
+		<crc>C1DA05F6</crc>
+		<manufacturer>Homevision - Gem International Corp.</manufacturer>
+		<year>1983</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

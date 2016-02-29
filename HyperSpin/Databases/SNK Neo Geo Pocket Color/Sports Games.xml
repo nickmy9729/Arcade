@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>SNK Neo Geo Pocket Color</listname>
+		<lastlistupdate>10/25/2011</lastlistupdate>
+		<listversion>1.2 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="Baseball Stars Color (World) (En,Ja)" index="true" image="b">
+		<description>Baseball Stars Color (World) (En,Ja)</description>
+		<cloneof></cloneof>
+		<crc>FFA7E88D</crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1999</year>
+		<genre>Baseball/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cool Boarders Pocket (Japan, Europe) (En,Ja)" index="true" image="c">
+		<description>Cool Boarders Pocket (Japan, Europe) (En,Ja)</description>
+		<cloneof></cloneof>
+		<crc>833F9C22</crc>
+		<manufacturer>SNK</manufacturer>
+		<year>2000</year>
+		<genre>Snowboarding/Sports</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dynamite Slugger (Japan, Europe) (En,Ja)" index="true" image="d">
+		<description>Dynamite Slugger (Japan, Europe) (En,Ja)</description>
+		<cloneof></cloneof>
+		<crc>7F1779CD</crc>
+		<manufacturer>SNK</manufacturer>
+		<year>2000</year>
+		<genre>Baseball/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Neo Geo Cup &apos;98 Plus (World) (En,Ja)" index="true" image="n">
+		<description>Neo Geo Cup &apos;98 Plus (World) (En,Ja)</description>
+		<cloneof></cloneof>
+		<crc>C0DA4FE9</crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1998</year>
+		<genre>Soccer/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Neo Turf Masters (World) (En,Ja)" index="" image="">
+		<description>Neo Turf Masters (World) (En,Ja)</description>
+		<cloneof></cloneof>
+		<crc>317A66D2</crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1999</year>
+		<genre>Golf/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pocket Tennis Color - Pocket Sports Series (World) (En,Ja)" index="true" image="p">
+		<description>Pocket Tennis Color - Pocket Sports Series (World) (En,Ja)</description>
+		<cloneof></cloneof>
+		<crc>D8590B96</crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1999</year>
+		<genre>Sports/Tennis</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

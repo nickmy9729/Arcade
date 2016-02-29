@@ -1,0 +1,699 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Nintendo Game Boy Advance</listname>
+		<lastlistupdate>10/27/2011</lastlistupdate>
+		<listversion>1.1 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="2 Games in 1 - Dragon Ball Z - The Legacy of Goku I &amp; II (USA)" index="true" image="2">
+		<description>2 Games in 1 - Dragon Ball Z - The Legacy of Goku I &amp; II (USA)</description>
+		<cloneof></cloneof>
+		<crc>ACE78C4F</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>2005</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="2 Games in 1! - Dragon Ball Z - Buu&apos;s Fury + Dragon Ball GT - Transformation (USA)" index="" image="">
+		<description>2 Games in 1! - Dragon Ball Z - Buu&apos;s Fury + Dragon Ball GT - Transformation (USA)</description>
+		<cloneof></cloneof>
+		<crc>280587F2</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>2006</year>
+		<genre>Beat-&apos;Em-Up/Role-Playing</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Back to Stone (USA) (En,Fr)" index="true" image="b">
+		<description>Back to Stone (USA) (En,Fr)</description>
+		<cloneof></cloneof>
+		<crc>4C29C9C8</crc>
+		<manufacturer>O3 Entertainment</manufacturer>
+		<year>2006</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Baldur&apos;s Gate - Dark Alliance (USA)" index="" image="">
+		<description>Baldur&apos;s Gate - Dark Alliance (USA)</description>
+		<cloneof></cloneof>
+		<crc>DEEDD7D9</crc>
+		<manufacturer>Destination Software</manufacturer>
+		<year>2004</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Boktai - The Sun Is in Your Hand (USA)" index="" image="">
+		<description>Boktai - The Sun Is in Your Hand (USA)</description>
+		<cloneof></cloneof>
+		<crc>E715AC45</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>2003</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Boktai 2 - Solar Boy Django (USA)" index="" image="">
+		<description>Boktai 2 - Solar Boy Django (USA)</description>
+		<cloneof></cloneof>
+		<crc>E1FFB2D1</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>2004</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Breath of Fire (USA)" index="" image="">
+		<description>Breath of Fire (USA)</description>
+		<cloneof></cloneof>
+		<crc>F06422A8</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>2001</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Breath of Fire II (USA)" index="" image="">
+		<description>Breath of Fire II (USA)</description>
+		<cloneof></cloneof>
+		<crc>6F098DA3</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>2002</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Car Battler Joe (USA)" index="true" image="c">
+		<description>Car Battler Joe (USA)</description>
+		<cloneof></cloneof>
+		<crc>EA0A1B94</crc>
+		<manufacturer>Natsume</manufacturer>
+		<year>2002</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="CIMA - The Enemy (USA)" index="" image="">
+		<description>CIMA - The Enemy (USA)</description>
+		<cloneof></cloneof>
+		<crc>EBD928ED</crc>
+		<manufacturer>Natsume</manufacturer>
+		<year>2003</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Classic NES Series - Legend of Zelda (USA, Europe)" index="" image="">
+		<description>Classic NES Series - Legend of Zelda (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>68B1B7A8</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2004</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Classic NES Series - Zelda II - The Adventure of Link (USA, Europe)" index="" image="">
+		<description>Classic NES Series - Zelda II - The Adventure of Link (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>F2DC3B09</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2004</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="DemiKids - Dark Version (USA)" index="true" image="d">
+		<description>DemiKids - Dark Version (USA)</description>
+		<cloneof></cloneof>
+		<crc>1BAB58BD</crc>
+		<manufacturer>Atlus Co.</manufacturer>
+		<year>2003</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="DemiKids - Light Version (USA)" index="" image="">
+		<description>DemiKids - Light Version (USA)</description>
+		<cloneof></cloneof>
+		<crc>DC4357C4</crc>
+		<manufacturer>Atlus Co.</manufacturer>
+		<year>2003</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Disney Princess - Royal Adventure (USA)" index="" image="">
+		<description>Disney Princess - Royal Adventure (USA)</description>
+		<cloneof></cloneof>
+		<crc>C6AD2251</crc>
+		<manufacturer>Buena Vista Games</manufacturer>
+		<year>2006</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dokapon (USA)" index="" image="">
+		<description>Dokapon (USA)</description>
+		<cloneof></cloneof>
+		<crc>5617E407</crc>
+		<manufacturer>AIA</manufacturer>
+		<year>2001</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dragon Ball Z - Buu&apos;s Fury (USA)" index="" image="">
+		<description>Dragon Ball Z - Buu&apos;s Fury (USA)</description>
+		<cloneof></cloneof>
+		<crc>01C1707F</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>2004</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dragon Ball Z - The Legacy of Goku (USA)" index="" image="">
+		<description>Dragon Ball Z - The Legacy of Goku (USA)</description>
+		<cloneof></cloneof>
+		<crc>D47CCFF4</crc>
+		<manufacturer>Infogrames</manufacturer>
+		<year>2002</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dragon Ball Z - The Legacy of Goku II (USA)" index="" image="">
+		<description>Dragon Ball Z - The Legacy of Goku II (USA)</description>
+		<cloneof></cloneof>
+		<crc>204142E1</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>2003</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dungeons &amp; Dragons - Eye of the Beholder (USA)" index="" image="">
+		<description>Dungeons &amp; Dragons - Eye of the Beholder (USA)</description>
+		<cloneof></cloneof>
+		<crc>91B16892</crc>
+		<manufacturer>Infogrames</manufacturer>
+		<year>2002</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Eragon (USA)" index="true" image="e">
+		<description>Eragon (USA)</description>
+		<cloneof></cloneof>
+		<crc>AF8AF2E8</crc>
+		<manufacturer>Sierra Entertainment</manufacturer>
+		<year>2006</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Final Fantasy I &amp; II - Dawn of Souls (USA, Australia)" index="true" image="f">
+		<description>Final Fantasy I &amp; II - Dawn of Souls (USA, Australia)</description>
+		<cloneof></cloneof>
+		<crc>1B39CDAB</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2004</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Final Fantasy IV Advance (USA, Australia)" index="" image="">
+		<description>Final Fantasy IV Advance (USA, Australia)</description>
+		<cloneof></cloneof>
+		<crc>FEEEBDE4</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2005</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Final Fantasy Tactics Advance (USA, Australia)" index="" image="">
+		<description>Final Fantasy Tactics Advance (USA, Australia)</description>
+		<cloneof></cloneof>
+		<crc>5645E56C</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2003</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Final Fantasy V Advance (USA)" index="" image="">
+		<description>Final Fantasy V Advance (USA)</description>
+		<cloneof></cloneof>
+		<crc>7A24AB0C</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2006</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Final Fantasy VI Advance (USA)" index="" image="">
+		<description>Final Fantasy VI Advance (USA)</description>
+		<cloneof></cloneof>
+		<crc>D708F5AB</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2007</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Golden Sun (USA, Europe)" index="true" image="g">
+		<description>Golden Sun (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>E1FB68E8</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2001</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Golden Sun - The Lost Age (USA, Europe)" index="" image="">
+		<description>Golden Sun - The Lost Age (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>606A1C4D</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2003</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hamtaro - Rainbow Rescue (Europe) (En,Fr,De,Es,It)" index="true" image="h">
+		<description>Hamtaro - Rainbow Rescue (Europe) (En,Fr,De,Es,It)</description>
+		<cloneof></cloneof>
+		<crc>5D051081</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2004</year>
+		<genre>Role-Playing</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hobbit, The (USA)" index="" image="">
+		<description>Hobbit, The (USA)</description>
+		<cloneof></cloneof>
+		<crc>D3F654B3</crc>
+		<manufacturer>Sierra Entertainment</manufacturer>
+		<year>2003</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Kingdom Hearts - Chain of Memories (USA)" index="true" image="k">
+		<description>Kingdom Hearts - Chain of Memories (USA)</description>
+		<cloneof></cloneof>
+		<crc>D031CE67</crc>
+		<manufacturer>Square Enix</manufacturer>
+		<year>2004</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lord of the Rings, The - The Fellowship of the Ring (USA)" index="true" image="l">
+		<description>Lord of the Rings, The - The Fellowship of the Ring (USA)</description>
+		<cloneof></cloneof>
+		<crc>EE0C58BC</crc>
+		<manufacturer>Sierra Entertainment</manufacturer>
+		<year>2002</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lord of the Rings, The - The Return of the King (USA, Europe) (En,Fr,De,Es,It)" index="" image="">
+		<description>Lord of the Rings, The - The Return of the King (USA, Europe) (En,Fr,De,Es,It)</description>
+		<cloneof></cloneof>
+		<crc>7590EBFA</crc>
+		<manufacturer>EA Games</manufacturer>
+		<year>2003</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lufia - The Ruins of Lore (USA)" index="" image="">
+		<description>Lufia - The Ruins of Lore (USA)</description>
+		<cloneof></cloneof>
+		<crc>DE5FFCBC</crc>
+		<manufacturer>Atlus Co.</manufacturer>
+		<year>2003</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lunar Legend (USA)" index="" image="">
+		<description>Lunar Legend (USA)</description>
+		<cloneof></cloneof>
+		<crc>885266A2</crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>2002</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mario &amp; Luigi - Superstar Saga (USA, Australia)" index="true" image="m">
+		<description>Mario &amp; Luigi - Superstar Saga (USA, Australia)</description>
+		<cloneof></cloneof>
+		<crc>E718D850</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2003</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Marvel - Ultimate Alliance (USA)" index="" image="">
+		<description>Marvel - Ultimate Alliance (USA)</description>
+		<cloneof></cloneof>
+		<crc>A74294DB</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2006</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mazes of Fate (USA) (En,Fr,De,Es,It)" index="" image="">
+		<description>Mazes of Fate (USA) (En,Fr,De,Es,It)</description>
+		<cloneof></cloneof>
+		<crc>0B725A08</crc>
+		<manufacturer>O3 Entertainment</manufacturer>
+		<year>2006</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Medabots - Metabee Version (USA)" index="" image="">
+		<description>Medabots - Metabee Version (USA)</description>
+		<cloneof></cloneof>
+		<crc>59F208FC</crc>
+		<manufacturer>Natsume</manufacturer>
+		<year>2003</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Medabots - Rokusho Version (USA)" index="" image="">
+		<description>Medabots - Rokusho Version (USA)</description>
+		<cloneof></cloneof>
+		<crc>E144DED2</crc>
+		<manufacturer>Natsume</manufacturer>
+		<year>2003</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mega Man Battle Network (USA)" index="" image="">
+		<description>Mega Man Battle Network (USA)</description>
+		<cloneof></cloneof>
+		<crc>1D347971</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>2001</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mega Man Battle Network 2 (USA)" index="" image="">
+		<description>Mega Man Battle Network 2 (USA)</description>
+		<cloneof></cloneof>
+		<crc>6D961F82</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>2002</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mega Man Battle Network 3 - Blue Version (USA)" index="" image="">
+		<description>Mega Man Battle Network 3 - Blue Version (USA)</description>
+		<cloneof></cloneof>
+		<crc>C0C780F9</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>2003</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mega Man Battle Network 3 - White Version (USA)" index="" image="">
+		<description>Mega Man Battle Network 3 - White Version (USA)</description>
+		<cloneof></cloneof>
+		<crc>0BE4410A</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>2003</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mega Man Battle Network 4 - Blue Moon (USA)" index="" image="">
+		<description>Mega Man Battle Network 4 - Blue Moon (USA)</description>
+		<cloneof></cloneof>
+		<crc>758A46E9</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>2004</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mega Man Battle Network 4 - Red Sun (USA)" index="" image="">
+		<description>Mega Man Battle Network 4 - Red Sun (USA)</description>
+		<cloneof></cloneof>
+		<crc>2120695C</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>2004</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mega Man Battle Network 5 - Team Colonel (USA)" index="" image="">
+		<description>Mega Man Battle Network 5 - Team Colonel (USA)</description>
+		<cloneof></cloneof>
+		<crc>A552F683</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>2005</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mega Man Battle Network 5 - Team Proto Man (USA)" index="" image="">
+		<description>Mega Man Battle Network 5 - Team Proto Man (USA)</description>
+		<cloneof></cloneof>
+		<crc>A73E83A4</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>2005</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mega Man Battle Network 6 - Cybeast Falzar (USA)" index="" image="">
+		<description>Mega Man Battle Network 6 - Cybeast Falzar (USA)</description>
+		<cloneof></cloneof>
+		<crc>DEE6F2A9</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>2006</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mega Man Battle Network 6 - Cybeast Gregar (USA)" index="" image="">
+		<description>Mega Man Battle Network 6 - Cybeast Gregar (USA)</description>
+		<cloneof></cloneof>
+		<crc>79452182</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>2006</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Phantasy Star Collection (USA)" index="true" image="p">
+		<description>Phantasy Star Collection (USA)</description>
+		<cloneof></cloneof>
+		<crc>E5A7FE17</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2002</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pokemon - Emerald Version (USA, Europe)" index="" image="">
+		<description>Pokemon - Emerald Version (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>1F1C08FB</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2005</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pokemon - Fire Red Version (USA, Europe) (Rev 1)" index="" image="">
+		<description>Pokemon - Fire Red Version (USA, Europe) (Rev 1)</description>
+		<cloneof></cloneof>
+		<crc>84EE4776</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2004</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pokemon - Leaf Green Version (USA)" index="" image="">
+		<description>Pokemon - Leaf Green Version (USA)</description>
+		<cloneof></cloneof>
+		<crc>D69C96CC</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2004</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pokemon - Ruby Version (USA, Europe) (Rev 2)" index="" image="">
+		<description>Pokemon - Ruby Version (USA, Europe) (Rev 2)</description>
+		<cloneof></cloneof>
+		<crc>AEAC73E6</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2003</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pokemon - Sapphire Version (USA, Europe) (Rev 2)" index="" image="">
+		<description>Pokemon - Sapphire Version (USA, Europe) (Rev 2)</description>
+		<cloneof></cloneof>
+		<crc>9CC4410E</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2003</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pokemon Mystery Dungeon - Red Rescue Team (USA, Australia)" index="" image="">
+		<description>Pokemon Mystery Dungeon - Red Rescue Team (USA, Australia)</description>
+		<cloneof></cloneof>
+		<crc>DD0AC86C</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2006</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Riviera - The Promised Land (USA)" index="true" image="r">
+		<description>Riviera - The Promised Land (USA)</description>
+		<cloneof></cloneof>
+		<crc>4FB6958D</crc>
+		<manufacturer>Atlus Co.</manufacturer>
+		<year>2005</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Robopon 2 - Cross Version (USA)" index="" image="">
+		<description>Robopon 2 - Cross Version (USA)</description>
+		<cloneof></cloneof>
+		<crc>68D3023A</crc>
+		<manufacturer>Atlus Co.</manufacturer>
+		<year>2002</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Robopon 2 - Ring Version (USA)" index="" image="">
+		<description>Robopon 2 - Ring Version (USA)</description>
+		<cloneof></cloneof>
+		<crc>CA73E17A</crc>
+		<manufacturer>Atlus Co.</manufacturer>
+		<year>2002</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Shining Soul (USA)" index="true" image="s">
+		<description>Shining Soul (USA)</description>
+		<cloneof></cloneof>
+		<crc>E95BBA0C</crc>
+		<manufacturer>Atlus Co.</manufacturer>
+		<year>2003</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Shining Soul II (USA)" index="" image="">
+		<description>Shining Soul II (USA)</description>
+		<cloneof></cloneof>
+		<crc>4038E282</crc>
+		<manufacturer>Atlus Co.</manufacturer>
+		<year>2004</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sigma Star Saga (USA, Europe)" index="" image="">
+		<description>Sigma Star Saga (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>A8B80A7C</crc>
+		<manufacturer>Namco</manufacturer>
+		<year>2005</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Summon Night - Swordcraft Story (USA)" index="" image="">
+		<description>Summon Night - Swordcraft Story (USA)</description>
+		<cloneof></cloneof>
+		<crc>3EA860C2</crc>
+		<manufacturer>Atlus Co.</manufacturer>
+		<year>2006</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Summon Night - Swordcraft Story 2 (USA)" index="" image="">
+		<description>Summon Night - Swordcraft Story 2 (USA)</description>
+		<cloneof></cloneof>
+		<crc>1EAC1F48</crc>
+		<manufacturer>Atlus Co.</manufacturer>
+		<year>2006</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sword of Mana (USA, Australia)" index="" image="">
+		<description>Sword of Mana (USA, Australia)</description>
+		<cloneof></cloneof>
+		<crc>7F1EAC75</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2003</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tales of Phantasia (USA, Australia)" index="true" image="t">
+		<description>Tales of Phantasia (USA, Australia)</description>
+		<cloneof></cloneof>
+		<crc>01A0FCA8</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2006</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Yu-Gi-Oh! - The Sacred Cards (USA)" index="true" image="y">
+		<description>Yu-Gi-Oh! - The Sacred Cards (USA)</description>
+		<cloneof></cloneof>
+		<crc>141FB1CC</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>2003</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Zoids Legacy (USA)" index="true" image="z">
+		<description>Zoids Legacy (USA)</description>
+		<cloneof></cloneof>
+		<crc>302E75F3</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>2004</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Nintendo Game Boy Advance</listname>
+		<lastlistupdate>10/27/2011</lastlistupdate>
+		<listversion>1.1 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="2 Games in 1 - Moto GP + GT Advance 3 - Pro Concept Racing (Europe) (En,Fr,De,Es,It+En)" index="true" image="2">
+		<description>2 Games in 1 - Moto GP + GT Advance 3 - Pro Concept Racing (Europe) (En,Fr,De,Es,It+En)</description>
+		<cloneof></cloneof>
+		<crc>51D6CEB0</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2004</year>
+		<genre>Driving/Motorcycle</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Classic NES Series - Excitebike (USA, Europe)" index="true" image="c">
+		<description>Classic NES Series - Excitebike (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>945C292F</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2004</year>
+		<genre>Motorcycle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Disney Sports - Motocross (USA)" index="true" image="d">
+		<description>Disney Sports - Motocross (USA)</description>
+		<cloneof></cloneof>
+		<crc>A771AD79</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>2003</year>
+		<genre>Motorcycle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Freekstyle (USA)" index="true" image="f">
+		<description>Freekstyle (USA)</description>
+		<cloneof></cloneof>
+		<crc>72434345</crc>
+		<manufacturer>Destination Software</manufacturer>
+		<year>2003</year>
+		<genre>Motorcycle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Moto GP (USA) (En,Fr,De,Es,It)" index="true" image="m">
+		<description>Moto GP (USA) (En,Fr,De,Es,It)</description>
+		<cloneof></cloneof>
+		<crc>8EE93EB8</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2002</year>
+		<genre>Motorcycle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Motocross Maniacs Advance (USA) (En,Es)" index="" image="">
+		<description>Motocross Maniacs Advance (USA) (En,Es)</description>
+		<cloneof></cloneof>
+		<crc>0A0FAEF4</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>2002</year>
+		<genre>Motorcycle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Motoracer Advance (USA) (En,Fr,De,Es,It)" index="" image="">
+		<description>Motoracer Advance (USA) (En,Fr,De,Es,It)</description>
+		<cloneof></cloneof>
+		<crc>2FDBE7A8</crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>2002</year>
+		<genre>Motorcycle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="MX 2002 featuring Ricky Carmichael (USA, Europe)" index="" image="">
+		<description>MX 2002 featuring Ricky Carmichael (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>0BF1DC56</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2001</year>
+		<genre>Motorcycle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Road Rash - Jailbreak (USA)" index="true" image="r">
+		<description>Road Rash - Jailbreak (USA)</description>
+		<cloneof></cloneof>
+		<crc>8834AF99</crc>
+		<manufacturer>Electronic Arts</manufacturer>
+		<year>2003</year>
+		<genre>Motorcycle</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="XS Moto (USA)" index="true" image="x">
+		<description>XS Moto (USA)</description>
+		<cloneof></cloneof>
+		<crc>6DBBC17C</crc>
+		<manufacturer>XS Games</manufacturer>
+		<year>2004</year>
+		<genre>Motorcycle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

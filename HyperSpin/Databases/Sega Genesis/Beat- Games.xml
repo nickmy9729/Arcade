@@ -1,0 +1,379 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Sega Genesis</listname>
+		<lastlistupdate>02/21/2013</lastlistupdate>
+		<listversion>1.2 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="Alien Storm (World)" index="true" image="a">
+		<description>Alien Storm (World)</description>
+		<cloneof></cloneof>
+		<crc>f5ac8de5</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1991</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Altered Beast (USA, Europe)" index="" image="">
+		<description>Altered Beast (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>154d59bb</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1989</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Battletoads &amp; Double Dragon (USA)" index="true" image="b">
+		<description>Battletoads &amp; Double Dragon (USA)</description>
+		<cloneof></cloneof>
+		<crc>8239dd17</crc>
+		<manufacturer>Rare</manufacturer>
+		<year>1993</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Battletoads (World)" index="" image="">
+		<description>Battletoads (World)</description>
+		<cloneof></cloneof>
+		<crc>d10e103a</crc>
+		<manufacturer>Rare</manufacturer>
+		<year>1991</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Captain America and the Avengers (USA)" index="true" image="c">
+		<description>Captain America and the Avengers (USA)</description>
+		<cloneof></cloneof>
+		<crc>e0639ca2</crc>
+		<manufacturer>OperaHouse</manufacturer>
+		<year>1992</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cliffhanger (USA)" index="" image="">
+		<description>Cliffhanger (USA)</description>
+		<cloneof></cloneof>
+		<crc>9cbf44d3</crc>
+		<manufacturer>Malibu</manufacturer>
+		<year>1993</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Comix Zone (USA)" index="" image="">
+		<description>Comix Zone (USA)</description>
+		<cloneof></cloneof>
+		<crc>17da0354</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1995</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cyborg Justice (USA, Europe)" index="" image="">
+		<description>Cyborg Justice (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>ab0d1269</crc>
+		<manufacturer>Novotrade</manufacturer>
+		<year>1993</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Death and Return of Superman, The (USA)" index="true" image="d">
+		<description>Death and Return of Superman, The (USA)</description>
+		<cloneof></cloneof>
+		<crc>982242d3</crc>
+		<manufacturer>Blizzard Entertainment</manufacturer>
+		<year>1995</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="DJ Boy (USA)" index="" image="">
+		<description>DJ Boy (USA)</description>
+		<cloneof></cloneof>
+		<crc>dc9f02db</crc>
+		<manufacturer>Kaneko</manufacturer>
+		<year>1990</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Double Dragon (USA, Europe)" index="" image="">
+		<description>Double Dragon (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>054f5d53</crc>
+		<manufacturer>Software Creations</manufacturer>
+		<year>1993</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Double Dragon 3 - The Arcade Game (USA, Europe)" index="" image="">
+		<description>Double Dragon 3 - The Arcade Game (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>b36ab75c</crc>
+		<manufacturer>Software Creations</manufacturer>
+		<year>1992</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Golden Axe (World) (v1.1)" index="true" image="g">
+		<description>Golden Axe (World) (v1.1)</description>
+		<cloneof></cloneof>
+		<crc>665d7df9</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1989</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Golden Axe II (World)" index="" image="">
+		<description>Golden Axe II (World)</description>
+		<cloneof></cloneof>
+		<crc>725e0a18</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1991</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Growl (USA)" index="" image="">
+		<description>Growl (USA)</description>
+		<cloneof></cloneof>
+		<crc>f60ef143</crc>
+		<manufacturer>Taito</manufacturer>
+		<year>1991</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Last Action Hero (USA, Europe)" index="true" image="l">
+		<description>Last Action Hero (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>15357dde</crc>
+		<manufacturer>Bits Studios</manufacturer>
+		<year>1993</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mazin Saga - Mutant Fighter (USA)" index="true" image="m">
+		<description>Mazin Saga - Mutant Fighter (USA)</description>
+		<cloneof></cloneof>
+		<crc>1bd9fef1</crc>
+		<manufacturer>Almanic Corp.</manufacturer>
+		<year>1993</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mighty Morphin Power Rangers (USA)" index="" image="">
+		<description>Mighty Morphin Power Rangers (USA)</description>
+		<cloneof></cloneof>
+		<crc>715158a9</crc>
+		<manufacturer>Sims</manufacturer>
+		<year>1995</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mighty Morphin Power Rangers - The Movie (USA)" index="" image="">
+		<description>Mighty Morphin Power Rangers - The Movie (USA)</description>
+		<cloneof></cloneof>
+		<crc>aa941cbc</crc>
+		<manufacturer>Bandai</manufacturer>
+		<year>1994</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mystical Fighter (USA)" index="" image="">
+		<description>Mystical Fighter (USA)</description>
+		<cloneof></cloneof>
+		<crc>b2f2a69b</crc>
+		<manufacturer>Kid</manufacturer>
+		<year>1992</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Punisher, The (USA)" index="true" image="p">
+		<description>Punisher, The (USA)</description>
+		<cloneof></cloneof>
+		<crc>695cd8b8</crc>
+		<manufacturer>Sculptured Software</manufacturer>
+		<year>1994</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Second Samurai (Europe)" index="true" image="s">
+		<description>Second Samurai (Europe)</description>
+		<cloneof></cloneof>
+		<crc>78e92143</crc>
+		<manufacturer>Vivid Image</manufacturer>
+		<year>1994</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Shinobi III - Return of the Ninja Master (USA)" index="" image="">
+		<description>Shinobi III - Return of the Ninja Master (USA)</description>
+		<cloneof></cloneof>
+		<crc>5381506f</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1993</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Spider-Man and Venom - Maximum Carnage (World)" index="" image="">
+		<description>Spider-Man and Venom - Maximum Carnage (World)</description>
+		<cloneof></cloneof>
+		<crc>8fa0b6e6</crc>
+		<manufacturer>Software Creations</manufacturer>
+		<year>1994</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Spider-Man and Venom - Separation Anxiety (USA, Europe)" index="" image="">
+		<description>Spider-Man and Venom - Separation Anxiety (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>512ade32</crc>
+		<manufacturer>Software Creations</manufacturer>
+		<year>1995</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Splatterhouse 2 (USA)" index="" image="">
+		<description>Splatterhouse 2 (USA)</description>
+		<cloneof></cloneof>
+		<crc>2d1766e9</crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1992</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Splatterhouse 3 (USA)" index="" image="">
+		<description>Splatterhouse 3 (USA)</description>
+		<cloneof></cloneof>
+		<crc>00f05d07</crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1993</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Streets of Rage (World) (Rev A)" index="" image="">
+		<description>Streets of Rage (World) (Rev A)</description>
+		<cloneof></cloneof>
+		<crc>4052e845</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1991</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Streets of Rage 2 (USA)" index="" image="">
+		<description>Streets of Rage 2 (USA)</description>
+		<cloneof></cloneof>
+		<crc>e01fa526</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1992</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Streets of Rage 3 (USA)" index="" image="">
+		<description>Streets of Rage 3 (USA)</description>
+		<cloneof></cloneof>
+		<crc>d5bb15d9</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1994</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Superman (USA)" index="" image="">
+		<description>Superman (USA)</description>
+		<cloneof></cloneof>
+		<crc>543a5869</crc>
+		<manufacturer>SunSoft</manufacturer>
+		<year>1992</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sword of Sodan (USA, Europe)" index="" image="">
+		<description>Sword of Sodan (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>9cb8468f</crc>
+		<manufacturer>Innerprise Software</manufacturer>
+		<year>1990</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Teenage Mutant Ninja Turtles - The Hyperstone Heist (USA)" index="true" image="t">
+		<description>Teenage Mutant Ninja Turtles - The Hyperstone Heist (USA)</description>
+		<cloneof></cloneof>
+		<crc>679c41de</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1992</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Thunder Fox (USA)" index="" image="">
+		<description>Thunder Fox (USA)</description>
+		<cloneof></cloneof>
+		<crc>5463f50f</crc>
+		<manufacturer>Aisystem Tokyo</manufacturer>
+		<year>1991</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tick, The (USA)" index="" image="">
+		<description>Tick, The (USA)</description>
+		<cloneof></cloneof>
+		<crc>425132f0</crc>
+		<manufacturer>Software Creations</manufacturer>
+		<year>1994</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Toxic Crusaders (USA)" index="" image="">
+		<description>Toxic Crusaders (USA)</description>
+		<cloneof></cloneof>
+		<crc>11fd46ce</crc>
+		<manufacturer>Infogrames</manufacturer>
+		<year>1992</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Twin Hawk (Japan, Europe)" index="" image="">
+		<description>Twin Hawk (Japan, Europe)</description>
+		<cloneof></cloneof>
+		<crc>a2ec8c67</crc>
+		<manufacturer>OperaHouse</manufacturer>
+		<year>1992</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Nintendo 64</listname>
+		<lastlistupdate>11/15/2011</lastlistupdate>
+		<listversion>1.1 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="Monopoly (USA)" index="true" image="m">
+		<description>Monopoly (USA)</description>
+		<cloneof></cloneof>
+		<crc>416B1F8F</crc>
+		<manufacturer>Hasbro Interactive</manufacturer>
+		<year>1999</year>
+		<genre>Board Games</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rugrats - Scavenger Hunt (USA)" index="true" image="r">
+		<description>Rugrats - Scavenger Hunt (USA)</description>
+		<cloneof></cloneof>
+		<crc>EA79AD0A</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>1999</year>
+		<genre>Board Games</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Virtual Chess 64 (USA) (En,Fr,Es)" index="true" image="v">
+		<description>Virtual Chess 64 (USA) (En,Fr,Es)</description>
+		<cloneof></cloneof>
+		<crc>3CD894C4</crc>
+		<manufacturer>Titus Software</manufacturer>
+		<year>1998</year>
+		<genre>Board Games</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

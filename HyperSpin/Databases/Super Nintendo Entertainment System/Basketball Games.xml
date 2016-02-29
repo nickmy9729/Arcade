@@ -1,0 +1,209 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Super Nintendo Entertainment System</listname>
+		<lastlistupdate>11/26/2011</lastlistupdate>
+		<listversion>1.3 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="Barkley Shut Up and Jam! (USA)" index="true" image="b">
+		<description>Barkley Shut Up and Jam! (USA)</description>
+		<cloneof></cloneof>
+		<crc>726b6c5a</crc>
+		<manufacturer>Accolade</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Basketball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bill Laimbeer&apos;s Combat Basketball (USA)" index="" image="">
+		<description>Bill Laimbeer&apos;s Combat Basketball (USA)</description>
+		<cloneof></cloneof>
+		<crc>468d8cdd</crc>
+		<manufacturer>Hudson Soft</manufacturer>
+		<year>1991</year>
+		<genre>Sports/Basketball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bulls vs Blazers and the NBA Playoffs (USA) (Rev 1)" index="" image="">
+		<description>Bulls vs Blazers and the NBA Playoffs (USA) (Rev 1)</description>
+		<cloneof></cloneof>
+		<crc>c2e91694</crc>
+		<manufacturer>EA Sports</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Basketball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="College Slam (USA)" index="true" image="c">
+		<description>College Slam (USA)</description>
+		<cloneof></cloneof>
+		<crc>ce842c6d</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1996</year>
+		<genre>Sports/Basketball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Jammit (USA)" index="true" image="j">
+		<description>Jammit (USA)</description>
+		<cloneof></cloneof>
+		<crc>7bddd73f</crc>
+		<manufacturer>GTE Entertainment</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Basketball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NBA All-Star Challenge (USA)" index="true" image="n">
+		<description>NBA All-Star Challenge (USA)</description>
+		<cloneof></cloneof>
+		<crc>a905a565</crc>
+		<manufacturer>LJN Ltd.</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Basketball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NBA Give &apos;n Go (USA)" index="" image="">
+		<description>NBA Give &apos;n Go (USA)</description>
+		<cloneof></cloneof>
+		<crc>68c8b643</crc>
+		<manufacturer>KCEO</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Basketball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NBA Hang Time (USA)" index="" image="">
+		<description>NBA Hang Time (USA)</description>
+		<cloneof></cloneof>
+		<crc>262ce76b</crc>
+		<manufacturer>Midway</manufacturer>
+		<year>1996</year>
+		<genre>Sports/Basketball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NBA Jam (USA) (Rev 1)" index="" image="">
+		<description>NBA Jam (USA) (Rev 1)</description>
+		<cloneof></cloneof>
+		<crc>8f42cae7</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Basketball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NBA Jam - Tournament Edition (USA)" index="" image="">
+		<description>NBA Jam - Tournament Edition (USA)</description>
+		<cloneof></cloneof>
+		<crc>1fbc1ddb</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Basketball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NBA Live 95 (USA)" index="" image="">
+		<description>NBA Live 95 (USA)</description>
+		<cloneof></cloneof>
+		<crc>1cd2393d</crc>
+		<manufacturer>EA Sports</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Basketball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NBA Live 96 (USA)" index="" image="">
+		<description>NBA Live 96 (USA)</description>
+		<cloneof></cloneof>
+		<crc>042a6495</crc>
+		<manufacturer>EA Sports</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Basketball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NBA Live 97 (USA)" index="" image="">
+		<description>NBA Live 97 (USA)</description>
+		<cloneof></cloneof>
+		<crc>5115b8e5</crc>
+		<manufacturer>EA Sports</manufacturer>
+		<year>1996</year>
+		<genre>Sports/Basketball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NBA Live 98 (USA)" index="" image="">
+		<description>NBA Live 98 (USA)</description>
+		<cloneof></cloneof>
+		<crc>514bfcb5</crc>
+		<manufacturer>EA Sports</manufacturer>
+		<year>1998</year>
+		<genre>Sports/Basketball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NBA Showdown (USA)" index="" image="">
+		<description>NBA Showdown (USA)</description>
+		<cloneof></cloneof>
+		<crc>65746f02</crc>
+		<manufacturer>EA Sports</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Basketball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NCAA Basketball (USA) (Rev 1)" index="" image="">
+		<description>NCAA Basketball (USA) (Rev 1)</description>
+		<cloneof></cloneof>
+		<crc>200370a2</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Basketball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NCAA Final Four Basketball (USA)" index="" image="">
+		<description>NCAA Final Four Basketball (USA)</description>
+		<cloneof></cloneof>
+		<crc>b07cfa91</crc>
+		<manufacturer>Mindscape</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Basketball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rap Jam - Volume One (USA)" index="true" image="r">
+		<description>Rap Jam - Volume One (USA)</description>
+		<cloneof></cloneof>
+		<crc>adf4ffce</crc>
+		<manufacturer>Mandingo</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Basketball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Slam Dunk (USA)" index="true" image="s">
+		<description>Super Slam Dunk (USA)</description>
+		<cloneof></cloneof>
+		<crc>3effc9e5</crc>
+		<manufacturer>Virgin Interactive</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Basketball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tecmo Super NBA Basketball (USA)" index="true" image="t">
+		<description>Tecmo Super NBA Basketball (USA)</description>
+		<cloneof></cloneof>
+		<crc>1b6f0b43</crc>
+		<manufacturer>Tecmo</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Basketball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

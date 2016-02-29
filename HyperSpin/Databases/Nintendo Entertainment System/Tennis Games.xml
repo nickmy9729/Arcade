@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Nintendo Entertainment System</listname>
+		<lastlistupdate>07/28/2013</lastlistupdate>
+		<listversion>1.1 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="Chris Evert &amp; Ivan Lendl in Top Players&apos; Tennis (USA)" index="true" image="c">
+		<description>Chris Evert &amp; Ivan Lendl in Top Players&apos; Tennis (USA)</description>
+		<cloneof></cloneof>
+		<crc>F99E37EB</crc>
+		<manufacturer>Asmik Corporation of America</manufacturer>
+		<year>1990</year>
+		<genre>Sports/Tennis</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Jimmy Connors Tennis (USA)" index="true" image="j">
+		<description>Jimmy Connors Tennis (USA)</description>
+		<cloneof></cloneof>
+		<crc>00E95D86</crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Tennis</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Racket Attack (USA)" index="true" image="r">
+		<description>Racket Attack (USA)</description>
+		<cloneof></cloneof>
+		<crc>ECCD4089</crc>
+		<manufacturer>Jaleco Entertainment</manufacturer>
+		<year>1988</year>
+		<genre>Sports/Tennis</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rackets &amp; Rivals (Europe)" index="" image="">
+		<description>Rackets &amp; Rivals (Europe)</description>
+		<cloneof></cloneof>
+		<crc>8FA6E92C</crc>
+		<manufacturer>Palcom</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Tennis</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rad Racket - Deluxe Tennis II (USA) (Unl)" index="" image="">
+		<description>Rad Racket - Deluxe Tennis II (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>BDE7A7B5</crc>
+		<manufacturer>American Video Entertainment</manufacturer>
+		<year>1991</year>
+		<genre>Sports/Tennis</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tennis (Japan, USA)" index="true" image="t">
+		<description>Tennis (Japan, USA)</description>
+		<cloneof></cloneof>
+		<crc>D4D9E21A</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1985</year>
+		<genre>Sports/Tennis</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

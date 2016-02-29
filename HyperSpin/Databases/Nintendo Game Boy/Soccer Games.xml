@@ -1,0 +1,149 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Nintendo Game Boy</listname>
+		<lastlistupdate>06/08/2013</lastlistupdate>
+		<listversion>1.1 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="Elite Soccer (USA)" index="true" image="e">
+		<description>Elite Soccer (USA)</description>
+		<cloneof></cloneof>
+		<crc>f54158a6</crc>
+		<manufacturer>GameTek</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Soccer</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="FIFA International Soccer (USA, Europe)" index="true" image="f">
+		<description>FIFA International Soccer (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>e5989908</crc>
+		<manufacturer>Malibu Games</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Soccer</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="FIFA Road to the World Cup &apos;98 (Europe)" index="" image="">
+		<description>FIFA Road to the World Cup \&apos;98 (Europe)</description>
+		<cloneof></cloneof>
+		<crc>cdf6a5ac</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>1997</year>
+		<genre>Sports/Soccer</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="FIFA Soccer &apos;96 (USA, Europe)" index="" image="">
+		<description>FIFA Soccer \&apos;96 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>af4a5de1</crc>
+		<manufacturer>EA Sports</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Soccer</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="FIFA Soccer &apos;97 (USA, Europe)" index="" image="">
+		<description>FIFA Soccer \&apos;97 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>dcab906c</crc>
+		<manufacturer>EA Sports</manufacturer>
+		<year>1996</year>
+		<genre>Sports/Soccer</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Goal! (USA)" index="true" image="g">
+		<description>Goal! (USA)</description>
+		<cloneof></cloneof>
+		<crc>00d4caf2</crc>
+		<manufacturer>Jaleco Entertainment</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Soccer</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="International Superstar Soccer (USA, Europe)" index="true" image="i">
+		<description>International Superstar Soccer (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>94757be8</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1998</year>
+		<genre>Sports/Soccer</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Magnetic Soccer (Europe)" index="true" image="m">
+		<description>Magnetic Soccer (Europe)</description>
+		<cloneof></cloneof>
+		<crc>9c318c64</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Soccer</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Nintendo World Cup (USA, Europe)" index="true" image="n">
+		<description>Nintendo World Cup (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>96c24e13</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1991</year>
+		<genre>Sports/Soccer</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sensible Soccer - European Champions (Europe)" index="true" image="s">
+		<description>Sensible Soccer - European Champions (Europe)</description>
+		<cloneof></cloneof>
+		<crc>bd022658</crc>
+		<manufacturer>Renegade</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Soccer</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Soccer Mania (Japan, USA)" index="" image="">
+		<description>Soccer Mania (Japan, USA)</description>
+		<cloneof></cloneof>
+		<crc>6f87b543</crc>
+		<manufacturer>Sony Imagesoft</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Soccer</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Kick Off (Europe)" index="" image="">
+		<description>Super Kick Off (Europe)</description>
+		<cloneof></cloneof>
+		<crc>4b1dfe3d</crc>
+		<manufacturer>Imagineer</manufacturer>
+		<year>1991</year>
+		<genre>Sports/Soccer</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="World Cup 98 (USA, Europe)" index="true" image="w">
+		<description>World Cup 98 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>6a3272b1</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>1998</year>
+		<genre>Sports/Soccer</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="World Cup USA &apos;94 (Europe)" index="" image="">
+		<description>World Cup USA \&apos;94 (Europe)</description>
+		<cloneof></cloneof>
+		<crc>60231f83</crc>
+		<manufacturer>U.S. Gold</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Soccer</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

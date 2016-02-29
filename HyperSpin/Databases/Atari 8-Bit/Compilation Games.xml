@@ -1,0 +1,479 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Atari 8-Bit</listname>
+		<lastlistupdate>05/17/2015</lastlistupdate>
+		<listversion>1.0</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="Adventure Pack (USA)" index="true" image="a">
+		<description>Adventure Pack (USA)</description>
+		<cloneof></cloneof>
+		<crc>A3CA4D7B</crc>
+		<manufacturer>Keypunch Software</manufacturer>
+		<year>19xx</year>
+		<genre>Compilation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Arcade Bonanza (USA)" index="" image="">
+		<description>Arcade Bonanza (USA)</description>
+		<cloneof></cloneof>
+		<crc>20890B05</crc>
+		<manufacturer>Keypunch Software</manufacturer>
+		<year>1985</year>
+		<genre>Compilation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Arcade II (USA)" index="" image="">
+		<description>Arcade II (USA)</description>
+		<cloneof></cloneof>
+		<crc>4F1AFBE9</crc>
+		<manufacturer>Keypunch Software</manufacturer>
+		<year>1985</year>
+		<genre>Compilation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Atari Smash Hits - Volume 1 (Europe)" index="" image="">
+		<description>Atari Smash Hits - Volume 1 (Europe)</description>
+		<cloneof></cloneof>
+		<crc>86F80949</crc>
+		<manufacturer>English Software</manufacturer>
+		<year>1985</year>
+		<genre>Compilation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Atari Smash Hits - Volume 2 (Europe) (Side A)" index="" image="">
+		<description>Atari Smash Hits - Volume 2 (Europe) (Side A)</description>
+		<cloneof></cloneof>
+		<crc>1DA6C166</crc>
+		<manufacturer>English Software</manufacturer>
+		<year>1985</year>
+		<genre>Compilation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Atari Smash Hits - Volume 2 (Europe) (Side B)" index="" image="">
+		<description>Atari Smash Hits - Volume 2 (Europe) (Side B)</description>
+		<cloneof></cloneof>
+		<crc>AC9B4D20</crc>
+		<manufacturer>English Software</manufacturer>
+		<year>1985</year>
+		<genre>Compilation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Atari Smash Hits - Volume 3 (Europe) (Side A)" index="" image="">
+		<description>Atari Smash Hits - Volume 3 (Europe) (Side A)</description>
+		<cloneof></cloneof>
+		<crc>4CBB1688</crc>
+		<manufacturer>English Software</manufacturer>
+		<year>1985</year>
+		<genre>Compilation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Atari Smash Hits - Volume 3 (Europe) (Side B)" index="" image="">
+		<description>Atari Smash Hits - Volume 3 (Europe) (Side B)</description>
+		<cloneof></cloneof>
+		<crc>B24D7DED</crc>
+		<manufacturer>English Software</manufacturer>
+		<year>1985</year>
+		<genre>Compilation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Balloon Pop &amp; Pylon Racer (USA)" index="true" image="b">
+		<description>Balloon Pop &amp; Pylon Racer (USA)</description>
+		<cloneof></cloneof>
+		<crc>3CB02960</crc>
+		<manufacturer>Sebree&apos;s Computing</manufacturer>
+		<year>1981</year>
+		<genre>Compilation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Battling Bugs &amp; Concentraction (USA)" index="" image="">
+		<description>Battling Bugs &amp; Concentraction (USA)</description>
+		<cloneof></cloneof>
+		<crc>C8D04A94</crc>
+		<manufacturer>Milliken</manufacturer>
+		<year>1982</year>
+		<genre>Compilation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bishop&apos;s Square &amp; Maxwell&apos;s Demon (USA)" index="" image="">
+		<description>Bishop&apos;s Square &amp; Maxwell&apos;s Demon (USA)</description>
+		<cloneof></cloneof>
+		<crc>81232CE2</crc>
+		<manufacturer>Datasoft</manufacturer>
+		<year>1982</year>
+		<genre>Compilation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cassette 50 (Europe) (Side A)" index="true" image="c">
+		<description>Cassette 50 (Europe) (Side A)</description>
+		<cloneof></cloneof>
+		<crc>C9F63C44</crc>
+		<manufacturer>Cascade Games</manufacturer>
+		<year>1984</year>
+		<genre>Compilation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cassette 50 (Europe) (Side B)" index="" image="">
+		<description>Cassette 50 (Europe) (Side B)</description>
+		<cloneof></cloneof>
+		<crc>D02D306A</crc>
+		<manufacturer>Cascade Games</manufacturer>
+		<year>1984</year>
+		<genre>Compilation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Casten Game Disk, The (USA)" index="" image="">
+		<description>Casten Game Disk, The (USA)</description>
+		<cloneof></cloneof>
+		<crc>7C4EE457</crc>
+		<manufacturer>Antic</manufacturer>
+		<year>1985</year>
+		<genre>Compilation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Deflection &amp; Simon Says (USA)" index="true" image="d">
+		<description>Deflection &amp; Simon Says (USA)</description>
+		<cloneof></cloneof>
+		<crc>D2DA5C2D</crc>
+		<manufacturer>Adventure International</manufacturer>
+		<year>1980</year>
+		<genre>Compilation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Easy Money (Poland)" index="true" image="e">
+		<description>Easy Money (Poland)</description>
+		<cloneof></cloneof>
+		<crc>8FE0A9C1</crc>
+		<manufacturer>L.K. Avalon</manufacturer>
+		<year>1993</year>
+		<genre>Compilation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Four Great Games Volume 3 (Europe) (Side A)" index="true" image="f">
+		<description>Four Great Games Volume 3 (Europe) (Side A)</description>
+		<cloneof></cloneof>
+		<crc>732291D9</crc>
+		<manufacturer>MicroValue</manufacturer>
+		<year>1987</year>
+		<genre>Compilation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Four Great Games Volume 3 (Europe) (Side B)" index="" image="">
+		<description>Four Great Games Volume 3 (Europe) (Side B)</description>
+		<cloneof></cloneof>
+		<crc>27D0BBF8</crc>
+		<manufacturer>MicroValue</manufacturer>
+		<year>1987</year>
+		<genre>Compilation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Games Pack I (USA)" index="true" image="g">
+		<description>Games Pack I (USA)</description>
+		<cloneof></cloneof>
+		<crc>599CE498</crc>
+		<manufacturer>Dynacomp</manufacturer>
+		<year>1981</year>
+		<genre>Compilation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Games Pack II (USA)" index="" image="">
+		<description>Games Pack II (USA)</description>
+		<cloneof></cloneof>
+		<crc>564D1F01</crc>
+		<manufacturer>Dynacomp</manufacturer>
+		<year>1981</year>
+		<genre>Compilation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Golden Oldies - Volume 1 (USA) (Side A)" index="" image="">
+		<description>Golden Oldies - Volume 1 (USA) (Side A)</description>
+		<cloneof></cloneof>
+		<crc>05679B88</crc>
+		<manufacturer>Software Country</manufacturer>
+		<year>1985</year>
+		<genre>Compilation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Golden Oldies - Volume 1 (USA) (Side B)" index="" image="">
+		<description>Golden Oldies - Volume 1 (USA) (Side B)</description>
+		<cloneof></cloneof>
+		<crc>23411196</crc>
+		<manufacturer>Software Country</manufacturer>
+		<year>1985</year>
+		<genre>Compilation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hydraulik &amp; Snowball (Europe)" index="true" image="h">
+		<description>Hydraulik &amp; Snowball (Europe)</description>
+		<cloneof></cloneof>
+		<crc>95B2007E</crc>
+		<manufacturer>LK Avalon</manufacturer>
+		<year>1993</year>
+		<genre>Compilation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Imperial Walker (USA)" index="true" image="i">
+		<description>Imperial Walker (USA)</description>
+		<cloneof></cloneof>
+		<crc>6653E0FC</crc>
+		<manufacturer>Crystalware</manufacturer>
+		<year>1981</year>
+		<genre>Compilation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Jewels of Darkness Trilogy, The (Europe)" index="true" image="j">
+		<description>Jewels of Darkness Trilogy, The (Europe)</description>
+		<cloneof></cloneof>
+		<crc>5976C652</crc>
+		<manufacturer>Rainbird</manufacturer>
+		<year>1986</year>
+		<genre>Compilation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Little Crystal (USA)" index="true" image="l">
+		<description>Little Crystal (USA)</description>
+		<cloneof></cloneof>
+		<crc>9A6BEC88</crc>
+		<manufacturer>Crystalware</manufacturer>
+		<year>1981</year>
+		<genre>Compilation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Maxwell&apos;s Demon &amp; Memory Mania (USA)" index="true" image="m">
+		<description>Maxwell&apos;s Demon &amp; Memory Mania (USA)</description>
+		<cloneof></cloneof>
+		<crc>D8B216D2</crc>
+		<manufacturer>Gentry Software</manufacturer>
+		<year>1983</year>
+		<genre>Compilation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mind Mazes (USA)" index="" image="">
+		<description>Mind Mazes (USA)</description>
+		<cloneof></cloneof>
+		<crc>47105D4A</crc>
+		<manufacturer>Keypunch Software</manufacturer>
+		<year>1985</year>
+		<genre>Compilation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Nuke Sub &amp; Galaxy Defender (USA)" index="true" image="n">
+		<description>Nuke Sub &amp; Galaxy Defender (USA)</description>
+		<cloneof></cloneof>
+		<crc>17449F40</crc>
+		<manufacturer>Amulet Enterprises</manufacturer>
+		<year>1981</year>
+		<genre>Compilation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Player&apos;s Dream III (Europe)" index="true" image="p">
+		<description>Player&apos;s Dream III (Europe)</description>
+		<cloneof></cloneof>
+		<crc>1D53616B</crc>
+		<manufacturer>KE-Soft</manufacturer>
+		<year>1991</year>
+		<genre>Compilation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Proto&apos;s Favorite Games (USA)" index="" image="">
+		<description>Proto&apos;s Favorite Games (USA)</description>
+		<cloneof></cloneof>
+		<crc>168F1F34</crc>
+		<manufacturer>Educational Software, Inc.</manufacturer>
+		<year>1983</year>
+		<genre>Compilation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sawfish Software Public Domain #1 (Germany) (Unl) (Side A)" index="true" image="s">
+		<description>Sawfish Software Public Domain #1 (Germany) (Unl) (Side A)</description>
+		<cloneof></cloneof>
+		<crc>0AA5D868</crc>
+		<manufacturer>Sawfish Software</manufacturer>
+		<year>19xx</year>
+		<genre>Compilation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sawfish Software Public Domain #1 (Germany) (Unl) (Side B)" index="" image="">
+		<description>Sawfish Software Public Domain #1 (Germany) (Unl) (Side B)</description>
+		<cloneof></cloneof>
+		<crc>59CDFD96</crc>
+		<manufacturer>Sawfish Software</manufacturer>
+		<year>19xx</year>
+		<genre>Compilation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Space Games (Keypunch Software) (USA)" index="" image="">
+		<description>Space Games (Keypunch Software) (USA)</description>
+		<cloneof></cloneof>
+		<crc>7F45A6AA</crc>
+		<manufacturer>Keypunch Software</manufacturer>
+		<year>19xx</year>
+		<genre>Compilation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Space Knights (USA)" index="" image="">
+		<description>Space Knights (USA)</description>
+		<cloneof></cloneof>
+		<crc>45FA3462</crc>
+		<manufacturer>Reston Publishing Co.</manufacturer>
+		<year>1983</year>
+		<genre>Compilation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sports Spectacular (USA)" index="" image="">
+		<description>Sports Spectacular (USA)</description>
+		<cloneof></cloneof>
+		<crc>9A7BE332</crc>
+		<manufacturer>Keypunch Software</manufacturer>
+		<year>1987</year>
+		<genre>Compilation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Strategy Simulations (USA)" index="" image="">
+		<description>Strategy Simulations (USA)</description>
+		<cloneof></cloneof>
+		<crc>A44F6A94</crc>
+		<manufacturer>Keypunch Software</manufacturer>
+		<year>19xx</year>
+		<genre>Compilation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Swede 1 (USA)" index="" image="">
+		<description>Swede 1 (USA)</description>
+		<cloneof></cloneof>
+		<crc>CCADFC12</crc>
+		<manufacturer>SBS Software</manufacturer>
+		<year>1981</year>
+		<genre>Compilation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tauz &amp; Kelb (USA) (Side A)" index="true" image="t">
+		<description>Tauz &amp; Kelb (USA) (Side A)</description>
+		<cloneof></cloneof>
+		<crc>8E46A995</crc>
+		<manufacturer>Rassilon</manufacturer>
+		<year>1988</year>
+		<genre>Compilation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tauz &amp; Kelb (USA) (Side B)" index="" image="">
+		<description>Tauz &amp; Kelb (USA) (Side B)</description>
+		<cloneof></cloneof>
+		<crc>191DDAD4</crc>
+		<manufacturer>Rassilon</manufacturer>
+		<year>1988</year>
+		<genre>Compilation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Three Holiday Games (USA) (Side 1)" index="" image="">
+		<description>Three Holiday Games (USA) (Side 1)</description>
+		<cloneof></cloneof>
+		<crc>222815B7</crc>
+		<manufacturer>APX</manufacturer>
+		<year>1982</year>
+		<genre>Compilation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Three Holiday Games (USA) (Side 2)" index="" image="">
+		<description>Three Holiday Games (USA) (Side 2)</description>
+		<cloneof></cloneof>
+		<crc>93C2C449</crc>
+		<manufacturer>APX</manufacturer>
+		<year>1982</year>
+		<genre>Compilation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Top Gunner Collection (USA) (Side A)" index="" image="">
+		<description>Top Gunner Collection (USA) (Side A)</description>
+		<cloneof></cloneof>
+		<crc>47C4EC92</crc>
+		<manufacturer>MicroProse</manufacturer>
+		<year>1986</year>
+		<genre>Compilation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Top Gunner Collection (USA) (Side B)" index="" image="">
+		<description>Top Gunner Collection (USA) (Side B)</description>
+		<cloneof></cloneof>
+		<crc>9ADC9279</crc>
+		<manufacturer>MicroProse</manufacturer>
+		<year>1986</year>
+		<genre>Compilation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Twin Pack - Sinker &amp; Teaser (USA)" index="" image="">
+		<description>Twin Pack - Sinker &amp; Teaser (USA)</description>
+		<cloneof></cloneof>
+		<crc>CD9F91CB</crc>
+		<manufacturer>Video 61</manufacturer>
+		<year>1998</year>
+		<genre>Compilation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Video Classics (Europe)" index="true" image="v">
+		<description>Video Classics (Europe)</description>
+		<cloneof></cloneof>
+		<crc>7DCAFF68</crc>
+		<manufacturer>Firebird</manufacturer>
+		<year>1988</year>
+		<genre>Compilation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Zap-Pak - Dizzy Dice &amp; Stratosphere (Europe)" index="true" image="z">
+		<description>Zap-Pak - Dizzy Dice &amp; Stratosphere (Europe)</description>
+		<cloneof></cloneof>
+		<crc>2883B82C</crc>
+		<manufacturer>Players</manufacturer>
+		<year>1987</year>
+		<genre>Compilation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

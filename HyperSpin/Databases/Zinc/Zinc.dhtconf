@@ -1,0 +1,8 @@
+<DonsHyperSpinListGenerator VersionMajor="4">
+  <Wheel>Zinc</Wheel>
+  <OutputFile>M:\Arcade\HyperSpin\Databases\Zinc\Zinc.xml</OutputFile>
+  <SourceFile>M:\Hyperlists\Zinc.xml</SourceFile>
+  <ExcludeFile>M:\Arcade\HyperSpin\Databases\Zinc\Zinc_excluded.xml</ExcludeFile>
+  <MameXmlFile>
+  </MameXmlFile>
+</DonsHyperSpinListGenerator>

@@ -1,0 +1,289 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Nintendo Entertainment System</listname>
+		<lastlistupdate>07/28/2013</lastlistupdate>
+		<listversion>1.1 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="Adventures of Bayou Billy, The (USA)" index="true" image="a">
+		<description>Adventures of Bayou Billy, The (USA)</description>
+		<cloneof></cloneof>
+		<crc>67751094</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1989</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bad Dudes (USA)" index="true" image="b">
+		<description>Bad Dudes (USA)</description>
+		<cloneof></cloneof>
+		<crc>161D717B</crc>
+		<manufacturer>Data East</manufacturer>
+		<year>1990</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bad Street Brawler (USA)" index="" image="">
+		<description>Bad Street Brawler (USA)</description>
+		<cloneof></cloneof>
+		<crc>1AE7B933</crc>
+		<manufacturer>Mattel</manufacturer>
+		<year>1989</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Batman Returns (USA)" index="" image="">
+		<description>Batman Returns (USA)</description>
+		<cloneof></cloneof>
+		<crc>C247A23D</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1993</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Battletoads (USA)" index="" image="">
+		<description>Battletoads (USA)</description>
+		<cloneof></cloneof>
+		<crc>279710DC</crc>
+		<manufacturer>Tradewest</manufacturer>
+		<year>1991</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Battletoads-Double Dragon (USA)" index="" image="">
+		<description>Battletoads-Double Dragon (USA)</description>
+		<cloneof></cloneof>
+		<crc>CEB65B06</crc>
+		<manufacturer>Tradewest</manufacturer>
+		<year>1993</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Challenge of the Dragon (USA) (Unl)" index="true" image="c">
+		<description>Challenge of the Dragon (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>D188963D</crc>
+		<manufacturer>Color Dreams</manufacturer>
+		<year>1990</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Double Dragon (USA)" index="true" image="d">
+		<description>Double Dragon (USA)</description>
+		<cloneof></cloneof>
+		<crc>0F1CC048</crc>
+		<manufacturer>Tradewest</manufacturer>
+		<year>1988</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Double Dragon II - The Revenge (USA) (Rev A)" index="" image="">
+		<description>Double Dragon II - The Revenge (USA) (Rev A)</description>
+		<cloneof></cloneof>
+		<crc>8A640AEF</crc>
+		<manufacturer>Tradewest</manufacturer>
+		<year>1988</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Double Dragon III - The Sacred Stones (USA)" index="" image="">
+		<description>Double Dragon III - The Sacred Stones (USA)</description>
+		<cloneof></cloneof>
+		<crc>50FD0CC6</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1991</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Kung Fu (Japan, USA)" index="true" image="k">
+		<description>Kung Fu (Japan, USA)</description>
+		<cloneof></cloneof>
+		<crc>D5C64257</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1995</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Kung-Fu Heroes (USA)" index="" image="">
+		<description>Kung-Fu Heroes (USA)</description>
+		<cloneof></cloneof>
+		<crc>AA74A4D8</crc>
+		<manufacturer>Culture Brain</manufacturer>
+		<year>1989</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Last Action Hero (USA)" index="true" image="l">
+		<description>Last Action Hero (USA)</description>
+		<cloneof></cloneof>
+		<crc>E7DA8A04</crc>
+		<manufacturer>Sony Imagesoft</manufacturer>
+		<year>1993</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lethal Weapon (USA)" index="" image="">
+		<description>Lethal Weapon (USA)</description>
+		<cloneof></cloneof>
+		<crc>7077B075</crc>
+		<manufacturer>Ocean</manufacturer>
+		<year>1993</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mighty Final Fight (USA)" index="true" image="m">
+		<description>Mighty Final Fight (USA)</description>
+		<cloneof></cloneof>
+		<crc>3F78037C</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1993</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="P.O.W. - Prisoners of War (USA)" index="true" image="p">
+		<description>P.O.W. - Prisoners of War (USA)</description>
+		<cloneof></cloneof>
+		<crc>75255F88</crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1989</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Renegade (USA)" index="true" image="r">
+		<description>Renegade (USA)</description>
+		<cloneof></cloneof>
+		<crc>A0568E1D</crc>
+		<manufacturer>Taito Corporation</manufacturer>
+		<year>1988</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="River City Ransom (USA)" index="" image="">
+		<description>River City Ransom (USA)</description>
+		<cloneof></cloneof>
+		<crc>E9C387EC</crc>
+		<manufacturer>Technos</manufacturer>
+		<year>1989</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>HSRS - PG (Parental Guidance)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rollerball (USA)" index="" image="">
+		<description>Rollerball (USA)</description>
+		<cloneof></cloneof>
+		<crc>69635A6E</crc>
+		<manufacturer>Ultra</manufacturer>
+		<year>1990</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rollergames (USA)" index="" image="">
+		<description>Rollergames (USA)</description>
+		<cloneof></cloneof>
+		<crc>AA4997C1</crc>
+		<manufacturer>Ultra</manufacturer>
+		<year>1990</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Street Cop (USA)" index="true" image="s">
+		<description>Street Cop (USA)</description>
+		<cloneof></cloneof>
+		<crc>61D86167</crc>
+		<manufacturer>Bandai</manufacturer>
+		<year>1989</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Street Fighter 2010 - The Final Fight (USA)" index="" image="">
+		<description>Street Fighter 2010 - The Final Fight (USA)</description>
+		<cloneof></cloneof>
+		<crc>8DA651D4</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1990</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Target Renegade (USA)" index="true" image="t">
+		<description>Target Renegade (USA)</description>
+		<cloneof></cloneof>
+		<crc>93B49582</crc>
+		<manufacturer>Taito Corporation</manufacturer>
+		<year>1990</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Teenage Mutant Ninja Turtles II - The Arcade Game (USA)" index="" image="">
+		<description>Teenage Mutant Ninja Turtles II - The Arcade Game (USA)</description>
+		<cloneof></cloneof>
+		<crc>A9217EA2</crc>
+		<manufacturer>Ultra</manufacturer>
+		<year>1990</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Teenage Mutant Ninja Turtles III - The Manhattan Project (USA)" index="" image="">
+		<description>Teenage Mutant Ninja Turtles III - The Manhattan Project (USA)</description>
+		<cloneof></cloneof>
+		<crc>BB6D7949</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1992</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Toxic Crusaders (USA)" index="" image="">
+		<description>Toxic Crusaders (USA)</description>
+		<cloneof></cloneof>
+		<crc>F009DDD2</crc>
+		<manufacturer>Bandai</manufacturer>
+		<year>1992</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Trojan (USA)" index="" image="">
+		<description>Trojan (USA)</description>
+		<cloneof></cloneof>
+		<crc>FC3E5C86</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1987</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Urban Champion (World)" index="true" image="u">
+		<description>Urban Champion (World)</description>
+		<cloneof></cloneof>
+		<crc>656D4265</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1986</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

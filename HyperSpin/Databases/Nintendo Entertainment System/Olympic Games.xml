@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Nintendo Entertainment System</listname>
+		<lastlistupdate>07/28/2013</lastlistupdate>
+		<listversion>1.1 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="Athletic World (USA)" index="true" image="a">
+		<description>Athletic World (USA)</description>
+		<cloneof></cloneof>
+		<crc>1771EA8F</crc>
+		<manufacturer>Bandai</manufacturer>
+		<year>1987</year>
+		<genre>Olympic/Sports</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Capcom&apos;s Gold Medal Challenge &apos;92 (USA)" index="true" image="c">
+		<description>Capcom&apos;s Gold Medal Challenge &apos;92 (USA)</description>
+		<cloneof></cloneof>
+		<crc>BE250388</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1992</year>
+		<genre>Olympic/Sports</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Stadium Events (USA)" index="true" image="s">
+		<description>Stadium Events (USA)</description>
+		<cloneof></cloneof>
+		<crc>FCE71311</crc>
+		<manufacturer>Bandai</manufacturer>
+		<year>1987</year>
+		<genre>Olympic/Sports</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Team Games (USA)" index="" image="">
+		<description>Super Team Games (USA)</description>
+		<cloneof></cloneof>
+		<crc>D74B2719</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1988</year>
+		<genre>Olympic/Sports</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Winter Games (USA) (Rev A)" index="true" image="w">
+		<description>Winter Games (USA) (Rev A)</description>
+		<cloneof></cloneof>
+		<crc>969EF9E4</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1987</year>
+		<genre>Olympic/Sports</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="World Games (USA)" index="" image="">
+		<description>World Games (USA)</description>
+		<cloneof></cloneof>
+		<crc>F613A8F9</crc>
+		<manufacturer>Milton Bradley</manufacturer>
+		<year>1989</year>
+		<genre>Olympic/Sports</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

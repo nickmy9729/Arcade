@@ -1,0 +1,8 @@
+<DonsHyperSpinListGenerator VersionMajor="4">
+  <Wheel>Midway Classics</Wheel>
+  <OutputFile>M:\Arcade\HyperSpin\Databases\Midway Classics\Midway Classics.xml</OutputFile>
+  <SourceFile>M:\Hyperlists\Midway Classics.xml</SourceFile>
+  <ExcludeFile>M:\Arcade\HyperSpin\Databases\Midway Classics\Midway Classics_excluded.xml</ExcludeFile>
+  <MameXmlFile>
+  </MameXmlFile>
+</DonsHyperSpinListGenerator>

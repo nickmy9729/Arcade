@@ -1,0 +1,159 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Sega Genesis</listname>
+		<lastlistupdate>02/21/2013</lastlistupdate>
+		<listversion>1.2 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="3 Ninjas Kick Back (USA)" index="true" image="3">
+		<description>3 Ninjas Kick Back (USA)</description>
+		<cloneof></cloneof>
+		<crc>e5a24999</crc>
+		<manufacturer>Malibu</manufacturer>
+		<year>1994</year>
+		<genre>Action</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="AAAHH!!! Real Monsters (USA)" index="true" image="a">
+		<description>AAAHH!!! Real Monsters (USA)</description>
+		<cloneof></cloneof>
+		<crc>fdc80bfc</crc>
+		<manufacturer>Realtime Associates</manufacturer>
+		<year>1995</year>
+		<genre>Action</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="B.O.B. (USA, Europe)" index="true" image="b">
+		<description>B.O.B. (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>eaa2acb7</crc>
+		<manufacturer>Chris Gray Enterprises</manufacturer>
+		<year>1993</year>
+		<genre>Action</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cadash (USA, Asia)" index="true" image="c">
+		<description>Cadash (USA, Asia)</description>
+		<cloneof></cloneof>
+		<crc>13bdf374</crc>
+		<manufacturer>Taito</manufacturer>
+		<year>1992</year>
+		<genre>Action</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Daffy Duck in Hollywood (Europe)" index="true" image="d">
+		<description>Daffy Duck in Hollywood (Europe)</description>
+		<cloneof></cloneof>
+		<crc>1fdc66b0</crc>
+		<manufacturer>Probe Entertainment</manufacturer>
+		<year>1994</year>
+		<genre>Action</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dynamite Duke (World) (Rev A)" index="" image="">
+		<description>Dynamite Duke (World) (Rev A)</description>
+		<cloneof></cloneof>
+		<crc>246f0bda</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1990</year>
+		<genre>Action</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="G-LOC Air Battle (World)" index="true" image="g">
+		<description>G-LOC Air Battle (World)</description>
+		<cloneof></cloneof>
+		<crc>f2af886e</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1993</year>
+		<genre>Action</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ka-Ge-Ki - Fists of Steel (USA)" index="true" image="k">
+		<description>Ka-Ge-Ki - Fists of Steel (USA)</description>
+		<cloneof></cloneof>
+		<crc>effc0fa6</crc>
+		<manufacturer>Kaneko</manufacturer>
+		<year>1991</year>
+		<genre>Action</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="M-1 Abrams Battle Tank (USA, Europe)" index="true" image="m">
+		<description>M-1 Abrams Battle Tank (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>1e2f74cf</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1991</year>
+		<genre>Action</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mercs (World)" index="" image="">
+		<description>Mercs (World)</description>
+		<cloneof></cloneof>
+		<crc>16113a72</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1991</year>
+		<genre>Action</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="T2 - Terminator 2 - Judgment Day (USA, Europe)" index="true" image="t">
+		<description>T2 - Terminator 2 - Judgment Day (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>2f75e896</crc>
+		<manufacturer>Bits Studios</manufacturer>
+		<year>1991</year>
+		<genre>Action</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tyrants - Fight through Time (USA)" index="" image="">
+		<description>Tyrants - Fight through Time (USA)</description>
+		<cloneof></cloneof>
+		<crc>a744921e</crc>
+		<manufacturer>Avalanche Software</manufacturer>
+		<year>1996</year>
+		<genre>Action</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Valis (USA)" index="true" image="v">
+		<description>Valis (USA)</description>
+		<cloneof></cloneof>
+		<crc>13bc5b72</crc>
+		<manufacturer>Riot</manufacturer>
+		<year>1991</year>
+		<genre>Action</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="X-Men (USA)" index="true" image="x">
+		<description>X-Men (USA)</description>
+		<cloneof></cloneof>
+		<crc>f71b21b4</crc>
+		<manufacturer>Western Technologies</manufacturer>
+		<year>1993</year>
+		<genre>Action</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Yogi Bear - Cartoon Capers (Europe)" index="true" image="y">
+		<description>Yogi Bear - Cartoon Capers (Europe)</description>
+		<cloneof></cloneof>
+		<crc>204f97d8</crc>
+		<manufacturer>Blue Turtle</manufacturer>
+		<year>1994</year>
+		<genre>Action</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

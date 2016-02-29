@@ -1,0 +1,8 @@
+<DonsHyperSpinListGenerator VersionMajor="4">
+  <Wheel>Atari 7800</Wheel>
+  <OutputFile>M:\Arcade\HyperSpin\Databases\Atari 7800\Atari 7800.xml</OutputFile>
+  <SourceFile>M:\Hyperlists\Atari 7800.xml</SourceFile>
+  <ExcludeFile>M:\Arcade\HyperSpin\Databases\Atari 7800\Atari 7800_excluded.xml</ExcludeFile>
+  <MameXmlFile>
+  </MameXmlFile>
+</DonsHyperSpinListGenerator>

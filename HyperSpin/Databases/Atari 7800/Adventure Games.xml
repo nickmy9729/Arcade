@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Atari 7800</listname>
+		<lastlistupdate>06/08/2013</lastlistupdate>
+		<listversion>1.1 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="Midnight Mutants (USA)" index="true" image="m">
+		<description>Midnight Mutants (USA)</description>
+		<cloneof></cloneof>
+		<crc>e7157222</crc>
+		<manufacturer>Radioactive Software</manufacturer>
+		<year>1990</year>
+		<genre>Adventure</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

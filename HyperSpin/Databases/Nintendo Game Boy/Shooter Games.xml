@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Nintendo Game Boy</listname>
+		<lastlistupdate>06/08/2013</lastlistupdate>
+		<listversion>1.1 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="Arcade Classic No. 2 - Centipede &amp; Millipede (USA, Europe)" index="true" image="a">
+		<description>Arcade Classic No. 2 - Centipede &amp; Millipede (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>b14c3b31</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1995</year>
+		<genre>Shooter</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Centipede (USA, Europe)" index="true" image="c">
+		<description>Centipede (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>245afcdc</crc>
+		<manufacturer>Accolade</manufacturer>
+		<year>1992</year>
+		<genre>Shooter</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Contra - The Alien Wars (USA)" index="" image="">
+		<description>Contra - The Alien Wars (USA)</description>
+		<cloneof></cloneof>
+		<crc>f1c81eb0</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1994</year>
+		<genre>Shooter</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Missile Command (USA, Europe)" index="true" image="m">
+		<description>Missile Command (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>3a6cd4d8</crc>
+		<manufacturer>Accolade</manufacturer>
+		<year>1992</year>
+		<genre>Shooter</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Operation C (USA)" index="true" image="o">
+		<description>Operation C (USA)</description>
+		<cloneof></cloneof>
+		<crc>2ebbc1ae</crc>
+		<manufacturer>Ultra Soft</manufacturer>
+		<year>1991</year>
+		<genre>Shooter</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="T2 - The Arcade Game (USA, Europe)" index="true" image="t">
+		<description>T2 - The Arcade Game (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>00f09c7f</crc>
+		<manufacturer>LJN Ltd.</manufacturer>
+		<year>1992</year>
+		<genre>Shooter</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Total Carnage (USA, Europe)" index="" image="">
+		<description>Total Carnage (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>3700927f</crc>
+		<manufacturer>Malibu Games</manufacturer>
+		<year>1994</year>
+		<genre>Shooter</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="True Lies (USA, Europe)" index="" image="">
+		<description>True Lies (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>edec63e6</crc>
+		<manufacturer>LJN Ltd.</manufacturer>
+		<year>1995</year>
+		<genre>Shooter</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

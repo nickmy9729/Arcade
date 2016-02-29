@@ -1,0 +1,449 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Sega Master System</listname>
+		<lastlistupdate>10/27/2011</lastlistupdate>
+		<listversion>1.1 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="American Baseball (Europe)" index="true" image="a">
+		<description>American Baseball (Europe)</description>
+		<cloneof></cloneof>
+		<crc>7B27202F</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1988</year>
+		<genre>Baseball/Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="American Pro Football (Europe)" index="" image="">
+		<description>American Pro Football (Europe)</description>
+		<cloneof></cloneof>
+		<crc>3727D8B2</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1989</year>
+		<genre>Football/Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Andre Agassi Tennis (Europe)" index="" image="">
+		<description>Andre Agassi Tennis (Europe)</description>
+		<cloneof></cloneof>
+		<crc>F499034D</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Tennis</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Basket Ball Nightmare (Europe)" index="true" image="b">
+		<description>Basket Ball Nightmare (Europe)</description>
+		<cloneof></cloneof>
+		<crc>0DF8597F</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1989</year>
+		<genre>Basketball/Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="California Games (USA, Europe)" index="true" image="c">
+		<description>California Games (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>AC6009A7</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1989</year>
+		<genre>Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="California Games II (Europe)" index="" image="">
+		<description>California Games II (Europe)</description>
+		<cloneof></cloneof>
+		<crc>C0E25D62</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1993</year>
+		<genre>Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Champions of Europe (Europe)" index="" image="">
+		<description>Champions of Europe (Europe)</description>
+		<cloneof></cloneof>
+		<crc>23163A12</crc>
+		<manufacturer>TecMagik</manufacturer>
+		<year>1988</year>
+		<genre>Soccer/Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Championship Hockey (Europe)" index="" image="">
+		<description>Championship Hockey (Europe)</description>
+		<cloneof></cloneof>
+		<crc>7E5839A0</crc>
+		<manufacturer>U.S. Gold</manufacturer>
+		<year>1992</year>
+		<genre>Hockey/Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="George Foreman&apos;s KO Boxing (Europe)" index="true" image="g">
+		<description>George Foreman&apos;s KO Boxing (Europe)</description>
+		<cloneof></cloneof>
+		<crc>A64898CE</crc>
+		<manufacturer>Flying Edge</manufacturer>
+		<year>1992</year>
+		<genre>Boxing/Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Golfamania (Europe)" index="" image="">
+		<description>Golfamania (Europe)</description>
+		<cloneof></cloneof>
+		<crc>48651325</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1990</year>
+		<genre>Golf/Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Great Baseball (USA, Europe)" index="" image="">
+		<description>Great Baseball (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>10ED6B57</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1987</year>
+		<genre>Baseball/Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Great Basketball (World)" index="" image="">
+		<description>Great Basketball (World)</description>
+		<cloneof></cloneof>
+		<crc>2AC001EB</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1987</year>
+		<genre>Basketball/Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Great Football (World)" index="" image="">
+		<description>Great Football (World)</description>
+		<cloneof></cloneof>
+		<crc>2055825F</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1987</year>
+		<genre>Football/Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Great Golf (World)" index="" image="">
+		<description>Great Golf (World)</description>
+		<cloneof></cloneof>
+		<crc>98E4AE4A</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1987</year>
+		<genre>Golf/Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Great Soccer (Europe)" index="" image="">
+		<description>Great Soccer (Europe)</description>
+		<cloneof></cloneof>
+		<crc>0ED170C9</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1987</year>
+		<genre>Soccer/Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Great Volleyball (USA, Europe)" index="" image="">
+		<description>Great Volleyball (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>8D43EA95</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1987</year>
+		<genre>Sports/Volleyball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="James &apos;Buster&apos; Douglas Knockout Boxing (USA)" index="true" image="j">
+		<description>James &apos;Buster&apos; Douglas Knockout Boxing (USA)</description>
+		<cloneof></cloneof>
+		<crc>6A664405</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1990</year>
+		<genre>Boxing/Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Joe Montana Football (USA, Europe)" index="" image="">
+		<description>Joe Montana Football (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>0A9089E5</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1990</year>
+		<genre>Football/Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="PGA Tour Golf (Europe)" index="true" image="p">
+		<description>PGA Tour Golf (Europe)</description>
+		<cloneof></cloneof>
+		<crc>95B9EA95</crc>
+		<manufacturer>Tengen</manufacturer>
+		<year>1993</year>
+		<genre>Golf/Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pro Wrestling (USA, Europe)" index="" image="">
+		<description>Pro Wrestling (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>FBDE42D3</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1986</year>
+		<genre>Sports/Wrestling</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Putt &amp; Putter (Europe)" index="" image="">
+		<description>Putt &amp; Putter (Europe)</description>
+		<cloneof></cloneof>
+		<crc>357D4F78</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1992</year>
+		<genre>Golf/Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Reggie Jackson Baseball (USA)" index="true" image="r">
+		<description>Reggie Jackson Baseball (USA)</description>
+		<cloneof></cloneof>
+		<crc>6D94BB0E</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1988</year>
+		<genre>Baseball/Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rocky (World)" index="" image="">
+		<description>Rocky (World)</description>
+		<cloneof></cloneof>
+		<crc>1BCC7BE3</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1987</year>
+		<genre>Boxing/Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sega World Tournament Golf (Europe)" index="true" image="s">
+		<description>Sega World Tournament Golf (Europe)</description>
+		<cloneof></cloneof>
+		<crc>296879DD</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1993</year>
+		<genre>Golf/Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sensible Soccer (Europe)" index="" image="">
+		<description>Sensible Soccer (Europe)</description>
+		<cloneof></cloneof>
+		<crc>F8176918</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1988</year>
+		<genre>Soccer/Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Slap Shot (USA) (v1.1)" index="" image="">
+		<description>Slap Shot (USA) (v1.1)</description>
+		<cloneof></cloneof>
+		<crc>702C3E98</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1990</year>
+		<genre>Hockey/Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Speedball (Europe) (Virgin)" index="" image="">
+		<description>Speedball (Europe) (Virgin)</description>
+		<cloneof></cloneof>
+		<crc>5CCC1A65</crc>
+		<manufacturer>Virgin Interactive</manufacturer>
+		<year>1992</year>
+		<genre>Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Speedball 2 (Europe)" index="" image="">
+		<description>Speedball 2 (Europe)</description>
+		<cloneof></cloneof>
+		<crc>0C7366A0</crc>
+		<manufacturer>Virgin Interactive</manufacturer>
+		<year>1992</year>
+		<genre>Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sports Pad Football (USA)" index="" image="">
+		<description>Sports Pad Football (USA)</description>
+		<cloneof></cloneof>
+		<crc>E42E4998</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1987</year>
+		<genre>Football/Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Summer Games (Europe)" index="" image="">
+		<description>Summer Games (Europe)</description>
+		<cloneof></cloneof>
+		<crc>8DA5C93F</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1988</year>
+		<genre>Olympic/Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Kick Off (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv)" index="" image="">
+		<description>Super Kick Off (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv)</description>
+		<cloneof></cloneof>
+		<crc>406AA0C2</crc>
+		<manufacturer>U.S. Gold</manufacturer>
+		<year>1991</year>
+		<genre>Soccer/Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Tennis (USA, Europe)" index="" image="">
+		<description>Super Tennis (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>914514E3</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1986</year>
+		<genre>Sports/Tennis</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tecmo World Cup &apos;93 (Europe)" index="true" image="t">
+		<description>Tecmo World Cup &apos;93 (Europe)</description>
+		<cloneof></cloneof>
+		<crc>5A1C3DDE</crc>
+		<manufacturer>Tecmo</manufacturer>
+		<year>1993</year>
+		<genre>Soccer/Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tennis Ace (Europe)" index="" image="">
+		<description>Tennis Ace (Europe)</description>
+		<cloneof></cloneof>
+		<crc>1A390B93</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1989</year>
+		<genre>Sports/Tennis</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ultimate Soccer (Europe) (En,Fr,De,Es,It)" index="true" image="u">
+		<description>Ultimate Soccer (Europe) (En,Fr,De,Es,It)</description>
+		<cloneof></cloneof>
+		<crc>15668CA4</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1993</year>
+		<genre>Soccer/Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Walter Payton Football (USA)" index="true" image="w">
+		<description>Walter Payton Football (USA)</description>
+		<cloneof></cloneof>
+		<crc>3D55759B</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1989</year>
+		<genre>Football/Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Wimbledon (Europe)" index="" image="">
+		<description>Wimbledon (Europe)</description>
+		<cloneof></cloneof>
+		<crc>912D92AF</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Tennis</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Wimbledon II (Europe)" index="" image="">
+		<description>Wimbledon II (Europe)</description>
+		<cloneof></cloneof>
+		<crc>7F3AFE58</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Tennis</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Winter Olympics - Lillehammer &apos;94 (Europe) (En,Fr,De,Es,It,Pt,Sv,No)" index="" image="">
+		<description>Winter Olympics - Lillehammer &apos;94 (Europe) (En,Fr,De,Es,It,Pt,Sv,No)</description>
+		<cloneof></cloneof>
+		<crc>A20290B6</crc>
+		<manufacturer>U.S. Gold</manufacturer>
+		<year>1994</year>
+		<genre>Olympic/Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="World Class Leader Board (Europe)" index="" image="">
+		<description>World Class Leader Board (Europe)</description>
+		<cloneof></cloneof>
+		<crc>C9A449B7</crc>
+		<manufacturer>U.S. Gold</manufacturer>
+		<year>1991</year>
+		<genre>Golf/Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="World Cup Italia &apos;90 (Europe)" index="" image="">
+		<description>World Cup Italia &apos;90 (Europe)</description>
+		<cloneof></cloneof>
+		<crc>6E1AD6FD</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1990</year>
+		<genre>Soccer/Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="World Cup USA 94 (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv)" index="" image="">
+		<description>World Cup USA 94 (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv)</description>
+		<cloneof></cloneof>
+		<crc>A6BF8F9E</crc>
+		<manufacturer>U.S. Gold</manufacturer>
+		<year>1992</year>
+		<genre>Soccer/Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="World Games (Europe)" index="" image="">
+		<description>World Games (Europe)</description>
+		<cloneof></cloneof>
+		<crc>A2A60BC8</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1989</year>
+		<genre>Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="WWF Wrestlemania - Steel Cage Challenge (Europe)" index="" image="">
+		<description>WWF Wrestlemania - Steel Cage Challenge (Europe)</description>
+		<cloneof></cloneof>
+		<crc>2DB21448</crc>
+		<manufacturer>Flying Edge</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Wrestling</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Sega Game Gear</listname>
+		<lastlistupdate>11/01/2011</lastlistupdate>
+		<listversion>1.1 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="Defenders of Oasis (USA, Europe)" index="true" image="d">
+		<description>Defenders of Oasis (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>E2791CC1</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1992</year>
+		<genre>Role-Playing</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dragon Crystal (USA, Europe)" index="" image="">
+		<description>Dragon Crystal (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>0EF2ED93</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1990</year>
+		<genre>Role-Playing</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

@@ -1,0 +1,519 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Nintendo 64</listname>
+		<lastlistupdate>11/15/2011</lastlistupdate>
+		<listversion>1.1 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="AeroGauge (USA)" index="true" image="a">
+		<description>AeroGauge (USA)</description>
+		<cloneof></cloneof>
+		<crc>04038CB8</crc>
+		<manufacturer>ASCII Entertainment</manufacturer>
+		<year>1998</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Automobili Lamborghini (USA)" index="" image="">
+		<description>Automobili Lamborghini (USA)</description>
+		<cloneof></cloneof>
+		<crc>17932C62</crc>
+		<manufacturer>Titus Software</manufacturer>
+		<year>1997</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Beetle Adventure Racing! (USA) (En,Fr,De)" index="true" image="b">
+		<description>Beetle Adventure Racing! (USA) (En,Fr,De)</description>
+		<cloneof></cloneof>
+		<crc>E3517FD8</crc>
+		<manufacturer>EA Sports</manufacturer>
+		<year>1999</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="California Speed (USA)" index="true" image="c">
+		<description>California Speed (USA)</description>
+		<cloneof></cloneof>
+		<crc>387B0C4C</crc>
+		<manufacturer>Midway</manufacturer>
+		<year>1999</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Carmageddon 64 (USA)" index="" image="">
+		<description>Carmageddon 64 (USA)</description>
+		<cloneof></cloneof>
+		<crc>E78DEBB6</crc>
+		<manufacturer>Titus Software</manufacturer>
+		<year>1999</year>
+		<genre>Driving</genre>
+		<rating>ESRB - M (Mature)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cruis&apos;n Exotica (USA)" index="" image="">
+		<description>Cruis&apos;n Exotica (USA)</description>
+		<cloneof></cloneof>
+		<crc>20E7DBD7</crc>
+		<manufacturer>Midway</manufacturer>
+		<year>2000</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cruis&apos;n USA (USA) (Rev B)" index="" image="">
+		<description>Cruis&apos;n USA (USA) (Rev B)</description>
+		<cloneof></cloneof>
+		<crc>E466C124</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1996</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cruis&apos;n World (USA)" index="" image="">
+		<description>Cruis&apos;n World (USA)</description>
+		<cloneof></cloneof>
+		<crc>41877D7D</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1998</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Destruction Derby 64 (USA)" index="true" image="d">
+		<description>Destruction Derby 64 (USA)</description>
+		<cloneof></cloneof>
+		<crc>EF680F71</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>1999</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Diddy Kong Racing (USA) (En,Fr) (Rev A)" index="" image="">
+		<description>Diddy Kong Racing (USA) (En,Fr) (Rev A)</description>
+		<cloneof></cloneof>
+		<crc>96C32BB6</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1997</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Extreme-G (USA)" index="true" image="e">
+		<description>Extreme-G (USA)</description>
+		<cloneof></cloneof>
+		<crc>A43A0B17</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1997</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Extreme-G XG2 (USA)" index="" image="">
+		<description>Extreme-G XG2 (USA)</description>
+		<cloneof></cloneof>
+		<crc>849C18CE</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1998</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="F-1 World Grand Prix (USA)" index="true" image="f">
+		<description>F-1 World Grand Prix (USA)</description>
+		<cloneof></cloneof>
+		<crc>4D203242</crc>
+		<manufacturer>Video System</manufacturer>
+		<year>1998</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="F-1 World Grand Prix II (Europe) (En,Fr,De,Es)" index="" image="">
+		<description>F-1 World Grand Prix II (Europe) (En,Fr,De,Es)</description>
+		<cloneof></cloneof>
+		<crc>484C801D</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1999</year>
+		<genre>Driving</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="F-Zero X (USA)" index="" image="">
+		<description>F-Zero X (USA)</description>
+		<cloneof></cloneof>
+		<crc>9408C2C1</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1998</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="F1 Pole Position 64 (USA) (En,Fr,De)" index="" image="">
+		<description>F1 Pole Position 64 (USA) (En,Fr,De)</description>
+		<cloneof></cloneof>
+		<crc>873BC45A</crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>1997</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="F1 Racing Championship (Europe) (En,Fr,De,Es,It)" index="" image="">
+		<description>F1 Racing Championship (Europe) (En,Fr,De,Es,It)</description>
+		<cloneof></cloneof>
+		<crc>0605E5AC</crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>2000</year>
+		<genre>Driving</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="GT64 - Championship Edition (USA)" index="true" image="g">
+		<description>GT64 - Championship Edition (USA)</description>
+		<cloneof></cloneof>
+		<crc>B6DC4CFD</crc>
+		<manufacturer>Ocean</manufacturer>
+		<year>1998</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hot Wheels - Turbo Racing (USA)" index="true" image="h">
+		<description>Hot Wheels - Turbo Racing (USA)</description>
+		<cloneof></cloneof>
+		<crc>525E8F8F</crc>
+		<manufacturer>Electronic Arts</manufacturer>
+		<year>1999</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Iggy&apos;s Reckin&apos; Balls (USA)" index="true" image="i">
+		<description>Iggy&apos;s Reckin&apos; Balls (USA)</description>
+		<cloneof></cloneof>
+		<crc>5953567E</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1998</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Indy Racing 2000 (USA)" index="" image="">
+		<description>Indy Racing 2000 (USA)</description>
+		<cloneof></cloneof>
+		<crc>1C622354</crc>
+		<manufacturer>Infogrames</manufacturer>
+		<year>2000</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="LEGO Racers (USA) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)" index="true" image="l">
+		<description>LEGO Racers (USA) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)</description>
+		<cloneof></cloneof>
+		<crc>3339E557</crc>
+		<manufacturer>Lego Media</manufacturer>
+		<year>1999</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mario Kart 64 (USA)" index="true" image="m">
+		<description>Mario Kart 64 (USA)</description>
+		<cloneof></cloneof>
+		<crc>2BCEE11C</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1997</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mickey&apos;s Speedway USA (USA)" index="" image="">
+		<description>Mickey&apos;s Speedway USA (USA)</description>
+		<cloneof></cloneof>
+		<crc>6E589C47</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2000</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Micro Machines 64 Turbo (USA)" index="" image="">
+		<description>Micro Machines 64 Turbo (USA)</description>
+		<cloneof></cloneof>
+		<crc>02790693</crc>
+		<manufacturer>Midway</manufacturer>
+		<year>1999</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Monaco Grand Prix (USA)" index="" image="">
+		<description>Monaco Grand Prix (USA)</description>
+		<cloneof></cloneof>
+		<crc>30079403</crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>1999</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Monster Truck Madness 64 (USA)" index="" image="">
+		<description>Monster Truck Madness 64 (USA)</description>
+		<cloneof></cloneof>
+		<crc>B8D03FFB</crc>
+		<manufacturer>Rockstar Games</manufacturer>
+		<year>1999</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="MRC - Multi Racing Championship (USA)" index="" image="">
+		<description>MRC - Multi Racing Championship (USA)</description>
+		<cloneof></cloneof>
+		<crc>2F30B7FE</crc>
+		<manufacturer>Ocean</manufacturer>
+		<year>1997</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NASCAR 2000 (USA)" index="true" image="n">
+		<description>NASCAR 2000 (USA)</description>
+		<cloneof></cloneof>
+		<crc>D07AD471</crc>
+		<manufacturer>EA Sports</manufacturer>
+		<year>1999</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NASCAR 99 (USA)" index="" image="">
+		<description>NASCAR 99 (USA)</description>
+		<cloneof></cloneof>
+		<crc>2D234FB7</crc>
+		<manufacturer>EA Sports</manufacturer>
+		<year>1998</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Off Road Challenge (USA)" index="true" image="o">
+		<description>Off Road Challenge (USA)</description>
+		<cloneof></cloneof>
+		<crc>129BADCC</crc>
+		<manufacturer>Midway</manufacturer>
+		<year>1998</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Penny Racers (USA)" index="true" image="p">
+		<description>Penny Racers (USA)</description>
+		<cloneof></cloneof>
+		<crc>06BEEA3F</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>1999</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rally Challenge 2000 (USA)" index="true" image="r">
+		<description>Rally Challenge 2000 (USA)</description>
+		<cloneof></cloneof>
+		<crc>FAF5C3B6</crc>
+		<manufacturer>SouthPeak Games</manufacturer>
+		<year>2000</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Re-Volt (USA)" index="" image="">
+		<description>Re-Volt (USA)</description>
+		<cloneof></cloneof>
+		<crc>9366C53C</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1999</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Roadsters Trophy (USA) (En,Fr,Es)" index="" image="">
+		<description>Roadsters Trophy (USA) (En,Fr,Es)</description>
+		<cloneof></cloneof>
+		<crc>F68D139E</crc>
+		<manufacturer>Titus Software</manufacturer>
+		<year>1999</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="RR64 - Ridge Racer 64 (USA)" index="" image="">
+		<description>RR64 - Ridge Racer 64 (USA)</description>
+		<cloneof></cloneof>
+		<crc>7CCB9749</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2000</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rush 2 - Extreme Racing USA (USA)" index="" image="">
+		<description>Rush 2 - Extreme Racing USA (USA)</description>
+		<cloneof></cloneof>
+		<crc>5412916B</crc>
+		<manufacturer>Midway</manufacturer>
+		<year>1998</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="S.C.A.R.S. (USA)" index="true" image="s">
+		<description>S.C.A.R.S. (USA)</description>
+		<cloneof></cloneof>
+		<crc>6594B593</crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>1998</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="San Francisco Rush - Extreme Racing (USA) (En,Fr,De)" index="" image="">
+		<description>San Francisco Rush - Extreme Racing (USA) (En,Fr,De)</description>
+		<cloneof></cloneof>
+		<crc>32E250BA</crc>
+		<manufacturer>Midway</manufacturer>
+		<year>1997</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="San Francisco Rush 2049 (USA)" index="" image="">
+		<description>San Francisco Rush 2049 (USA)</description>
+		<cloneof></cloneof>
+		<crc>1A03B9DE</crc>
+		<manufacturer>Midway</manufacturer>
+		<year>2000</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="South Park Rally (USA)" index="" image="">
+		<description>South Park Rally (USA)</description>
+		<cloneof></cloneof>
+		<crc>2C1F0859</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>2000</year>
+		<genre>Driving</genre>
+		<rating>ESRB - M (Mature)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Star Wars Episode I - Racer (USA)" index="" image="">
+		<description>Star Wars Episode I - Racer (USA)</description>
+		<cloneof></cloneof>
+		<crc>494C667A</crc>
+		<manufacturer>LucasArts</manufacturer>
+		<year>1999</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Stunt Racer 64 (USA)" index="" image="">
+		<description>Stunt Racer 64 (USA)</description>
+		<cloneof></cloneof>
+		<crc>F60613DE</crc>
+		<manufacturer>Midway</manufacturer>
+		<year>2000</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Top Gear Overdrive (USA)" index="true" image="t">
+		<description>Top Gear Overdrive (USA)</description>
+		<cloneof></cloneof>
+		<crc>B5B23053</crc>
+		<manufacturer>Kemco</manufacturer>
+		<year>1998</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Top Gear Rally (USA)" index="" image="">
+		<description>Top Gear Rally (USA)</description>
+		<cloneof></cloneof>
+		<crc>A04F1CC0</crc>
+		<manufacturer>Kemco</manufacturer>
+		<year>1997</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Top Gear Rally 2 (USA)" index="" image="">
+		<description>Top Gear Rally 2 (USA)</description>
+		<cloneof></cloneof>
+		<crc>7E4E181C</crc>
+		<manufacturer>Kemco</manufacturer>
+		<year>1999</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="V-Rally Edition 99 (USA)" index="true" image="v">
+		<description>V-Rally Edition 99 (USA)</description>
+		<cloneof></cloneof>
+		<crc>BFEF13E9</crc>
+		<manufacturer>Infogrames</manufacturer>
+		<year>1999</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Vigilante 8 (USA)" index="" image="">
+		<description>Vigilante 8 (USA)</description>
+		<cloneof></cloneof>
+		<crc>B445EDCD</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>1998</year>
+		<genre>Driving</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Vigilante 8 - 2nd Offense (USA)" index="" image="">
+		<description>Vigilante 8 - 2nd Offense (USA)</description>
+		<cloneof></cloneof>
+		<crc>764ABDB3</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2000</year>
+		<genre>Driving</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Wipeout 64 (USA)" index="true" image="w">
+		<description>Wipeout 64 (USA)</description>
+		<cloneof></cloneof>
+		<crc>3E8CCE96</crc>
+		<manufacturer>Midway</manufacturer>
+		<year>1998</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="World Driver Championship (USA)" index="" image="">
+		<description>World Driver Championship (USA)</description>
+		<cloneof></cloneof>
+		<crc>DCD9D2D2</crc>
+		<manufacturer>Midway</manufacturer>
+		<year>1999</year>
+		<genre>Driving</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

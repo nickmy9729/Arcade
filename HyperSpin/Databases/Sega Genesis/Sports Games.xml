@@ -1,0 +1,1879 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Sega Genesis</listname>
+		<lastlistupdate>02/21/2013</lastlistupdate>
+		<listversion>1.2 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="American Gladiators (USA)" index="true" image="a">
+		<description>American Gladiators (USA)</description>
+		<cloneof></cloneof>
+		<crc>9952fa85</crc>
+		<manufacturer>Imagitec Design</manufacturer>
+		<year>1992</year>
+		<genre>Sports</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Andre Agassi Tennis (USA)" index="" image="">
+		<description>Andre Agassi Tennis (USA)</description>
+		<cloneof></cloneof>
+		<crc>e755dd51</crc>
+		<manufacturer>TecMagik</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Tennis</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Aquatic Games Starring James Pond and the Aquabats, The (USA, Europe)" index="" image="">
+		<description>Aquatic Games Starring James Pond and the Aquabats, The (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>400f4ba7</crc>
+		<manufacturer>Millenium Interactive</manufacturer>
+		<year>1993</year>
+		<genre>Sports</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Arch Rivals - The Arcade Game (USA, Europe)" index="" image="">
+		<description>Arch Rivals - The Arcade Game (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>e389d7e7</crc>
+		<manufacturer>Arc Developments</manufacturer>
+		<year>1992</year>
+		<genre>Sports</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Arnold Palmer Tournament Golf (USA, Europe)" index="" image="">
+		<description>Arnold Palmer Tournament Golf (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>35b995ef</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1989</year>
+		<genre>Sports/Golf</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ATP Tour Championship Tennis (USA)" index="" image="">
+		<description>ATP Tour Championship Tennis (USA)</description>
+		<cloneof></cloneof>
+		<crc>8c822884</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Tennis</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Australian Rugby League (Europe)" index="" image="">
+		<description>Australian Rugby League (Europe)</description>
+		<cloneof></cloneof>
+		<crc>ac5bc26a</crc>
+		<manufacturer>EA Sports</manufacturer>
+		<year>1994</year>
+		<genre>Sports</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="AWS Pro Moves Soccer (USA)" index="" image="">
+		<description>AWS Pro Moves Soccer (USA)</description>
+		<cloneof></cloneof>
+		<crc>707017e5</crc>
+		<manufacturer>ASCII Entertainment</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Soccer</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Barkley Shut Up and Jam! (USA, Europe)" index="true" image="b">
+		<description>Barkley Shut Up and Jam! (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>63fbf497</crc>
+		<manufacturer>Accolade</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Basketball</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Barkley Shut Up and Jam! 2 (USA)" index="" image="">
+		<description>Barkley Shut Up and Jam! 2 (USA)</description>
+		<cloneof></cloneof>
+		<crc>321bb6bd</crc>
+		<manufacturer>Accolade</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Basketball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bass Masters Classic (USA)" index="" image="">
+		<description>Bass Masters Classic (USA)</description>
+		<cloneof></cloneof>
+		<crc>cf1ff00a</crc>
+		<manufacturer>Black Pearl</manufacturer>
+		<year>1996</year>
+		<genre>Sports/Fishing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bass Masters Classic - Pro Edition (USA)" index="" image="">
+		<description>Bass Masters Classic - Pro Edition (USA)</description>
+		<cloneof></cloneof>
+		<crc>9eddeb3d</crc>
+		<manufacturer>Black Pearl</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Fishing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bill Walsh College Football (USA, Europe)" index="" image="">
+		<description>Bill Walsh College Football (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>3ed83362</crc>
+		<manufacturer>High Score Productions</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Football</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bill Walsh College Football 95 (USA)" index="" image="">
+		<description>Bill Walsh College Football 95 (USA)</description>
+		<cloneof></cloneof>
+		<crc>a582f45a</crc>
+		<manufacturer>High Score Productions</manufacturer>
+		<year>1994</year>
+		<genre>Sports</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Boxing Legends of the Ring (USA)" index="" image="">
+		<description>Boxing Legends of the Ring (USA)</description>
+		<cloneof></cloneof>
+		<crc>00f225ac</crc>
+		<manufacturer>Sculptured Software</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Boxing</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Brett Hull Hockey &apos;95 (USA)" index="" image="">
+		<description>Brett Hull Hockey &apos;95 (USA)</description>
+		<cloneof></cloneof>
+		<crc>f7775a09</crc>
+		<manufacturer>Radical Entertainment</manufacturer>
+		<year>1994</year>
+		<genre>Hockey/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Brian Lara Cricket (Europe)" index="" image="">
+		<description>Brian Lara Cricket (Europe)</description>
+		<cloneof></cloneof>
+		<crc>408cf5c3</crc>
+		<manufacturer>Audiogenic</manufacturer>
+		<year>1995</year>
+		<genre>Cricket/Sports</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Brian Lara Cricket 96 (Europe)" index="" image="">
+		<description>Brian Lara Cricket 96 (Europe)</description>
+		<cloneof></cloneof>
+		<crc>fe52f7e1</crc>
+		<manufacturer>Audiogenic</manufacturer>
+		<year>1996</year>
+		<genre>Cricket/Sports</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bulls versus Blazers and the NBA Playoffs (USA, Europe)" index="" image="">
+		<description>Bulls versus Blazers and the NBA Playoffs (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>d4e4b4e8</crc>
+		<manufacturer>Electronic Arts</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Basketball</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bulls Vs Lakers and the NBA Playoffs (USA, Europe)" index="" image="">
+		<description>Bulls Vs Lakers and the NBA Playoffs (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>e56023a0</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Basketball</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cal Ripken Jr. Baseball (USA)" index="true" image="c">
+		<description>Cal Ripken Jr. Baseball (USA)</description>
+		<cloneof></cloneof>
+		<crc>9b1c96c0</crc>
+		<manufacturer>Mindscape</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Baseball</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="California Games (USA, Europe)" index="" image="">
+		<description>California Games (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>43b1b672</crc>
+		<manufacturer>Novotrade</manufacturer>
+		<year>1991</year>
+		<genre>Sports</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Champions World Class Soccer (World)" index="" image="">
+		<description>Champions World Class Soccer (World)</description>
+		<cloneof></cloneof>
+		<crc>883e33db</crc>
+		<manufacturer>Park Place Productions</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Soccer</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Championship Bowling (USA)" index="" image="">
+		<description>Championship Bowling (USA)</description>
+		<cloneof></cloneof>
+		<crc>1bf92520</crc>
+		<manufacturer>Visco</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Bowling</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Championship Pool (USA)" index="" image="">
+		<description>Championship Pool (USA)</description>
+		<cloneof></cloneof>
+		<crc>253512cf</crc>
+		<manufacturer>Bitmasters</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Billiards</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Chavez II (USA)" index="" image="">
+		<description>Chavez II (USA)</description>
+		<cloneof></cloneof>
+		<crc>5bc0dbb8</crc>
+		<manufacturer>Sculptured Software</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Boxing</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Chi Chi&apos;s Pro Challenge Golf (USA)" index="" image="">
+		<description>Chi Chi\&apos;s Pro Challenge Golf (USA)</description>
+		<cloneof></cloneof>
+		<crc>9c3973a4</crc>
+		<manufacturer>Coconuts Japan</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Golf</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Coach K College Basketball (USA)" index="" image="">
+		<description>Coach K College Basketball (USA)</description>
+		<cloneof></cloneof>
+		<crc>67c309c6</crc>
+		<manufacturer>Electronic Arts</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Basketball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="College Football USA 96 (USA)" index="" image="">
+		<description>College Football USA 96 (USA)</description>
+		<cloneof></cloneof>
+		<crc>b9075385</crc>
+		<manufacturer>High Score Productions</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Football</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="College Football USA 97 (USA)" index="" image="">
+		<description>College Football USA 97 (USA)</description>
+		<cloneof></cloneof>
+		<crc>2ebb90a3</crc>
+		<manufacturer>EA Tiburon</manufacturer>
+		<year>1996</year>
+		<genre>Sports/Football</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="College Football&apos;s National Championship (USA)" index="" image="">
+		<description>College Football\&apos;s National Championship (USA)</description>
+		<cloneof></cloneof>
+		<crc>172c5dbb</crc>
+		<manufacturer>Bluesky Innovations</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Football</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="College Football&apos;s National Championship II (USA)" index="" image="">
+		<description>College Football\&apos;s National Championship II (USA)</description>
+		<cloneof></cloneof>
+		<crc>65b64413</crc>
+		<manufacturer>Bluesky Innovations</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Football</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="College Slam (USA)" index="" image="">
+		<description>College Slam (USA)</description>
+		<cloneof></cloneof>
+		<crc>96a42431</crc>
+		<manufacturer>Iguana Entertainment</manufacturer>
+		<year>1996</year>
+		<genre>Sports/Basketball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cyber-Cop (USA)" index="" image="">
+		<description>Cyber-Cop (USA)</description>
+		<cloneof></cloneof>
+		<crc>01e719c8</crc>
+		<manufacturer>Tengen</manufacturer>
+		<year>1990</year>
+		<genre>Sports</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="David Crane&apos;s Amazing Tennis (USA)" index="true" image="d">
+		<description>David Crane\&apos;s Amazing Tennis (USA)</description>
+		<cloneof></cloneof>
+		<crc>9177088c</crc>
+		<manufacturer>Absolute Entertainment</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Tennis</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="David Robinson&apos;s Supreme Court (USA, Europe)" index="" image="">
+		<description>David Robinson\&apos;s Supreme Court (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>512b7599</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Basketball</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Davis Cup Tennis (USA, Europe)" index="" image="">
+		<description>Davis Cup Tennis (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>894686F0</crc>
+		<manufacturer>Loriciels</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Tennis</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dick Vitale&apos;s &apos;Awesome, Baby!&apos; College Hoops (USA)" index="" image="">
+		<description>Dick Vitale\&apos;s \&apos;Awesome, Baby!\&apos; College Hoops (USA)</description>
+		<cloneof></cloneof>
+		<crc>1312cf22</crc>
+		<manufacturer>Time Warner Interactive</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Basketball</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dino Dini&apos;s Soccer (Europe)" index="" image="">
+		<description>Dino Dini\&apos;s Soccer (Europe)</description>
+		<cloneof></cloneof>
+		<crc>4608f53a</crc>
+		<manufacturer>Dini and Dini Productions</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Soccer</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Double Dribble - The Playoff Edition (USA)" index="" image="">
+		<description>Double Dribble - The Playoff Edition (USA)</description>
+		<cloneof></cloneof>
+		<crc>8352b1d0</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Basketball</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="EA Sports Double Header (Europe)" index="true" image="e">
+		<description>EA Sports Double Header (Europe)</description>
+		<cloneof></cloneof>
+		<crc>a0b54cbc</crc>
+		<manufacturer>Park Place Productions</manufacturer>
+		<year>1993</year>
+		<genre>Sports</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ESPN Baseball Tonight (USA)" index="" image="">
+		<description>ESPN Baseball Tonight (USA)</description>
+		<cloneof></cloneof>
+		<crc>96d8440c</crc>
+		<manufacturer>Park Place Productions</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Baseball</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ESPN National Hockey Night (USA)" index="" image="">
+		<description>ESPN National Hockey Night (USA)</description>
+		<cloneof></cloneof>
+		<crc>1d08828c</crc>
+		<manufacturer>Park Place Productions</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Hockey</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ESPN Sunday Night NFL (USA)" index="" image="">
+		<description>ESPN Sunday Night NFL (USA)</description>
+		<cloneof></cloneof>
+		<crc>61e9c309</crc>
+		<manufacturer>Ringler Studios</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Football</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Evander Holyfield&apos;s &apos;Real Deal&apos; Boxing (World)" index="" image="">
+		<description>Evander Holyfield\&apos;s \&apos;Real Deal\&apos; Boxing (World)</description>
+		<cloneof></cloneof>
+		<crc>4fef37c8</crc>
+		<manufacturer>ACME Interactive</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Boxing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="FIFA 98 - Road to World Cup (Europe)" index="true" image="f">
+		<description>FIFA 98 - Road to World Cup (Europe)</description>
+		<cloneof></cloneof>
+		<crc>96947f57</crc>
+		<manufacturer>Extended Play Productions</manufacturer>
+		<year>1997</year>
+		<genre>Sports/Soccer</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="FIFA International Soccer (USA, Europe)" index="" image="">
+		<description>FIFA International Soccer (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>bddbb763</crc>
+		<manufacturer>Extended Play Productions</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Soccer</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="FIFA Soccer 95 (USA, Europe)" index="" image="">
+		<description>FIFA Soccer 95 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>b389d036</crc>
+		<manufacturer>Extended Play Productions</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Soccer</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="FIFA Soccer 96 (USA, Europe)" index="" image="">
+		<description>FIFA Soccer 96 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>bad30ffa</crc>
+		<manufacturer>Extended Play Productions</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Soccer</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="FIFA Soccer 97 (USA, Europe)" index="" image="">
+		<description>FIFA Soccer 97 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>a33d5803</crc>
+		<manufacturer>Extended Play Productions</manufacturer>
+		<year>1996</year>
+		<genre>Sports/Soccer</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Flintstones, The (USA)" index="" image="">
+		<description>Flintstones, The (USA)</description>
+		<cloneof></cloneof>
+		<crc>7c982c59</crc>
+		<manufacturer>Software Creations</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Boxing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Formula One (USA)" index="" image="">
+		<description>Formula One (USA)</description>
+		<cloneof></cloneof>
+		<crc>ccd73738</crc>
+		<manufacturer>Iguana Entertainment</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Baseball</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="George Foreman&apos;s KO Boxing (USA)" index="true" image="g">
+		<description>George Foreman\&apos;s KO Boxing (USA)</description>
+		<cloneof></cloneof>
+		<crc>e1fdc787</crc>
+		<manufacturer>Beam Software</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Boxing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Greatest Heavyweights (USA)" index="" image="">
+		<description>Greatest Heavyweights (USA)</description>
+		<cloneof></cloneof>
+		<crc>6e3621d5</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Boxing</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="HardBall III (USA)" index="true" image="h">
+		<description>HardBall III (USA)</description>
+		<cloneof></cloneof>
+		<crc>a4f2f011</crc>
+		<manufacturer>MindSpan</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Baseball</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="HardBall &apos;94 (USA, Europe)" index="" image="">
+		<description>HardBall \&apos;94 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>ea9c4878</crc>
+		<manufacturer>MindSpan</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Baseball</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="HardBall &apos;95 (USA)" index="" image="">
+		<description>HardBall \&apos;95 (USA)</description>
+		<cloneof></cloneof>
+		<crc>ed10bc9e</crc>
+		<manufacturer>MindSpan</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Baseball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="HardBall! (USA)" index="" image="">
+		<description>HardBall! (USA)</description>
+		<cloneof></cloneof>
+		<crc>bd1b9a04</crc>
+		<manufacturer>Accolade</manufacturer>
+		<year>1991</year>
+		<genre>Sports/Baseball</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Head-On Soccer (USA)" index="" image="">
+		<description>Head-On Soccer (USA)</description>
+		<cloneof></cloneof>
+		<crc>dcffa327</crc>
+		<manufacturer>U.S. Gold</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Soccer</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hit the Ice (USA)" index="" image="">
+		<description>Hit the Ice (USA)</description>
+		<cloneof></cloneof>
+		<crc>85b23606</crc>
+		<manufacturer>Aisystem Tokyo</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Hockey</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="IMG International Tour Tennis (USA, Europe)" index="true" image="i">
+		<description>IMG International Tour Tennis (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>e04ffc2b</crc>
+		<manufacturer>High Score Productions</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Tennis</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="International Rugby (Europe)" index="" image="">
+		<description>International Rugby (Europe)</description>
+		<cloneof></cloneof>
+		<crc>d97d1699</crc>
+		<manufacturer>Tiertex Design Studios</manufacturer>
+		<year>1993</year>
+		<genre>Sports</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="International Superstar Soccer Deluxe (Europe)" index="" image="">
+		<description>International Superstar Soccer Deluxe (Europe)</description>
+		<cloneof></cloneof>
+		<crc>9bb3b180</crc>
+		<manufacturer>Tec Toy</manufacturer>
+		<year>1996</year>
+		<genre>Sports/Soccer</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Jack Nicklaus&apos; Power Challenge Golf (USA, Europe)" index="true" image="j">
+		<description>Jack Nicklaus\&apos; Power Challenge Golf (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>5545e909</crc>
+		<manufacturer>Accolade</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Golf</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="James Bond 007 - The Duel (USA)" index="" image="">
+		<description>James Bond 007 - The Duel (USA)</description>
+		<cloneof></cloneof>
+		<crc>4e614548</crc>
+		<manufacturer>Taito</manufacturer>
+		<year>1990</year>
+		<genre>Sports/Boxing</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Jammit (USA)" index="" image="">
+		<description>Jammit (USA)</description>
+		<cloneof></cloneof>
+		<crc>d91b52b8</crc>
+		<manufacturer>GTE Entertainment</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Basketball</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Jennifer Capriati Tennis (USA)" index="" image="">
+		<description>Jennifer Capriati Tennis (USA)</description>
+		<cloneof></cloneof>
+		<crc>ab2abc8e</crc>
+		<manufacturer>System Sacom</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Tennis</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Jerry Glanville&apos;s Pigskin Footbrawl (USA)" index="" image="">
+		<description>Jerry Glanville\&apos;s Pigskin Footbrawl (USA)</description>
+		<cloneof></cloneof>
+		<crc>e7f48d30</crc>
+		<manufacturer>Developer Resources</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Football</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Jimmy White&apos;s Whirlwind Snooker (Europe)" index="" image="">
+		<description>Jimmy White\&apos;s Whirlwind Snooker (Europe)</description>
+		<cloneof></cloneof>
+		<crc>0aef5b1f</crc>
+		<manufacturer>Virgin Interactive</manufacturer>
+		<year>1991</year>
+		<genre>Sports/Billiards</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Joe Montana Football (World)" index="" image="">
+		<description>Joe Montana Football (World)</description>
+		<cloneof></cloneof>
+		<crc>8aa6a1dd</crc>
+		<manufacturer>Park Place Productions</manufacturer>
+		<year>1990</year>
+		<genre>Sports/Football</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Joe Montana II Sports Talk Football (World) (Rev A)" index="" image="">
+		<description>Joe Montana II Sports Talk Football (World) (Rev A)</description>
+		<cloneof></cloneof>
+		<crc>a45da893</crc>
+		<manufacturer>Bluesky Innovations</manufacturer>
+		<year>1991</year>
+		<genre>Sports/Football</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="John Madden Football (USA, Europe)" index="" image="">
+		<description>John Madden Football (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>90fb8818</crc>
+		<manufacturer>Park Place Productions</manufacturer>
+		<year>1991</year>
+		<genre>Sports/Football</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="John Madden Football - Championship Edition (USA)" index="" image="">
+		<description>John Madden Football - Championship Edition (USA)</description>
+		<cloneof></cloneof>
+		<crc>ca534b1a</crc>
+		<manufacturer>Looking Glass Studios</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Football</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="John Madden Football &apos;92 (USA, Europe)" index="" image="">
+		<description>John Madden Football \&apos;92 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>046e3945</crc>
+		<manufacturer>Park Place Productions</manufacturer>
+		<year>1991</year>
+		<genre>Sports/Football</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="John Madden Football &apos;93 (USA, Europe)" index="" image="">
+		<description>John Madden Football \&apos;93 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>ca323b3e</crc>
+		<manufacturer>Park Place Productions</manufacturer>
+		<year>1990</year>
+		<genre>Sports/Football</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Jordan Vs Bird (USA, Europe) (v1.1)" index="" image="">
+		<description>Jordan Vs Bird (USA, Europe) (v1.1)</description>
+		<cloneof></cloneof>
+		<crc>4d3ddd7c</crc>
+		<manufacturer>Electronic Arts</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Basketball</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Kick Off 3 - European Challenge (Europe)" index="true" image="k">
+		<description>Kick Off 3 - European Challenge (Europe)</description>
+		<cloneof></cloneof>
+		<crc>bc37401a</crc>
+		<manufacturer>Anco Software</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Soccer</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="King Salmon - The Big Catch (USA)" index="" image="">
+		<description>King Salmon - The Big Catch (USA)</description>
+		<cloneof></cloneof>
+		<crc>f516e7d9</crc>
+		<manufacturer>Sage&apos;s Creation</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Fishing</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="La Russa Baseball 95 (USA, Australia)" index="true" image="l">
+		<description>La Russa Baseball 95 (USA, Australia)</description>
+		<cloneof></cloneof>
+		<crc>3f848a92</crc>
+		<manufacturer>High Score Productions</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Baseball</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lakers versus Celtics and the NBA Playoffs (USA)" index="" image="">
+		<description>Lakers versus Celtics and the NBA Playoffs (USA)</description>
+		<cloneof></cloneof>
+		<crc>0e33fc75</crc>
+		<manufacturer>Electronic Arts</manufacturer>
+		<year>1991</year>
+		<genre>Sports/Basketball</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Madden NFL 95 (USA, Europe)" index="true" image="m">
+		<description>Madden NFL 95 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>db0be0c2</crc>
+		<manufacturer>High Score Productions</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Football</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Madden NFL 96 (USA, Europe)" index="" image="">
+		<description>Madden NFL 96 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>f126918b</crc>
+		<manufacturer>High Score Productions</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Football</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Madden NFL 97 (USA, Europe)" index="" image="">
+		<description>Madden NFL 97 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>c4b4e112</crc>
+		<manufacturer>High Score Productions</manufacturer>
+		<year>1997</year>
+		<genre>Sports/Football</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Madden NFL 98 (USA)" index="" image="">
+		<description>Madden NFL 98 (USA)</description>
+		<cloneof></cloneof>
+		<crc>e051ea62</crc>
+		<manufacturer>Tiertex Design Studios</manufacturer>
+		<year>1997</year>
+		<genre>Sports/Football</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Madden NFL &apos;94 (USA, Europe)" index="" image="">
+		<description>Madden NFL \&apos;94 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>d14b811b</crc>
+		<manufacturer>High Score Productions</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Football</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mario Lemieux Hockey (USA, Europe)" index="" image="">
+		<description>Mario Lemieux Hockey (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>f664eb6c</crc>
+		<manufacturer>Ringler Studios</manufacturer>
+		<year>1991</year>
+		<genre>Sports/Hockey</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mike Ditka Power Football (USA, Europe)" index="" image="">
+		<description>Mike Ditka Power Football (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>6078b310</crc>
+		<manufacturer>Accolade</manufacturer>
+		<year>1991</year>
+		<genre>Sports/Football</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Minnesota Fats - Pool Legend (USA)" index="" image="">
+		<description>Minnesota Fats - Pool Legend (USA)</description>
+		<cloneof></cloneof>
+		<crc>38174f40</crc>
+		<manufacturer>Data East</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Billiards</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="MLBPA Baseball (USA)" index="" image="">
+		<description>MLBPA Baseball (USA)</description>
+		<cloneof></cloneof>
+		<crc>14a8064d</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Baseball</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Muhammad Ali Heavyweight Boxing (USA)" index="" image="">
+		<description>Muhammad Ali Heavyweight Boxing (USA)</description>
+		<cloneof></cloneof>
+		<crc>b638b6a3</crc>
+		<manufacturer>Park Place Productions</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Boxing</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mutant League Football (USA, Europe)" index="" image="">
+		<description>Mutant League Football (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>dce29c9d</crc>
+		<manufacturer>Electronic Arts</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Football</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mutant League Hockey (USA, Europe)" index="" image="">
+		<description>Mutant League Hockey (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>3529180f</crc>
+		<manufacturer>Electronic Arts</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Hockey</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NBA Action &apos;94 (USA)" index="true" image="n">
+		<description>NBA Action \&apos;94 (USA)</description>
+		<cloneof></cloneof>
+		<crc>99c348ba</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Basketball</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NBA Action &apos;95 Starring David Robinson (USA, Europe)" index="" image="">
+		<description>NBA Action \&apos;95 Starring David Robinson (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>aa7006d6</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Basketball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NBA All-Star Challenge (USA, Europe)" index="" image="">
+		<description>NBA All-Star Challenge (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>c4674adf</crc>
+		<manufacturer>Beam Software</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Basketball</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NBA Hang Time (USA)" index="" image="">
+		<description>NBA Hang Time (USA)</description>
+		<cloneof></cloneof>
+		<crc>176b0338</crc>
+		<manufacturer>Funcom</manufacturer>
+		<year>1996</year>
+		<genre>Sports/Basketball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NBA Jam (USA, Europe) (v1.1)" index="" image="">
+		<description>NBA Jam (USA, Europe) (v1.1)</description>
+		<cloneof></cloneof>
+		<crc>eb8360e6</crc>
+		<manufacturer>Iguana Entertainment</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Basketball</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NBA Jam Tournament Edition (World)" index="" image="">
+		<description>NBA Jam Tournament Edition (World)</description>
+		<cloneof></cloneof>
+		<crc>e9ffcb37</crc>
+		<manufacturer>Iguana Entertainment</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Basketball</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NBA Live 95 (USA, Europe)" index="" image="">
+		<description>NBA Live 95 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>66018abc</crc>
+		<manufacturer>Hitmen Productions</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Basketball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NBA Live 96 (USA, Europe)" index="" image="">
+		<description>NBA Live 96 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>49de0062</crc>
+		<manufacturer>Hitmen Productions</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Basketball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NBA Live 97 (USA, Europe)" index="" image="">
+		<description>NBA Live 97 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>7024843a</crc>
+		<manufacturer>NuFX</manufacturer>
+		<year>1996</year>
+		<genre>Sports/Basketball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NBA Live 98 (USA)" index="" image="">
+		<description>NBA Live 98 (USA)</description>
+		<cloneof></cloneof>
+		<crc>23473a8a</crc>
+		<manufacturer>NuFX</manufacturer>
+		<year>1997</year>
+		<genre>Sports/Basketball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NBA Showdown &apos;94 (USA, Europe)" index="" image="">
+		<description>NBA Showdown \&apos;94 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>160b7090</crc>
+		<manufacturer>Electronic Arts</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Basketball</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NCAA Final Four Basketball (USA)" index="" image="">
+		<description>NCAA Final Four Basketball (USA)</description>
+		<cloneof></cloneof>
+		<crc>ed0c1303</crc>
+		<manufacturer>Bitmasters</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Basketball</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NCAA Football (USA)" index="" image="">
+		<description>NCAA Football (USA)</description>
+		<cloneof></cloneof>
+		<crc>081012f0</crc>
+		<manufacturer>Mindscape</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Football</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NFL 98 (USA)" index="" image="">
+		<description>NFL 98 (USA)</description>
+		<cloneof></cloneof>
+		<crc>f73ec54c</crc>
+		<manufacturer>Farsight Technologies</manufacturer>
+		<year>1997</year>
+		<genre>Sports/Football</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NFL Football &apos;94 Starring Joe Montana (USA)" index="" image="">
+		<description>NFL Football \&apos;94 Starring Joe Montana (USA)</description>
+		<cloneof></cloneof>
+		<crc>0d486ed5</crc>
+		<manufacturer>Bluesky Innovations</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Football</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NFL Quarterback Club (World)" index="" image="">
+		<description>NFL Quarterback Club (World)</description>
+		<cloneof></cloneof>
+		<crc>94542eaf</crc>
+		<manufacturer>Iguana Entertainment</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Football</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NFL Quarterback Club 96 (USA, Europe)" index="" image="">
+		<description>NFL Quarterback Club 96 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>d5a37cab</crc>
+		<manufacturer>Iguana Entertainment</manufacturer>
+		<year>1996</year>
+		<genre>Sports/Football</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NFL Sports Talk Football &apos;93 Starring Joe Montana (USA, Europe)" index="" image="">
+		<description>NFL Sports Talk Football \&apos;93 Starring Joe Montana (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>ce0b1fe1</crc>
+		<manufacturer>Bluesky Innovations</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Football</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NFL &apos;95 (USA, Europe)" index="" image="">
+		<description>NFL \&apos;95 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>b58e4a81</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Football</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NHL 95 (USA, Europe)" index="" image="">
+		<description>NHL 95 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>e8ee917e</crc>
+		<manufacturer>High Score Productions</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Hockey</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NHL 96 (USA, Europe)" index="" image="">
+		<description>NHL 96 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>8135702c</crc>
+		<manufacturer>High Score Productions</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Hockey</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NHL 97 (USA, Europe)" index="" image="">
+		<description>NHL 97 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>f067c103</crc>
+		<manufacturer>High Score Productions</manufacturer>
+		<year>1996</year>
+		<genre>Sports/Hockey</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NHL 98 (USA)" index="" image="">
+		<description>NHL 98 (USA)</description>
+		<cloneof></cloneof>
+		<crc>7b64cd98</crc>
+		<manufacturer>High Score Productions</manufacturer>
+		<year>1997</year>
+		<genre>Sports/Hockey</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NHL All-Star Hockey &apos;95 (USA)" index="" image="">
+		<description>NHL All-Star Hockey \&apos;95 (USA)</description>
+		<cloneof></cloneof>
+		<crc>e6c0218b</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Hockey</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NHL Hockey (USA)" index="" image="">
+		<description>NHL Hockey (USA)</description>
+		<cloneof></cloneof>
+		<crc>2641653f</crc>
+		<manufacturer>Park Place Productions</manufacturer>
+		<year>1991</year>
+		<genre>Sports/Hockey</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NHL &apos;94 (USA, Europe)" index="" image="">
+		<description>NHL \&apos;94 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>9438f5dd</crc>
+		<manufacturer>High Score Productions</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Hockey</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NHLPA Hockey 93 (USA, Europe) (v1.1)" index="" image="">
+		<description>NHLPA Hockey 93 (USA, Europe) (v1.1)</description>
+		<cloneof></cloneof>
+		<crc>f361d0bf</crc>
+		<manufacturer>Park Place Productions</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Hockey</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Olympic Gold (USA)" index="true" image="o">
+		<description>Olympic Gold (USA)</description>
+		<cloneof></cloneof>
+		<crc>339594b4</crc>
+		<manufacturer>U.S. Gold</manufacturer>
+		<year>1992</year>
+		<genre>Sports</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Olympic Summer Games (USA, Europe)" index="" image="">
+		<description>Olympic Summer Games (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>9e470fb9</crc>
+		<manufacturer>Tiertex Design Studios</manufacturer>
+		<year>1996</year>
+		<genre>Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pat Riley Basketball (USA)" index="true" image="p">
+		<description>Pat Riley Basketball (USA)</description>
+		<cloneof></cloneof>
+		<crc>3d9318a7</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1990</year>
+		<genre>Sports/Basketball</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pebble Beach Golf Links (USA)" index="" image="">
+		<description>Pebble Beach Golf Links (USA)</description>
+		<cloneof></cloneof>
+		<crc>95823c43</crc>
+		<manufacturer>T&amp;E Soft</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Golf</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pele II - World Tournament Soccer (USA, Europe)" index="" image="">
+		<description>Pele II - World Tournament Soccer (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>05a486e9</crc>
+		<manufacturer>Radical Entertainment</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Soccer</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pele! (USA, Europe)" index="" image="">
+		<description>Pele! (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>5a8abe51</crc>
+		<manufacturer>Accolade</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Soccer</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pete Sampras Tennis (USA, Europe) (J-Cart)" index="" image="">
+		<description>Pete Sampras Tennis (USA, Europe) (J-Cart)</description>
+		<cloneof></cloneof>
+		<crc>9ef5bbd1</crc>
+		<manufacturer>Codemasters</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Tennis</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="PGA European Tour (USA, Europe)" index="" image="">
+		<description>PGA European Tour (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>8ca45acd</crc>
+		<manufacturer>Polygames</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Golf</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="PGA Tour 96 (USA, Europe)" index="" image="">
+		<description>PGA Tour 96 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>9698bbde</crc>
+		<manufacturer>NuFX</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Golf</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="PGA Tour Golf (USA, Europe) (v1.2)" index="" image="">
+		<description>PGA Tour Golf (USA, Europe) (v1.2)</description>
+		<cloneof></cloneof>
+		<crc>c1f0b4e1</crc>
+		<manufacturer>Sterling Silver Software</manufacturer>
+		<year>1991</year>
+		<genre>Sports/Golf</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="PGA Tour Golf II (USA, Europe) (v1.1)" index="" image="">
+		<description>PGA Tour Golf II (USA, Europe) (v1.1)</description>
+		<cloneof></cloneof>
+		<crc>e82b8606</crc>
+		<manufacturer>Polygames</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Golf</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="PGA Tour Golf III (USA, Europe)" index="" image="">
+		<description>PGA Tour Golf III (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>aeb3f65f</crc>
+		<manufacturer>Polygames</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Golf</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Powerball (USA)" index="" image="">
+		<description>Powerball (USA)</description>
+		<cloneof></cloneof>
+		<crc>7adf232f</crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1991</year>
+		<genre>Sports</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Premier Manager (Europe)" index="" image="">
+		<description>Premier Manager (Europe)</description>
+		<cloneof></cloneof>
+		<crc>303b889f</crc>
+		<manufacturer>Gremlin Interactive</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Soccer</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Premier Manager 97 (Europe)" index="" image="">
+		<description>Premier Manager 97 (Europe)</description>
+		<cloneof></cloneof>
+		<crc>fccbf69b</crc>
+		<manufacturer>Gremlin Interactive</manufacturer>
+		<year>1996</year>
+		<genre>Sports/Soccer</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Prime Time NFL Starring Deion Sanders (USA)" index="" image="">
+		<description>Prime Time NFL Starring Deion Sanders (USA)</description>
+		<cloneof></cloneof>
+		<crc>5aa53cbc</crc>
+		<manufacturer>Farsight Technologies</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Football</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pro Quarterback (USA)" index="" image="">
+		<description>Pro Quarterback (USA)</description>
+		<cloneof></cloneof>
+		<crc>cc8b2b69</crc>
+		<manufacturer>Tradewest</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Football</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="R.B.I. Baseball 3 (USA)" index="true" image="r">
+		<description>R.B.I. Baseball 3 (USA)</description>
+		<cloneof></cloneof>
+		<crc>4840348c</crc>
+		<manufacturer>Tengen</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Baseball</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="R.B.I. Baseball 4 (USA)" index="" image="">
+		<description>R.B.I. Baseball 4 (USA)</description>
+		<cloneof></cloneof>
+		<crc>fecf9b94</crc>
+		<manufacturer>Tengen</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Baseball</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="R.B.I. Baseball &apos;93 (USA)" index="" image="">
+		<description>R.B.I. Baseball \&apos;93 (USA)</description>
+		<cloneof></cloneof>
+		<crc>beafce84</crc>
+		<manufacturer>Tengen</manufacturer>
+		<year>1991</year>
+		<genre>Sports/Baseball</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="R.B.I. Baseball &apos;94 (USA, Europe)" index="" image="">
+		<description>R.B.I. Baseball \&apos;94 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>4eb4d5e4</crc>
+		<manufacturer>Tengen</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Baseball</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Roger Clemens MVP Baseball (USA)" index="" image="">
+		<description>Roger Clemens MVP Baseball (USA)</description>
+		<cloneof></cloneof>
+		<crc>83699e34</crc>
+		<manufacturer>Sculptured Software</manufacturer>
+		<year>1992</year>
+		<genre>Baseball/Sports</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rugby World Cup 95 (USA, Europe)" index="" image="">
+		<description>Rugby World Cup 95 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>61f90a8a</crc>
+		<manufacturer>EA Sports</manufacturer>
+		<year>1994</year>
+		<genre>Sports</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sampras Tennis 96 (Europe) (J-Cart)" index="true" image="s">
+		<description>Sampras Tennis 96 (Europe) (J-Cart)</description>
+		<cloneof></cloneof>
+		<crc>14e3fb7b</crc>
+		<manufacturer>Codemasters</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Tennis</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sensible Soccer (Europe)" index="" image="">
+		<description>Sensible Soccer (Europe)</description>
+		<cloneof></cloneof>
+		<crc>f9b396b8</crc>
+		<manufacturer>Renegade</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Soccer</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sensible Soccer - International Edition (Europe)" index="" image="">
+		<description>Sensible Soccer - International Edition (Europe)</description>
+		<cloneof></cloneof>
+		<crc>04e3bcca</crc>
+		<manufacturer>Renegade</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Soccer</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Side Pocket (USA)" index="" image="">
+		<description>Side Pocket (USA)</description>
+		<cloneof></cloneof>
+		<crc>af9f275d</crc>
+		<manufacturer>Data East</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Billiards</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Skitchin&apos; (USA, Europe)" index="" image="">
+		<description>Skitchin\&apos; (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>f785f9d7</crc>
+		<manufacturer>Electronic Arts</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Skating</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Speedball 2 - Brutal Deluxe (USA)" index="" image="">
+		<description>Speedball 2 - Brutal Deluxe (USA)</description>
+		<cloneof></cloneof>
+		<crc>9fc340a7</crc>
+		<manufacturer>Bitmap Brothers</manufacturer>
+		<year>1991</year>
+		<genre>Sports</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sports Talk Baseball (USA)" index="" image="">
+		<description>Sports Talk Baseball (USA)</description>
+		<cloneof></cloneof>
+		<crc>0deb79c2</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Baseball</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Striker (Europe)" index="" image="">
+		<description>Striker (Europe)</description>
+		<cloneof></cloneof>
+		<crc>cc5d7ab2</crc>
+		<manufacturer>Rage Software</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Soccer</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Summer Challenge (USA, Europe)" index="" image="">
+		<description>Summer Challenge (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>d7d53dc1</crc>
+		<manufacturer>MindSpan</manufacturer>
+		<year>1993</year>
+		<genre>Sports</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Baseball 2020 (USA, Europe)" index="" image="">
+		<description>Super Baseball 2020 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>c17acee5</crc>
+		<manufacturer>NuFX</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Baseball</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super High Impact (USA)" index="" image="">
+		<description>Super High Impact (USA)</description>
+		<cloneof></cloneof>
+		<crc>b870c2f7</crc>
+		<manufacturer>Iguana Entertainment</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Football</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Kick Off (Europe)" index="" image="">
+		<description>Super Kick Off (Europe)</description>
+		<cloneof></cloneof>
+		<crc>f43793ff</crc>
+		<manufacturer>Tiertex Design Studios</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Soccer</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Volley Ball (USA)" index="" image="">
+		<description>Super Volley Ball (USA)</description>
+		<cloneof></cloneof>
+		<crc>85102799</crc>
+		<manufacturer>Micronics</manufacturer>
+		<year>1991</year>
+		<genre>Sports/Volleyball</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Team USA Basketball (USA, Europe)" index="true" image="t">
+		<description>Team USA Basketball (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>a0caf97e</crc>
+		<manufacturer>Electronic Arts</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Basketball</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tecmo Super Baseball (USA)" index="" image="">
+		<description>Tecmo Super Baseball (USA)</description>
+		<cloneof></cloneof>
+		<crc>227a1178</crc>
+		<manufacturer>Sculptured Software</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Baseball</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tecmo Super Bowl (USA)" index="" image="">
+		<description>Tecmo Super Bowl (USA)</description>
+		<cloneof></cloneof>
+		<crc>21f27d34</crc>
+		<manufacturer>Tecmo</manufacturer>
+		<year>1993</year>
+		<genre>Football/Sports</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tecmo Super Bowl II - Special Edition (USA)" index="" image="">
+		<description>Tecmo Super Bowl II - Special Edition (USA)</description>
+		<cloneof></cloneof>
+		<crc>0a0e67d8</crc>
+		<manufacturer>Tecmo</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Football</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tecmo Super Bowl III - Final Edition (USA)" index="" image="">
+		<description>Tecmo Super Bowl III - Final Edition (USA)</description>
+		<cloneof></cloneof>
+		<crc>aae4089f</crc>
+		<manufacturer>Tecmo</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Football</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tecmo Super Hockey (USA)" index="" image="">
+		<description>Tecmo Super Hockey (USA)</description>
+		<cloneof></cloneof>
+		<crc>5f86ddc9</crc>
+		<manufacturer>Tecmo</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Hockey</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tecmo World Cup (USA)" index="" image="">
+		<description>Tecmo World Cup (USA)</description>
+		<cloneof></cloneof>
+		<crc>caf8eb2c</crc>
+		<manufacturer>Sims</manufacturer>
+		<year>1990</year>
+		<genre>Sports/Soccer</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tiny Toon Adventures - Acme All-Stars (USA, Korea)" index="" image="">
+		<description>Tiny Toon Adventures - Acme All-Stars (USA, Korea)</description>
+		<cloneof></cloneof>
+		<crc>2f9faa1d</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1994</year>
+		<genre>Sports</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="TNN Bass Tournament of Champions (USA)" index="" image="">
+		<description>TNN Bass Tournament of Champions (USA)</description>
+		<cloneof></cloneof>
+		<crc>c83ffa1b</crc>
+		<manufacturer>Imagitec Design</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Fishing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="TNN Outdoors Bass Tournament &apos;96 (USA)" index="" image="">
+		<description>TNN Outdoors Bass Tournament \&apos;96 (USA)</description>
+		<cloneof></cloneof>
+		<crc>5c523c0b</crc>
+		<manufacturer>Imagitec Design</manufacturer>
+		<year>1996</year>
+		<genre>Sports/Fishing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tommy Lasorda Baseball (USA)" index="" image="">
+		<description>Tommy Lasorda Baseball (USA)</description>
+		<cloneof></cloneof>
+		<crc>4fb50304</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1989</year>
+		<genre>Sports/Baseball</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tony La Russa Baseball (USA, Australia)" index="" image="">
+		<description>Tony La Russa Baseball (USA, Australia)</description>
+		<cloneof></cloneof>
+		<crc>24629c78</crc>
+		<manufacturer>SSI</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Baseball</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Total Football (Europe)" index="" image="">
+		<description>Total Football (Europe)</description>
+		<cloneof></cloneof>
+		<crc>8360b66a</crc>
+		<manufacturer>Domark</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Football</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Toughman Contest (USA, Europe)" index="" image="">
+		<description>Toughman Contest (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>e19fbc93</crc>
+		<manufacturer>Visual Concepts</manufacturer>
+		<year>1995</year>
+		<genre>Sports</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Triple Play - Gold Edition (USA)" index="" image="">
+		<description>Triple Play - Gold Edition (USA)</description>
+		<cloneof></cloneof>
+		<crc>bbe69017</crc>
+		<manufacturer>Extended Play Productions</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Baseball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Triple Play 96 (USA)" index="" image="">
+		<description>Triple Play 96 (USA)</description>
+		<cloneof></cloneof>
+		<crc>f1748e91</crc>
+		<manufacturer>Extended Play Productions</manufacturer>
+		<year>1996</year>
+		<genre>Sports/Baseball</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Troy Aikman NFL Football (USA)" index="" image="">
+		<description>Troy Aikman NFL Football (USA)</description>
+		<cloneof></cloneof>
+		<crc>015f2713</crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Football</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Unnecessary Roughness &apos;95 (USA)" index="true" image="u">
+		<description>Unnecessary Roughness \&apos;95 (USA)</description>
+		<cloneof></cloneof>
+		<crc>9920e7b7</crc>
+		<manufacturer>Accolade</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Football</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Wayne Gretzky and the NHLPA All-Stars (USA, Europe)" index="true" image="w">
+		<description>Wayne Gretzky and the NHLPA All-Stars (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>c2c13b81</crc>
+		<manufacturer>Time Warner Interactive</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Hockey</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Wimbledon Championship Tennis (USA)" index="" image="">
+		<description>Wimbledon Championship Tennis (USA)</description>
+		<cloneof></cloneof>
+		<crc>f9142aee</crc>
+		<manufacturer>Sims</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Tennis</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Winter Challenge (USA, Europe) (Rev 1)" index="" image="">
+		<description>Winter Challenge (USA, Europe) (Rev 1)</description>
+		<cloneof></cloneof>
+		<crc>f57c7068</crc>
+		<manufacturer>MindSpan</manufacturer>
+		<year>1992</year>
+		<genre>Sports</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Winter Olympic Games (USA)" index="" image="">
+		<description>Winter Olympic Games (USA)</description>
+		<cloneof></cloneof>
+		<crc>c5834437</crc>
+		<manufacturer>U.S. Gold</manufacturer>
+		<year>1993</year>
+		<genre>Sports</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="World Championship Soccer (Japan, USA) (v1.2)" index="" image="">
+		<description>World Championship Soccer (Japan, USA) (v1.2)</description>
+		<cloneof></cloneof>
+		<crc>bf84ede6</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Soccer</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="World Championship Soccer II (USA)" index="" image="">
+		<description>World Championship Soccer II (USA)</description>
+		<cloneof></cloneof>
+		<crc>c1dd1c8e</crc>
+		<manufacturer>Access Software</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Golf</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="World Class Leaderboard Golf (USA)" index="" image="">
+		<description>World Class Leaderboard Golf (USA)</description>
+		<cloneof></cloneof>
+		<crc>53434bab</crc>
+		<manufacturer>U.S. Gold</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Golf</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="World Cup USA 94 (USA, Europe)" index="" image="">
+		<description>World Cup USA 94 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>0171b47f</crc>
+		<manufacturer>Tiertex Design Studios</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Soccer</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="World Series Baseball (USA)" index="" image="">
+		<description>World Series Baseball (USA)</description>
+		<cloneof></cloneof>
+		<crc>57c1d5ec</crc>
+		<manufacturer>Blue Sky Software</manufacturer>
+		<year>1996</year>
+		<genre>Sports/Baseball</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="World Series Baseball 98 (USA)" index="" image="">
+		<description>World Series Baseball 98 (USA)</description>
+		<cloneof></cloneof>
+		<crc>05b1ab53</crc>
+		<manufacturer>Blue Sky Software</manufacturer>
+		<year>1997</year>
+		<genre>Sports/Baseball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="World Series Baseball &apos;95 (USA)" index="" image="">
+		<description>World Series Baseball \&apos;95 (USA)</description>
+		<cloneof></cloneof>
+		<crc>25130077</crc>
+		<manufacturer>Blue Sky Software</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Baseball</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="World Series Baseball &apos;96 (USA)" index="" image="">
+		<description>World Series Baseball \&apos;96 (USA)</description>
+		<cloneof></cloneof>
+		<crc>04ee8272</crc>
+		<manufacturer>Blue Sky Software</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Baseball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="World Trophy Soccer (USA)" index="" image="">
+		<description>World Trophy Soccer (USA)</description>
+		<cloneof></cloneof>
+		<crc>6e3edc7c</crc>
+		<manufacturer>Game Arts</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Soccer</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Zany Golf (USA, Europe) (v1.1)" index="true" image="z">
+		<description>Zany Golf (USA, Europe) (v1.1)</description>
+		<cloneof></cloneof>
+		<crc>74ed7607</crc>
+		<manufacturer>Sandcastle</manufacturer>
+		<year>1990</year>
+		<genre>Sports/Golf</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

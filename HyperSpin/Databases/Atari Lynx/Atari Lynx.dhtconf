@@ -1,0 +1,8 @@
+<DonsHyperSpinListGenerator VersionMajor="4">
+  <Wheel>Atari Lynx</Wheel>
+  <OutputFile>M:\Arcade\HyperSpin\Databases\Atari Lynx\Atari Lynx.xml</OutputFile>
+  <SourceFile>M:\Hyperlists\Atari Lynx.xml</SourceFile>
+  <ExcludeFile>M:\Arcade\HyperSpin\Databases\Atari Lynx\Atari Lynx_excluded.xml</ExcludeFile>
+  <MameXmlFile>
+  </MameXmlFile>
+</DonsHyperSpinListGenerator>

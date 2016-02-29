@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Sega Master System</listname>
+		<lastlistupdate>10/27/2011</lastlistupdate>
+		<listversion>1.1 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="Populous (Europe)" index="true" image="p">
+		<description>Populous (Europe)</description>
+		<cloneof></cloneof>
+		<crc>C7A1FDEF</crc>
+		<manufacturer>TecMagik</manufacturer>
+		<year>1991</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rampart (Europe)" index="true" image="r">
+		<description>Rampart (Europe)</description>
+		<cloneof></cloneof>
+		<crc>426E5C8A</crc>
+		<manufacturer>Tengen</manufacturer>
+		<year>1991</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

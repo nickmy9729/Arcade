@@ -1,0 +1,8 @@
+<DonsHyperSpinListGenerator VersionMajor="4">
+  <Wheel>Nintendo Wii</Wheel>
+  <OutputFile>M:\Arcade\HyperSpin\Databases\Nintendo Wii\Nintendo Wii.xml</OutputFile>
+  <SourceFile>M:\Hyperlists\Nintendo Wii.xml</SourceFile>
+  <ExcludeFile>M:\Arcade\HyperSpin\Databases\Nintendo Wii\Nintendo Wii_excluded.xml</ExcludeFile>
+  <MameXmlFile>
+  </MameXmlFile>
+</DonsHyperSpinListGenerator>

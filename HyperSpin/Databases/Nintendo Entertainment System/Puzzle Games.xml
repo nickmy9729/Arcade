@@ -1,0 +1,409 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Nintendo Entertainment System</listname>
+		<lastlistupdate>07/28/2013</lastlistupdate>
+		<listversion>1.1 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="Adventures of Lolo (USA)" index="true" image="a">
+		<description>Adventures of Lolo (USA)</description>
+		<cloneof></cloneof>
+		<crc>71BF075F</crc>
+		<manufacturer>HAL Labs</manufacturer>
+		<year>1989</year>
+		<genre>Puzzle</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Adventures of Lolo 2 (USA)" index="" image="">
+		<description>Adventures of Lolo 2 (USA)</description>
+		<cloneof></cloneof>
+		<crc>1992D163</crc>
+		<manufacturer>HAL Labs</manufacturer>
+		<year>1990</year>
+		<genre>Puzzle</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Adventures of Lolo 3 (USA)" index="" image="">
+		<description>Adventures of Lolo 3 (USA)</description>
+		<cloneof></cloneof>
+		<crc>8DD92725</crc>
+		<manufacturer>HAL Labs</manufacturer>
+		<year>1991</year>
+		<genre>Puzzle</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bomberman (USA)" index="true" image="b">
+		<description>Bomberman (USA)</description>
+		<cloneof></cloneof>
+		<crc>DB9DCF89</crc>
+		<manufacturer>Hudson</manufacturer>
+		<year>1989</year>
+		<genre>Puzzle</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bomberman II (USA)" index="" image="">
+		<description>Bomberman II (USA)</description>
+		<cloneof></cloneof>
+		<crc>1EBB5B42</crc>
+		<manufacturer>Hudson</manufacturer>
+		<year>1993</year>
+		<genre>Puzzle</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Boulder Dash (USA)" index="" image="">
+		<description>Boulder Dash (USA)</description>
+		<cloneof></cloneof>
+		<crc>A8F4D99E</crc>
+		<manufacturer>JVC Digital Studios</manufacturer>
+		<year>1990</year>
+		<genre>Puzzle</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bubble Bath Babes (USA) (Unl)" index="" image="">
+		<description>Bubble Bath Babes (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>68AFEF5F</crc>
+		<manufacturer>Panesian</manufacturer>
+		<year>1991</year>
+		<genre>Mature/Puzzle</genre>
+		<rating>HSRS - AD (Adult)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Crystal Mines (USA) (Unl)" index="true" image="c">
+		<description>Crystal Mines (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>72E66392</crc>
+		<manufacturer>Color Dreams</manufacturer>
+		<year>1989</year>
+		<genre>Puzzle</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dr. Mario (Japan, USA) (Rev A)" index="true" image="d">
+		<description>Dr. Mario (Japan, USA) (Rev A)</description>
+		<cloneof></cloneof>
+		<crc>DE581355</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1990</year>
+		<genre>Puzzle</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Exodus - Journey to the Promised Land (USA) (v5.0) (Unl)" index="true" image="e">
+		<description>Exodus - Journey to the Promised Land (USA) (v5.0) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>5F5BFA54</crc>
+		<manufacturer>Wisdom Tree</manufacturer>
+		<year>1990</year>
+		<genre>Puzzle</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fire &apos;n Ice (USA)" index="true" image="f">
+		<description>Fire &apos;n Ice (USA)</description>
+		<cloneof></cloneof>
+		<crc>D534C98E</crc>
+		<manufacturer>Tecmo</manufacturer>
+		<year>1993</year>
+		<genre>Puzzle</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hatris (USA)" index="true" image="h">
+		<description>Hatris (USA)</description>
+		<cloneof></cloneof>
+		<crc>841B69B6</crc>
+		<manufacturer>Bullet Proof Software</manufacturer>
+		<year>1992</year>
+		<genre>Puzzle</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Kickle Cubicle (USA)" index="true" image="k">
+		<description>Kickle Cubicle (USA)</description>
+		<cloneof></cloneof>
+		<crc>CD10DCE2</crc>
+		<manufacturer>Irem</manufacturer>
+		<year>1990</year>
+		<genre>Puzzle</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Klax (USA) (Unl)" index="" image="">
+		<description>Klax (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>93F3A490</crc>
+		<manufacturer>Tengen</manufacturer>
+		<year>1990</year>
+		<genre>Puzzle</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Krazy Kreatures (USA) (Unl)" index="" image="">
+		<description>Krazy Kreatures (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>637FE65C</crc>
+		<manufacturer>American Video Entertainment</manufacturer>
+		<year>1990</year>
+		<genre>Puzzle</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Krusty&apos;s Fun House (USA)" index="" image="">
+		<description>Krusty&apos;s Fun House (USA)</description>
+		<cloneof></cloneof>
+		<crc>A0DF4B8F</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1992</year>
+		<genre>Puzzle</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lemmings (USA)" index="true" image="l">
+		<description>Lemmings (USA)</description>
+		<cloneof></cloneof>
+		<crc>A69F29FA</crc>
+		<manufacturer>SunSoft</manufacturer>
+		<year>1992</year>
+		<genre>Puzzle</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lode Runner (USA)" index="" image="">
+		<description>Lode Runner (USA)</description>
+		<cloneof></cloneof>
+		<crc>AF5676DE</crc>
+		<manufacturer>Broderbund</manufacturer>
+		<year>1987</year>
+		<genre>Puzzle</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Loopz (USA)" index="" image="">
+		<description>Loopz (USA)</description>
+		<cloneof></cloneof>
+		<crc>FD8D6C75</crc>
+		<manufacturer>Mindscape Inc.</manufacturer>
+		<year>1990</year>
+		<genre>Puzzle</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Marble Madness (USA)" index="true" image="m">
+		<description>Marble Madness (USA)</description>
+		<cloneof></cloneof>
+		<crc>09874777</crc>
+		<manufacturer>Milton Bradley</manufacturer>
+		<year>1989</year>
+		<genre>Puzzle</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mermaids of Atlantis - The Riddle of the Magic Bubble (USA) (Unl)" index="" image="">
+		<description>Mermaids of Atlantis - The Riddle of the Magic Bubble (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>F05870D5</crc>
+		<manufacturer>American Video Entertainment</manufacturer>
+		<year>1991</year>
+		<genre>Mature/Puzzle</genre>
+		<rating>HSRS - AD (Adult)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Palamedes (USA)" index="true" image="p">
+		<description>Palamedes (USA)</description>
+		<cloneof></cloneof>
+		<crc>6BB6A0CE</crc>
+		<manufacturer>Hot B</manufacturer>
+		<year>1990</year>
+		<genre>Puzzle</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pipe Dream (USA)" index="" image="">
+		<description>Pipe Dream (USA)</description>
+		<cloneof></cloneof>
+		<crc>BCE77871</crc>
+		<manufacturer>Bulletproof Software</manufacturer>
+		<year>1990</year>
+		<genre>Puzzle</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Puzzle (USA) (Unl)" index="" image="">
+		<description>Puzzle (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>EA19080A</crc>
+		<manufacturer>American Video Entertainment</manufacturer>
+		<year>1990</year>
+		<genre>Puzzle</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Puzznic (USA)" index="" image="">
+		<description>Puzznic (USA)</description>
+		<cloneof></cloneof>
+		<crc>EB61133B</crc>
+		<manufacturer>Taito Corporation</manufacturer>
+		<year>1990</year>
+		<genre>Puzzle</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pyramid (USA) (Rev 1) (Unl)" index="" image="">
+		<description>Pyramid (USA) (Rev 1) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>2472C3EB</crc>
+		<manufacturer>American Video Entertainment</manufacturer>
+		<year>1992</year>
+		<genre>Puzzle</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Shockwave (USA) (Unl)" index="true" image="s">
+		<description>Shockwave (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>C73B82FC</crc>
+		<manufacturer>American Game Cartridges</manufacturer>
+		<year>1990</year>
+		<genre>Puzzle</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Solomon&apos;s Key (USA)" index="" image="">
+		<description>Solomon&apos;s Key (USA)</description>
+		<cloneof></cloneof>
+		<crc>40684E95</crc>
+		<manufacturer>Tecmo</manufacturer>
+		<year>1987</year>
+		<genre>Puzzle</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Solomon&apos;s Key 2 (Europe)" index="" image="">
+		<description>Solomon&apos;s Key 2 (Europe)</description>
+		<cloneof></cloneof>
+		<crc>F184EB2D</crc>
+		<manufacturer>Tecmo</manufacturer>
+		<year>1993</year>
+		<genre>Puzzle</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Solstice - The Quest for the Staff of Demnos (USA)" index="" image="">
+		<description>Solstice - The Quest for the Staff of Demnos (USA)</description>
+		<cloneof></cloneof>
+		<crc>EDCF1B71</crc>
+		<manufacturer>CBS Sony Group</manufacturer>
+		<year>1990</year>
+		<genre>Puzzle</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Spot - The Video Game (USA)" index="" image="">
+		<description>Spot - The Video Game (USA)</description>
+		<cloneof></cloneof>
+		<crc>CFAE9DFA</crc>
+		<manufacturer>Arcadia Systems</manufacturer>
+		<year>1990</year>
+		<genre>Puzzle</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tetris (USA)" index="true" image="t">
+		<description>Tetris (USA)</description>
+		<cloneof></cloneof>
+		<crc>1394F57E</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1989</year>
+		<genre>Puzzle</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tetris 2 (USA)" index="" image="">
+		<description>Tetris 2 (USA)</description>
+		<cloneof></cloneof>
+		<crc>9C537919</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1993</year>
+		<genre>Puzzle</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tiles of Fate (USA) (Unl)" index="" image="">
+		<description>Tiles of Fate (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>3E1271D5</crc>
+		<manufacturer>American Video Entertainment</manufacturer>
+		<year>1990</year>
+		<genre>Puzzle</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Wario&apos;s Woods (USA)" index="true" image="w">
+		<description>Wario&apos;s Woods (USA)</description>
+		<cloneof></cloneof>
+		<crc>F79A75D7</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1994</year>
+		<genre>Puzzle</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Where in Time Is Carmen Sandiego (USA)" index="" image="">
+		<description>Where in Time Is Carmen Sandiego (USA)</description>
+		<cloneof></cloneof>
+		<crc>917770D8</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1991</year>
+		<genre>Puzzle</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Where&apos;s Waldo (USA)" index="" image="">
+		<description>Where&apos;s Waldo (USA)</description>
+		<cloneof></cloneof>
+		<crc>C3463A3D</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>1991</year>
+		<genre>Puzzle</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Win, Lose or Draw (USA)" index="" image="">
+		<description>Win, Lose or Draw (USA)</description>
+		<cloneof></cloneof>
+		<crc>F74DFC91</crc>
+		<manufacturer>Hi Tech Expressions</manufacturer>
+		<year>1990</year>
+		<genre>Puzzle</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Yoshi (USA)" index="true" image="y">
+		<description>Yoshi (USA)</description>
+		<cloneof></cloneof>
+		<crc>E7EAD93B</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1992</year>
+		<genre>Puzzle</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Yoshi&apos;s Cookie (USA)" index="" image="">
+		<description>Yoshi&apos;s Cookie (USA)</description>
+		<cloneof></cloneof>
+		<crc>52B58732</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1993</year>
+		<genre>Puzzle</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

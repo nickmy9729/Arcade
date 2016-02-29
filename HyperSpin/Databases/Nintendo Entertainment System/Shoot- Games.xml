@@ -1,0 +1,459 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Nintendo Entertainment System</listname>
+		<lastlistupdate>07/28/2013</lastlistupdate>
+		<listversion>1.1 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="1942 (Japan, USA)" index="true" image="1">
+		<description>1942 (Japan, USA)</description>
+		<cloneof></cloneof>
+		<crc>171251E3</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1986</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="1943 - The Battle of Midway (USA)" index="" image="">
+		<description>1943 - The Battle of Midway (USA)</description>
+		<cloneof></cloneof>
+		<crc>12C6D5C7</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1988</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Abadox - The Deadly Inner War (USA)" index="true" image="a">
+		<description>Abadox - The Deadly Inner War (USA)</description>
+		<cloneof></cloneof>
+		<crc>B134D713</crc>
+		<manufacturer>Milton Bradley</manufacturer>
+		<year>1990</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Air Fortress (USA)" index="" image="">
+		<description>Air Fortress (USA)</description>
+		<cloneof></cloneof>
+		<crc>35C41CD4</crc>
+		<manufacturer>Hal</manufacturer>
+		<year>1989</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Alpha Mission (USA)" index="" image="">
+		<description>Alpha Mission (USA)</description>
+		<cloneof></cloneof>
+		<crc>DBF90772</crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1987</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Burai Fighter (USA)" index="true" image="b">
+		<description>Burai Fighter (USA)</description>
+		<cloneof></cloneof>
+		<crc>CE228874</crc>
+		<manufacturer>Taxan</manufacturer>
+		<year>1990</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Captain Skyhawk (USA) (Rev A)" index="true" image="c">
+		<description>Captain Skyhawk (USA) (Rev A)</description>
+		<cloneof></cloneof>
+		<crc>EFD26E37</crc>
+		<manufacturer>Milton Bradley</manufacturer>
+		<year>1990</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Defender II (USA)" index="true" image="d">
+		<description>Defender II (USA)</description>
+		<cloneof></cloneof>
+		<crc>A2AF25D0</crc>
+		<manufacturer>Hal</manufacturer>
+		<year>1988</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dragon Spirit - The New Legend (USA)" index="" image="">
+		<description>Dragon Spirit - The New Legend (USA)</description>
+		<cloneof></cloneof>
+		<crc>D7E29C03</crc>
+		<manufacturer>Bandai</manufacturer>
+		<year>1990</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dropzone (Europe)" index="" image="">
+		<description>Dropzone (Europe)</description>
+		<cloneof></cloneof>
+		<crc>E402B134</crc>
+		<manufacturer>Mindscape Inc.</manufacturer>
+		<year>1992</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Galactic Crusader (USA) (Unl)" index="true" image="g">
+		<description>Galactic Crusader (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>09C31CD4</crc>
+		<manufacturer>Bunch Games, Inc.</manufacturer>
+		<year>1990</year>
+		<genre>Shoot-&apos;Em-Up/Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Galaga - Demons of Death (USA)" index="" image="">
+		<description>Galaga - Demons of Death (USA)</description>
+		<cloneof></cloneof>
+		<crc>1DB07C0D</crc>
+		<manufacturer>Bandai</manufacturer>
+		<year>1988</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gradius (USA)" index="" image="">
+		<description>Gradius (USA)</description>
+		<cloneof></cloneof>
+		<crc>350D835E</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1986</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Guardian Legend, The (USA)" index="" image="">
+		<description>Guardian Legend, The (USA)</description>
+		<cloneof></cloneof>
+		<crc>FA43146B</crc>
+		<manufacturer>Broderbund</manufacturer>
+		<year>1989</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gun Nac (USA)" index="" image="">
+		<description>Gun Nac (USA)</description>
+		<cloneof></cloneof>
+		<crc>D19DCB2B</crc>
+		<manufacturer>ASCII Entertainment</manufacturer>
+		<year>1991</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gyruss (USA)" index="" image="">
+		<description>Gyruss (USA)</description>
+		<cloneof></cloneof>
+		<crc>1D41CC8C</crc>
+		<manufacturer>Ultra</manufacturer>
+		<year>1989</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Image Fight (USA)" index="true" image="i">
+		<description>Image Fight (USA)</description>
+		<cloneof></cloneof>
+		<crc>058F23A2</crc>
+		<manufacturer>Irem</manufacturer>
+		<year>1990</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="King&apos;s Knight (USA)" index="true" image="k">
+		<description>King&apos;s Knight (USA)</description>
+		<cloneof></cloneof>
+		<crc>01B4CA89</crc>
+		<manufacturer>SquareSoft</manufacturer>
+		<year>1989</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Last Starfighter, The (USA)" index="true" image="l">
+		<description>Last Starfighter, The (USA)</description>
+		<cloneof></cloneof>
+		<crc>6997F5E1</crc>
+		<manufacturer>Mindscape Inc.</manufacturer>
+		<year>1990</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Life Force (USA)" index="" image="">
+		<description>Life Force (USA)</description>
+		<cloneof></cloneof>
+		<crc>C4BC85A2</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1988</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Magmax (USA)" index="true" image="m">
+		<description>Magmax (USA)</description>
+		<cloneof></cloneof>
+		<crc>81389607</crc>
+		<manufacturer>FCI, Inc</manufacturer>
+		<year>1988</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Metal Fighter (USA) (Unl)" index="" image="">
+		<description>Metal Fighter (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>11D08CC6</crc>
+		<manufacturer>Color Dreams</manufacturer>
+		<year>1989</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Over Horizon (Europe)" index="true" image="o">
+		<description>Over Horizon (Europe)</description>
+		<cloneof></cloneof>
+		<crc>9237B447</crc>
+		<manufacturer>Takara</manufacturer>
+		<year>1991</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Parodius (Europe)" index="true" image="p">
+		<description>Parodius (Europe)</description>
+		<cloneof></cloneof>
+		<crc>083E4FC1</crc>
+		<manufacturer>Palcom</manufacturer>
+		<year>1992</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="S.C.A.T. - Special Cybernetic Attack Team (USA)" index="true" image="s">
+		<description>S.C.A.T. - Special Cybernetic Attack Team (USA)</description>
+		<cloneof></cloneof>
+		<crc>74189E12</crc>
+		<manufacturer>Natsume</manufacturer>
+		<year>1991</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Section-Z (USA)" index="" image="">
+		<description>Section-Z (USA)</description>
+		<cloneof></cloneof>
+		<crc>0FEC90D2</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1987</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Seicross (USA)" index="" image="">
+		<description>Seicross (USA)</description>
+		<cloneof></cloneof>
+		<crc>27AA3933</crc>
+		<manufacturer>FCI, Inc.</manufacturer>
+		<year>1988</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Silk Worm (USA)" index="" image="">
+		<description>Silk Worm (USA)</description>
+		<cloneof></cloneof>
+		<crc>E74A91BB</crc>
+		<manufacturer>American Sammy</manufacturer>
+		<year>1990</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Silver Surfer (USA)" index="" image="">
+		<description>Silver Surfer (USA)</description>
+		<cloneof></cloneof>
+		<crc>BEE1C0D9</crc>
+		<manufacturer>Arcadia Systems</manufacturer>
+		<year>1990</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sky Shark (USA) (Rev 0A)" index="" image="">
+		<description>Sky Shark (USA) (Rev 0A)</description>
+		<cloneof></cloneof>
+		<crc>9FFE2F55</crc>
+		<manufacturer>Taito Corporation</manufacturer>
+		<year>1989</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Smash T.V. (USA)" index="" image="">
+		<description>Smash T.V. (USA)</description>
+		<cloneof></cloneof>
+		<crc>6EE94D32</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1991</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sqoon (USA)" index="" image="">
+		<description>Sqoon (USA)</description>
+		<cloneof></cloneof>
+		<crc>44F34172</crc>
+		<manufacturer>Irem</manufacturer>
+		<year>1987</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Star Force (USA)" index="" image="">
+		<description>Star Force (USA)</description>
+		<cloneof></cloneof>
+		<crc>FCE408A4</crc>
+		<manufacturer>Tecmo</manufacturer>
+		<year>1987</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Star Soldier (USA)" index="" image="">
+		<description>Star Soldier (USA)</description>
+		<cloneof></cloneof>
+		<crc>262B5A1D</crc>
+		<manufacturer>Taxan</manufacturer>
+		<year>1989</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Starship Hector (USA)" index="" image="">
+		<description>Starship Hector (USA)</description>
+		<cloneof></cloneof>
+		<crc>9F432594</crc>
+		<manufacturer>Hudson Soft</manufacturer>
+		<year>1990</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Stinger (USA)" index="" image="">
+		<description>Stinger (USA)</description>
+		<cloneof></cloneof>
+		<crc>C5B0B1AB</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1987</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="TaleSpin (USA)" index="true" image="t">
+		<description>TaleSpin (USA)</description>
+		<cloneof></cloneof>
+		<crc>798EEB98</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1991</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Terra Cresta (USA)" index="" image="">
+		<description>Terra Cresta (USA)</description>
+		<cloneof></cloneof>
+		<crc>2A46B57F</crc>
+		<manufacturer>Vic Tokai</manufacturer>
+		<year>1990</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Thunderbirds (USA)" index="" image="">
+		<description>Thunderbirds (USA)</description>
+		<cloneof></cloneof>
+		<crc>2DDC2DC3</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>1990</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Thundercade (USA)" index="" image="">
+		<description>Thundercade (USA)</description>
+		<cloneof></cloneof>
+		<crc>AFB46DD6</crc>
+		<manufacturer>American Sammy</manufacturer>
+		<year>1989</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tiger-Heli (USA)" index="" image="">
+		<description>Tiger-Heli (USA)</description>
+		<cloneof></cloneof>
+		<crc>C3C7A568</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1987</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Twin Cobra (USA)" index="" image="">
+		<description>Twin Cobra (USA)</description>
+		<cloneof></cloneof>
+		<crc>0EF730E7</crc>
+		<manufacturer>American Sammy</manufacturer>
+		<year>1990</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Twin Eagle (USA)" index="" image="">
+		<description>Twin Eagle (USA)</description>
+		<cloneof></cloneof>
+		<crc>CF26A149</crc>
+		<manufacturer>Romstar</manufacturer>
+		<year>1989</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Xevious - The Avenger (USA)" index="true" image="x">
+		<description>Xevious - The Avenger (USA)</description>
+		<cloneof></cloneof>
+		<crc>DFD70E27</crc>
+		<manufacturer>Bandai</manufacturer>
+		<year>1988</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Zanac (USA)" index="true" image="z">
+		<description>Zanac (USA)</description>
+		<cloneof></cloneof>
+		<crc>E292AA10</crc>
+		<manufacturer>FCI, Inc.</manufacturer>
+		<year>1987</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

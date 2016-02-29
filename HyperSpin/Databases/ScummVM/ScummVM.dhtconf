@@ -1,0 +1,8 @@
+<DonsHyperSpinListGenerator VersionMajor="4">
+  <Wheel>ScummVM</Wheel>
+  <OutputFile>M:\Arcade\HyperSpin\Databases\ScummVM\ScummVM.xml</OutputFile>
+  <SourceFile>M:\Hyperlists\ScummVM.xml</SourceFile>
+  <ExcludeFile>M:\Arcade\HyperSpin\Databases\ScummVM\ScummVM_excluded.xml</ExcludeFile>
+  <MameXmlFile>
+  </MameXmlFile>
+</DonsHyperSpinListGenerator>

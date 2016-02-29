@@ -1,0 +1,8 @@
+<DonsHyperSpinListGenerator VersionMajor="4">
+  <Wheel>Nintendo Game Boy Color</Wheel>
+  <OutputFile>M:\Arcade\HyperSpin\Databases\Nintendo Game Boy Color\Nintendo Game Boy Color.xml</OutputFile>
+  <SourceFile>M:\Hyperlists\Nintendo Game Boy Color.xml</SourceFile>
+  <ExcludeFile>M:\Arcade\HyperSpin\Databases\Nintendo Game Boy Color\Nintendo Game Boy Color_excluded.xml</ExcludeFile>
+  <MameXmlFile>
+  </MameXmlFile>
+</DonsHyperSpinListGenerator>

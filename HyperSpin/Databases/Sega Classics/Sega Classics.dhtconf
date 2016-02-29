@@ -1,0 +1,8 @@
+<DonsHyperSpinListGenerator VersionMajor="4">
+  <Wheel>Sega Classics</Wheel>
+  <OutputFile>M:\Arcade\HyperSpin\Databases\Sega Classics\Sega Classics.xml</OutputFile>
+  <SourceFile>M:\Hyperlists\Sega Classics.xml</SourceFile>
+  <ExcludeFile>M:\Arcade\HyperSpin\Databases\Sega Classics\Sega Classics_excluded.xml</ExcludeFile>
+  <MameXmlFile>
+  </MameXmlFile>
+</DonsHyperSpinListGenerator>

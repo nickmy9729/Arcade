@@ -1,0 +1,8 @@
+<DonsHyperSpinListGenerator VersionMajor="4">
+  <Wheel>Sega Saturn</Wheel>
+  <OutputFile>M:\Arcade\HyperSpin\Databases\Sega Saturn\Sega Saturn.xml</OutputFile>
+  <SourceFile>M:\Hyperlists\Sega Saturn.xml</SourceFile>
+  <ExcludeFile>M:\Arcade\HyperSpin\Databases\Sega Saturn\Sega Saturn_excluded.xml</ExcludeFile>
+  <MameXmlFile>
+  </MameXmlFile>
+</DonsHyperSpinListGenerator>

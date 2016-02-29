@@ -1,0 +1,19 @@
+<menu>
+  <game name="Action Games"/>
+  <game name="Basketball Games"/>
+  <game name="Beat- Games"/>
+  <game name="Driving Games"/>
+  <game name="Fighter Games"/>
+  <game name="Football Games" />
+  <game name="Motorcycle Games" />
+  <game name="Pinball Games" />
+  <game name="Platform Games" />
+  <game name="Puzzle Games" />
+  <game name="Role-Playing Games" />
+  <game name="Shooter Games" />
+  <game name="Simulation Games" />
+  <game name="Skiing Games" />
+  <game name="Soccer Games" />
+  <game name="Sports Games" />
+  <game name="Strategy Games" />
+</menu>

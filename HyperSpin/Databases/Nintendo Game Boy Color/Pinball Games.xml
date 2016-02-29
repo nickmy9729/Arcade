@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Nintendo Game Boy Color</listname>
+		<lastlistupdate>06/08/2013</lastlistupdate>
+		<listversion>1.1 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="3-D Ultra Pinball - Thrillride (USA)" index="true" image="3">
+		<description>3-D Ultra Pinball - Thrillride (USA)</description>
+		<cloneof></cloneof>
+		<crc>1766e558</crc>
+		<manufacturer>Sierra Entertainment</manufacturer>
+		<year>1995</year>
+		<genre>Pinball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hollywood Pinball (Europe)" index="true" image="h">
+		<description>Hollywood Pinball (Europe)</description>
+		<cloneof></cloneof>
+		<crc>8bd1f635</crc>
+		<manufacturer>Starfish</manufacturer>
+		<year>1999</year>
+		<genre>Pinball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Little Mermaid II, The - Pinball Frenzy (USA)" index="true" image="l">
+		<description>Little Mermaid II, The - Pinball Frenzy (USA)</description>
+		<cloneof></cloneof>
+		<crc>364f9ccd</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2000</year>
+		<genre>Pinball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Microsoft Pinball Arcade (USA)" index="true" image="m">
+		<description>Microsoft Pinball Arcade (USA)</description>
+		<cloneof></cloneof>
+		<crc>504f55c5</crc>
+		<manufacturer>Classified Games</manufacturer>
+		<year>2001</year>
+		<genre>Pinball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pokemon Pinball (USA)" index="true" image="p">
+		<description>Pokemon Pinball (USA)</description>
+		<cloneof></cloneof>
+		<crc>03ce8d9a</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1999</year>
+		<genre>Pinball</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

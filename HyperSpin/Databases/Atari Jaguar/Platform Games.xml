@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Atari Jaguar</listname>
+		<lastlistupdate>06/08/2013</lastlistupdate>
+		<listversion>1.1 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="Bubsy in Fractured Furry Tales (World)" index="true" image="b">
+		<description>Bubsy in Fractured Furry Tales (World)</description>
+		<cloneof></cloneof>
+		<crc>2E17D5DA</crc>
+		<manufacturer>Accolade</manufacturer>
+		<year>1994</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dragon - The Bruce Lee Story (World)" index="true" image="d">
+		<description>Dragon - The Bruce Lee Story (World)</description>
+		<cloneof></cloneof>
+		<crc>8FEA5AB0</crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1994</year>
+		<genre>Platform</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Flashback - The Quest for Identity (World) (En,Fr)" index="true" image="f">
+		<description>Flashback - The Quest for Identity (World) (En,Fr)</description>
+		<cloneof></cloneof>
+		<crc>DE55DCC7</crc>
+		<manufacturer>U.S. Gold</manufacturer>
+		<year>1995</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hyper Force (World)" index="true" image="h">
+		<description>Hyper Force (World)</description>
+		<cloneof></cloneof>
+		<crc>F0360DB3</crc>
+		<manufacturer>Songbird Productions</manufacturer>
+		<year>2000</year>
+		<genre>Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pitfall - The Mayan Adventure (World)" index="true" image="p">
+		<description>Pitfall - The Mayan Adventure (World)</description>
+		<cloneof></cloneof>
+		<crc>817A2273</crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1995</year>
+		<genre>Platform</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rayman (World)" index="true" image="r">
+		<description>Rayman (World)</description>
+		<cloneof></cloneof>
+		<crc>A9F8A00E</crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>1995</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Zool 2 (World)" index="true" image="z">
+		<description>Zool 2 (World)</description>
+		<cloneof></cloneof>
+		<crc>8975F48B</crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1994</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

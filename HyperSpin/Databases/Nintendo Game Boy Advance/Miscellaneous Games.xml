@@ -1,0 +1,589 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Nintendo Game Boy Advance</listname>
+		<lastlistupdate>10/27/2011</lastlistupdate>
+		<listversion>1.1 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="2 Games in 1 - Cartoon Network Block Party + Cartoon Network Speedway (USA)" index="true" image="2">
+		<description>2 Games in 1 - Cartoon Network Block Party + Cartoon Network Speedway (USA)</description>
+		<cloneof></cloneof>
+		<crc>B3D323E4</crc>
+		<manufacturer>Majesco Games</manufacturer>
+		<year>2005</year>
+		<genre>Driving/Miscellaneous</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="4 Games on One Game Pak (Nicktoons) (USA)" index="true" image="4">
+		<description>4 Games on One Game Pak (Nicktoons) (USA)</description>
+		<cloneof></cloneof>
+		<crc>CAC0C0D8</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2007</year>
+		<genre>Miscellaneous</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Activision Anthology (USA)" index="true" image="a">
+		<description>Activision Anthology (USA)</description>
+		<cloneof></cloneof>
+		<crc>14A28D68</crc>
+		<manufacturer>Aspyr</manufacturer>
+		<year>2003</year>
+		<genre>Miscellaneous</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="All Grown Up! - Express Yourself (USA, Europe)" index="" image="">
+		<description>All Grown Up! - Express Yourself (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>E9C9DD2B</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2004</year>
+		<genre>Miscellaneous</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Atari Anniversary Advance (USA)" index="" image="">
+		<description>Atari Anniversary Advance (USA)</description>
+		<cloneof></cloneof>
+		<crc>4505A638</crc>
+		<manufacturer>Infogrames</manufacturer>
+		<year>2002</year>
+		<genre>Miscellaneous</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Barbie Superpack (USA)" index="true" image="b">
+		<description>Barbie Superpack (USA)</description>
+		<cloneof></cloneof>
+		<crc>C99DB2A1</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2005</year>
+		<genre>Miscellaneous</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bible Game, The (USA)" index="" image="">
+		<description>Bible Game, The (USA)</description>
+		<cloneof></cloneof>
+		<crc>CEE6904E</crc>
+		<manufacturer>Crave</manufacturer>
+		<year>2005</year>
+		<genre>Miscellaneous</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cabbage Patch Kids - The Patch Puppy Rescue (USA)" index="true" image="c">
+		<description>Cabbage Patch Kids - The Patch Puppy Rescue (USA)</description>
+		<cloneof></cloneof>
+		<crc>C812A494</crc>
+		<manufacturer>D3</manufacturer>
+		<year>2006</year>
+		<genre>Miscellaneous</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Capcom Classics Mini Mix (USA)" index="" image="">
+		<description>Capcom Classics Mini Mix (USA)</description>
+		<cloneof></cloneof>
+		<crc>0BB2D391</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>2006</year>
+		<genre>Miscellaneous</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Game &amp; Watch Gallery 4 (USA)" index="true" image="g">
+		<description>Game &amp; Watch Gallery 4 (USA)</description>
+		<cloneof></cloneof>
+		<crc>7E90CEA2</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2002</year>
+		<genre>Miscellaneous</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Game Boy Advance Video - All Grown Up! - Volume 1 (USA)" index="" image="">
+		<description>Game Boy Advance Video - All Grown Up! - Volume 1 (USA)</description>
+		<cloneof></cloneof>
+		<crc>FFBD4DA9</crc>
+		<manufacturer>Majesco Games</manufacturer>
+		<year>2004</year>
+		<genre>Miscellaneous</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Game Boy Advance Video - Cartoon Network Collection - Limited Edition (USA)" index="" image="">
+		<description>Game Boy Advance Video - Cartoon Network Collection - Limited Edition (USA)</description>
+		<cloneof></cloneof>
+		<crc>5D918B2D</crc>
+		<manufacturer>Majesco Games</manufacturer>
+		<year>2004</year>
+		<genre>Miscellaneous</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Game Boy Advance Video - Cartoon Network Collection - Platinum Edition (USA, Europe)" index="" image="">
+		<description>Game Boy Advance Video - Cartoon Network Collection - Platinum Edition (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>6443554B</crc>
+		<manufacturer>Majesco Games</manufacturer>
+		<year>2004</year>
+		<genre>Miscellaneous</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Game Boy Advance Video - Cartoon Network Collection - Premium Edition (USA, Europe)" index="" image="">
+		<description>Game Boy Advance Video - Cartoon Network Collection - Premium Edition (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>F2825729</crc>
+		<manufacturer>Majesco Games</manufacturer>
+		<year>2005</year>
+		<genre>Miscellaneous</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Game Boy Advance Video - Cartoon Network Collection - Special Edition (USA, Europe)" index="" image="">
+		<description>Game Boy Advance Video - Cartoon Network Collection - Special Edition (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>E9B7B8A4</crc>
+		<manufacturer>Majesco Games</manufacturer>
+		<year>2005</year>
+		<genre>Miscellaneous</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Game Boy Advance Video - Cartoon Network Collection - Volume 1 (USA)" index="" image="">
+		<description>Game Boy Advance Video - Cartoon Network Collection - Volume 1 (USA)</description>
+		<cloneof></cloneof>
+		<crc>91F39447</crc>
+		<manufacturer>Majesco Games</manufacturer>
+		<year>2004</year>
+		<genre>Miscellaneous</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Game Boy Advance Video - Cartoon Network Collection - Volume 2 (USA, Europe)" index="" image="">
+		<description>Game Boy Advance Video - Cartoon Network Collection - Volume 2 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>4BFAA8DE</crc>
+		<manufacturer>Majesco Games</manufacturer>
+		<year>2004</year>
+		<genre>Miscellaneous</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Game Boy Advance Video - Codename - Kids Next Door - Volume 1 (USA, Europe)" index="" image="">
+		<description>Game Boy Advance Video - Codename - Kids Next Door - Volume 1 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>4463F345</crc>
+		<manufacturer>Majesco Games</manufacturer>
+		<year>2004</year>
+		<genre>Miscellaneous</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Game Boy Advance Video - Disney Channel Collection - Volume 1 (USA)" index="" image="">
+		<description>Game Boy Advance Video - Disney Channel Collection - Volume 1 (USA)</description>
+		<cloneof></cloneof>
+		<crc>7CC985CB</crc>
+		<manufacturer>Majesco Games</manufacturer>
+		<year>2004</year>
+		<genre>Miscellaneous</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Game Boy Advance Video - Dora the Explorer - Volume 1 (USA)" index="" image="">
+		<description>Game Boy Advance Video - Dora the Explorer - Volume 1 (USA)</description>
+		<cloneof></cloneof>
+		<crc>DD6A7FCC</crc>
+		<manufacturer>Majesco Games</manufacturer>
+		<year>2004</year>
+		<genre>Miscellaneous</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Game Boy Advance Video - Dragon Ball GT - Volume 1 (USA)" index="" image="">
+		<description>Game Boy Advance Video - Dragon Ball GT - Volume 1 (USA)</description>
+		<cloneof></cloneof>
+		<crc>DA559199</crc>
+		<manufacturer>Majesco Games</manufacturer>
+		<year>2004</year>
+		<genre>Miscellaneous</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Game Boy Advance Video - Nicktoons - Volume 3 (USA)" index="" image="">
+		<description>Game Boy Advance Video - Nicktoons - Volume 3 (USA)</description>
+		<cloneof></cloneof>
+		<crc>6FBF5CEB</crc>
+		<manufacturer>Majesco Games</manufacturer>
+		<year>2005</year>
+		<genre>Miscellaneous</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Game Boy Advance Video - Nicktoons Collection - Volume 1 (USA)" index="" image="">
+		<description>Game Boy Advance Video - Nicktoons Collection - Volume 1 (USA)</description>
+		<cloneof></cloneof>
+		<crc>5D47676F</crc>
+		<manufacturer>Majesco Games</manufacturer>
+		<year>2004</year>
+		<genre>Miscellaneous</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Game Boy Advance Video - Nicktoons Collection - Volume 2 (USA)" index="" image="">
+		<description>Game Boy Advance Video - Nicktoons Collection - Volume 2 (USA)</description>
+		<cloneof></cloneof>
+		<crc>65DEEEB6</crc>
+		<manufacturer>Majesco Games</manufacturer>
+		<year>2004</year>
+		<genre>Miscellaneous</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Game Boy Advance Video - Pokemon - Volume 1 (USA)" index="" image="">
+		<description>Game Boy Advance Video - Pokemon - Volume 1 (USA)</description>
+		<cloneof></cloneof>
+		<crc>A59EF954</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2004</year>
+		<genre>Miscellaneous</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Game Boy Advance Video - Pokemon - Volume 2 (USA)" index="" image="">
+		<description>Game Boy Advance Video - Pokemon - Volume 2 (USA)</description>
+		<cloneof></cloneof>
+		<crc>0DA1A383</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2004</year>
+		<genre>Miscellaneous</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Game Boy Advance Video - Pokemon - Volume 3 (USA)" index="" image="">
+		<description>Game Boy Advance Video - Pokemon - Volume 3 (USA)</description>
+		<cloneof></cloneof>
+		<crc>A36AA9C5</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2004</year>
+		<genre>Miscellaneous</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Game Boy Advance Video - Pokemon - Volume 4 (USA)" index="" image="">
+		<description>Game Boy Advance Video - Pokemon - Volume 4 (USA)</description>
+		<cloneof></cloneof>
+		<crc>BE468496</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2004</year>
+		<genre>Miscellaneous</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Game Boy Advance Video - Sonic X - Volume 1 (USA)" index="" image="">
+		<description>Game Boy Advance Video - Sonic X - Volume 1 (USA)</description>
+		<cloneof></cloneof>
+		<crc>363C3EB8</crc>
+		<manufacturer>Majesco Games</manufacturer>
+		<year>2004</year>
+		<genre>Miscellaneous</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Game Boy Advance Video - SpongeBob SquarePants - Volume 1 (USA) (Rev 1)" index="" image="">
+		<description>Game Boy Advance Video - SpongeBob SquarePants - Volume 1 (USA) (Rev 1)</description>
+		<cloneof></cloneof>
+		<crc>D47BF1D4</crc>
+		<manufacturer>Majesco Games</manufacturer>
+		<year>2004</year>
+		<genre>Miscellaneous</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Game Boy Advance Video - SpongeBob SquarePants - Volume 2 (USA) (Rev 1)" index="" image="">
+		<description>Game Boy Advance Video - SpongeBob SquarePants - Volume 2 (USA) (Rev 1)</description>
+		<cloneof></cloneof>
+		<crc>7074364A</crc>
+		<manufacturer>Majesco Games</manufacturer>
+		<year>2004</year>
+		<genre>Miscellaneous</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Game Boy Advance Video - SpongeBob SquarePants - Volume 3 (USA)" index="" image="">
+		<description>Game Boy Advance Video - SpongeBob SquarePants - Volume 3 (USA)</description>
+		<cloneof></cloneof>
+		<crc>9772CA45</crc>
+		<manufacturer>Majesco Games</manufacturer>
+		<year>2004</year>
+		<genre>Miscellaneous</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Game Boy Advance Video - Strawberry Shortcake - Volume 1 (USA)" index="" image="">
+		<description>Game Boy Advance Video - Strawberry Shortcake - Volume 1 (USA)</description>
+		<cloneof></cloneof>
+		<crc>FF7582EF</crc>
+		<manufacturer>Majesco Games</manufacturer>
+		<year>2004</year>
+		<genre>Miscellaneous</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Game Boy Advance Video - Super Robot Monkey Team - Hyper Force Go! - Volume 1 (USA)" index="" image="">
+		<description>Game Boy Advance Video - Super Robot Monkey Team - Hyper Force Go! - Volume 1 (USA)</description>
+		<cloneof></cloneof>
+		<crc>D743A070</crc>
+		<manufacturer>Majesco Games</manufacturer>
+		<year>2005</year>
+		<genre>Miscellaneous</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Game Boy Advance Video - Teenage Mutant Ninja Turtles - Things Change (USA, Europe)" index="" image="">
+		<description>Game Boy Advance Video - Teenage Mutant Ninja Turtles - Things Change (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>046589C8</crc>
+		<manufacturer>Majesco Games</manufacturer>
+		<year>2004</year>
+		<genre>Miscellaneous</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Game Boy Advance Video - The Adventures of Jimmy Neutron Boy Genius - Volume 1 (USA)" index="" image="">
+		<description>Game Boy Advance Video - The Adventures of Jimmy Neutron Boy Genius - Volume 1 (USA)</description>
+		<cloneof></cloneof>
+		<crc>0E556EDF</crc>
+		<manufacturer>Majesco Games</manufacturer>
+		<year>2004</year>
+		<genre>Miscellaneous</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Game Boy Advance Video - The Fairly OddParents! - Volume 1 (USA)" index="" image="">
+		<description>Game Boy Advance Video - The Fairly OddParents! - Volume 1 (USA)</description>
+		<cloneof></cloneof>
+		<crc>7958DF20</crc>
+		<manufacturer>Majesco Games</manufacturer>
+		<year>2004</year>
+		<genre>Miscellaneous</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Game Boy Advance Video - The Fairly OddParents! - Volume 2 (USA) (Rev 1)" index="" image="">
+		<description>Game Boy Advance Video - The Fairly OddParents! - Volume 2 (USA) (Rev 1)</description>
+		<cloneof></cloneof>
+		<crc>BBCBC6FD</crc>
+		<manufacturer>Majesco Games</manufacturer>
+		<year>2004</year>
+		<genre>Miscellaneous</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Game Boy Advance Video - The Proud Family - Volume 1 (USA)" index="" image="">
+		<description>Game Boy Advance Video - The Proud Family - Volume 1 (USA)</description>
+		<cloneof></cloneof>
+		<crc>C6A91365</crc>
+		<manufacturer>Majesco Games</manufacturer>
+		<year>2005</year>
+		<genre>Miscellaneous</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Game Boy Advance Video - Yu-Gi-Oh! - Yugi vs. Joey (USA, Europe)" index="" image="">
+		<description>Game Boy Advance Video - Yu-Gi-Oh! - Yugi vs. Joey (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>8D631F4E</crc>
+		<manufacturer>Majesco Games</manufacturer>
+		<year>2004</year>
+		<genre>Miscellaneous</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Games Explosion! (USA)" index="" image="">
+		<description>Games Explosion! (USA)</description>
+		<cloneof></cloneof>
+		<crc>68D63D5F</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2006</year>
+		<genre>Miscellaneous</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ignition Collection - Volume 1 (Europe)" index="true" image="i">
+		<description>Ignition Collection - Volume 1 (Europe)</description>
+		<cloneof></cloneof>
+		<crc>164A75AC</crc>
+		<manufacturer>Ignition Entertainment</manufacturer>
+		<year>2007</year>
+		<genre>Miscellaneous</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Konami Collector&apos;s Series - Arcade Advanced (USA)" index="true" image="k">
+		<description>Konami Collector&apos;s Series - Arcade Advanced (USA)</description>
+		<cloneof></cloneof>
+		<crc>2DB31825</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>2002</year>
+		<genre>Miscellaneous</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Little Einsteins (USA)" index="true" image="l">
+		<description>Little Einsteins (USA)</description>
+		<cloneof></cloneof>
+		<crc>C8340B37</crc>
+		<manufacturer>Buena Vista Games</manufacturer>
+		<year>2006</year>
+		<genre>Miscellaneous</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Looney Tunes Double Pack (USA)" index="" image="">
+		<description>Looney Tunes Double Pack (USA)</description>
+		<cloneof></cloneof>
+		<crc>ECADD047</crc>
+		<manufacturer>Majesco Games</manufacturer>
+		<year>2005</year>
+		<genre>Miscellaneous</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Majesco&apos;s Rec Room Challenge (USA)" index="true" image="m">
+		<description>Majesco&apos;s Rec Room Challenge (USA)</description>
+		<cloneof></cloneof>
+		<crc>AAFC9AFA</crc>
+		<manufacturer>Majesco Games</manufacturer>
+		<year>2005</year>
+		<genre>Miscellaneous</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Math Patrol - The Kleptoid Threat (USA)" index="" image="">
+		<description>Math Patrol - The Kleptoid Threat (USA)</description>
+		<cloneof></cloneof>
+		<crc>AECD1301</crc>
+		<manufacturer>Tomy Corporation</manufacturer>
+		<year>2007</year>
+		<genre>Miscellaneous</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Midway&apos;s Greatest Arcade Hits (USA, Europe)" index="" image="">
+		<description>Midway&apos;s Greatest Arcade Hits (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>C01C4D0A</crc>
+		<manufacturer>Midway</manufacturer>
+		<year>2001</year>
+		<genre>Miscellaneous</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Namco Museum (USA)" index="true" image="n">
+		<description>Namco Museum (USA)</description>
+		<cloneof></cloneof>
+		<crc>C58A04C1</crc>
+		<manufacturer>Namco</manufacturer>
+		<year>2001</year>
+		<genre>Miscellaneous</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Namco Museum - 50th Anniversary (USA)" index="" image="">
+		<description>Namco Museum - 50th Anniversary (USA)</description>
+		<cloneof></cloneof>
+		<crc>38DA81FE</crc>
+		<manufacturer>Namco</manufacturer>
+		<year>2005</year>
+		<genre>Miscellaneous</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pocket Professor - Kwik Notes - Vol. 1 (USA)" index="true" image="p">
+		<description>Pocket Professor - Kwik Notes - Vol. 1 (USA)</description>
+		<cloneof></cloneof>
+		<crc>07B824B1</crc>
+		<manufacturer>Pocket Direct, L.L.C.</manufacturer>
+		<year>2006</year>
+		<genre>Miscellaneous</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sega Smash Pack (USA)" index="true" image="s">
+		<description>Sega Smash Pack (USA)</description>
+		<cloneof></cloneof>
+		<crc>5C2E97BA</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2002</year>
+		<genre>Miscellaneous</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sportsman&apos;s Pack (USA)" index="" image="">
+		<description>Sportsman&apos;s Pack (USA)</description>
+		<cloneof></cloneof>
+		<crc>2E725460</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2005</year>
+		<genre>Miscellaneous</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Trollz - Hair Affair! (USA)" index="true" image="t">
+		<description>Trollz - Hair Affair! (USA)</description>
+		<cloneof></cloneof>
+		<crc>C5CD2C22</crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>2005</year>
+		<genre>Miscellaneous</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ultimate Arcade Games (USA)" index="true" image="u">
+		<description>Ultimate Arcade Games (USA)</description>
+		<cloneof></cloneof>
+		<crc>264F7A95</crc>
+		<manufacturer>Telegames, Inc.</manufacturer>
+		<year>2005</year>
+		<genre>Miscellaneous</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Winnie the Pooh&apos;s Rumbly Tumbly Adventure &amp; Rayman 3 (Europe) (En,Fr,De,Es,It,Nl+En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)" index="true" image="w">
+		<description>Winnie the Pooh&apos;s Rumbly Tumbly Adventure &amp; Rayman 3 (Europe) (En,Fr,De,Es,It,Nl+En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)</description>
+		<cloneof></cloneof>
+		<crc>C2FC12E5</crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>2006</year>
+		<genre>Miscellaneous</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Word Safari - The Friendship Totems (USA)" index="" image="">
+		<description>Word Safari - The Friendship Totems (USA)</description>
+		<cloneof></cloneof>
+		<crc>78E5A643</crc>
+		<manufacturer>Tomy Corporation</manufacturer>
+		<year>2007</year>
+		<genre>Miscellaneous</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Zooo (Europe) (En,Fr,De,Es,It)" index="true" image="z">
+		<description>Zooo (Europe) (En,Fr,De,Es,It)</description>
+		<cloneof></cloneof>
+		<crc>897B2893</crc>
+		<manufacturer>Ignition Entertainment</manufacturer>
+		<year>2005</year>
+		<genre>Miscellaneous</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

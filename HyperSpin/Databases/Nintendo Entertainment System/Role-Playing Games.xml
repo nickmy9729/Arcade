@@ -1,0 +1,359 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Nintendo Entertainment System</listname>
+		<lastlistupdate>07/28/2013</lastlistupdate>
+		<listversion>1.1 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="Advanced Dungeons &amp; Dragons - DragonStrike (USA)" index="true" image="a">
+		<description>Advanced Dungeons &amp; Dragons - DragonStrike (USA)</description>
+		<cloneof></cloneof>
+		<crc>2C5908A7</crc>
+		<manufacturer>Pony Canyon</manufacturer>
+		<year>1992</year>
+		<genre>Role-Playing</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Advanced Dungeons &amp; Dragons - Heroes of the Lance (USA)" index="" image="">
+		<description>Advanced Dungeons &amp; Dragons - Heroes of the Lance (USA)</description>
+		<cloneof></cloneof>
+		<crc>B17574F3</crc>
+		<manufacturer>Pony Canyon</manufacturer>
+		<year>1991</year>
+		<genre>Role-Playing</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Advanced Dungeons &amp; Dragons - Hillsfar (USA)" index="" image="">
+		<description>Advanced Dungeons &amp; Dragons - Hillsfar (USA)</description>
+		<cloneof></cloneof>
+		<crc>5DE61639</crc>
+		<manufacturer>FCI, Inc.</manufacturer>
+		<year>1993</year>
+		<genre>Role-Playing</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Advanced Dungeons &amp; Dragons - Pool of Radiance (USA)" index="" image="">
+		<description>Advanced Dungeons &amp; Dragons - Pool of Radiance (USA)</description>
+		<cloneof></cloneof>
+		<crc>25952141</crc>
+		<manufacturer>FCI, Inc.</manufacturer>
+		<year>1992</year>
+		<genre>Role-Playing</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Arkista&apos;s Ring (USA)" index="" image="">
+		<description>Arkista&apos;s Ring (USA)</description>
+		<cloneof></cloneof>
+		<crc>1425D7F4</crc>
+		<manufacturer>American Sammy</manufacturer>
+		<year>1990</year>
+		<genre>Role-Playing</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bard&apos;s Tale, The (USA)" index="true" image="b">
+		<description>Bard&apos;s Tale, The (USA)</description>
+		<cloneof></cloneof>
+		<crc>9B821A83</crc>
+		<manufacturer>FCI, Inc.</manufacturer>
+		<year>1991</year>
+		<genre>Role-Playing</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Castlequest (USA)" index="true" image="c">
+		<description>Castlequest (USA)</description>
+		<cloneof></cloneof>
+		<crc>12906664</crc>
+		<manufacturer>Nexoft</manufacturer>
+		<year>1989</year>
+		<genre>Role-Playing</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Crystalis (USA)" index="" image="">
+		<description>Crystalis (USA)</description>
+		<cloneof></cloneof>
+		<crc>1335CB05</crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1990</year>
+		<genre>Role-Playing</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Deadly Towers (USA)" index="true" image="d">
+		<description>Deadly Towers (USA)</description>
+		<cloneof></cloneof>
+		<crc>C2730C30</crc>
+		<manufacturer>Broderbund</manufacturer>
+		<year>1987</year>
+		<genre>Role-Playing</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Destiny of an Emperor (USA)" index="" image="">
+		<description>Destiny of an Emperor (USA)</description>
+		<cloneof></cloneof>
+		<crc>A558FB52</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1990</year>
+		<genre>Role-Playing</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dragon Warrior (USA) (Rev A)" index="" image="">
+		<description>Dragon Warrior (USA) (Rev A)</description>
+		<cloneof></cloneof>
+		<crc>2545214C</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1989</year>
+		<genre>Role-Playing</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dragon Warrior II (USA)" index="" image="">
+		<description>Dragon Warrior II (USA)</description>
+		<cloneof></cloneof>
+		<crc>8C5A784E</crc>
+		<manufacturer>Enix America, Inc.</manufacturer>
+		<year>1990</year>
+		<genre>Role-Playing</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dragon Warrior III (USA)" index="" image="">
+		<description>Dragon Warrior III (USA)</description>
+		<cloneof></cloneof>
+		<crc>A86A5318</crc>
+		<manufacturer>Enix America, Inc.</manufacturer>
+		<year>1992</year>
+		<genre>Role-Playing</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dragon Warrior IV (USA)" index="" image="">
+		<description>Dragon Warrior IV (USA)</description>
+		<cloneof></cloneof>
+		<crc>506E259D</crc>
+		<manufacturer>Enix America, Inc.</manufacturer>
+		<year>1992</year>
+		<genre>Role-Playing</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dungeon Magic - Sword of the Elements (USA)" index="" image="">
+		<description>Dungeon Magic - Sword of the Elements (USA)</description>
+		<cloneof></cloneof>
+		<crc>23C3FB2D</crc>
+		<manufacturer>Taito Corporation</manufacturer>
+		<year>1990</year>
+		<genre>Role-Playing</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Faria - A World of Mystery &amp; Danger! (USA)" index="true" image="f">
+		<description>Faria - A World of Mystery &amp; Danger! (USA)</description>
+		<cloneof></cloneof>
+		<crc>45F03D2E</crc>
+		<manufacturer>Nexoft</manufacturer>
+		<year>1991</year>
+		<genre>Role-Playing</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Faxanadu (USA) (Rev A)" index="" image="">
+		<description>Faxanadu (USA) (Rev A)</description>
+		<cloneof></cloneof>
+		<crc>E71DB268</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1989</year>
+		<genre>Role-Playing</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Final Fantasy (USA)" index="" image="">
+		<description>Final Fantasy (USA)</description>
+		<cloneof></cloneof>
+		<crc>CEBD2A31</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1990</year>
+		<genre>Role-Playing</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hydlide (USA)" index="true" image="h">
+		<description>Hydlide (USA)</description>
+		<cloneof></cloneof>
+		<crc>77BF8B23</crc>
+		<manufacturer>FCI, Inc.</manufacturer>
+		<year>1989</year>
+		<genre>Role-Playing</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Legacy of the Wizard (USA)" index="true" image="l">
+		<description>Legacy of the Wizard (USA)</description>
+		<cloneof></cloneof>
+		<crc>F181C021</crc>
+		<manufacturer>Broderbund</manufacturer>
+		<year>1989</year>
+		<genre>Role-Playing</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Legend of the Ghost Lion (USA)" index="" image="">
+		<description>Legend of the Ghost Lion (USA)</description>
+		<cloneof></cloneof>
+		<crc>04766130</crc>
+		<manufacturer>Kemco</manufacturer>
+		<year>1992</year>
+		<genre>Role-Playing</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Legend of Zelda II, The - The Adventure of Link (USA)" index="" image="">
+		<description>Legend of Zelda II, The - The Adventure of Link (USA)</description>
+		<cloneof></cloneof>
+		<crc>BA322865</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1988</year>
+		<genre>Role-Playing</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Little Ninja Brothers (USA)" index="" image="">
+		<description>Little Ninja Brothers (USA)</description>
+		<cloneof></cloneof>
+		<crc>BC7FEDB9</crc>
+		<manufacturer>Culture Brain</manufacturer>
+		<year>1990</year>
+		<genre>Role-Playing</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Magic of Scheherazade, The (USA)" index="true" image="m">
+		<description>Magic of Scheherazade, The (USA)</description>
+		<cloneof></cloneof>
+		<crc>92197173</crc>
+		<manufacturer>Culture Brain</manufacturer>
+		<year>1989</year>
+		<genre>Role-Playing</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Magician (USA)" index="" image="">
+		<description>Magician (USA)</description>
+		<cloneof></cloneof>
+		<crc>91E2E863</crc>
+		<manufacturer>Taxan</manufacturer>
+		<year>1991</year>
+		<genre>Role-Playing</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Might &amp; Magic - Secret of the Inner Sanctum (USA)" index="" image="">
+		<description>Might &amp; Magic - Secret of the Inner Sanctum (USA)</description>
+		<cloneof></cloneof>
+		<crc>532A27E6</crc>
+		<manufacturer>American Sammy</manufacturer>
+		<year>1992</year>
+		<genre>Role-Playing</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Swords and Serpents (USA)" index="true" image="s">
+		<description>Swords and Serpents (USA)</description>
+		<cloneof></cloneof>
+		<crc>3417EC46</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1990</year>
+		<genre>Role-Playing</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Times of Lore (USA)" index="true" image="t">
+		<description>Times of Lore (USA)</description>
+		<cloneof></cloneof>
+		<crc>0F86FEB4</crc>
+		<manufacturer>Toho</manufacturer>
+		<year>1991</year>
+		<genre>Role-Playing</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tombs &amp; Treasure (USA)" index="" image="">
+		<description>Tombs &amp; Treasure (USA)</description>
+		<cloneof></cloneof>
+		<crc>50D296B3</crc>
+		<manufacturer>Infocom</manufacturer>
+		<year>1991</year>
+		<genre>Role-Playing</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ultima - Exodus (USA)" index="true" image="u">
+		<description>Ultima - Exodus (USA)</description>
+		<cloneof></cloneof>
+		<crc>A4062017</crc>
+		<manufacturer>Pony Canyon</manufacturer>
+		<year>1989</year>
+		<genre>Role-Playing</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ultima - Quest of the Avatar (USA)" index="" image="">
+		<description>Ultima - Quest of the Avatar (USA)</description>
+		<cloneof></cloneof>
+		<crc>A25A750F</crc>
+		<manufacturer>Pony Canyon</manufacturer>
+		<year>1990</year>
+		<genre>Role-Playing</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ultima - Warriors of Destiny (USA)" index="" image="">
+		<description>Ultima - Warriors of Destiny (USA)</description>
+		<cloneof></cloneof>
+		<crc>4823EEFE</crc>
+		<manufacturer>FCI, Inc.</manufacturer>
+		<year>1993</year>
+		<genre>Role-Playing</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Willow (USA)" index="true" image="w">
+		<description>Willow (USA)</description>
+		<cloneof></cloneof>
+		<crc>103E7E7F</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1989</year>
+		<genre>Role-Playing</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Wizardry - Knight of Diamonds - The Second Scenario (USA)" index="" image="">
+		<description>Wizardry - Knight of Diamonds - The Second Scenario (USA)</description>
+		<cloneof></cloneof>
+		<crc>6BC33D2F</crc>
+		<manufacturer>ASCII Entertainment</manufacturer>
+		<year>1992</year>
+		<genre>Role-Playing</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Wizardry - Proving Grounds of the Mad Overlord (USA)" index="" image="">
+		<description>Wizardry - Proving Grounds of the Mad Overlord (USA)</description>
+		<cloneof></cloneof>
+		<crc>D9BB572C</crc>
+		<manufacturer>Nexoft</manufacturer>
+		<year>1990</year>
+		<genre>Role-Playing</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

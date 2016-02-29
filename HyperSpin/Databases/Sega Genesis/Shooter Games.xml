@@ -1,0 +1,599 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Sega Genesis</listname>
+		<lastlistupdate>02/21/2013</lastlistupdate>
+		<listversion>1.2 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="After Burner II (USA, Europe)" index="true" image="a">
+		<description>After Burner II (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>ccafe00e</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1990</year>
+		<genre>Shooter</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Air Buster (USA)" index="" image="">
+		<description>Air Buster (USA)</description>
+		<cloneof></cloneof>
+		<crc>f3d65baa</crc>
+		<manufacturer>Kaneko</manufacturer>
+		<year>1991</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Air Diver (USA)" index="" image="">
+		<description>Air Diver (USA)</description>
+		<cloneof></cloneof>
+		<crc>2041885e</crc>
+		<manufacturer>Asmik</manufacturer>
+		<year>1990</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Arrow Flash (USA, Europe)" index="" image="">
+		<description>Arrow Flash (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>4d89e66b</crc>
+		<manufacturer>Renovation</manufacturer>
+		<year>1990</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Atomic Robo-Kid (USA)" index="" image="">
+		<description>Atomic Robo-Kid (USA)</description>
+		<cloneof></cloneof>
+		<crc>7cd8169e</crc>
+		<manufacturer>Treco</manufacturer>
+		<year>1990</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Atomic Runner (USA)" index="" image="">
+		<description>Atomic Runner (USA)</description>
+		<cloneof></cloneof>
+		<crc>0677c210</crc>
+		<manufacturer>Data East</manufacturer>
+		<year>1992</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bio Hazard Battle (USA, Europe)" index="true" image="b">
+		<description>Bio Hazard Battle (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>95b0ea2b</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1992</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bloodshot (Europe)" index="" image="">
+		<description>Bloodshot (Europe)</description>
+		<cloneof></cloneof>
+		<crc>f9f2bceb</crc>
+		<manufacturer>Domark</manufacturer>
+		<year>1994</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Burning Force (USA)" index="" image="">
+		<description>Burning Force (USA)</description>
+		<cloneof></cloneof>
+		<crc>bdc8f02c</crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1990</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Caliber.50 (USA)" index="true" image="c">
+		<description>Caliber.50 (USA)</description>
+		<cloneof></cloneof>
+		<crc>44f4fa05</crc>
+		<manufacturer>Visco</manufacturer>
+		<year>1991</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Contra - Hard Corps (USA, Korea)" index="" image="">
+		<description>Contra - Hard Corps (USA, Korea)</description>
+		<cloneof></cloneof>
+		<crc>c579f45e</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1994</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cross Fire (USA)" index="" image="">
+		<description>Cross Fire (USA)</description>
+		<cloneof></cloneof>
+		<crc>cc73f3a9</crc>
+		<manufacturer>AI</manufacturer>
+		<year>1991</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dinosaur&apos;s Tale, A (USA)" index="true" image="d">
+		<description>Dinosaur\&apos;s Tale, A (USA)</description>
+		<cloneof></cloneof>
+		<crc>70155b5b</crc>
+		<manufacturer>Malibu</manufacturer>
+		<year>1993</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Earth Defense (USA) (Unl)" index="true" image="e">
+		<description>Earth Defense (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>3519c422</crc>
+		<manufacturer>Realtec</manufacturer>
+		<year>1995</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Elemental Master (USA)" index="" image="">
+		<description>Elemental Master (USA)</description>
+		<cloneof></cloneof>
+		<crc>390918c6</crc>
+		<manufacturer>TechnoSoft</manufacturer>
+		<year>1993</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Final Zone (Japan, USA)" index="true" image="f">
+		<description>Final Zone (Japan, USA)</description>
+		<cloneof></cloneof>
+		<crc>731fa4a1</crc>
+		<manufacturer>Toaplan</manufacturer>
+		<year>1990</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Foreman for Real (World)" index="" image="">
+		<description>Foreman for Real (World)</description>
+		<cloneof></cloneof>
+		<crc>36248f90</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1989</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Funny World &amp; Balloon Boy (USA) (Unl)" index="" image="">
+		<description>Funny World &amp; Balloon Boy (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>a82f05f0</crc>
+		<manufacturer>Realtec</manufacturer>
+		<year>1993</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Granada (Japan, USA) (v1.1)" index="true" image="g">
+		<description>Granada (Japan, USA) (v1.1)</description>
+		<cloneof></cloneof>
+		<crc>e89d1e66</crc>
+		<manufacturer>Wolf Team</manufacturer>
+		<year>1990</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Grind Stormer (USA)" index="" image="">
+		<description>Grind Stormer (USA)</description>
+		<cloneof></cloneof>
+		<crc>7e6bef15</crc>
+		<manufacturer>Tengen</manufacturer>
+		<year>1994</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gunship (Europe)" index="" image="">
+		<description>Gunship (Europe)</description>
+		<cloneof></cloneof>
+		<crc>da1440c9</crc>
+		<manufacturer>Probe Entertainment</manufacturer>
+		<year>1993</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gunstar Heroes (USA)" index="" image="">
+		<description>Gunstar Heroes (USA)</description>
+		<cloneof></cloneof>
+		<crc>b813cf0d</crc>
+		<manufacturer>Treasure</manufacturer>
+		<year>1993</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hellfire (USA)" index="true" image="h">
+		<description>Hellfire (USA)</description>
+		<cloneof></cloneof>
+		<crc>184018f9</crc>
+		<manufacturer>Toaplan</manufacturer>
+		<year>1991</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Insector X (USA)" index="true" image="i">
+		<description>Insector X (USA)</description>
+		<cloneof></cloneof>
+		<crc>70626304</crc>
+		<manufacturer>Taito</manufacturer>
+		<year>1990</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lightening Force - Quest for the Darkstar (USA)" index="true" image="l">
+		<description>Lightening Force - Quest for the Darkstar (USA)</description>
+		<cloneof></cloneof>
+		<crc>c8f8c0e0</crc>
+		<manufacturer>TechnoSoft</manufacturer>
+		<year>1992</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mega SWIV (Europe)" index="true" image="m">
+		<description>Mega SWIV (Europe)</description>
+		<cloneof></cloneof>
+		<crc>78c2f046</crc>
+		<manufacturer>Sales Curve Interactive</manufacturer>
+		<year>1994</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Midnight Resistance (USA)" index="" image="">
+		<description>Midnight Resistance (USA)</description>
+		<cloneof></cloneof>
+		<crc>187c6af6</crc>
+		<manufacturer>OperaHouse</manufacturer>
+		<year>1991</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="MUSHA - Metallic Uniframe Super Hybrid Armor (USA)" index="" image="">
+		<description>MUSHA - Metallic Uniframe Super Hybrid Armor (USA)</description>
+		<cloneof></cloneof>
+		<crc>58a7f7b4</crc>
+		<manufacturer>Compile</manufacturer>
+		<year>1990</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Phelios (USA)" index="true" image="p">
+		<description>Phelios (USA)</description>
+		<cloneof></cloneof>
+		<crc>11c79320</crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1990</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Predator 2 (USA, Europe)" index="" image="">
+		<description>Predator 2 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>bdba113e</crc>
+		<manufacturer>Teeny Weeny Games</manufacturer>
+		<year>1992</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Raiden Trad (Japan, USA)" index="true" image="r">
+		<description>Raiden Trad (Japan, USA)</description>
+		<cloneof></cloneof>
+		<crc>f839a811</crc>
+		<manufacturer>Micronet</manufacturer>
+		<year>1993</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ranger X (USA)" index="" image="">
+		<description>Ranger X (USA)</description>
+		<cloneof></cloneof>
+		<crc>55915915</crc>
+		<manufacturer>Gau Entertainment</manufacturer>
+		<year>1993</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Revolution X (USA, Europe)" index="" image="">
+		<description>Revolution X (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>5fb0c5d4</crc>
+		<manufacturer>Rage Software</manufacturer>
+		<year>1995</year>
+		<genre>Shooter</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rolling Thunder 2 (USA)" index="" image="">
+		<description>Rolling Thunder 2 (USA)</description>
+		<cloneof></cloneof>
+		<crc>3ace429b</crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1991</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rolling Thunder 3 (USA)" index="" image="">
+		<description>Rolling Thunder 3 (USA)</description>
+		<cloneof></cloneof>
+		<crc>64fb13aa</crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1993</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sagaia (USA)" index="true" image="s">
+		<description>Sagaia (USA)</description>
+		<cloneof></cloneof>
+		<crc>f1e22f43</crc>
+		<manufacturer>Taito</manufacturer>
+		<year>1991</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sol-Deace (USA)" index="" image="">
+		<description>Sol-Deace (USA)</description>
+		<cloneof></cloneof>
+		<crc>a77e4e9f</crc>
+		<manufacturer>Wolf Team</manufacturer>
+		<year>1992</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Soldiers of Fortune (USA)" index="" image="">
+		<description>Soldiers of Fortune (USA)</description>
+		<cloneof></cloneof>
+		<crc>a84d28a1</crc>
+		<manufacturer>Bitmap Brothers</manufacturer>
+		<year>1993</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Space Harrier II (World)" index="" image="">
+		<description>Space Harrier II (World)</description>
+		<cloneof></cloneof>
+		<crc>e5c9cbb0</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1989</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Space Invaders &apos;91 (USA)" index="" image="">
+		<description>Space Invaders \&apos;91 (USA)</description>
+		<cloneof></cloneof>
+		<crc>bb83b528</crc>
+		<manufacturer>Taito</manufacturer>
+		<year>1991</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Steel Empire (USA)" index="" image="">
+		<description>Steel Empire (USA)</description>
+		<cloneof></cloneof>
+		<crc>d0e7a0b6</crc>
+		<manufacturer>Hot-B</manufacturer>
+		<year>1992</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Steel Talons (USA, Europe)" index="" image="">
+		<description>Steel Talons (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>10e4ec63</crc>
+		<manufacturer>Polygames</manufacturer>
+		<year>1992</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sunset Riders (USA)" index="" image="">
+		<description>Sunset Riders (USA)</description>
+		<cloneof></cloneof>
+		<crc>ac30c297</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1992</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Fantasy Zone (Europe)" index="" image="">
+		<description>Super Fantasy Zone (Europe)</description>
+		<cloneof></cloneof>
+		<crc>927975be</crc>
+		<manufacturer>SunSoft</manufacturer>
+		<year>1993</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Smash T.V. (USA, Europe)" index="" image="">
+		<description>Super Smash T.V. (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>f22412b6</crc>
+		<manufacturer>Probe Entertainment</manufacturer>
+		<year>1992</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Thunder Blade (World)" index="" image="">
+		<description>Super Thunder Blade (World)</description>
+		<cloneof></cloneof>
+		<crc>b13087ee</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1988</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Task Force Harrier EX (USA)" index="true" image="t">
+		<description>Task Force Harrier EX (USA)</description>
+		<cloneof></cloneof>
+		<crc>c8bb0257</crc>
+		<manufacturer>Treco</manufacturer>
+		<year>1991</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Thunder Force II (USA, Europe)" index="" image="">
+		<description>Thunder Force II (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>9b1561b3</crc>
+		<manufacturer>TechnoSoft</manufacturer>
+		<year>1989</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Thunder Force III (Japan, USA)" index="" image="">
+		<description>Thunder Force III (Japan, USA)</description>
+		<cloneof></cloneof>
+		<crc>1b3f399a</crc>
+		<manufacturer>TechnoSoft</manufacturer>
+		<year>1990</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Trouble Shooter (USA)" index="" image="">
+		<description>Trouble Shooter (USA)</description>
+		<cloneof></cloneof>
+		<crc>becfc39b</crc>
+		<manufacturer>Vic Tokai</manufacturer>
+		<year>1991</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Truxton (World)" index="" image="">
+		<description>Truxton (World)</description>
+		<cloneof></cloneof>
+		<crc>5bd0882d</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1989</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Twin Cobra - Desert Attack Helicopter (USA)" index="" image="">
+		<description>Twin Cobra - Desert Attack Helicopter (USA)</description>
+		<cloneof></cloneof>
+		<crc>2c708248</crc>
+		<manufacturer>GRC</manufacturer>
+		<year>1991</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Vapor Trail (USA)" index="true" image="v">
+		<description>Vapor Trail (USA)</description>
+		<cloneof></cloneof>
+		<crc>c49e3a0a</crc>
+		<manufacturer>Data East</manufacturer>
+		<year>1991</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Viewpoint (USA)" index="" image="">
+		<description>Viewpoint (USA)</description>
+		<cloneof></cloneof>
+		<crc>59c71866</crc>
+		<manufacturer>Nexus Interact</manufacturer>
+		<year>1994</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Whip Rush (USA)" index="true" image="w">
+		<description>Whip Rush (USA)</description>
+		<cloneof></cloneof>
+		<crc>7eb6b86b</crc>
+		<manufacturer>Vic Tokai</manufacturer>
+		<year>1990</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Wings of Wor (USA)" index="" image="">
+		<description>Wings of Wor (USA)</description>
+		<cloneof></cloneof>
+		<crc>210a2fcd</crc>
+		<manufacturer>NCS</manufacturer>
+		<year>1991</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Wonder Boy III - Monster Lair (Japan, Europe)" index="" image="">
+		<description>Wonder Boy III - Monster Lair (Japan, Europe)</description>
+		<cloneof></cloneof>
+		<crc>c24bc5e4</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1991</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Zero Tolerance (USA, Europe)" index="true" image="z">
+		<description>Zero Tolerance (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>23f603f5</crc>
+		<manufacturer>Technopop</manufacturer>
+		<year>1994</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Zero Wing (Europe)" index="" image="">
+		<description>Zero Wing (Europe)</description>
+		<cloneof></cloneof>
+		<crc>89b744a3</crc>
+		<manufacturer>Toaplan</manufacturer>
+		<year>1991</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

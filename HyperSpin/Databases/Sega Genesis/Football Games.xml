@@ -1,0 +1,369 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Sega Genesis</listname>
+		<lastlistupdate>02/21/2013</lastlistupdate>
+		<listversion>1.2 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="Bill Walsh College Football (USA, Europe)" index="true" image="b">
+		<description>Bill Walsh College Football (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>3ed83362</crc>
+		<manufacturer>High Score Productions</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Football</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="College Football USA 96 (USA)" index="true" image="c">
+		<description>College Football USA 96 (USA)</description>
+		<cloneof></cloneof>
+		<crc>b9075385</crc>
+		<manufacturer>High Score Productions</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Football</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="College Football USA 97 (USA)" index="" image="">
+		<description>College Football USA 97 (USA)</description>
+		<cloneof></cloneof>
+		<crc>2ebb90a3</crc>
+		<manufacturer>EA Tiburon</manufacturer>
+		<year>1996</year>
+		<genre>Sports/Football</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="College Football&apos;s National Championship (USA)" index="" image="">
+		<description>College Football\&apos;s National Championship (USA)</description>
+		<cloneof></cloneof>
+		<crc>172c5dbb</crc>
+		<manufacturer>Bluesky Innovations</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Football</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="College Football&apos;s National Championship II (USA)" index="" image="">
+		<description>College Football\&apos;s National Championship II (USA)</description>
+		<cloneof></cloneof>
+		<crc>65b64413</crc>
+		<manufacturer>Bluesky Innovations</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Football</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ESPN Sunday Night NFL (USA)" index="true" image="e">
+		<description>ESPN Sunday Night NFL (USA)</description>
+		<cloneof></cloneof>
+		<crc>61e9c309</crc>
+		<manufacturer>Ringler Studios</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Football</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Jerry Glanville&apos;s Pigskin Footbrawl (USA)" index="true" image="j">
+		<description>Jerry Glanville\&apos;s Pigskin Footbrawl (USA)</description>
+		<cloneof></cloneof>
+		<crc>e7f48d30</crc>
+		<manufacturer>Developer Resources</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Football</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Joe Montana Football (World)" index="" image="">
+		<description>Joe Montana Football (World)</description>
+		<cloneof></cloneof>
+		<crc>8aa6a1dd</crc>
+		<manufacturer>Park Place Productions</manufacturer>
+		<year>1990</year>
+		<genre>Sports/Football</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Joe Montana II Sports Talk Football (World) (Rev A)" index="" image="">
+		<description>Joe Montana II Sports Talk Football (World) (Rev A)</description>
+		<cloneof></cloneof>
+		<crc>a45da893</crc>
+		<manufacturer>Bluesky Innovations</manufacturer>
+		<year>1991</year>
+		<genre>Sports/Football</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="John Madden Football (USA, Europe)" index="" image="">
+		<description>John Madden Football (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>90fb8818</crc>
+		<manufacturer>Park Place Productions</manufacturer>
+		<year>1991</year>
+		<genre>Sports/Football</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="John Madden Football - Championship Edition (USA)" index="" image="">
+		<description>John Madden Football - Championship Edition (USA)</description>
+		<cloneof></cloneof>
+		<crc>ca534b1a</crc>
+		<manufacturer>Looking Glass Studios</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Football</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="John Madden Football &apos;92 (USA, Europe)" index="" image="">
+		<description>John Madden Football \&apos;92 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>046e3945</crc>
+		<manufacturer>Park Place Productions</manufacturer>
+		<year>1991</year>
+		<genre>Sports/Football</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="John Madden Football &apos;93 (USA, Europe)" index="" image="">
+		<description>John Madden Football \&apos;93 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>ca323b3e</crc>
+		<manufacturer>Park Place Productions</manufacturer>
+		<year>1990</year>
+		<genre>Sports/Football</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Madden NFL 95 (USA, Europe)" index="true" image="m">
+		<description>Madden NFL 95 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>db0be0c2</crc>
+		<manufacturer>High Score Productions</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Football</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Madden NFL 96 (USA, Europe)" index="" image="">
+		<description>Madden NFL 96 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>f126918b</crc>
+		<manufacturer>High Score Productions</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Football</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Madden NFL 97 (USA, Europe)" index="" image="">
+		<description>Madden NFL 97 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>c4b4e112</crc>
+		<manufacturer>High Score Productions</manufacturer>
+		<year>1997</year>
+		<genre>Sports/Football</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Madden NFL 98 (USA)" index="" image="">
+		<description>Madden NFL 98 (USA)</description>
+		<cloneof></cloneof>
+		<crc>e051ea62</crc>
+		<manufacturer>Tiertex Design Studios</manufacturer>
+		<year>1997</year>
+		<genre>Sports/Football</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Madden NFL &apos;94 (USA, Europe)" index="" image="">
+		<description>Madden NFL \&apos;94 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>d14b811b</crc>
+		<manufacturer>High Score Productions</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Football</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mike Ditka Power Football (USA, Europe)" index="" image="">
+		<description>Mike Ditka Power Football (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>6078b310</crc>
+		<manufacturer>Accolade</manufacturer>
+		<year>1991</year>
+		<genre>Sports/Football</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mutant League Football (USA, Europe)" index="" image="">
+		<description>Mutant League Football (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>dce29c9d</crc>
+		<manufacturer>Electronic Arts</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Football</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NCAA Football (USA)" index="true" image="n">
+		<description>NCAA Football (USA)</description>
+		<cloneof></cloneof>
+		<crc>081012f0</crc>
+		<manufacturer>Mindscape</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Football</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NFL 98 (USA)" index="" image="">
+		<description>NFL 98 (USA)</description>
+		<cloneof></cloneof>
+		<crc>f73ec54c</crc>
+		<manufacturer>Farsight Technologies</manufacturer>
+		<year>1997</year>
+		<genre>Sports/Football</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NFL Football &apos;94 Starring Joe Montana (USA)" index="" image="">
+		<description>NFL Football \&apos;94 Starring Joe Montana (USA)</description>
+		<cloneof></cloneof>
+		<crc>0d486ed5</crc>
+		<manufacturer>Bluesky Innovations</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Football</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NFL Quarterback Club (World)" index="" image="">
+		<description>NFL Quarterback Club (World)</description>
+		<cloneof></cloneof>
+		<crc>94542eaf</crc>
+		<manufacturer>Iguana Entertainment</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Football</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NFL Quarterback Club 96 (USA, Europe)" index="" image="">
+		<description>NFL Quarterback Club 96 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>d5a37cab</crc>
+		<manufacturer>Iguana Entertainment</manufacturer>
+		<year>1996</year>
+		<genre>Sports/Football</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NFL Sports Talk Football &apos;93 Starring Joe Montana (USA, Europe)" index="" image="">
+		<description>NFL Sports Talk Football \&apos;93 Starring Joe Montana (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>ce0b1fe1</crc>
+		<manufacturer>Bluesky Innovations</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Football</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NFL &apos;95 (USA, Europe)" index="" image="">
+		<description>NFL \&apos;95 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>b58e4a81</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Football</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Prime Time NFL Starring Deion Sanders (USA)" index="true" image="p">
+		<description>Prime Time NFL Starring Deion Sanders (USA)</description>
+		<cloneof></cloneof>
+		<crc>5aa53cbc</crc>
+		<manufacturer>Farsight Technologies</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Football</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pro Quarterback (USA)" index="" image="">
+		<description>Pro Quarterback (USA)</description>
+		<cloneof></cloneof>
+		<crc>cc8b2b69</crc>
+		<manufacturer>Tradewest</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Football</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super High Impact (USA)" index="true" image="s">
+		<description>Super High Impact (USA)</description>
+		<cloneof></cloneof>
+		<crc>b870c2f7</crc>
+		<manufacturer>Iguana Entertainment</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Football</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tecmo Super Bowl (USA)" index="true" image="t">
+		<description>Tecmo Super Bowl (USA)</description>
+		<cloneof></cloneof>
+		<crc>21f27d34</crc>
+		<manufacturer>Tecmo</manufacturer>
+		<year>1993</year>
+		<genre>Football/Sports</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tecmo Super Bowl II - Special Edition (USA)" index="" image="">
+		<description>Tecmo Super Bowl II - Special Edition (USA)</description>
+		<cloneof></cloneof>
+		<crc>0a0e67d8</crc>
+		<manufacturer>Tecmo</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Football</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tecmo Super Bowl III - Final Edition (USA)" index="" image="">
+		<description>Tecmo Super Bowl III - Final Edition (USA)</description>
+		<cloneof></cloneof>
+		<crc>aae4089f</crc>
+		<manufacturer>Tecmo</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Football</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Total Football (Europe)" index="" image="">
+		<description>Total Football (Europe)</description>
+		<cloneof></cloneof>
+		<crc>8360b66a</crc>
+		<manufacturer>Domark</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Football</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Troy Aikman NFL Football (USA)" index="" image="">
+		<description>Troy Aikman NFL Football (USA)</description>
+		<cloneof></cloneof>
+		<crc>015f2713</crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Football</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Unnecessary Roughness &apos;95 (USA)" index="true" image="u">
+		<description>Unnecessary Roughness \&apos;95 (USA)</description>
+		<cloneof></cloneof>
+		<crc>9920e7b7</crc>
+		<manufacturer>Accolade</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Football</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

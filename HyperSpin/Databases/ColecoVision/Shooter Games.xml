@@ -1,0 +1,119 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>ColecoVision</listname>
+		<lastlistupdate>06/08/2013</lastlistupdate>
+		<listversion>1.0 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="Aquattack (USA)" index="true" image="a">
+		<description>Aquattack (USA)</description>
+		<cloneof></cloneof>
+		<crc>275A7013</crc>
+		<manufacturer>Toshiba EMI</manufacturer>
+		<year>1984</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Beamrider (USA)" index="true" image="b">
+		<description>Beamrider (USA)</description>
+		<cloneof></cloneof>
+		<crc>2E8E9D42</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>1983</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Buck Rogers - Planet Of Zoom (USA, Europe)" index="" image="">
+		<description>Buck Rogers - Planet Of Zoom (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>1BAF661E</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1983</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Centipede (USA)" index="true" image="c">
+		<description>Centipede (USA)</description>
+		<cloneof></cloneof>
+		<crc>17EDBFD4</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1983</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cosmic Avenger (USA, Europe)" index="" image="">
+		<description>Cosmic Avenger (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>14D6CED6</crc>
+		<manufacturer>Universal</manufacturer>
+		<year>1982</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Defender (USA)" index="true" image="d">
+		<description>Defender (USA)</description>
+		<cloneof></cloneof>
+		<crc>FFD16997</crc>
+		<manufacturer>Williams Electronics Inc.</manufacturer>
+		<year>1983</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Galaxian (USA)" index="true" image="g">
+		<description>Galaxian (USA)</description>
+		<cloneof></cloneof>
+		<crc>FE1D0B6A</crc>
+		<manufacturer>Namco Limited</manufacturer>
+		<year>1983</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gorf (USA, Europe)" index="" image="">
+		<description>Gorf (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>FF46BECC</crc>
+		<manufacturer>Bally Midway Manufacturing Co.</manufacturer>
+		<year>1983</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="River Raid (USA)" index="true" image="r">
+		<description>River Raid (USA)</description>
+		<cloneof></cloneof>
+		<crc>FE897F9C</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>1984</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Venture (USA, Europe)" index="true" image="v">
+		<description>Venture (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>8E5A4AA3</crc>
+		<manufacturer>Exidy</manufacturer>
+		<year>1982</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Zaxxon (USA, Europe)" index="true" image="z">
+		<description>Zaxxon (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>8CB0891A</crc>
+		<manufacturer>Coleco</manufacturer>
+		<year>1982</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

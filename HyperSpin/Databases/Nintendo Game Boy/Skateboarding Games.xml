@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Nintendo Game Boy</listname>
+		<lastlistupdate>06/08/2013</lastlistupdate>
+		<listversion>1.1 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="Skate or Die - Bad &apos;N Rad (USA)" index="true" image="s">
+		<description>Skate or Die - Bad \&apos;N Rad (USA)</description>
+		<cloneof></cloneof>
+		<crc>4db7c817</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1990</year>
+		<genre>Skateboarding</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Skate or Die - Tour de Thrash (USA)" index="" image="">
+		<description>Skate or Die - Tour de Thrash (USA)</description>
+		<cloneof></cloneof>
+		<crc>02b77c09</crc>
+		<manufacturer>EA Sports</manufacturer>
+		<year>1991</year>
+		<genre>Skateboarding</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

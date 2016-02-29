@@ -1,0 +1,479 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Nintendo Game Boy Advance</listname>
+		<lastlistupdate>10/27/2011</lastlistupdate>
+		<listversion>1.1 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="2 Games in 1! - Dragon Ball Z - Buu&apos;s Fury + Dragon Ball GT - Transformation (USA)" index="true" image="2">
+		<description>2 Games in 1! - Dragon Ball Z - Buu&apos;s Fury + Dragon Ball GT - Transformation (USA)</description>
+		<cloneof></cloneof>
+		<crc>280587F2</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>2006</year>
+		<genre>Beat-&apos;Em-Up/Role-Playing</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="2 in 1 - Asterix &amp; Obelix - Bash Them All! + Asterix &amp; Obelix XXL (Europe) (En,Fr,De,Es,It,Nl)" index="" image="">
+		<description>2 in 1 - Asterix &amp; Obelix - Bash Them All! + Asterix &amp; Obelix XXL (Europe) (En,Fr,De,Es,It,Nl)</description>
+		<cloneof></cloneof>
+		<crc>183A2207</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>2005</year>
+		<genre>Action/Beat-&apos;Em-Up</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Advance Guardian Heroes (USA)" index="true" image="a">
+		<description>Advance Guardian Heroes (USA)</description>
+		<cloneof></cloneof>
+		<crc>C501917F</crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>2004</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Altered Beast - Guardian of the Realms (USA)" index="" image="">
+		<description>Altered Beast - Guardian of the Realms (USA)</description>
+		<cloneof></cloneof>
+		<crc>C4955F69</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2002</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Asterix &amp; Obelix - Bash Them All! (Europe) (En,Fr,De,Es,It,Nl)" index="" image="">
+		<description>Asterix &amp; Obelix - Bash Them All! (Europe) (En,Fr,De,Es,It,Nl)</description>
+		<cloneof></cloneof>
+		<crc>92360109</crc>
+		<manufacturer>Infogrames</manufacturer>
+		<year>2002</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Batman - Rise of Sin Tzu (USA) (En,Fr,Es)" index="true" image="b">
+		<description>Batman - Rise of Sin Tzu (USA) (En,Fr,Es)</description>
+		<cloneof></cloneof>
+		<crc>EF3790D1</crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>2003</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Batman - Vengeance (USA) (En,Fr,Es)" index="" image="">
+		<description>Batman - Vengeance (USA) (En,Fr,Es)</description>
+		<cloneof></cloneof>
+		<crc>9FA17935</crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>2001</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Batman Begins (USA, Europe) (En,Fr,De,Es,It,Nl)" index="" image="">
+		<description>Batman Begins (USA, Europe) (En,Fr,De,Es,It,Nl)</description>
+		<cloneof></cloneof>
+		<crc>83C90106</crc>
+		<manufacturer>EA Games</manufacturer>
+		<year>2005</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="BattleBots - Beyond the BattleBox (USA)" index="" image="">
+		<description>BattleBots - Beyond the BattleBox (USA)</description>
+		<cloneof></cloneof>
+		<crc>985B3704</crc>
+		<manufacturer>Majesco Games</manufacturer>
+		<year>2002</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="BattleBots - Design &amp; Destroy (USA)" index="" image="">
+		<description>BattleBots - Design &amp; Destroy (USA)</description>
+		<cloneof></cloneof>
+		<crc>8D5FFBCA</crc>
+		<manufacturer>Majesco Games</manufacturer>
+		<year>2003</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bruce Lee - Return of the Legend (USA)" index="" image="">
+		<description>Bruce Lee - Return of the Legend (USA)</description>
+		<cloneof></cloneof>
+		<crc>B2A45A4C</crc>
+		<manufacturer>VU Games</manufacturer>
+		<year>2003</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Buffy the Vampire Slayer - Wrath of the Darkhul King (USA, Europe)" index="" image="">
+		<description>Buffy the Vampire Slayer - Wrath of the Darkhul King (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>F5C85BEB</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2003</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Butt-Ugly Martians - B.K.M. Battles (USA)" index="" image="">
+		<description>Butt-Ugly Martians - B.K.M. Battles (USA)</description>
+		<cloneof></cloneof>
+		<crc>74BE9148</crc>
+		<manufacturer>VU Games</manufacturer>
+		<year>2002</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Comix Zone (Europe) (En,Fr,De,Es,It)" index="true" image="c">
+		<description>Comix Zone (Europe) (En,Fr,De,Es,It)</description>
+		<cloneof></cloneof>
+		<crc>9F30002F</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2002</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Crouching Tiger, Hidden Dragon (USA) (En,Fr,Es)" index="" image="">
+		<description>Crouching Tiger, Hidden Dragon (USA) (En,Fr,Es)</description>
+		<cloneof></cloneof>
+		<crc>579BA507</crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>2003</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cubix - Robots for Everyone - Clash &apos;N Bash (USA)" index="" image="">
+		<description>Cubix - Robots for Everyone - Clash &apos;N Bash (USA)</description>
+		<cloneof></cloneof>
+		<crc>4171C811</crc>
+		<manufacturer>3DO</manufacturer>
+		<year>2002</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Double Dragon Advance (USA)" index="true" image="d">
+		<description>Double Dragon Advance (USA)</description>
+		<cloneof></cloneof>
+		<crc>764FAFB5</crc>
+		<manufacturer>Atlus Co.</manufacturer>
+		<year>2003</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dragon Ball - Advanced Adventure (USA)" index="" image="">
+		<description>Dragon Ball - Advanced Adventure (USA)</description>
+		<cloneof></cloneof>
+		<crc>7D7306DF</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>2006</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dragon Ball GT - Transformation (USA)" index="" image="">
+		<description>Dragon Ball GT - Transformation (USA)</description>
+		<cloneof></cloneof>
+		<crc>AD964A91</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>2005</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dynasty Warriors Advance (USA, Australia)" index="" image="">
+		<description>Dynasty Warriors Advance (USA, Australia)</description>
+		<cloneof></cloneof>
+		<crc>AD5A2A4E</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2005</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fantastic 4 (USA)" index="true" image="f">
+		<description>Fantastic 4 (USA)</description>
+		<cloneof></cloneof>
+		<crc>FF2C6EA9</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2005</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fantastic 4 - Flame On (USA)" index="" image="">
+		<description>Fantastic 4 - Flame On (USA)</description>
+		<cloneof></cloneof>
+		<crc>DDDE4295</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2005</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Final Fight One (USA)" index="" image="">
+		<description>Final Fight One (USA)</description>
+		<cloneof></cloneof>
+		<crc>052C9997</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>2001</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gauntlet - Dark Legacy (USA)" index="true" image="g">
+		<description>Gauntlet - Dark Legacy (USA)</description>
+		<cloneof></cloneof>
+		<crc>E99DE964</crc>
+		<manufacturer>Midway</manufacturer>
+		<year>2002</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gekido Advance - Kintaro&apos;s Revenge (USA)" index="" image="">
+		<description>Gekido Advance - Kintaro&apos;s Revenge (USA)</description>
+		<cloneof></cloneof>
+		<crc>6BBC5F4D</crc>
+		<manufacturer>Destination Software</manufacturer>
+		<year>2003</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Godzilla - Domination! (USA)" index="" image="">
+		<description>Godzilla - Domination! (USA)</description>
+		<cloneof></cloneof>
+		<crc>EADE083F</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>2002</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Grim Adventures of Billy &amp; Mandy, The (USA)" index="" image="">
+		<description>Grim Adventures of Billy &amp; Mandy, The (USA)</description>
+		<cloneof></cloneof>
+		<crc>155587BC</crc>
+		<manufacturer>Midway</manufacturer>
+		<year>2006</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Jackie Chan Adventures - Legend of the Darkhand (USA, Europe)" index="true" image="j">
+		<description>Jackie Chan Adventures - Legend of the Darkhand (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>13247954</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2001</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Justice League Heroes - The Flash (USA)" index="" image="">
+		<description>Justice League Heroes - The Flash (USA)</description>
+		<cloneof></cloneof>
+		<crc>87A4D12C</crc>
+		<manufacturer>Warner Bros. Interactive Entertainment</manufacturer>
+		<year>2006</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lord of the Rings, The - The Two Towers (USA, Europe) (En,Fr,De,Es,It,Nl)" index="true" image="l">
+		<description>Lord of the Rings, The - The Two Towers (USA, Europe) (En,Fr,De,Es,It,Nl)</description>
+		<cloneof></cloneof>
+		<crc>A1E3BF33</crc>
+		<manufacturer>EA Games</manufacturer>
+		<year>2002</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Minority Report - Everybody Runs (USA, Europe)" index="true" image="m">
+		<description>Minority Report - Everybody Runs (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>3D56EAD6</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2002</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Naruto - Ninja Council (USA)" index="true" image="n">
+		<description>Naruto - Ninja Council (USA)</description>
+		<cloneof></cloneof>
+		<crc>C402878C</crc>
+		<manufacturer>D3</manufacturer>
+		<year>2006</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Naruto - Ninja Council 2 (USA)" index="" image="">
+		<description>Naruto - Ninja Council 2 (USA)</description>
+		<cloneof></cloneof>
+		<crc>94699FCA</crc>
+		<manufacturer>D3</manufacturer>
+		<year>2006</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ripping Friends, The (USA, Europe)" index="true" image="r">
+		<description>Ripping Friends, The (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>9850BF21</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2002</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="River City Ransom EX (USA)" index="" image="">
+		<description>River City Ransom EX (USA)</description>
+		<cloneof></cloneof>
+		<crc>8686436E</crc>
+		<manufacturer>Atlus Co.</manufacturer>
+		<year>2004</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Samurai Deeper Kyo (USA)" index="true" image="s">
+		<description>Samurai Deeper Kyo (USA)</description>
+		<cloneof></cloneof>
+		<crc>4AB65478</crc>
+		<manufacturer>Bold Games</manufacturer>
+		<year>2008</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Shrek - Super Slam (USA)" index="" image="">
+		<description>Shrek - Super Slam (USA)</description>
+		<cloneof></cloneof>
+		<crc>E2EC9EED</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2005</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Star Wars - Jedi Power Battles (USA)" index="" image="">
+		<description>Star Wars - Jedi Power Battles (USA)</description>
+		<cloneof></cloneof>
+		<crc>3F19E156</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2002</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Duper Sumos (USA)" index="" image="">
+		<description>Super Duper Sumos (USA)</description>
+		<cloneof></cloneof>
+		<crc>8E20043F</crc>
+		<manufacturer>Midway</manufacturer>
+		<year>2003</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Superman Returns - Fortress of Solitude (USA, Europe) (En,Fr,De,Es,It)" index="" image="">
+		<description>Superman Returns - Fortress of Solitude (USA, Europe) (En,Fr,De,Es,It)</description>
+		<cloneof></cloneof>
+		<crc>68215047</crc>
+		<manufacturer>EA Games</manufacturer>
+		<year>2006</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Teenage Mutant Ninja Turtles (USA)" index="true" image="t">
+		<description>Teenage Mutant Ninja Turtles (USA)</description>
+		<cloneof></cloneof>
+		<crc>F6C36783</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>2003</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Teenage Mutant Ninja Turtles 2 - Battle Nexus (USA)" index="" image="">
+		<description>Teenage Mutant Ninja Turtles 2 - Battle Nexus (USA)</description>
+		<cloneof></cloneof>
+		<crc>802FC7C1</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>2004</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Teenage Mutant Ninja Turtles Double Pack (USA) (En,Fr,De,Es,It)" index="" image="">
+		<description>Teenage Mutant Ninja Turtles Double Pack (USA) (En,Fr,De,Es,It)</description>
+		<cloneof></cloneof>
+		<crc>176A42E5</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>2006</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="TMNT (USA) (En,Fr,Es)" index="" image="">
+		<description>TMNT (USA) (En,Fr,Es)</description>
+		<cloneof></cloneof>
+		<crc>916DB9D5</crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>2007</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ultimate Spider-Man (USA)" index="true" image="u">
+		<description>Ultimate Spider-Man (USA)</description>
+		<cloneof></cloneof>
+		<crc>931E2C18</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2005</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="X-Men - Reign of Apocalypse (USA, Europe)" index="true" image="x">
+		<description>X-Men - Reign of Apocalypse (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>25F43491</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2001</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="X-Men - The Official Game (USA)" index="" image="">
+		<description>X-Men - The Official Game (USA)</description>
+		<cloneof></cloneof>
+		<crc>C87F460A</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2006</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

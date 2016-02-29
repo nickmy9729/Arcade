@@ -1,0 +1,8 @@
+<DonsHyperSpinListGenerator VersionMajor="4">
+  <Wheel>NEC PC Engine</Wheel>
+  <OutputFile>M:\Arcade\HyperSpin\Databases\NEC PC Engine\NEC PC Engine.xml</OutputFile>
+  <SourceFile>M:\Hyperlists\NEC PC Engine.xml</SourceFile>
+  <ExcludeFile>M:\Arcade\HyperSpin\Databases\NEC PC Engine\NEC PC Engine_excluded.xml</ExcludeFile>
+  <MameXmlFile>
+  </MameXmlFile>
+</DonsHyperSpinListGenerator>

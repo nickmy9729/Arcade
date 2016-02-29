@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>SNK Neo Geo Pocket Color</listname>
+		<lastlistupdate>10/25/2011</lastlistupdate>
+		<listversion>1.2 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="Neo 21 - Real Casino Series (World)" index="true" image="n">
+		<description>Neo 21 - Real Casino Series (World)</description>
+		<cloneof></cloneof>
+		<crc>0A2A2F28</crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1999</year>
+		<genre>Casino</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Neo Baccarat - Real Casino Series (World)" index="" image="">
+		<description>Neo Baccarat - Real Casino Series (World)</description>
+		<cloneof></cloneof>
+		<crc>22AAB454</crc>
+		<manufacturer>SNK</manufacturer>
+		<year>2000</year>
+		<genre>Casino</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Neo Cherry Master Color - Real Casino Series (World) (En,Ja)" index="" image="">
+		<description>Neo Cherry Master Color - Real Casino Series (World) (En,Ja)</description>
+		<cloneof></cloneof>
+		<crc>A6DCA584</crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1999</year>
+		<genre>Casino</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Neo Dragon&apos;s Wild - Real Casino Series (World) (En,Ja) (v1.13)" index="" image="">
+		<description>Neo Dragon&apos;s Wild - Real Casino Series (World) (En,Ja) (v1.13)</description>
+		<cloneof></cloneof>
+		<crc>5D028C99</crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1999</year>
+		<genre>Casino</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Neo Mystery Bonus - Real Casino Series (World) (En,Ja)" index="" image="">
+		<description>Neo Mystery Bonus - Real Casino Series (World) (En,Ja)</description>
+		<cloneof></cloneof>
+		<crc>E79DC5B3</crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1999</year>
+		<genre>Casino</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

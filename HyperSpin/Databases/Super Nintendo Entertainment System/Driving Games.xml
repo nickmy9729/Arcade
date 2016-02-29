@@ -1,0 +1,469 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Super Nintendo Entertainment System</listname>
+		<lastlistupdate>11/26/2011</lastlistupdate>
+		<listversion>1.3 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="Al Unser Jr.&apos;s Road to the Top (USA)" index="true" image="a">
+		<description>Al Unser Jr.&apos;s Road to the Top (USA)</description>
+		<cloneof></cloneof>
+		<crc>d0550624</crc>
+		<manufacturer>Software Toolworks</manufacturer>
+		<year>1994</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Battle Grand Prix (USA)" index="true" image="b">
+		<description>Battle Grand Prix (USA)</description>
+		<cloneof></cloneof>
+		<crc>190ff436</crc>
+		<manufacturer>Hudson Soft</manufacturer>
+		<year>1993</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Biker Mice from Mars (USA)" index="" image="">
+		<description>Biker Mice from Mars (USA)</description>
+		<cloneof></cloneof>
+		<crc>4e8b2ecb</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1994</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cyber Spin (USA)" index="true" image="c">
+		<description>Cyber Spin (USA)</description>
+		<cloneof></cloneof>
+		<crc>44018650</crc>
+		<manufacturer>Takara</manufacturer>
+		<year>1992</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dirt Racer (Europe)" index="true" image="d">
+		<description>Dirt Racer (Europe)</description>
+		<cloneof></cloneof>
+		<crc>0354f4b1</crc>
+		<manufacturer>Elite Systems Ltd.</manufacturer>
+		<year>1994</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dirt Trax FX (USA)" index="" image="">
+		<description>Dirt Trax FX (USA)</description>
+		<cloneof></cloneof>
+		<crc>61a86c7f</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1995</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Duel, The - Test Drive II (USA)" index="" image="">
+		<description>Duel, The - Test Drive II (USA)</description>
+		<cloneof></cloneof>
+		<crc>ba093e24</crc>
+		<manufacturer>Ballistic</manufacturer>
+		<year>1992</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Exertainment Mountain Bike Rally &amp; Speed Racer (USA)" index="true" image="e">
+		<description>Exertainment Mountain Bike Rally &amp; Speed Racer (USA)</description>
+		<cloneof></cloneof>
+		<crc>ee5e1906</crc>
+		<manufacturer>Life Fitness</manufacturer>
+		<year>1994</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Exertainment Mountain Bike Rally (USA)" index="" image="">
+		<description>Exertainment Mountain Bike Rally (USA)</description>
+		<cloneof></cloneof>
+		<crc>e6ede101</crc>
+		<manufacturer>Life Fitness</manufacturer>
+		<year>1994</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="F-Zero (USA)" index="true" image="f">
+		<description>F-Zero (USA)</description>
+		<cloneof></cloneof>
+		<crc>aa0e31de</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1991</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="F1 Pole Position (USA)" index="" image="">
+		<description>F1 Pole Position (USA)</description>
+		<cloneof></cloneof>
+		<crc>b3da1b1d</crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>1993</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="F1 Pole Position 2 (Europe)" index="" image="">
+		<description>F1 Pole Position 2 (Europe)</description>
+		<cloneof></cloneof>
+		<crc>83fc0f0c</crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>1993</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="F1 ROC - Race of Champions (USA)" index="" image="">
+		<description>F1 ROC - Race of Champions (USA)</description>
+		<cloneof></cloneof>
+		<crc>2a069989</crc>
+		<manufacturer>Seta Corporation</manufacturer>
+		<year>1992</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="F1 ROC II - Race of Champions (USA)" index="" image="">
+		<description>F1 ROC II - Race of Champions (USA)</description>
+		<cloneof></cloneof>
+		<crc>3447609e</crc>
+		<manufacturer>Seta Corporation</manufacturer>
+		<year>1994</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="F1 World Championship Edition (Europe)" index="" image="">
+		<description>F1 World Championship Edition (Europe)</description>
+		<cloneof></cloneof>
+		<crc>7ba8fc78</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1995</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Full Throttle - All-American Racing (USA)" index="" image="">
+		<description>Full Throttle - All-American Racing (USA)</description>
+		<cloneof></cloneof>
+		<crc>2a4a53ca</crc>
+		<manufacturer>Cybersoft</manufacturer>
+		<year>1995</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="GP-1 (USA)" index="true" image="g">
+		<description>GP-1 (USA)</description>
+		<cloneof></cloneof>
+		<crc>14bbc357</crc>
+		<manufacturer>Atlus</manufacturer>
+		<year>1993</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="GP-1 - Part II (USA)" index="" image="">
+		<description>GP-1 - Part II (USA)</description>
+		<cloneof></cloneof>
+		<crc>a9014e12</crc>
+		<manufacturer>Atlus</manufacturer>
+		<year>1995</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Kawasaki Caribbean Challenge (USA)" index="true" image="k">
+		<description>Kawasaki Caribbean Challenge (USA)</description>
+		<cloneof></cloneof>
+		<crc>37d8ac57</crc>
+		<manufacturer>GameTek</manufacturer>
+		<year>1993</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Kawasaki Superbike Challenge (USA)" index="" image="">
+		<description>Kawasaki Superbike Challenge (USA)</description>
+		<cloneof></cloneof>
+		<crc>e8ed176e</crc>
+		<manufacturer>Time Warner Interactive</manufacturer>
+		<year>1995</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Kyle Petty&apos;s No Fear Racing (USA)" index="" image="">
+		<description>Kyle Petty&apos;s No Fear Racing (USA)</description>
+		<cloneof></cloneof>
+		<crc>aee90a85</crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1995</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lamborghini American Challenge (USA)" index="true" image="l">
+		<description>Lamborghini American Challenge (USA)</description>
+		<cloneof></cloneof>
+		<crc>d2fb701b</crc>
+		<manufacturer>Titus Software</manufacturer>
+		<year>1993</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Michael Andretti&apos;s IndyCar Challenge (USA)" index="true" image="m">
+		<description>Michael Andretti&apos;s IndyCar Challenge (USA)</description>
+		<cloneof></cloneof>
+		<crc>0fdb210e</crc>
+		<manufacturer>Bullet Proof Software</manufacturer>
+		<year>1994</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Micro Machines (USA)" index="" image="">
+		<description>Micro Machines (USA)</description>
+		<cloneof></cloneof>
+		<crc>364e68bb</crc>
+		<manufacturer>Ocean</manufacturer>
+		<year>1994</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Micro Machines 2 - Turbo Tournament (Europe)" index="" image="">
+		<description>Micro Machines 2 - Turbo Tournament (Europe)</description>
+		<cloneof></cloneof>
+		<crc>1619b619</crc>
+		<manufacturer>Ocean</manufacturer>
+		<year>1996</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Newman-Haas IndyCar featuring Nigel Mansell (USA)" index="true" image="n">
+		<description>Newman-Haas IndyCar featuring Nigel Mansell (USA)</description>
+		<cloneof></cloneof>
+		<crc>a0f80c02</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1994</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Nigel Mansell&apos;s World Championship Racing (USA)" index="" image="">
+		<description>Nigel Mansell&apos;s World Championship Racing (USA)</description>
+		<cloneof></cloneof>
+		<crc>162252e2</crc>
+		<manufacturer>GameTek</manufacturer>
+		<year>1993</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Power Drive (Europe)" index="true" image="p">
+		<description>Power Drive (Europe)</description>
+		<cloneof></cloneof>
+		<crc>0bfdca70</crc>
+		<manufacturer>U.S. Gold</manufacturer>
+		<year>1995</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Power Rangers Zeo - Battle Racers (USA)" index="" image="">
+		<description>Power Rangers Zeo - Battle Racers (USA)</description>
+		<cloneof></cloneof>
+		<crc>389300cf</crc>
+		<manufacturer>Bandai</manufacturer>
+		<year>1996</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="R.P.M. Racing (USA)" index="true" image="r">
+		<description>R.P.M. Racing (USA)</description>
+		<cloneof></cloneof>
+		<crc>f7933734</crc>
+		<manufacturer>Interplay</manufacturer>
+		<year>1992</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Race Drivin&apos; (USA)" index="" image="">
+		<description>Race Drivin&apos; (USA)</description>
+		<cloneof></cloneof>
+		<crc>c5bab870</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>1992</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Redline F-1 Racer (USA)" index="" image="">
+		<description>Redline F-1 Racer (USA)</description>
+		<cloneof></cloneof>
+		<crc>e5faadd2</crc>
+		<manufacturer>Absolute Entertainment</manufacturer>
+		<year>1993</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Road Riot 4WD (USA)" index="" image="">
+		<description>Road Riot 4WD (USA)</description>
+		<cloneof></cloneof>
+		<crc>20367643</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>1992</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rock n&apos; Roll Racing (USA)" index="" image="">
+		<description>Rock n&apos; Roll Racing (USA)</description>
+		<cloneof></cloneof>
+		<crc>7d06f473</crc>
+		<manufacturer>Blizzard Entertainment</manufacturer>
+		<year>1993</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Speed Racer in My Most Dangerous Adventures (USA)" index="true" image="s">
+		<description>Speed Racer in My Most Dangerous Adventures (USA)</description>
+		<cloneof></cloneof>
+		<crc>aa44287c</crc>
+		<manufacturer>Accolade</manufacturer>
+		<year>1994</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Street Racer (USA)" index="" image="">
+		<description>Street Racer (USA)</description>
+		<cloneof></cloneof>
+		<crc>63e8b7d5</crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>1994</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Stunt Race FX (USA) (Rev 1)" index="" image="">
+		<description>Stunt Race FX (USA) (Rev 1)</description>
+		<cloneof></cloneof>
+		<crc>380c2635</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1994</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Chase H.Q. (USA)" index="" image="">
+		<description>Super Chase H.Q. (USA)</description>
+		<cloneof></cloneof>
+		<crc>6ef3b9c7</crc>
+		<manufacturer>Taito</manufacturer>
+		<year>1993</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Mario Kart (USA)" index="" image="">
+		<description>Super Mario Kart (USA)</description>
+		<cloneof></cloneof>
+		<crc>cd80db86</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1992</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Off Road (USA)" index="" image="">
+		<description>Super Off Road (USA)</description>
+		<cloneof></cloneof>
+		<crc>fe263383</crc>
+		<manufacturer>Tradewest</manufacturer>
+		<year>1991</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Off Road - The Baja (USA)" index="" image="">
+		<description>Super Off Road - The Baja (USA)</description>
+		<cloneof></cloneof>
+		<crc>cb483ead</crc>
+		<manufacturer>Tradewest</manufacturer>
+		<year>1993</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Suzuka 8 Hours (USA)" index="" image="">
+		<description>Suzuka 8 Hours (USA)</description>
+		<cloneof></cloneof>
+		<crc>54740b9b</crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1993</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Top Gear (USA)" index="true" image="t">
+		<description>Top Gear (USA)</description>
+		<cloneof></cloneof>
+		<crc>d34c49b7</crc>
+		<manufacturer>Kemco</manufacturer>
+		<year>1992</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Top Gear 2 (USA)" index="" image="">
+		<description>Top Gear 2 (USA)</description>
+		<cloneof></cloneof>
+		<crc>2b88bee8</crc>
+		<manufacturer>Kemco</manufacturer>
+		<year>1993</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Top Gear 3000 (USA)" index="" image="">
+		<description>Top Gear 3000 (USA)</description>
+		<cloneof></cloneof>
+		<crc>a20be998</crc>
+		<manufacturer>Kemco</manufacturer>
+		<year>1995</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Uniracers (USA)" index="true" image="u">
+		<description>Uniracers (USA)</description>
+		<cloneof></cloneof>
+		<crc>383858c7</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1994</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

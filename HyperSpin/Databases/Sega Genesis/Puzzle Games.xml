@@ -1,0 +1,239 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Sega Genesis</listname>
+		<lastlistupdate>02/21/2013</lastlistupdate>
+		<listversion>1.2 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="Art Alive (World)" index="true" image="a">
+		<description>Art Alive (World)</description>
+		<cloneof></cloneof>
+		<crc>f1b72cdd</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1991</year>
+		<genre>Puzzle</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Blockout (World)" index="true" image="b">
+		<description>Blockout (World)</description>
+		<cloneof></cloneof>
+		<crc>5e2966f1</crc>
+		<manufacturer>California Dreams</manufacturer>
+		<year>1991</year>
+		<genre>Puzzle</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Columns (World) (v1.1)" index="true" image="c">
+		<description>Columns (World) (v1.1)</description>
+		<cloneof></cloneof>
+		<crc>d783c244</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1990</year>
+		<genre>Puzzle</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Columns III - Revenge of Columns (USA)" index="" image="">
+		<description>Columns III - Revenge of Columns (USA)</description>
+		<cloneof></cloneof>
+		<crc>dc678f6d</crc>
+		<manufacturer>Vic Tokai</manufacturer>
+		<year>1993</year>
+		<genre>Puzzle</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dr. Robotnik&apos;s Mean Bean Machine (USA)" index="true" image="d">
+		<description>Dr. Robotnik\&apos;s Mean Bean Machine (USA)</description>
+		<cloneof></cloneof>
+		<crc>c7ca517f</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1993</year>
+		<genre>Puzzle</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Great Waldo Search, The (USA)" index="true" image="g">
+		<description>Great Waldo Search, The (USA)</description>
+		<cloneof></cloneof>
+		<crc>8c5c93b8</crc>
+		<manufacturer>Radiance</manufacturer>
+		<year>1992</year>
+		<genre>Puzzle</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Humans, The (USA)" index="true" image="h">
+		<description>Humans, The (USA)</description>
+		<cloneof></cloneof>
+		<crc>a0cf4366</crc>
+		<manufacturer>Imagitec Design</manufacturer>
+		<year>1992</year>
+		<genre>Puzzle</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ishido - The Way of Stones (USA)" index="true" image="i">
+		<description>Ishido - The Way of Stones (USA)</description>
+		<cloneof></cloneof>
+		<crc>b1de7d5e</crc>
+		<manufacturer>Accolade</manufacturer>
+		<year>1990</year>
+		<genre>Puzzle</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Junction (Japan, USA)" index="true" image="j">
+		<description>Junction (Japan, USA)</description>
+		<cloneof></cloneof>
+		<crc>94cdce8d</crc>
+		<manufacturer>Micronet</manufacturer>
+		<year>1990</year>
+		<genre>Puzzle</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Klax (USA, Europe)" index="true" image="k">
+		<description>Klax (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>248cd09e</crc>
+		<manufacturer>Tengen</manufacturer>
+		<year>1990</year>
+		<genre>Puzzle</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Krusty&apos;s Super Fun House (USA, Europe) (v1.1)" index="" image="">
+		<description>Krusty\&apos;s Super Fun House (USA, Europe) (v1.1)</description>
+		<cloneof></cloneof>
+		<crc>56976261</crc>
+		<manufacturer>Audiogenic</manufacturer>
+		<year>1993</year>
+		<genre>Puzzle</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lemmings (Japan, USA) (v1.1)" index="true" image="l">
+		<description>Lemmings (Japan, USA) (v1.1)</description>
+		<cloneof></cloneof>
+		<crc>68c70362</crc>
+		<manufacturer>SunSoft</manufacturer>
+		<year>1992</year>
+		<genre>Puzzle</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lemmings 2 - The Tribes (USA)" index="" image="">
+		<description>Lemmings 2 - The Tribes (USA)</description>
+		<cloneof></cloneof>
+		<crc>de59a3a3</crc>
+		<manufacturer>Digital Developments</manufacturer>
+		<year>1994</year>
+		<genre>Puzzle</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lost Vikings, The (USA)" index="" image="">
+		<description>Lost Vikings, The (USA)</description>
+		<cloneof></cloneof>
+		<crc>7ba49edb</crc>
+		<manufacturer>Silicon &amp; Synapse</manufacturer>
+		<year>1992</year>
+		<genre>Puzzle</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="P.T.O - Pacific Theater of Operations (USA)" index="true" image="p">
+		<description>P.T.O - Pacific Theater of Operations (USA)</description>
+		<cloneof></cloneof>
+		<crc>d9d4c6e2</crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1993</year>
+		<genre>Puzzle</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Shanghai II - Dragon&apos;s Eye (USA)" index="true" image="s">
+		<description>Shanghai II - Dragon\&apos;s Eye (USA)</description>
+		<cloneof></cloneof>
+		<crc>ebe9e840</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>1994</year>
+		<genre>Puzzle</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Shove It! ...The Warehouse Game (USA)" index="" image="">
+		<description>Shove It! ...The Warehouse Game (USA)</description>
+		<cloneof></cloneof>
+		<crc>c51f40cb</crc>
+		<manufacturer>Dreamworks/NCS</manufacturer>
+		<year>1990</year>
+		<genre>Puzzle</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sonic Spinball (USA)" index="" image="">
+		<description>Sonic Spinball (USA)</description>
+		<cloneof></cloneof>
+		<crc>677206cb</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1993</year>
+		<genre>Puzzle</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ultimate Qix (USA)" index="true" image="u">
+		<description>Ultimate Qix (USA)</description>
+		<cloneof></cloneof>
+		<crc>d83369d9</crc>
+		<manufacturer>Rage Software</manufacturer>
+		<year>1993</year>
+		<genre>Puzzle</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Where in the World Is Carmen Sandiego (USA, Europe)" index="true" image="w">
+		<description>Where in the World Is Carmen Sandiego (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>eef372e8</crc>
+		<manufacturer>EA Canada</manufacturer>
+		<year>1992</year>
+		<genre>Puzzle</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Where in Time Is Carmen Sandiego (USA, Europe)" index="" image="">
+		<description>Where in Time Is Carmen Sandiego (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>ea19d4a4</crc>
+		<manufacturer>Distinctive Software</manufacturer>
+		<year>1992</year>
+		<genre>Puzzle</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Zoom! (World)" index="true" image="z">
+		<description>Zoom! (World)</description>
+		<cloneof></cloneof>
+		<crc>724d6965</crc>
+		<manufacturer>Discovery Software</manufacturer>
+		<year>1989</year>
+		<genre>Puzzle</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Zoop (USA)" index="" image="">
+		<description>Zoop (USA)</description>
+		<cloneof></cloneof>
+		<crc>a899befa</crc>
+		<manufacturer>Panelcomp</manufacturer>
+		<year>1995</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

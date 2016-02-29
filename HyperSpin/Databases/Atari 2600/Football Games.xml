@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Atari 2600</listname>
+		<lastlistupdate>07/20/2013</lastlistupdate>
+		<listversion>1.0 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="BLiP Football (USA) (Unl)" index="true" image="b">
+		<description>BLiP Football (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>4FEE07B9</crc>
+		<manufacturer>AtariAge - David Galloway, Bob &amp; Tommy Montgomery</manufacturer>
+		<year>2006</year>
+		<genre>Sports/Football</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Football (USA)" index="true" image="f">
+		<description>Football (USA)</description>
+		<cloneof></cloneof>
+		<crc>3B73EE02</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1978</year>
+		<genre>Sports/Football</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="RealSports Football (USA)" index="true" image="r">
+		<description>RealSports Football (USA)</description>
+		<cloneof></cloneof>
+		<crc>F89F64EF</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1982</year>
+		<genre>Sports/Football</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Challenge Football (USA)" index="true" image="s">
+		<description>Super Challenge Football (USA)</description>
+		<cloneof></cloneof>
+		<crc>55F02EFE</crc>
+		<manufacturer>M Network - INTV</manufacturer>
+		<year>1982</year>
+		<genre>Sports/Football</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Football (USA)" index="" image="">
+		<description>Super Football (USA)</description>
+		<cloneof></cloneof>
+		<crc>C9B16F3C</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1988</year>
+		<genre>Sports/Football</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

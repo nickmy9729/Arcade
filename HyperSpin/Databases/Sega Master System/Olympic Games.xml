@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Sega Master System</listname>
+		<lastlistupdate>10/27/2011</lastlistupdate>
+		<listversion>1.1 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="Olympic Gold (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv)" index="true" image="o">
+		<description>Olympic Gold (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv)</description>
+		<cloneof></cloneof>
+		<crc>6A5A1E39</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1992</year>
+		<genre>Olympic</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Summer Games (Europe)" index="true" image="s">
+		<description>Summer Games (Europe)</description>
+		<cloneof></cloneof>
+		<crc>8DA5C93F</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1988</year>
+		<genre>Olympic/Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Winter Olympics - Lillehammer &apos;94 (Europe) (En,Fr,De,Es,It,Pt,Sv,No)" index="true" image="w">
+		<description>Winter Olympics - Lillehammer &apos;94 (Europe) (En,Fr,De,Es,It,Pt,Sv,No)</description>
+		<cloneof></cloneof>
+		<crc>A20290B6</crc>
+		<manufacturer>U.S. Gold</manufacturer>
+		<year>1994</year>
+		<genre>Olympic/Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

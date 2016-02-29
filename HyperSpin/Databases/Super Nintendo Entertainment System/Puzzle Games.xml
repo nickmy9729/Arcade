@@ -1,0 +1,319 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Super Nintendo Entertainment System</listname>
+		<lastlistupdate>11/26/2011</lastlistupdate>
+		<listversion>1.3 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="ACME Animation Factory (USA)" index="true" image="a">
+		<description>ACME Animation Factory (USA)</description>
+		<cloneof></cloneof>
+		<crc>0944a5c3</crc>
+		<manufacturer>Sun Soft</manufacturer>
+		<year>1994</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Brainies, The (USA)" index="true" image="b">
+		<description>Brainies, The (USA)</description>
+		<cloneof></cloneof>
+		<crc>718cb0df</crc>
+		<manufacturer>Titus Software</manufacturer>
+		<year>1996</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="BreakThru! (USA)" index="" image="">
+		<description>BreakThru! (USA)</description>
+		<cloneof></cloneof>
+		<crc>e6c0b5da</crc>
+		<manufacturer>Spectrum Holobyte</manufacturer>
+		<year>1995</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bust-A-Move (USA)" index="" image="">
+		<description>Bust-A-Move (USA)</description>
+		<cloneof></cloneof>
+		<crc>3266fd23</crc>
+		<manufacturer>Taito</manufacturer>
+		<year>1995</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hebereke&apos;s Popoitto (Europe)" index="true" image="h">
+		<description>Hebereke&apos;s Popoitto (Europe)</description>
+		<cloneof></cloneof>
+		<crc>0ce626ba</crc>
+		<manufacturer>SunSoft</manufacturer>
+		<year>1995</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hebereke&apos;s Popoon (Europe)" index="" image="">
+		<description>Hebereke&apos;s Popoon (Europe)</description>
+		<cloneof></cloneof>
+		<crc>7a313722</crc>
+		<manufacturer>SunSoft</manufacturer>
+		<year>1994</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Humans, The (Europe)" index="" image="">
+		<description>Humans, The (Europe)</description>
+		<cloneof></cloneof>
+		<crc>d2af01d4</crc>
+		<manufacturer>GameTek</manufacturer>
+		<year>1993</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hungry Dinosaurs (Europe)" index="" image="">
+		<description>Hungry Dinosaurs (Europe)</description>
+		<cloneof></cloneof>
+		<crc>5c4b2544</crc>
+		<manufacturer>Sun Soft</manufacturer>
+		<year>1995</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Kablooey (USA)" index="true" image="k">
+		<description>Kablooey (USA)</description>
+		<cloneof></cloneof>
+		<crc>b2592eae</crc>
+		<manufacturer>Mirrorsoft</manufacturer>
+		<year>1992</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="King Arthur&apos;s World (USA)" index="" image="">
+		<description>King Arthur&apos;s World (USA)</description>
+		<cloneof></cloneof>
+		<crc>99bd1fe1</crc>
+		<manufacturer>Jaleco</manufacturer>
+		<year>1993</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Kirby&apos;s Avalanche (USA)" index="" image="">
+		<description>Kirby&apos;s Avalanche (USA)</description>
+		<cloneof></cloneof>
+		<crc>21e658b8</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1995</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Krusty&apos;s Super Fun House (USA) (Rev 1)" index="" image="">
+		<description>Krusty&apos;s Super Fun House (USA) (Rev 1)</description>
+		<cloneof></cloneof>
+		<crc>ac5116d9</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1992</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lemmings (USA) (Rev 1)" index="true" image="l">
+		<description>Lemmings (USA) (Rev 1)</description>
+		<cloneof></cloneof>
+		<crc>51e3d566</crc>
+		<manufacturer>SunSoft</manufacturer>
+		<year>1992</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lemmings 2 - The Tribes (USA)" index="" image="">
+		<description>Lemmings 2 - The Tribes (USA)</description>
+		<cloneof></cloneof>
+		<crc>df7200c8</crc>
+		<manufacturer>Psygnosis</manufacturer>
+		<year>1994</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lost Vikings 2 (USA)" index="" image="">
+		<description>Lost Vikings 2 (USA)</description>
+		<cloneof></cloneof>
+		<crc>3aa01dbd</crc>
+		<manufacturer>Interplay</manufacturer>
+		<year>1997</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lost Vikings, The (USA)" index="" image="">
+		<description>Lost Vikings, The (USA)</description>
+		<cloneof></cloneof>
+		<crc>6838be08</crc>
+		<manufacturer>Interplay</manufacturer>
+		<year>1992</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pac-Attack (USA)" index="true" image="p">
+		<description>Pac-Attack (USA)</description>
+		<cloneof></cloneof>
+		<crc>191b1a19</crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1993</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pieces (USA)" index="" image="">
+		<description>Pieces (USA)</description>
+		<cloneof></cloneof>
+		<crc>bb6c3c54</crc>
+		<manufacturer>Atlus</manufacturer>
+		<year>1994</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Shanghai II - Dragon&apos;s Eye (USA)" index="true" image="s">
+		<description>Shanghai II - Dragon&apos;s Eye (USA)</description>
+		<cloneof></cloneof>
+		<crc>2fec70b6</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>1993</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Morph (Europe)" index="" image="">
+		<description>Super Morph (Europe)</description>
+		<cloneof></cloneof>
+		<crc>388f6daa</crc>
+		<manufacturer>Sony Imagesoft</manufacturer>
+		<year>1993</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tetris &amp; Dr. Mario (USA)" index="true" image="t">
+		<description>Tetris &amp; Dr. Mario (USA)</description>
+		<cloneof></cloneof>
+		<crc>6c852ef3</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1994</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tetris 2 (USA) (Rev 1)" index="" image="">
+		<description>Tetris 2 (USA) (Rev 1)</description>
+		<cloneof></cloneof>
+		<crc>3bc7054a</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1994</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tetris Attack (USA)" index="" image="">
+		<description>Tetris Attack (USA)</description>
+		<cloneof></cloneof>
+		<crc>6c128210</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1996</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Timon &amp; Pumbaa&apos;s Jungle Games (USA)" index="" image="">
+		<description>Timon &amp; Pumbaa&apos;s Jungle Games (USA)</description>
+		<cloneof></cloneof>
+		<crc>341c6fb0</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>1997</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Wario&apos;s Woods (USA)" index="true" image="w">
+		<description>Wario&apos;s Woods (USA)</description>
+		<cloneof></cloneof>
+		<crc>2d1004f1</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1993</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Where in the World Is Carmen Sandiego (USA)" index="" image="">
+		<description>Where in the World Is Carmen Sandiego (USA)</description>
+		<cloneof></cloneof>
+		<crc>9ef83223</crc>
+		<manufacturer>Hi-Tech</manufacturer>
+		<year>1993</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Where in Time Is Carmen Sandiego (USA)" index="" image="">
+		<description>Where in Time Is Carmen Sandiego (USA)</description>
+		<cloneof></cloneof>
+		<crc>1712018b</crc>
+		<manufacturer>Hi-Tech</manufacturer>
+		<year>1993</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="WildSnake (USA)" index="" image="">
+		<description>WildSnake (USA)</description>
+		<cloneof></cloneof>
+		<crc>025adbf9</crc>
+		<manufacturer>Spectrum Holobyte</manufacturer>
+		<year>1994</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Wordtris (USA)" index="" image="">
+		<description>Wordtris (USA)</description>
+		<cloneof></cloneof>
+		<crc>856ab0bb</crc>
+		<manufacturer>Spectrum Holobyte</manufacturer>
+		<year>1992</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Yoshi&apos;s Cookie (USA)" index="true" image="y">
+		<description>Yoshi&apos;s Cookie (USA)</description>
+		<cloneof></cloneof>
+		<crc>ef15f4c3</crc>
+		<manufacturer>Bullet Proof Software</manufacturer>
+		<year>1993</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Zoop (USA)" index="true" image="z">
+		<description>Zoop (USA)</description>
+		<cloneof></cloneof>
+		<crc>06f0e94c</crc>
+		<manufacturer>Viacom New Media</manufacturer>
+		<year>1995</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Atari 2600</listname>
+		<lastlistupdate>07/20/2013</lastlistupdate>
+		<listversion>1.0 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="Sentinel (USA)" index="true" image="s">
+		<description>Sentinel (USA)</description>
+		<cloneof></cloneof>
+		<crc>D457B245</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1990</year>
+		<genre>Gun</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Shooting Arcade (USA) (Proto)" index="" image="">
+		<description>Shooting Arcade (USA) (Proto)</description>
+		<cloneof></cloneof>
+		<crc>6F6FB3D6</crc>
+		<manufacturer>Atari - Axlon</manufacturer>
+		<year>1989</year>
+		<genre>Gun</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

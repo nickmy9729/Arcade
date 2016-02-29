@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Atari 2600</listname>
+		<lastlistupdate>07/20/2013</lastlistupdate>
+		<listversion>1.0 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="Bumper Bash (USA)" index="true" image="b">
+		<description>Bumper Bash (USA)</description>
+		<cloneof></cloneof>
+		<crc>B1A6A23E</crc>
+		<manufacturer>Spectravideo</manufacturer>
+		<year>1983</year>
+		<genre>Pinball</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Midnight Magic (USA)" index="true" image="m">
+		<description>Midnight Magic (USA)</description>
+		<cloneof></cloneof>
+		<crc>5C5447B9</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1984</year>
+		<genre>Pinball</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Video Pinball (USA)" index="true" image="v">
+		<description>Video Pinball (USA)</description>
+		<cloneof></cloneof>
+		<crc>10D95426</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1981</year>
+		<genre>Pinball</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

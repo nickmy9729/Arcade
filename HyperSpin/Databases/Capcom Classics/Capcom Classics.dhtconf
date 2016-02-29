@@ -1,0 +1,8 @@
+<DonsHyperSpinListGenerator VersionMajor="4">
+  <Wheel>Capcom Classics</Wheel>
+  <OutputFile>M:\Arcade\HyperSpin\Databases\Capcom Classics\Capcom Classics.xml</OutputFile>
+  <SourceFile>M:\Hyperlists\Capcom Classics.xml</SourceFile>
+  <ExcludeFile>M:\Arcade\HyperSpin\Databases\Capcom Classics\Capcom Classics_excluded.xml</ExcludeFile>
+  <MameXmlFile>
+  </MameXmlFile>
+</DonsHyperSpinListGenerator>

@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Nintendo Game Boy Color</listname>
+		<lastlistupdate>06/08/2013</lastlistupdate>
+		<listversion>1.1 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="Elmo&apos;s 123s (USA)" index="true" image="e">
+		<description>Elmo&apos;s 123s (USA)</description>
+		<cloneof></cloneof>
+		<crc>1833fb38</crc>
+		<manufacturer>NewKidCo</manufacturer>
+		<year>1999</year>
+		<genre>Miscellaneous</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Elmo&apos;s ABCs (USA)" index="" image="">
+		<description>Elmo&apos;s ABCs (USA)</description>
+		<cloneof></cloneof>
+		<crc>cc1fb2a9</crc>
+		<manufacturer>NewKidCo</manufacturer>
+		<year>1999</year>
+		<genre>Miscellaneous</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Konami GB Collection Vol.1 (Europe)" index="true" image="k">
+		<description>Konami GB Collection Vol.1 (Europe)</description>
+		<cloneof></cloneof>
+		<crc>203f8727</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>2000</year>
+		<genre>Miscellaneous</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Konami GB Collection Vol.2 (Europe)" index="" image="">
+		<description>Konami GB Collection Vol.2 (Europe)</description>
+		<cloneof></cloneof>
+		<crc>a6499792</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>2000</year>
+		<genre>Miscellaneous</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Konami GB Collection Vol.3 (Europe)" index="" image="">
+		<description>Konami GB Collection Vol.3 (Europe)</description>
+		<cloneof></cloneof>
+		<crc>d4d6243d</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>2000</year>
+		<genre>Miscellaneous</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Konami GB Collection Vol.4 (Europe)" index="" image="">
+		<description>Konami GB Collection Vol.4 (Europe)</description>
+		<cloneof></cloneof>
+		<crc>8800f1c9</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>2000</year>
+		<genre>Miscellaneous</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Worms Armageddon (USA)" index="true" image="w">
+		<description>Worms Armageddon (USA)</description>
+		<cloneof></cloneof>
+		<crc>e241edde</crc>
+		<manufacturer>Infogrames</manufacturer>
+		<year>2000</year>
+		<genre>Miscellaneous</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

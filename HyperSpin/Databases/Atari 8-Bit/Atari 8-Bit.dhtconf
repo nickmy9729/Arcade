@@ -1,0 +1,8 @@
+<DonsHyperSpinListGenerator VersionMajor="4">
+  <Wheel>Atari 8-Bit</Wheel>
+  <OutputFile>M:\Arcade\HyperSpin\Databases\Atari 8-Bit\Atari 8-Bit.xml</OutputFile>
+  <SourceFile>M:\Hyperlists\Atari 8-Bit.xml</SourceFile>
+  <ExcludeFile>M:\Arcade\HyperSpin\Databases\Atari 8-Bit\Atari 8-Bit_excluded.xml</ExcludeFile>
+  <MameXmlFile>
+  </MameXmlFile>
+</DonsHyperSpinListGenerator>

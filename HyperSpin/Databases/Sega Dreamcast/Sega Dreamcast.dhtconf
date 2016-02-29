@@ -1,0 +1,8 @@
+<DonsHyperSpinListGenerator VersionMajor="4">
+  <Wheel>Sega Dreamcast</Wheel>
+  <OutputFile>M:\Arcade\HyperSpin\Databases\Sega Dreamcast\Sega Dreamcast.xml</OutputFile>
+  <SourceFile>M:\Hyperlists\Sega Dreamcast.xml</SourceFile>
+  <ExcludeFile>M:\Arcade\HyperSpin\Databases\Sega Dreamcast\Sega Dreamcast_excluded.xml</ExcludeFile>
+  <MameXmlFile>
+  </MameXmlFile>
+</DonsHyperSpinListGenerator>

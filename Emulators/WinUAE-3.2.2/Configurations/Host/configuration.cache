@@ -1,0 +1,62 @@
+﻿WinUAE Configuration.Cache
+3
+4
+7
+131012023745200000
+;
+amigahost.uae
+130896674832354408
+amigahost.uae
+UAE default configuration
+
+
+3
+;
+cd32host.uae
+130756990033276887
+cd32host.uae
+UAE default configuration
+
+
+3
+;
+Fullscreen (640x480).uae
+128856195200000000
+Fullscreen (640x480).uae
+
+
+
+2
+;
+Fullscreen (800x600).uae
+129985349170000000
+Fullscreen (800x600).uae
+
+
+
+2
+;
+Fullscreen PAL VSync.uae
+129985350580000000
+Fullscreen PAL VSync.uae
+
+
+
+2
+;
+FullwindowD3D.uae
+129985349200000000
+FullwindowD3D.uae
+
+
+
+2
+;
+Windowed.uae
+129985344810000000
+Windowed.uae
+
+
+
+2
+;

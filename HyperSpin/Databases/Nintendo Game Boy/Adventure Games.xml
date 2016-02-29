@@ -1,0 +1,159 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Nintendo Game Boy</listname>
+		<lastlistupdate>06/08/2013</lastlistupdate>
+		<listversion>1.1 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="Battle of Olympus, The (Europe)" index="true" image="b">
+		<description>Battle of Olympus, The (Europe)</description>
+		<cloneof></cloneof>
+		<crc>ca450e93</crc>
+		<manufacturer>Imagineer</manufacturer>
+		<year>1993</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Final Fantasy Adventure (USA)" index="true" image="f">
+		<description>Final Fantasy Adventure (USA)</description>
+		<cloneof></cloneof>
+		<crc>18c78b3a</crc>
+		<manufacturer>Square Enix</manufacturer>
+		<year>1991</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Final Fantasy Legend II (USA)" index="" image="">
+		<description>Final Fantasy Legend II (USA)</description>
+		<cloneof></cloneof>
+		<crc>58314182</crc>
+		<manufacturer>Square Enix</manufacturer>
+		<year>1990</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Final Fantasy Legend III (USA)" index="" image="">
+		<description>Final Fantasy Legend III (USA)</description>
+		<cloneof></cloneof>
+		<crc>3e454710</crc>
+		<manufacturer>Square Enix</manufacturer>
+		<year>1991</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Final Fantasy Legend, The (USA)" index="" image="">
+		<description>Final Fantasy Legend, The (USA)</description>
+		<cloneof></cloneof>
+		<crc>8046148f</crc>
+		<manufacturer>Square Enix</manufacturer>
+		<year>1989</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gargoyle&apos;s Quest (USA, Europe)" index="true" image="g">
+		<description>Gargoyle\&apos;s Quest (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>0030e61f</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1990</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Jurassic Park (USA)" index="true" image="j">
+		<description>Jurassic Park (USA)</description>
+		<cloneof></cloneof>
+		<crc>b350bedf</crc>
+		<manufacturer>Ocean</manufacturer>
+		<year>1993</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Legend of Zelda, The - Link&apos;s Awakening (USA, Europe) (Rev B)" index="true" image="l">
+		<description>Legend of Zelda, The - Link\&apos;s Awakening (USA, Europe) (Rev B)</description>
+		<cloneof></cloneof>
+		<crc>34d08e7b</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1993</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pokemon - Blue Version (USA, Europe)" index="true" image="p">
+		<description>Pokemon - Blue Version (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>d6da8a1a</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1998</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pokemon - Red Version (USA, Europe)" index="" image="">
+		<description>Pokemon - Red Version (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>9f7fdd53</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1998</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe)" index="" image="">
+		<description>Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>7d527d62</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1999</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rolan&apos;s Curse (USA)" index="true" image="r">
+		<description>Rolan\&apos;s Curse (USA)</description>
+		<cloneof></cloneof>
+		<crc>1a602590</crc>
+		<manufacturer>American Sammy</manufacturer>
+		<year>1991</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rolan&apos;s Curse II (USA)" index="" image="">
+		<description>Rolan\&apos;s Curse II (USA)</description>
+		<cloneof></cloneof>
+		<crc>2754f360</crc>
+		<manufacturer>American Sammy</manufacturer>
+		<year>1992</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Spider-Man 2 (USA, Europe)" index="true" image="s">
+		<description>Spider-Man 2 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>13dd233f</crc>
+		<manufacturer>LJN Ltd.</manufacturer>
+		<year>1992</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Star Trek - 25th Anniversary (USA, Europe)" index="" image="">
+		<description>Star Trek - 25th Anniversary (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>605de43a</crc>
+		<manufacturer>Ultra Soft</manufacturer>
+		<year>1992</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

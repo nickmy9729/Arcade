@@ -1,0 +1,359 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Sega Genesis</listname>
+		<lastlistupdate>02/21/2013</lastlistupdate>
+		<listversion>1.2 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="Aerobiz (USA)" index="true" image="a">
+		<description>Aerobiz (USA)</description>
+		<cloneof></cloneof>
+		<crc>cfaa9bce</crc>
+		<manufacturer>Koei</manufacturer>
+		<year>1992</year>
+		<genre>Strategy</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Aerobiz Supersonic (USA)" index="" image="">
+		<description>Aerobiz Supersonic (USA)</description>
+		<cloneof></cloneof>
+		<crc>9377f1b5</crc>
+		<manufacturer>Koei</manufacturer>
+		<year>1994</year>
+		<genre>Strategy</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bubba&apos;n&apos;Stix - A Strategy Adventure (USA)" index="true" image="b">
+		<description>Bubba&apos;n&apos;Stix - A Strategy Adventure (USA)</description>
+		<cloneof></cloneof>
+		<crc>d45cb46f</crc>
+		<manufacturer>Core Design</manufacturer>
+		<year>1993</year>
+		<genre>Strategy</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Buck Rogers - Countdown to Doomsday (USA, Europe)" index="" image="">
+		<description>Buck Rogers - Countdown to Doomsday (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>44e3bfff</crc>
+		<manufacturer>SSI</manufacturer>
+		<year>1991</year>
+		<genre>Strategy</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Centurion - Defender of Rome (USA, Europe)" index="true" image="c">
+		<description>Centurion - Defender of Rome (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>21283b14</crc>
+		<manufacturer>Bits of Magic</manufacturer>
+		<year>1991</year>
+		<genre>Strategy</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dune - The Battle for Arrakis (USA)" index="true" image="d">
+		<description>Dune - The Battle for Arrakis (USA)</description>
+		<cloneof></cloneof>
+		<crc>4dea40ba</crc>
+		<manufacturer>Westwood Studios</manufacturer>
+		<year>1993</year>
+		<genre>Strategy</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gemfire (USA)" index="true" image="g">
+		<description>Gemfire (USA)</description>
+		<cloneof></cloneof>
+		<crc>3d36135b</crc>
+		<manufacturer>Koei</manufacturer>
+		<year>1992</year>
+		<genre>Strategy</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Genghis Khan II - Clan of the Gray Wolf (USA)" index="" image="">
+		<description>Genghis Khan II - Clan of the Gray Wolf (USA)</description>
+		<cloneof></cloneof>
+		<crc>87a281ae</crc>
+		<manufacturer>Koei</manufacturer>
+		<year>1993</year>
+		<genre>Strategy</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Herzog Zwei (USA, Europe)" index="true" image="h">
+		<description>Herzog Zwei (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>a605b65b</crc>
+		<manufacturer>TechnoSoft</manufacturer>
+		<year>1990</year>
+		<genre>Strategy</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="King&apos;s Bounty - The Conqueror&apos;s Quest (USA, Europe)" index="true" image="k">
+		<description>King\&apos;s Bounty - The Conqueror\&apos;s Quest (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>aa68a92e</crc>
+		<manufacturer>New World Computing</manufacturer>
+		<year>1991</year>
+		<genre>Strategy</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Liberty or Death (USA)" index="true" image="l">
+		<description>Liberty or Death (USA)</description>
+		<cloneof></cloneof>
+		<crc>2adb0364</crc>
+		<manufacturer>Koei</manufacturer>
+		<year>1994</year>
+		<genre>Strategy</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Master of Monsters (USA)" index="true" image="m">
+		<description>Master of Monsters (USA)</description>
+		<cloneof></cloneof>
+		<crc>91354820</crc>
+		<manufacturer>OperaHouse</manufacturer>
+		<year>1991</year>
+		<genre>Strategy</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="New Horizons (USA)" index="true" image="n">
+		<description>New Horizons (USA)</description>
+		<cloneof></cloneof>
+		<crc>ead69824</crc>
+		<manufacturer>Koei</manufacturer>
+		<year>1994</year>
+		<genre>Strategy</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Nobunaga&apos;s Ambition (USA)" index="" image="">
+		<description>Nobunaga\&apos;s Ambition (USA)</description>
+		<cloneof></cloneof>
+		<crc>b9bc07bc</crc>
+		<manufacturer>Koei</manufacturer>
+		<year>1993</year>
+		<genre>Strategy</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Operation Europe - Path to Victory 1939-45 (USA)" index="true" image="o">
+		<description>Operation Europe - Path to Victory 1939-45 (USA)</description>
+		<cloneof></cloneof>
+		<crc>e7cba1d8</crc>
+		<manufacturer>Koei</manufacturer>
+		<year>1994</year>
+		<genre>Strategy</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pac-Attack (USA)" index="true" image="p">
+		<description>Pac-Attack (USA)</description>
+		<cloneof></cloneof>
+		<crc>5df382f7</crc>
+		<manufacturer>Koei</manufacturer>
+		<year>1993</year>
+		<genre>Strategy</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pirates! Gold (USA)" index="" image="">
+		<description>Pirates! Gold (USA)</description>
+		<cloneof></cloneof>
+		<crc>ed50e75c</crc>
+		<manufacturer>MicroProse</manufacturer>
+		<year>1993</year>
+		<genre>Strategy</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Populous (USA)" index="" image="">
+		<description>Populous (USA)</description>
+		<cloneof></cloneof>
+		<crc>bd74b31e</crc>
+		<manufacturer>Bullfrog Productions</manufacturer>
+		<year>1991</year>
+		<genre>Strategy</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Power Monger (USA, Europe)" index="" image="">
+		<description>Power Monger (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>fb599b86</crc>
+		<manufacturer>Sprytes</manufacturer>
+		<year>1993</year>
+		<genre>Strategy</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Romance of the Three Kingdoms II (USA)" index="true" image="r">
+		<description>Romance of the Three Kingdoms II (USA)</description>
+		<cloneof></cloneof>
+		<crc>3d842478</crc>
+		<manufacturer>Koei</manufacturer>
+		<year>1991</year>
+		<genre>Strategy</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Romance of the Three Kingdoms III - Dragon of Destiny (USA)" index="" image="">
+		<description>Romance of the Three Kingdoms III - Dragon of Destiny (USA)</description>
+		<cloneof></cloneof>
+		<crc>7e41c8fe</crc>
+		<manufacturer>Koei</manufacturer>
+		<year>1993</year>
+		<genre>Strategy</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Shining Force (USA)" index="true" image="s">
+		<description>Shining Force (USA)</description>
+		<cloneof></cloneof>
+		<crc>e0594abe</crc>
+		<manufacturer>Climax Entertainment</manufacturer>
+		<year>1992</year>
+		<genre>Strategy</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Shining Force II (USA)" index="" image="">
+		<description>Shining Force II (USA)</description>
+		<cloneof></cloneof>
+		<crc>4815e075</crc>
+		<manufacturer>Climax Entertainment</manufacturer>
+		<year>1994</year>
+		<genre>Strategy</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Star Control (USA)" index="" image="">
+		<description>Star Control (USA)</description>
+		<cloneof></cloneof>
+		<crc>8e2bceaf</crc>
+		<manufacturer>Toys for Bob</manufacturer>
+		<year>1991</year>
+		<genre>Strategy</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Starflight (USA, Europe) (v1.1)" index="" image="">
+		<description>Starflight (USA, Europe) (v1.1)</description>
+		<cloneof></cloneof>
+		<crc>1217dbea</crc>
+		<manufacturer>Blue Sky Software</manufacturer>
+		<year>1991</year>
+		<genre>Strategy</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Syndicate (USA, Europe)" index="" image="">
+		<description>Syndicate (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>95bbf87b</crc>
+		<manufacturer>Bullfrog Productions</manufacturer>
+		<year>1994</year>
+		<genre>Strategy</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Theme Park (USA, Europe)" index="true" image="t">
+		<description>Theme Park (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>289da2c5</crc>
+		<manufacturer>Bullfrog Productions</manufacturer>
+		<year>1995</year>
+		<genre>Strategy</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Two Crude Dudes (USA)" index="" image="">
+		<description>Two Crude Dudes (USA)</description>
+		<cloneof></cloneof>
+		<crc>721b5744</crc>
+		<manufacturer>Panelcomp</manufacturer>
+		<year>1993</year>
+		<genre>Strategy</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Two Tribes - Populous II (Europe)" index="" image="">
+		<description>Two Tribes - Populous II (Europe)</description>
+		<cloneof></cloneof>
+		<crc>ee988bd9</crc>
+		<manufacturer>Sensible Software</manufacturer>
+		<year>1992</year>
+		<genre>Strategy</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ultimate Soccer (Europe)" index="true" image="u">
+		<description>Ultimate Soccer (Europe)</description>
+		<cloneof></cloneof>
+		<crc>83db6e58</crc>
+		<manufacturer>Koei</manufacturer>
+		<year>1994</year>
+		<genre>Strategy</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Uncharted Waters (USA)" index="" image="">
+		<description>Uncharted Waters (USA)</description>
+		<cloneof></cloneof>
+		<crc>4edaec59</crc>
+		<manufacturer>Koei</manufacturer>
+		<year>1992</year>
+		<genre>Strategy</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Warrior of Rome (USA)" index="true" image="w">
+		<description>Warrior of Rome (USA)</description>
+		<cloneof></cloneof>
+		<crc>5be10c6a</crc>
+		<manufacturer>Micronet</manufacturer>
+		<year>1991</year>
+		<genre>Strategy</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Warrior of Rome II (USA)" index="" image="">
+		<description>Warrior of Rome II (USA)</description>
+		<cloneof></cloneof>
+		<crc>cd8c472a</crc>
+		<manufacturer>Micronet</manufacturer>
+		<year>1992</year>
+		<genre>Strategy</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Warsong (USA)" index="" image="">
+		<description>Warsong (USA)</description>
+		<cloneof></cloneof>
+		<crc>4b680285</crc>
+		<manufacturer>NCS</manufacturer>
+		<year>1991</year>
+		<genre>Strategy</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Worms (Europe)" index="" image="">
+		<description>Worms (Europe)</description>
+		<cloneof></cloneof>
+		<crc>b9a8b299</crc>
+		<manufacturer>EastPoint</manufacturer>
+		<year>1995</year>
+		<genre>Strategy</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

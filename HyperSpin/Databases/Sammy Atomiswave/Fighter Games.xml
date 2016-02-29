@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Sammy Atomiswave</listname>
+		<lastlistupdate>06/08/2013</lastlistupdate>
+		<listversion>1.1 Ongoing (Demul 5.6)</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="fotns" index="true" image="f">
+		<description>Fist of the North Star (Hokuto No Ken)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega/ARC System Works</manufacturer>
+		<year>2005</year>
+		<genre>Fighter</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ggisuka" index="true" image="g">
+		<description>Guilty Gear Isuka</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sammy/ARC System Works</manufacturer>
+		<year>2004</year>
+		<genre>Fighter</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ggx15" index="" image="">
+		<description>Guilty Gear X Ver. 1.5</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sammy/Arc System Works</manufacturer>
+		<year>2003</year>
+		<genre>Fighter</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="kofnw" index="true" image="k">
+		<description>King of Fighters NeoWave, The</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sammy/SNK Playmore</manufacturer>
+		<year>2004</year>
+		<genre>Fighter</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="kofxi" index="" image="">
+		<description>King of Fighters XI, The</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega/SNK Playmore</manufacturer>
+		<year>2005</year>
+		<genre>Fighter</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ngbc" index="true" image="n">
+		<description>Neo-Geo Battle Coliseum</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sammy/SNK Playmore</manufacturer>
+		<year>2005</year>
+		<genre>Fighter</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="rumblef2" index="true" image="r">
+		<description>Rumble Fish 2, The</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sammy/Dimps</manufacturer>
+		<year>2004</year>
+		<genre>Fighter</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="rumblef" index="" image="">
+		<description>Rumble Fish, The</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sammy/Dimps</manufacturer>
+		<year>2004</year>
+		<genre>Fighter</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="samsptk" index="true" image="s">
+		<description>Samurai Shodown VI</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sammy/SNK Playmore</manufacturer>
+		<year>2005</year>
+		<genre>Fighter</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

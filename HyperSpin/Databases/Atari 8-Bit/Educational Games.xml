@@ -1,0 +1,1759 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Atari 8-Bit</listname>
+		<lastlistupdate>05/17/2015</lastlistupdate>
+		<listversion>1.0</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="Agent USA (USA)" index="true" image="a">
+		<description>Agent USA (USA)</description>
+		<cloneof></cloneof>
+		<crc>D06D417B</crc>
+		<manufacturer>Scholastic Wizware</manufacturer>
+		<year>1984</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Alf in the Color Caves (USA)" index="" image="">
+		<description>Alf in the Color Caves (USA)</description>
+		<cloneof></cloneof>
+		<crc>147DEAEA</crc>
+		<manufacturer>Spinnaker Software</manufacturer>
+		<year>1984</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Aliencounter &amp; Faceflash (USA) (Side A)" index="" image="">
+		<description>Aliencounter &amp; Faceflash (USA) (Side A)</description>
+		<cloneof></cloneof>
+		<crc>B59D56C2</crc>
+		<manufacturer>Milliken</manufacturer>
+		<year>1982</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Aliencounter &amp; Faceflash (USA) (Side B)" index="" image="">
+		<description>Aliencounter &amp; Faceflash (USA) (Side B)</description>
+		<cloneof></cloneof>
+		<crc>032CD5E8</crc>
+		<manufacturer>Milliken</manufacturer>
+		<year>1982</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Alphabet Factory (Canada)" index="" image="">
+		<description>Alphabet Factory (Canada)</description>
+		<cloneof></cloneof>
+		<crc>AF1537DB</crc>
+		<manufacturer>IPS</manufacturer>
+		<year>1983</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Alphabet Zoo (USA)" index="" image="">
+		<description>Alphabet Zoo (USA)</description>
+		<cloneof></cloneof>
+		<crc>5DE0811A</crc>
+		<manufacturer>Spinnaker Software</manufacturer>
+		<year>1983</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Alphabetizing (USA)" index="" image="">
+		<description>Alphabetizing (USA)</description>
+		<cloneof></cloneof>
+		<crc>0ECFB2E1</crc>
+		<manufacturer>JMH Software of Minnesota</manufacturer>
+		<year>1981</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Animal World (USA) (Proto) (Side A)" index="" image="">
+		<description>Animal World (USA) (Proto) (Side A)</description>
+		<cloneof></cloneof>
+		<crc>F9294FFE</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1984</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Animal World (USA) (Proto) (Side B)" index="" image="">
+		<description>Animal World (USA) (Proto) (Side B)</description>
+		<cloneof></cloneof>
+		<crc>1726115C</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1984</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Animated Puzzle (USA) (Proto)" index="" image="">
+		<description>Animated Puzzle (USA) (Proto)</description>
+		<cloneof></cloneof>
+		<crc>1A4C75A7</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1984</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Arcademic SkillBuilder - Alligator Mix (USA)" index="" image="">
+		<description>Arcademic SkillBuilder - Alligator Mix (USA)</description>
+		<cloneof></cloneof>
+		<crc>3A0B7A34</crc>
+		<manufacturer>Educational Information Systems, Inc.</manufacturer>
+		<year>1983</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Arcademic SkillBuilder - Dragon Mix (USA)" index="" image="">
+		<description>Arcademic SkillBuilder - Dragon Mix (USA)</description>
+		<cloneof></cloneof>
+		<crc>9A52C462</crc>
+		<manufacturer>Educational Information Systems, Inc.</manufacturer>
+		<year>1983</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Arcademic SkillBuilder - Word Invasion (USA)" index="" image="">
+		<description>Arcademic SkillBuilder - Word Invasion (USA)</description>
+		<cloneof></cloneof>
+		<crc>7390257C</crc>
+		<manufacturer>Educational Information Systems, Inc.</manufacturer>
+		<year>1983</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Arcademic SkillBuilder - Word Master (USA)" index="" image="">
+		<description>Arcademic SkillBuilder - Word Master (USA)</description>
+		<cloneof></cloneof>
+		<crc>A374EE99</crc>
+		<manufacturer>Educational Information Systems, Inc.</manufacturer>
+		<year>1983</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Astro-Grover (USA)" index="" image="">
+		<description>Astro-Grover (USA)</description>
+		<cloneof></cloneof>
+		<crc>0C3B7448</crc>
+		<manufacturer>CBS Software</manufacturer>
+		<year>1984</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Astro-Quotes - Game #1 (USA)" index="" image="">
+		<description>Astro-Quotes - Game #1 (USA)</description>
+		<cloneof></cloneof>
+		<crc>1FD81634</crc>
+		<manufacturer>PDI</manufacturer>
+		<year>1980</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Astro-Quotes - Game #2 (USA)" index="" image="">
+		<description>Astro-Quotes - Game #2 (USA)</description>
+		<cloneof></cloneof>
+		<crc>3EE5BF81</crc>
+		<manufacturer>PDI</manufacturer>
+		<year>1980</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Astro-Quotes - Game #3 (USA)" index="" image="">
+		<description>Astro-Quotes - Game #3 (USA)</description>
+		<cloneof></cloneof>
+		<crc>CFA72906</crc>
+		<manufacturer>PDI</manufacturer>
+		<year>1980</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Atlas of Canada (USA)" index="" image="">
+		<description>Atlas of Canada (USA)</description>
+		<cloneof></cloneof>
+		<crc>E86E7DEF</crc>
+		<manufacturer>APX</manufacturer>
+		<year>19xx</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Banker&apos;s Run! (USA)" index="true" image="b">
+		<description>Banker&apos;s Run! (USA)</description>
+		<cloneof></cloneof>
+		<crc>CC09BF8C</crc>
+		<manufacturer>Orange Cherry Software</manufacturer>
+		<year>1983</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Big Bird&apos;s Funhouse (USA)" index="" image="">
+		<description>Big Bird&apos;s Funhouse (USA)</description>
+		<cloneof></cloneof>
+		<crc>9FD095E0</crc>
+		<manufacturer>CBS Software</manufacturer>
+		<year>1984</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Big Bird&apos;s Special Delivery (USA)" index="" image="">
+		<description>Big Bird&apos;s Special Delivery (USA)</description>
+		<cloneof></cloneof>
+		<crc>6D93B4FA</crc>
+		<manufacturer>CBS Software</manufacturer>
+		<year>1984</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Big Math Attack (USA)" index="" image="">
+		<description>Big Math Attack (USA)</description>
+		<cloneof></cloneof>
+		<crc>0B314EAF</crc>
+		<manufacturer>Softsmith</manufacturer>
+		<year>19xx</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="CardioQuiz (USA)" index="true" image="c">
+		<description>CardioQuiz (USA)</description>
+		<cloneof></cloneof>
+		<crc>485DC55B</crc>
+		<manufacturer>Mad Scientist Software</manufacturer>
+		<year>1986</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Chatterbee (USA) (Side A)" index="" image="">
+		<description>Chatterbee (USA) (Side A)</description>
+		<cloneof></cloneof>
+		<crc>4A614A1A</crc>
+		<manufacturer>Don&apos;t Ask Computer Software</manufacturer>
+		<year>19xx</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Chatterbee (USA) (Side B)" index="" image="">
+		<description>Chatterbee (USA) (Side B)</description>
+		<cloneof></cloneof>
+		<crc>D89818C3</crc>
+		<manufacturer>Don&apos;t Ask Computer Software</manufacturer>
+		<year>19xx</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Coco-Notes (USA)" index="" image="">
+		<description>Coco-Notes (USA)</description>
+		<cloneof></cloneof>
+		<crc>FD5607B4</crc>
+		<manufacturer>CBS Software</manufacturer>
+		<year>1984</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Colorasaurus (USA)" index="" image="">
+		<description>Colorasaurus (USA)</description>
+		<cloneof></cloneof>
+		<crc>B3360D39</crc>
+		<manufacturer>Learning Company</manufacturer>
+		<year>1983</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Con-Putation (USA)" index="" image="">
+		<description>Con-Putation (USA)</description>
+		<cloneof></cloneof>
+		<crc>CEF40403</crc>
+		<manufacturer>Softsmith</manufacturer>
+		<year>19xx</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Counter (USA)" index="" image="">
+		<description>Counter (USA)</description>
+		<cloneof></cloneof>
+		<crc>E080E014</crc>
+		<manufacturer>APX</manufacturer>
+		<year>1982</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Creature Creator (USA)" index="" image="">
+		<description>Creature Creator (USA)</description>
+		<cloneof></cloneof>
+		<crc>D2BD496C</crc>
+		<manufacturer>DesignWare</manufacturer>
+		<year>1983</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Crypto Cube (USA) (Side A)" index="" image="">
+		<description>Crypto Cube (USA) (Side A)</description>
+		<cloneof></cloneof>
+		<crc>8D7A8C22</crc>
+		<manufacturer>DesignWare</manufacturer>
+		<year>1983</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Crypto Cube (USA) (Side B)" index="" image="">
+		<description>Crypto Cube (USA) (Side B)</description>
+		<cloneof></cloneof>
+		<crc>D3E57658</crc>
+		<manufacturer>DesignWare</manufacturer>
+		<year>1983</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cubbyholes (USA)" index="" image="">
+		<description>Cubbyholes (USA)</description>
+		<cloneof></cloneof>
+		<crc>68DEAC58</crc>
+		<manufacturer>APX</manufacturer>
+		<year>1982</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="D-Bug (USA)" index="true" image="d">
+		<description>D-Bug (USA)</description>
+		<cloneof></cloneof>
+		<crc>414D8FBD</crc>
+		<manufacturer>Electronic Arts</manufacturer>
+		<year>1983</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dance Fantasy (USA)" index="" image="">
+		<description>Dance Fantasy (USA)</description>
+		<cloneof></cloneof>
+		<crc>963D6EC3</crc>
+		<manufacturer>Fisher-Price</manufacturer>
+		<year>1984</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dancing Feats (USA)" index="" image="">
+		<description>Dancing Feats (USA)</description>
+		<cloneof></cloneof>
+		<crc>1D571F80</crc>
+		<manufacturer>Softsync</manufacturer>
+		<year>1983</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Day to Find Out, A (USA)" index="" image="">
+		<description>Day to Find Out, A (USA)</description>
+		<cloneof></cloneof>
+		<crc>9D9A6129</crc>
+		<manufacturer>Orange Cherry Media</manufacturer>
+		<year>1983</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Delta Drawing (USA)" index="" image="">
+		<description>Delta Drawing (USA)</description>
+		<cloneof></cloneof>
+		<crc>20CBAD07</crc>
+		<manufacturer>Spinnaker Software</manufacturer>
+		<year>1983</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Designer&apos;s Pencil, The (USA)" index="" image="">
+		<description>Designer&apos;s Pencil, The (USA)</description>
+		<cloneof></cloneof>
+		<crc>6ED64678</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>1984</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Divex (USA)" index="" image="">
+		<description>Divex (USA)</description>
+		<cloneof></cloneof>
+		<crc>18EEB2C4</crc>
+		<manufacturer>Avalon Hill</manufacturer>
+		<year>1984</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Division Drill (USA)" index="" image="">
+		<description>Division Drill (USA)</description>
+		<cloneof></cloneof>
+		<crc>EFBFC961</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1983</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Don&apos;t Shoot That Word! (USA)" index="" image="">
+		<description>Don&apos;t Shoot That Word! (USA)</description>
+		<cloneof></cloneof>
+		<crc>7489F209</crc>
+		<manufacturer>Hayden Software</manufacturer>
+		<year>1983</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dragnet (USA)" index="" image="">
+		<description>Dragnet (USA)</description>
+		<cloneof></cloneof>
+		<crc>E8D75F0B</crc>
+		<manufacturer>Compu-Net</manufacturer>
+		<year>1980</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dragon Games (USA)" index="" image="">
+		<description>Dragon Games (USA)</description>
+		<cloneof></cloneof>
+		<crc>A56D43C9</crc>
+		<manufacturer>Educational Activities</manufacturer>
+		<year>1982</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="East Side Story (France)" index="true" image="e">
+		<description>East Side Story (France)</description>
+		<cloneof></cloneof>
+		<crc>91F764AF</crc>
+		<manufacturer>Hatier</manufacturer>
+		<year>1984</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ernie&apos;s Magic Shapes (USA)" index="" image="">
+		<description>Ernie&apos;s Magic Shapes (USA)</description>
+		<cloneof></cloneof>
+		<crc>315B412F</crc>
+		<manufacturer>CBS Software</manufacturer>
+		<year>1984</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Escape to Equatus (USA)" index="" image="">
+		<description>Escape to Equatus (USA)</description>
+		<cloneof></cloneof>
+		<crc>6FAA24E1</crc>
+		<manufacturer>APX</manufacturer>
+		<year>1983</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="European Countries and Capitals (USA)" index="" image="">
+		<description>European Countries and Capitals (USA)</description>
+		<cloneof></cloneof>
+		<crc>3E3FABE9</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1980</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="FaceMaker (USA)" index="true" image="f">
+		<description>FaceMaker (USA)</description>
+		<cloneof></cloneof>
+		<crc>3266E034</crc>
+		<manufacturer>Spinnaker Software</manufacturer>
+		<year>1982</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Factor Blast (USA)" index="" image="">
+		<description>Factor Blast (USA)</description>
+		<cloneof></cloneof>
+		<crc>25D2CB48</crc>
+		<manufacturer>Hayden Software</manufacturer>
+		<year>1983</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Factory, The (USA)" index="" image="">
+		<description>Factory, The (USA)</description>
+		<cloneof></cloneof>
+		<crc>34810B93</crc>
+		<manufacturer>HesWare</manufacturer>
+		<year>1982</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fooblitzky (USA)" index="" image="">
+		<description>Fooblitzky (USA)</description>
+		<cloneof></cloneof>
+		<crc>F4FA5800</crc>
+		<manufacturer>Infocom</manufacturer>
+		<year>1985</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fraction Fever (USA)" index="" image="">
+		<description>Fraction Fever (USA)</description>
+		<cloneof></cloneof>
+		<crc>791348E0</crc>
+		<manufacturer>Spinnaker Software</manufacturer>
+		<year>1983</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Frogmaster (USA)" index="" image="">
+		<description>Frogmaster (USA)</description>
+		<cloneof></cloneof>
+		<crc>3F309F5D</crc>
+		<manufacturer>APX</manufacturer>
+		<year>1982</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fun with Spelling (USA)" index="" image="">
+		<description>Fun with Spelling (USA)</description>
+		<cloneof></cloneof>
+		<crc>46B17C9B</crc>
+		<manufacturer>Datasoft</manufacturer>
+		<year>1984</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Globe Master (USA) (Side A)" index="true" image="g">
+		<description>Globe Master (USA) (Side A)</description>
+		<cloneof></cloneof>
+		<crc>0D348E9F</crc>
+		<manufacturer>Versa Computing</manufacturer>
+		<year>1982</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Globe Master (USA) (Side B)" index="" image="">
+		<description>Globe Master (USA) (Side B)</description>
+		<cloneof></cloneof>
+		<crc>01F55D45</crc>
+		<manufacturer>Versa Computing</manufacturer>
+		<year>1982</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Golf Classic (USA)" index="" image="">
+		<description>Golf Classic (USA)</description>
+		<cloneof></cloneof>
+		<crc>D6AF8DAB</crc>
+		<manufacturer>Milliken</manufacturer>
+		<year>1982</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Grandma&apos;s House (USA) (Side A)" index="" image="">
+		<description>Grandma&apos;s House (USA) (Side A)</description>
+		<cloneof></cloneof>
+		<crc>3F6EB05D</crc>
+		<manufacturer>Spinnaker Software</manufacturer>
+		<year>1984</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Grandma&apos;s House (USA) (Side B)" index="" image="">
+		<description>Grandma&apos;s House (USA) (Side B)</description>
+		<cloneof></cloneof>
+		<crc>A472BE9C</crc>
+		<manufacturer>Spinnaker Software</manufacturer>
+		<year>1984</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Great Maine to California Race, The (USA)" index="" image="">
+		<description>Great Maine to California Race, The (USA)</description>
+		<cloneof></cloneof>
+		<crc>61E5726D</crc>
+		<manufacturer>Hayden Software</manufacturer>
+		<year>1983</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Guess the Rule (USA)" index="" image="">
+		<description>Guess the Rule (USA)</description>
+		<cloneof></cloneof>
+		<crc>B6C5878F</crc>
+		<manufacturer>Edu-Soft</manufacturer>
+		<year>1982</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Heathcliff - Fun With Spelling (USA)" index="true" image="h">
+		<description>Heathcliff - Fun With Spelling (USA)</description>
+		<cloneof></cloneof>
+		<crc>10AEAF32</crc>
+		<manufacturer>Datasoft</manufacturer>
+		<year>1984</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hodge Podge (USA)" index="" image="">
+		<description>Hodge Podge (USA)</description>
+		<cloneof></cloneof>
+		<crc>B044ED3F</crc>
+		<manufacturer>Artworx</manufacturer>
+		<year>1982</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Homer&apos;s Honey Craze (USA)" index="" image="">
+		<description>Homer&apos;s Honey Craze (USA)</description>
+		<cloneof></cloneof>
+		<crc>2C1F25A6</crc>
+		<manufacturer>New World</manufacturer>
+		<year>1983</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="In Search of the Most Amazing Thing (USA)" index="true" image="i">
+		<description>In Search of the Most Amazing Thing (USA)</description>
+		<cloneof></cloneof>
+		<crc>0D33739E</crc>
+		<manufacturer>Spinnaker Software</manufacturer>
+		<year>1983</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Juggles&apos; House (USA)" index="true" image="j">
+		<description>Juggles&apos; House (USA)</description>
+		<cloneof></cloneof>
+		<crc>905B82E2</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1982</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Juggles&apos; Rainbow (USA)" index="" image="">
+		<description>Juggles&apos; Rainbow (USA)</description>
+		<cloneof></cloneof>
+		<crc>1D895F3C</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1982</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Keyboard Organ (USA)" index="true" image="k">
+		<description>Keyboard Organ (USA)</description>
+		<cloneof></cloneof>
+		<crc>6C61D570</crc>
+		<manufacturer>APX</manufacturer>
+		<year>19xx</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Kid&apos;s Programs #1 (USA)" index="" image="">
+		<description>Kid&apos;s Programs #1 (USA)</description>
+		<cloneof></cloneof>
+		<crc>7A618B7C</crc>
+		<manufacturer>Educational Software, Inc.</manufacturer>
+		<year>1982</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Kid&apos;s Programs #2 (USA)" index="" image="">
+		<description>Kid&apos;s Programs #2 (USA)</description>
+		<cloneof></cloneof>
+		<crc>F01FE943</crc>
+		<manufacturer>Educational Software, Inc.</manufacturer>
+		<year>1982</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Kids on Keys (USA)" index="" image="">
+		<description>Kids on Keys (USA)</description>
+		<cloneof></cloneof>
+		<crc>B1E799F4</crc>
+		<manufacturer>Spinnaker Software</manufacturer>
+		<year>1983</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="KinderComp (USA)" index="" image="">
+		<description>KinderComp (USA)</description>
+		<cloneof></cloneof>
+		<crc>F1C45E24</crc>
+		<manufacturer>Spinnaker Software</manufacturer>
+		<year>1982</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Learning with Leeper (USA)" index="true" image="l">
+		<description>Learning with Leeper (USA)</description>
+		<cloneof></cloneof>
+		<crc>3AF557B3</crc>
+		<manufacturer>Sierra On-Line</manufacturer>
+		<year>1983</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Letter Tutor (USA) (Proto)" index="" image="">
+		<description>Letter Tutor (USA) (Proto)</description>
+		<cloneof></cloneof>
+		<crc>21111576</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1984</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Linking Logic (USA)" index="" image="">
+		<description>Linking Logic (USA)</description>
+		<cloneof></cloneof>
+		<crc>E31B92F8</crc>
+		<manufacturer>Fisher-Price</manufacturer>
+		<year>1984</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Magic Melody Box, The (USA)" index="true" image="m">
+		<description>Magic Melody Box, The (USA)</description>
+		<cloneof></cloneof>
+		<crc>B949177C</crc>
+		<manufacturer>APX</manufacturer>
+		<year>1982</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mapware (USA) (Side A)" index="" image="">
+		<description>Mapware (USA) (Side A)</description>
+		<cloneof></cloneof>
+		<crc>C0DDF97A</crc>
+		<manufacturer>APX</manufacturer>
+		<year>1981</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mapware (USA) (Side B)" index="" image="">
+		<description>Mapware (USA) (Side B)</description>
+		<cloneof></cloneof>
+		<crc>0E55D799</crc>
+		<manufacturer>APX</manufacturer>
+		<year>1981</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Marathon (USA)" index="" image="">
+		<description>Marathon (USA)</description>
+		<cloneof></cloneof>
+		<crc>080B295F</crc>
+		<manufacturer>Softcell Software</manufacturer>
+		<year>1982</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="MasterType (USA)" index="" image="">
+		<description>MasterType (USA)</description>
+		<cloneof></cloneof>
+		<crc>972ED894</crc>
+		<manufacturer>Scarborough Systems, Inc.</manufacturer>
+		<year>1983</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Match Up (Canada)" index="" image="">
+		<description>Match Up (Canada)</description>
+		<cloneof></cloneof>
+		<crc>66733F63</crc>
+		<manufacturer>IPS</manufacturer>
+		<year>1983</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Match Up! (USA)" index="" image="">
+		<description>Match Up! (USA)</description>
+		<cloneof></cloneof>
+		<crc>2E03A22F</crc>
+		<manufacturer>Hayden Software</manufacturer>
+		<year>1984</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Matchmaker Biology (USA)" index="" image="">
+		<description>Matchmaker Biology (USA)</description>
+		<cloneof></cloneof>
+		<crc>D92EE5BF</crc>
+		<manufacturer>AEC</manufacturer>
+		<year>1984</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Matchmaker Elementary Science - Grades 3-4 (USA)" index="" image="">
+		<description>Matchmaker Elementary Science - Grades 3-4 (USA)</description>
+		<cloneof></cloneof>
+		<crc>B0EF50A4</crc>
+		<manufacturer>AEC</manufacturer>
+		<year>1984</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Matchmaker Elementary Science - Grades 5-6 (USA)" index="" image="">
+		<description>Matchmaker Elementary Science - Grades 5-6 (USA)</description>
+		<cloneof></cloneof>
+		<crc>239E4369</crc>
+		<manufacturer>AEC</manufacturer>
+		<year>1984</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Matchmaker Elementary Science - Grades 7-8 (USA)" index="" image="">
+		<description>Matchmaker Elementary Science - Grades 7-8 (USA)</description>
+		<cloneof></cloneof>
+		<crc>43E2889A</crc>
+		<manufacturer>AEC</manufacturer>
+		<year>1984</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Matchmaker French (USA)" index="" image="">
+		<description>Matchmaker French (USA)</description>
+		<cloneof></cloneof>
+		<crc>A5BD7272</crc>
+		<manufacturer>AEC</manufacturer>
+		<year>1984</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Matchmaker Spanish (USA)" index="" image="">
+		<description>Matchmaker Spanish (USA)</description>
+		<cloneof></cloneof>
+		<crc>2EF79EF6</crc>
+		<manufacturer>AEC</manufacturer>
+		<year>1984</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Matchmaker US Government (USA)" index="" image="">
+		<description>Matchmaker US Government (USA)</description>
+		<cloneof></cloneof>
+		<crc>C37DBFBE</crc>
+		<manufacturer>AEC</manufacturer>
+		<year>1984</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Matchmaker Vocabulary (USA)" index="" image="">
+		<description>Matchmaker Vocabulary (USA)</description>
+		<cloneof></cloneof>
+		<crc>BD230971</crc>
+		<manufacturer>AEC</manufacturer>
+		<year>1984</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Matchmaker World Geography (USA)" index="" image="">
+		<description>Matchmaker World Geography (USA)</description>
+		<cloneof></cloneof>
+		<crc>1C5255A7</crc>
+		<manufacturer>AEC</manufacturer>
+		<year>1984</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Matchmaker World History (USA)" index="" image="">
+		<description>Matchmaker World History (USA)</description>
+		<cloneof></cloneof>
+		<crc>AAD6FC6F</crc>
+		<manufacturer>AEC</manufacturer>
+		<year>1984</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Math Blaster! (USA) (Side A)" index="" image="">
+		<description>Math Blaster! (USA) (Side A)</description>
+		<cloneof></cloneof>
+		<crc>F9EF2A05</crc>
+		<manufacturer>Davidson</manufacturer>
+		<year>1985</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Math Blaster! (USA) (Side B)" index="" image="">
+		<description>Math Blaster! (USA) (Side B)</description>
+		<cloneof></cloneof>
+		<crc>AF9ECE2F</crc>
+		<manufacturer>Davidson</manufacturer>
+		<year>1985</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Math Encounter (USA)" index="" image="">
+		<description>Math Encounter (USA)</description>
+		<cloneof></cloneof>
+		<crc>9EABA275</crc>
+		<manufacturer>Hsu Software</manufacturer>
+		<year>1984</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Math Football (USA)" index="" image="">
+		<description>Math Football (USA)</description>
+		<cloneof></cloneof>
+		<crc>11FE351E</crc>
+		<manufacturer>Softsmith</manufacturer>
+		<year>19xx</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Math Maze (USA)" index="" image="">
+		<description>Math Maze (USA)</description>
+		<cloneof></cloneof>
+		<crc>A19DDD04</crc>
+		<manufacturer>DesignWare</manufacturer>
+		<year>1983</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Math Mileage (USA)" index="" image="">
+		<description>Math Mileage (USA)</description>
+		<cloneof></cloneof>
+		<crc>EC6855C1</crc>
+		<manufacturer>CBS Software</manufacturer>
+		<year>1983</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Math Mission (USA)" index="" image="">
+		<description>Math Mission (USA)</description>
+		<cloneof></cloneof>
+		<crc>7B008838</crc>
+		<manufacturer>APX</manufacturer>
+		<year>1982</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Math-UFO (USA)" index="" image="">
+		<description>Math-UFO (USA)</description>
+		<cloneof></cloneof>
+		<crc>F0A760BA</crc>
+		<manufacturer>APX</manufacturer>
+		<year>1982</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mathematic-Tac-Toe (USA)" index="" image="">
+		<description>Mathematic-Tac-Toe (USA)</description>
+		<cloneof></cloneof>
+		<crc>07B48C15</crc>
+		<manufacturer>APX</manufacturer>
+		<year>1981</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mathematics Action Games - Picture Parts (USA)" index="" image="">
+		<description>Mathematics Action Games - Picture Parts (USA)</description>
+		<cloneof></cloneof>
+		<crc>330A852C</crc>
+		<manufacturer>Roklan Corp.</manufacturer>
+		<year>1984</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mathematics Action Games - Space Journey (USA)" index="" image="">
+		<description>Mathematics Action Games - Space Journey (USA)</description>
+		<cloneof></cloneof>
+		<crc>161657F0</crc>
+		<manufacturer>Roklan Corp.</manufacturer>
+		<year>1983</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mathematics Action Games - Star Maze (USA)" index="" image="">
+		<description>Mathematics Action Games - Star Maze (USA)</description>
+		<cloneof></cloneof>
+		<crc>6FD9DAFF</crc>
+		<manufacturer>Roklan Corp.</manufacturer>
+		<year>1984</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Maths for Fun (USA)" index="" image="">
+		<description>Maths for Fun (USA)</description>
+		<cloneof></cloneof>
+		<crc>A3CF6C17</crc>
+		<manufacturer>Softcell Software</manufacturer>
+		<year>1982</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mathworld Commander (USA)" index="" image="">
+		<description>Mathworld Commander (USA)</description>
+		<cloneof></cloneof>
+		<crc>211B10CA</crc>
+		<manufacturer>Orange Cherry Software</manufacturer>
+		<year>1983</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mickey in the Great Outdoors (USA)" index="" image="">
+		<description>Mickey in the Great Outdoors (USA)</description>
+		<cloneof></cloneof>
+		<crc>60E155B8</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1983</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Missing Links (USA)" index="" image="">
+		<description>Missing Links (USA)</description>
+		<cloneof></cloneof>
+		<crc>B6C36571</crc>
+		<manufacturer>HesWare</manufacturer>
+		<year>1984</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Monkey See, Monkey Spell (USA)" index="" image="">
+		<description>Monkey See, Monkey Spell (USA)</description>
+		<cloneof></cloneof>
+		<crc>2E1DCC80</crc>
+		<manufacturer>Hayden Software</manufacturer>
+		<year>1983</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Monkey Up a Tree (USA)" index="" image="">
+		<description>Monkey Up a Tree (USA)</description>
+		<cloneof></cloneof>
+		<crc>142C265A</crc>
+		<manufacturer>APX</manufacturer>
+		<year>1982</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Monkeymath (USA)" index="" image="">
+		<description>Monkeymath (USA)</description>
+		<cloneof></cloneof>
+		<crc>15FEA377</crc>
+		<manufacturer>Artworx</manufacturer>
+		<year>1983</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Music Painter (USA)" index="" image="">
+		<description>Music Painter (USA)</description>
+		<cloneof></cloneof>
+		<crc>EE886710</crc>
+		<manufacturer>Carousel Software</manufacturer>
+		<year>1985</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="National Flags (USA)" index="true" image="n">
+		<description>National Flags (USA)</description>
+		<cloneof></cloneof>
+		<crc>0CDA4A69</crc>
+		<manufacturer>APX</manufacturer>
+		<year>1982</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Number Blast (USA)" index="" image="">
+		<description>Number Blast (USA)</description>
+		<cloneof></cloneof>
+		<crc>5E8D7DAA</crc>
+		<manufacturer>APX</manufacturer>
+		<year>1981</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Number Stumper (USA)" index="" image="">
+		<description>Number Stumper (USA)</description>
+		<cloneof></cloneof>
+		<crc>B90BC1B0</crc>
+		<manufacturer>Byte-a-Bit Computing Co.</manufacturer>
+		<year>1981</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Numberland Nightwatch (USA)" index="" image="">
+		<description>Numberland Nightwatch (USA)</description>
+		<cloneof></cloneof>
+		<crc>A44F21D8</crc>
+		<manufacturer>APX</manufacturer>
+		<year>1983</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Paint-n-Sketch I (USA)" index="true" image="p">
+		<description>Paint-n-Sketch I (USA)</description>
+		<cloneof></cloneof>
+		<crc>80CD5363</crc>
+		<manufacturer>Tech-Sketch</manufacturer>
+		<year>1983</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pic.Builder (USA)" index="" image="">
+		<description>Pic.Builder (USA)</description>
+		<cloneof></cloneof>
+		<crc>F25F7866</crc>
+		<manufacturer>Weekly Reader Family Software</manufacturer>
+		<year>1984</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Playful Professor Math Tutor (USA)" index="" image="">
+		<description>Playful Professor Math Tutor (USA)</description>
+		<cloneof></cloneof>
+		<crc>071A8DBC</crc>
+		<manufacturer>Screenplay</manufacturer>
+		<year>1984</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Plot (USA)" index="" image="">
+		<description>Plot (USA)</description>
+		<cloneof></cloneof>
+		<crc>06B83063</crc>
+		<manufacturer>Edu-Soft</manufacturer>
+		<year>1982</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pond, The (USA)" index="" image="">
+		<description>Pond, The (USA)</description>
+		<cloneof></cloneof>
+		<crc>CD2843D1</crc>
+		<manufacturer>HESWare</manufacturer>
+		<year>19xx</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Presidents of the United States (USA)" index="" image="">
+		<description>Presidents of the United States (USA)</description>
+		<cloneof></cloneof>
+		<crc>2FCD9C82</crc>
+		<manufacturer>APX</manufacturer>
+		<year>19xx</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Professor I.Q. (USA)" index="" image="">
+		<description>Professor I.Q. (USA)</description>
+		<cloneof></cloneof>
+		<crc>0B041FE7</crc>
+		<manufacturer>Cosmi</manufacturer>
+		<year>1984</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Proto&apos;s Fun Day (USA)" index="" image="">
+		<description>Proto&apos;s Fun Day (USA)</description>
+		<cloneof></cloneof>
+		<crc>0BB6D0B9</crc>
+		<manufacturer>Educational Software, Inc.</manufacturer>
+		<year>1983</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pyramid Puzzler (USA)" index="" image="">
+		<description>Pyramid Puzzler (USA)</description>
+		<cloneof></cloneof>
+		<crc>F6B6A78F</crc>
+		<manufacturer>Roklan Corp</manufacturer>
+		<year>1984</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Race Car &apos;Rithmetic (USA)" index="true" image="r">
+		<description>Race Car &apos;Rithmetic (USA)</description>
+		<cloneof></cloneof>
+		<crc>B3D7F421</crc>
+		<manufacturer>Unicorn Software</manufacturer>
+		<year>1983</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Race Car Facts (USA)" index="" image="">
+		<description>Race Car Facts (USA)</description>
+		<cloneof></cloneof>
+		<crc>CEDCC039</crc>
+		<manufacturer>JMH Software of Minnesota</manufacturer>
+		<year>1981</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rainy Day Games (USA)" index="" image="">
+		<description>Rainy Day Games (USA)</description>
+		<cloneof></cloneof>
+		<crc>2FBF1263</crc>
+		<manufacturer>Dyadic Software</manufacturer>
+		<year>1987</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Reader Rabbit (USA)" index="" image="">
+		<description>Reader Rabbit (USA)</description>
+		<cloneof></cloneof>
+		<crc>19C8376F</crc>
+		<manufacturer>The Learning Company</manufacturer>
+		<year>1984</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ringmaster (USA)" index="" image="">
+		<description>Ringmaster (USA)</description>
+		<cloneof></cloneof>
+		<crc>24C7AAB1</crc>
+		<manufacturer>APX</manufacturer>
+		<year>1983</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rock &apos;n&apos; Rhythm (USA)" index="" image="">
+		<description>Rock &apos;n&apos; Rhythm (USA)</description>
+		<cloneof></cloneof>
+		<crc>90A536B3</crc>
+		<manufacturer>Spinnaker Software</manufacturer>
+		<year>1984</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rocket Spell (USA)" index="" image="">
+		<description>Rocket Spell (USA)</description>
+		<cloneof></cloneof>
+		<crc>060C09AE</crc>
+		<manufacturer>JMH Software of Minnesota</manufacturer>
+		<year>19xx</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Roots (USA)" index="" image="">
+		<description>Roots (USA)</description>
+		<cloneof></cloneof>
+		<crc>8285CBE6</crc>
+		<manufacturer>Dynacomp</manufacturer>
+		<year>1980</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sammy the Sea Serpent (USA)" index="true" image="s">
+		<description>Sammy the Sea Serpent (USA)</description>
+		<cloneof></cloneof>
+		<crc>615A2399</crc>
+		<manufacturer>PDI</manufacturer>
+		<year>1981</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sea Horse Hide&apos;n Seek (USA)" index="" image="">
+		<description>Sea Horse Hide&apos;n Seek (USA)</description>
+		<cloneof></cloneof>
+		<crc>8D89F586</crc>
+		<manufacturer>CBS Software</manufacturer>
+		<year>1984</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sesame Street Letter-Go-Round (USA)" index="" image="">
+		<description>Sesame Street Letter-Go-Round (USA)</description>
+		<cloneof></cloneof>
+		<crc>F525B904</crc>
+		<manufacturer>CBS Software</manufacturer>
+		<year>1984</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sky Writer (USA)" index="" image="">
+		<description>Sky Writer (USA)</description>
+		<cloneof></cloneof>
+		<crc>0A73A8F5</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1983</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Snake-o-Nyms (USA)" index="" image="">
+		<description>Snake-o-Nyms (USA)</description>
+		<cloneof></cloneof>
+		<crc>9BE111AE</crc>
+		<manufacturer>Milliken</manufacturer>
+		<year>1983</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Solar System, The &amp; Mount Saint Helens (USA)" index="" image="">
+		<description>Solar System, The &amp; Mount Saint Helens (USA)</description>
+		<cloneof></cloneof>
+		<crc>5B3B559C</crc>
+		<manufacturer>Dynacomp</manufacturer>
+		<year>1983</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Space Games (Educational Software) (USA)" index="" image="">
+		<description>Space Games (Educational Software) (USA)</description>
+		<cloneof></cloneof>
+		<crc>556D05C0</crc>
+		<manufacturer>Educational Software, Inc.</manufacturer>
+		<year>1982</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Space Waste Race (USA)" index="" image="">
+		<description>Space Waste Race (USA)</description>
+		<cloneof></cloneof>
+		<crc>265D312B</crc>
+		<manufacturer>Sunburst Communications</manufacturer>
+		<year>1984</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Spelldiver (USA)" index="" image="">
+		<description>Spelldiver (USA)</description>
+		<cloneof></cloneof>
+		<crc>B21C931B</crc>
+		<manufacturer>Scholastic, Inc.</manufacturer>
+		<year>19xx</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Spellicopter (USA) (Side A)" index="" image="">
+		<description>Spellicopter (USA) (Side A)</description>
+		<cloneof></cloneof>
+		<crc>7E749499</crc>
+		<manufacturer>DesignWare</manufacturer>
+		<year>1983</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Spellicopter (USA) (Side B)" index="" image="">
+		<description>Spellicopter (USA) (Side B)</description>
+		<cloneof></cloneof>
+		<crc>DAF2B9AD</crc>
+		<manufacturer>DesignWare</manufacturer>
+		<year>1983</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Spelling Bee Games (USA) (Side A)" index="" image="">
+		<description>Spelling Bee Games (USA) (Side A)</description>
+		<cloneof></cloneof>
+		<crc>26436061</crc>
+		<manufacturer>Edu-Ware</manufacturer>
+		<year>1981</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Spelling Bee Games (USA) (Side B)" index="" image="">
+		<description>Spelling Bee Games (USA) (Side B)</description>
+		<cloneof></cloneof>
+		<crc>9B6820E4</crc>
+		<manufacturer>Edu-Ware</manufacturer>
+		<year>1981</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Spelling Genie (USA)" index="" image="">
+		<description>Spelling Genie (USA)</description>
+		<cloneof></cloneof>
+		<crc>94DDA6ED</crc>
+		<manufacturer>APX</manufacturer>
+		<year>1982</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Starware (USA)" index="" image="">
+		<description>Starware (USA)</description>
+		<cloneof></cloneof>
+		<crc>BC0E5E93</crc>
+		<manufacturer>APX</manufacturer>
+		<year>1981</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="States and Capitals (USA)" index="" image="">
+		<description>States and Capitals (USA)</description>
+		<cloneof></cloneof>
+		<crc>B28D1839</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1980</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Stickybear ABC (USA)" index="" image="">
+		<description>Stickybear ABC (USA)</description>
+		<cloneof></cloneof>
+		<crc>DBF278C1</crc>
+		<manufacturer>Optimum Resource, Inc.</manufacturer>
+		<year>1984</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Stickybear Numbers (USA)" index="" image="">
+		<description>Stickybear Numbers (USA)</description>
+		<cloneof></cloneof>
+		<crc>225F10B8</crc>
+		<manufacturer>Optimum Resource, Inc.</manufacturer>
+		<year>1982</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Stickybear Opposites (USA)" index="" image="">
+		<description>Stickybear Opposites (USA)</description>
+		<cloneof></cloneof>
+		<crc>EAD47988</crc>
+		<manufacturer>Optimum Resource, Inc.</manufacturer>
+		<year>1984</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Stickybear Shapes (USA)" index="" image="">
+		<description>Stickybear Shapes (USA)</description>
+		<cloneof></cloneof>
+		<crc>27A2FAA1</crc>
+		<manufacturer>Optimum Resource, Inc.</manufacturer>
+		<year>1983</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Targets - A Number Game (USA)" index="true" image="t">
+		<description>Targets - A Number Game (USA)</description>
+		<cloneof></cloneof>
+		<crc>73923BF0</crc>
+		<manufacturer>Sunburst Communications</manufacturer>
+		<year>1984</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Teasers by Tobbs (USA)" index="" image="">
+		<description>Teasers by Tobbs (USA)</description>
+		<cloneof></cloneof>
+		<crc>E080F9DA</crc>
+		<manufacturer>APX</manufacturer>
+		<year>1983</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tic-Tac-Toe Facts (USA)" index="" image="">
+		<description>Tic-Tac-Toe Facts (USA)</description>
+		<cloneof></cloneof>
+		<crc>C045AE86</crc>
+		<manufacturer>JMH Software of Minnesota</manufacturer>
+		<year>1981</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tic-Tac-Toe Spell (USA)" index="" image="">
+		<description>Tic-Tac-Toe Spell (USA)</description>
+		<cloneof></cloneof>
+		<crc>F19AC2EE</crc>
+		<manufacturer>JMH Software of Minnesota</manufacturer>
+		<year>1981</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Timebound (USA)" index="" image="">
+		<description>Timebound (USA)</description>
+		<cloneof></cloneof>
+		<crc>208AFD1D</crc>
+		<manufacturer>CBS Software</manufacturer>
+		<year>1984</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Trivia Quiz (USA) (Disk 1)" index="" image="">
+		<description>Trivia Quiz (USA) (Disk 1)</description>
+		<cloneof></cloneof>
+		<crc>AD1D51FE</crc>
+		<manufacturer>Clinton Branch</manufacturer>
+		<year>19xx</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Trivia Quiz (USA) (Disk 2)" index="" image="">
+		<description>Trivia Quiz (USA) (Disk 2)</description>
+		<cloneof></cloneof>
+		<crc>4D6F524F</crc>
+		<manufacturer>Clinton Branch</manufacturer>
+		<year>19xx</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Troll&apos;s Tale (USA)" index="" image="">
+		<description>Troll&apos;s Tale (USA)</description>
+		<cloneof></cloneof>
+		<crc>E169B86A</crc>
+		<manufacturer>Sierra On-Line</manufacturer>
+		<year>1984</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Type Attack (USA)" index="" image="">
+		<description>Type Attack (USA)</description>
+		<cloneof></cloneof>
+		<crc>FDC543CC</crc>
+		<manufacturer>Sirius</manufacturer>
+		<year>1983</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Typing Tutor &amp; Word Invaders (USA)" index="" image="">
+		<description>Typing Tutor &amp; Word Invaders (USA)</description>
+		<cloneof></cloneof>
+		<crc>90B533A2</crc>
+		<manufacturer>Academy Software</manufacturer>
+		<year>1984</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Typo Attack (USA)" index="" image="">
+		<description>Typo Attack (USA)</description>
+		<cloneof></cloneof>
+		<crc>ED6F714C</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1984</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="United States Adventure (USA)" index="true" image="u">
+		<description>United States Adventure (USA)</description>
+		<cloneof></cloneof>
+		<crc>A3260252</crc>
+		<manufacturer>First Star Software</manufacturer>
+		<year>1984</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Up for Grabs (USA)" index="" image="">
+		<description>Up for Grabs (USA)</description>
+		<cloneof></cloneof>
+		<crc>FC62C1CE</crc>
+		<manufacturer>Spinnaker Software</manufacturer>
+		<year>1983</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Webster - The Word Game (USA)" index="true" image="w">
+		<description>Webster - The Word Game (USA)</description>
+		<cloneof></cloneof>
+		<crc>136A6B44</crc>
+		<manufacturer>CBS Software</manufacturer>
+		<year>1983</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Whiz Kid (USA)" index="" image="">
+		<description>Whiz Kid (USA)</description>
+		<cloneof></cloneof>
+		<crc>4B0634D5</crc>
+		<manufacturer>Romox</manufacturer>
+		<year>1983</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Wizard of Id&apos;s WizType, The (USA)" index="" image="">
+		<description>Wizard of Id&apos;s WizType, The (USA)</description>
+		<cloneof></cloneof>
+		<crc>60A08A17</crc>
+		<manufacturer>Sierra On-Line</manufacturer>
+		<year>1984</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Word Flip (USA)" index="" image="">
+		<description>Word Flip (USA)</description>
+		<cloneof></cloneof>
+		<crc>FC3075B9</crc>
+		<manufacturer>Milliken</manufacturer>
+		<year>1983</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Word-Draw - Famous Americans (USA)" index="" image="">
+		<description>Word-Draw - Famous Americans (USA)</description>
+		<cloneof></cloneof>
+		<crc>CA95EF7E</crc>
+		<manufacturer>EduPro</manufacturer>
+		<year>1982</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="WordGo (USA)" index="" image="">
+		<description>WordGo (USA)</description>
+		<cloneof></cloneof>
+		<crc>1ACA047B</crc>
+		<manufacturer>APX</manufacturer>
+		<year>1982</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="World - Countries and Capitals (USA)" index="" image="">
+		<description>World - Countries and Capitals (USA)</description>
+		<cloneof></cloneof>
+		<crc>53E299A3</crc>
+		<manufacturer>Computer Applications Tomorrow</manufacturer>
+		<year>1982</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

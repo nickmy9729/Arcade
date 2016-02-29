@@ -1,0 +1,8 @@
+<DonsHyperSpinListGenerator VersionMajor="4">
+  <Wheel>Big Fish Games</Wheel>
+  <OutputFile>M:\Arcade\HyperSpin\Databases\Big Fish Games\Big Fish Games.xml</OutputFile>
+  <SourceFile>M:\Hyperlists\Big Fish Games.xml</SourceFile>
+  <ExcludeFile>M:\Arcade\HyperSpin\Databases\Big Fish Games\Big Fish Games_excluded.xml</ExcludeFile>
+  <MameXmlFile>
+  </MameXmlFile>
+</DonsHyperSpinListGenerator>

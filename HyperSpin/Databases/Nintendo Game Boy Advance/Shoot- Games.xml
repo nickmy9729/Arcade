@@ -1,0 +1,139 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Nintendo Game Boy Advance</listname>
+		<lastlistupdate>10/27/2011</lastlistupdate>
+		<listversion>1.1 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="AirForce Delta Storm (USA) (En,Ja,Fr,De)" index="true" image="a">
+		<description>AirForce Delta Storm (USA) (En,Ja,Fr,De)</description>
+		<cloneof></cloneof>
+		<crc>EBF757B8</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>2002</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Astro Boy - Omega Factor (USA) (En,Ja,Fr,De,Es,It)" index="" image="">
+		<description>Astro Boy - Omega Factor (USA) (En,Ja,Fr,De,Es,It)</description>
+		<cloneof></cloneof>
+		<crc>E8619031</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2004</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Classic NES Series - Xevious (USA, Europe)" index="true" image="c">
+		<description>Classic NES Series - Xevious (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>9E923716</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2004</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Defender (USA)" index="true" image="d">
+		<description>Defender (USA)</description>
+		<cloneof></cloneof>
+		<crc>2E271C13</crc>
+		<manufacturer>Midway</manufacturer>
+		<year>2002</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gradius Galaxies (USA)" index="true" image="g">
+		<description>Gradius Galaxies (USA)</description>
+		<cloneof></cloneof>
+		<crc>8103428D</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>2001</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Invader (Europe)" index="true" image="i">
+		<description>Invader (Europe)</description>
+		<cloneof></cloneof>
+		<crc>A94D6058</crc>
+		<manufacturer>Xicat Interactive</manufacturer>
+		<year>2002</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Iridion 3D (USA, Europe)" index="" image="">
+		<description>Iridion 3D (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>34189E74</crc>
+		<manufacturer>Majesco Games</manufacturer>
+		<year>2001</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Iridion II (USA)" index="" image="">
+		<description>Iridion II (USA)</description>
+		<cloneof></cloneof>
+		<crc>DD8A7104</crc>
+		<manufacturer>Majesco Games</manufacturer>
+		<year>2003</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="R-Type III - The Third Lightning (USA)" index="true" image="r">
+		<description>R-Type III - The Third Lightning (USA)</description>
+		<cloneof></cloneof>
+		<crc>EA863F4D</crc>
+		<manufacturer>Destination Software</manufacturer>
+		<year>2004</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Robotech - The Macross Saga (USA, Europe) (En,Fr,De,Es,It,Nl)" index="" image="">
+		<description>Robotech - The Macross Saga (USA, Europe) (En,Fr,De,Es,It,Nl)</description>
+		<cloneof></cloneof>
+		<crc>325A6596</crc>
+		<manufacturer>TDK Mediactive</manufacturer>
+		<year>2002</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Space Invaders (USA, Europe)" index="true" image="s">
+		<description>Space Invaders (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>5EA3F3B5</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2002</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Strike Force Hydra (USA)" index="" image="">
+		<description>Strike Force Hydra (USA)</description>
+		<cloneof></cloneof>
+		<crc>5AEEA1DE</crc>
+		<manufacturer>Ignition Entertainment</manufacturer>
+		<year>2003</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Army War (USA)" index="" image="">
+		<description>Super Army War (USA)</description>
+		<cloneof></cloneof>
+		<crc>BAF484BE</crc>
+		<manufacturer>Atlus Co.</manufacturer>
+		<year>2005</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

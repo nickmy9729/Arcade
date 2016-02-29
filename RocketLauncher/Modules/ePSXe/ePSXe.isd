@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<INISCHEMA>
+	<INIFILES>
+		<INIFILE name="%ModuleName%" required="false">
+			<INITYPE>Module</INITYPE>
+			<SECTIONS>
+				<SECTION name="Settings" required="false">
+					<SECTIONTYPE>Global</SECTIONTYPE>
+					<KEYS>
+						<KEY name="Graphics_Plugin" required="false" nullable="false">
+							<KEYTYPE>String</KEYTYPE>
+							<DESCRIPTION>Set this to the graphics plugin you would like to use for this emulator.</DESCRIPTION>
+							<VALUES>
+								<VALUE description="Pete's OpenGL2">PeteOpenGL2</VALUE>
+								<VALUE description="Blade Arma">BladeSoft</VALUE>
+								<VALUE description="P.E.Op.S Soft">PeopsSoft</VALUE>
+							</VALUES>
+						</KEY>
+						<KEY name="Fullscreen" required="false" nullable="false">
+							<KEYTYPE>Boolean</KEYTYPE>
+							<DESCRIPTION>Enables/Disables Fullscreen</DESCRIPTION>
+						</KEY>
+						<KEY name="turboButton" required="false" nullable="false">
+							<KEYTYPE>xHotkey</KEYTYPE>
+							<DESCRIPTION>Key mapping for turbo button assignment. TurboButton will only work with DX7 video plugin. Turbo key by Hypnoziz.</DESCRIPTION>
+						</KEY>
+						<KEY name="slowBoot" required="false" nullable="false">
+							<KEYTYPE>Boolean</KEYTYPE>
+							<DESCRIPTION>If true, force emulator to show bios screen at boot</DESCRIPTION>
+						</KEY>
+						<KEY name="EnableAnalog" required="false" nullable="false">
+							<KEYTYPE>Boolean</KEYTYPE>
+							<DESCRIPTION>If true, enables analog controls at start of all games for you, so you don't have to press F5</DESCRIPTION>
+						</KEY>
+						<KEY name="HideePSXeGUIs" required="false" nullable="false">
+							<KEYTYPE>Boolean</KEYTYPE>
+							<DESCRIPTION>Enables/Disables hiding of all ePSXe's GUI windows on load and disc change for multi-disc games.</DESCRIPTION>
+						</KEY>
+						<KEY name="PerGameMemoryCards" required="false" nullable="false">
+							<KEYTYPE>Boolean</KEYTYPE>
+							<DESCRIPTION>Enables/Disables Support for Per-Game Memory Card support. Make sure the first time you run with this option enabled, your current memory cards are formatted and blank.</DESCRIPTION>
+						</KEY>
+						<KEY name="MemCardPath" required="false" nullable="false">
+							<KEYTYPE>FolderPath</KEYTYPE>
+							<FULLROW>true</FULLROW>
+							<DESCRIPTION>Relative path to your memory card folder, defaults to EmuPath\memcards. Path relative to the emulator folder.</DESCRIPTION>
+							<PATHTYPE>Relative</PATHTYPE>
+							<BASEPATH>%EmulatorPath%</BASEPATH>
+						</KEY>
+					</KEYS>
+				</SECTION>
+				<SECTION name="Pete's OpenGL2 GPU Plugin" required="false">
+					<SECTIONTYPE>Global</SECTIONTYPE>
+					<KEYS>
+						<KEY name="Internal_X_Resolution" required="false" nullable="false" minLength="0" maxLength="2">
+							<KEYTYPE>Integer</KEYTYPE>
+							<DESCRIPTION>Controls the image quality for the width of the screen. A sane value is "2" with modern cards.</DESCRIPTION>
+							<VALUES>
+								<VALUE description="0: Low - Native PSX resolution">0</VALUE>
+								<VALUE description="1: High - Standard, enhanced display">1</VALUE>
+								<VALUE description="2: Very high - Needs a modern card, otherwise crashes are possible">2</VALUE>
+							</VALUES>
+						</KEY>
+						<KEY name="Internal_Y_Resolution" required="false" nullable="false" minLength="0" maxLength="3">
+							<KEYTYPE>Integer</KEYTYPE>
+							<DESCRIPTION>Controls the image quality for the height of the screen. A sane value is "2" with modern cards.</DESCRIPTION>
+							<VALUES>
+								<VALUE description="0: Low - Native PSX resolution">0</VALUE>
+								<VALUE description="1: High - Standard, enhanced display">1</VALUE>
+								<VALUE description="2: Very high - Needs MUCH gfx card vram... 128 MB cards will be fine">2</VALUE>
+								<VALUE description="3: Ultra high - A 256 MB card is recommended, VERY slow FB effects">3</VALUE>
+							</VALUES>
+						</KEY>
+						<KEY name="Stretching_Mode" required="false" nullable="false" minLength="0" maxLength="3">
+							<KEYTYPE>Integer</KEYTYPE>
+							<DESCRIPTION>Controls how the image will be stretched for your display. Most users will be satisfied with "0".</DESCRIPTION>
+							<VALUES>
+								<VALUE description="0: Stretch to full window size (standard)">0</VALUE>
+								<VALUE description="1: Scale to window size, keep aspect ratio">1</VALUE>
+								<VALUE description="2: Stretch on small heights, keep aspect ratio">2</VALUE>
+								<VALUE description="3: Try to keep pixel ratio">3</VALUE>
+							</VALUES>
+						</KEY>
+						<KEY name="Render_Mode" required="false" nullable="false" minLength="0" maxLength="2">
+							<KEYTYPE>Integer</KEYTYPE>
+							<DESCRIPTION>Tells the plugin how to render the image internally, output is the same.</DESCRIPTION>
+							<VALUES>
+								<VALUE description="0: Render to pbuffer-texture (standard)e">0</VALUE>
+								<VALUE description="1: Render to pbuffer, copy to texture (supported by most cards)">1</VALUE>
+								<VALUE description="2: Use framebuffer object (fastest mode, if supported)">2</VALUE>
+							</VALUES>
+						</KEY>
+						<KEY name="Texture_Filtering" required="false" nullable="false" minLength="0" maxLength="6">
+							<KEYTYPE>Integer</KEYTYPE>
+							<DESCRIPTION>You can try to improve the texture look with texture filtering, but be aware that the real psx doesn't support filtering, which will result in glitches. Set this to 0 if you intend to use a shader.</DESCRIPTION>
+							<VALUES>
+								<VALUE description="0: None">0</VALUE>
+								<VALUE description="1: Standard - Glitches will happen">1</VALUE>
+								<VALUE description="2: Extended - Removes black borders">2</VALUE>
+								<VALUE description="3: Standard w/o sprites - unfiltered 2D">3</VALUE>
+								<VALUE description="4: Extended w/o sprites - unfiltered 2D">4</VALUE>
+								<VALUE description="5: Standard + smoothed sprites">5</VALUE>
+								<VALUE description="6: Extended + smoothed sprites">6</VALUE>
+							</VALUES>
+						</KEY>
+						<KEY name="Hi-Res_Textures" required="false" nullable="false" minLength="0" maxLength="2">
+							<KEYTYPE>Integer</KEYTYPE>
+							<DESCRIPTION>Hi-Res textures</DESCRIPTION>
+							<VALUES>
+								<VALUE description="0: None (standard)">0</VALUE>
+								<VALUE description="1: 2xSal (much vram needed)">1</VALUE>
+								<VALUE description="2: Stretched (filtering needed)">2</VALUE>
+							</VALUES>
+						</KEY>
+						<KEY name="Pixel_Shader" required="false" nullable="false">
+							<KEYTYPE>Boolean</KEYTYPE>
+							<DESCRIPTION>Use pixel shader for a faster and more accurate emulation of the 'PSX texture window' ability.</DESCRIPTION>
+						</KEY>
+						<KEY name="Offscreen_Drawing" required="false" nullable="false" minLength="0" maxLength="2">
+							<KEYTYPE>Integer</KEYTYPE>
+							<DESCRIPTION>Sometimes the real psx renders polygons not only into its display areas, but also to some other vram areas, to archive special effects like Crash Bandicoot's shadow in CB3. Default should be "1".</DESCRIPTION>
+							<VALUES>
+								<VALUE description="0: None - No offscreen polygon rendering">0</VALUE>
+								<VALUE description="1: Standard - OK for most games">1</VALUE>
+								<VALUE description="2: Extended - Can cause garbage">2</VALUE>
+							</VALUES>
+						</KEY>
+						<KEY name="Framebuffer_Effects" required="false" nullable="false" minLength="0" maxLength="3">
+							<KEYTYPE>Integer</KEYTYPE>
+							<DESCRIPTION>The highest setting (3=Full) is the most compatible one (you should get all of the effects by selecting it).</DESCRIPTION>
+							<VALUES>
+								<VALUE description="0: None - No framebuffer effects will be emulated">0</VALUE>
+								<VALUE description="1: Minimum - Emulates most frame texture effects">1</VALUE>
+								<VALUE description="2: Standard - Emulates frame textures and buffer moves / reads">2</VALUE>
+								<VALUE description="3: Full - Emulates everything, causes overall slowdown">3</VALUE>
+							</VALUES>
+						</KEY>
+						<KEY name="Framebuffer_Uploads" required="false" nullable="false" minLength="0" maxLength="2">
+							<KEYTYPE>Integer</KEYTYPE>
+							<DESCRIPTION>Another ability of the real psx gpu is to upload pictures to any part of its vram, and to display such areas as needed. The standard "1" setting is the best choice for most games.</DESCRIPTION>
+							<VALUES>
+								<VALUE description="0: Minimum - Lazy upload detection, can cause missing screens">0</VALUE>
+								<VALUE description="1: Standard - Uploads detected screen areas">1</VALUE>
+								<VALUE description="2: Full - Uploads full vram area, can be slow - use only when screens are missing">2</VALUE>
+							</VALUES>
+						</KEY>
+						<KEY name="Shader_Dir" required="false" nullable="true">
+							<KEYTYPE>FolderPath</KEYTYPE>
+							<DESCRIPTION>This points to the specific shader folder of the shader you want to apply to the image.</DESCRIPTION>
+						</KEY>
+						<KEY name="Fullscreen_Shader" required="false" nullable="false" minLength="0" maxLength="5">
+							<KEYTYPE>Integer</KEYTYPE>
+							<DESCRIPTION>If you selected a shader path, select if the shader is in GLSlang format(gpuPeteOGL2.slv and gpuPeteOGL2.slf) or in ARB format(gpuPeteOGL2.vp and gpuPeteOGL2.fp).</DESCRIPTION>
+							<VALUES>
+								<VALUE description="0: None">0</VALUE>
+								<VALUE description="1: Fullscreen smoothing">1</VALUE>
+								<VALUE description="2: Black/white smoothing">2</VALUE>
+								<VALUE description="3: ARB program (gpuPeteOGL2.vp/fp)">3</VALUE>
+								<VALUE description="4: GLSlang smoothing">4</VALUE>
+								<VALUE description="5: GLSlang files (gpuPeteOGL2.slv/slf)">5</VALUE>
+							</VALUES>
+						</KEY>
+						<KEY name="Shader_Level" required="false" nullable="false" minLength="1" maxLength="4">
+							<KEYTYPE>Integer</KEYTYPE>
+							<DESCRIPTION>Select the shader intensity level, the intensity level will depend on the shader.</DESCRIPTION>
+							<VALUES>
+								<VALUE description="1: Minimum">1</VALUE>
+								<VALUE description="2: More">2</VALUE>
+								<VALUE description="3: Medium">3</VALUE>
+								<VALUE description="4: Maximum">4</VALUE>
+							</VALUES>
+						</KEY>
+					</KEYS>
+				</SECTION>
+				<SECTION name="%RomName%" required="false">
+					<SECTIONTYPE>Rom</SECTIONTYPE>
+					<GROUPS>
+						<GROUP name="Settings"/>
+						<GROUP name="Pete's OpenGL2 GPU Plugin"/>
+					</GROUPS>
+					<KEYS>
+						<KEY name="Graphics_Plugin" group="Settings" required="false" nullable="false">
+							<KEYTYPE>String</KEYTYPE>
+							<DESCRIPTION>Override the default graphics plugin for this emulator.</DESCRIPTION>
+							<VALUES>
+								<VALUE description="Pete's OpenGL2">PeteOpenGL2</VALUE>
+								<VALUE description="Blade Arma">BladeSoft</VALUE>
+								<VALUE description="P.E.Op.S Soft">PeopsSoft</VALUE>
+							</VALUES>
+						</KEY>
+						<KEY name="EnableAnalog" group="Settings" required="false" nullable="false">
+							<KEYTYPE>Boolean</KEYTYPE>
+							<DESCRIPTION>If true, enables analog controls at start of this game for you, so you don't have to press F5</DESCRIPTION>
+						</KEY>
+						<KEY name="DisableMemoryCard1" group="Settings" required="false" nullable="false">
+							<KEYTYPE>Boolean</KEYTYPE>
+							<DESCRIPTION>If true, disables memory card 1 for this game. Some games may not boot if both memory cards are inserted.</DESCRIPTION>
+						</KEY>
+						<KEY name="DisableMemoryCard2" group="Settings" required="false" nullable="false">
+							<KEYTYPE>Boolean</KEYTYPE>
+							<DESCRIPTION>If true, disables memory card 2 for this game. Some games may not boot if both memory cards are inserted.</DESCRIPTION>
+						</KEY>
+						<KEY name="Internal_X_Resolution" group="Pete's OpenGL2 GPU Plugin" required="false" nullable="false" minLength="0" maxLength="2">
+							<KEYTYPE>Integer</KEYTYPE>
+							<DESCRIPTION>Controls the image quality for the width of the screen. A sane value is "2" with modern cards.</DESCRIPTION>
+							<VALUES>
+								<VALUE description="0: Low - Native PSX resolution">0</VALUE>
+								<VALUE description="1: High - Standard, enhanced display">1</VALUE>
+								<VALUE description="2: Very high - Needs a modern card, otherwise crashes are possible">2</VALUE>
+							</VALUES>
+						</KEY>
+						<KEY name="Internal_Y_Resolution" group="Pete's OpenGL2 GPU Plugin" required="false" nullable="false" minLength="0" maxLength="3">
+							<KEYTYPE>Integer</KEYTYPE>
+							<DESCRIPTION>Controls the image quality for the height of the screen. A sane value is "2" with modern cards.</DESCRIPTION>
+							<VALUES>
+								<VALUE description="0: Low - Native PSX resolution">0</VALUE>
+								<VALUE description="1: High - Standard, enhanced display">1</VALUE>
+								<VALUE description="2: Very high - Needs MUCH gfx card vram... 128 MB cards will be fine">2</VALUE>
+								<VALUE description="3: Ultra high - A 256 MB card is recommended, VERY slow FB effects">3</VALUE>
+							</VALUES>
+						</KEY>
+						<KEY name="Stretching_Mode" group="Pete's OpenGL2 GPU Plugin" required="false" nullable="false" minLength="0" maxLength="3">
+							<KEYTYPE>Integer</KEYTYPE>
+							<DESCRIPTION>Controls how the image will be stretched for your display. Most users will be satisfied with "0".</DESCRIPTION>
+							<VALUES>
+								<VALUE description="0: Stretch to full window size (standard)">0</VALUE>
+								<VALUE description="1: Scale to window size, keep aspect ratio">1</VALUE>
+								<VALUE description="2: Stretch on small heights, keep aspect ratio">2</VALUE>
+								<VALUE description="3: Try to keep pixel ratio">3</VALUE>
+							</VALUES>
+						</KEY>
+						<KEY name="Render_Mode" group="Pete's OpenGL2 GPU Plugin" required="false" nullable="false" minLength="0" maxLength="2">
+							<KEYTYPE>Integer</KEYTYPE>
+							<DESCRIPTION>Tells the plugin how to render the image internally, output is the same.</DESCRIPTION>
+							<VALUES>
+								<VALUE description="0: Render to pbuffer-texture (standard)e">0</VALUE>
+								<VALUE description="1: Render to pbuffer, copy to texture (supported by most cards)">1</VALUE>
+								<VALUE description="2: Use framebuffer object (fastest mode, if supported)">2</VALUE>
+							</VALUES>
+						</KEY>
+						<KEY name="Texture_Filtering" group="Pete's OpenGL2 GPU Plugin" required="false" nullable="false" minLength="0" maxLength="6">
+							<KEYTYPE>Integer</KEYTYPE>
+							<DESCRIPTION>You can try to improve the texture look with texture filtering, but be aware that the real psx doesn't support filtering, which will result in glitches. Set this to 0 if you intend to use a shader.</DESCRIPTION>
+							<VALUES>
+								<VALUE description="0: None">0</VALUE>
+								<VALUE description="1: Standard - Glitches will happen">1</VALUE>
+								<VALUE description="2: Extended - Removes black borders">2</VALUE>
+								<VALUE description="3: Standard w/o sprites - unfiltered 2D">3</VALUE>
+								<VALUE description="4: Extended w/o sprites - unfiltered 2D">4</VALUE>
+								<VALUE description="5: Standard + smoothed sprites">5</VALUE>
+								<VALUE description="6: Extended + smoothed sprites">6</VALUE>
+							</VALUES>
+						</KEY>
+						<KEY name="Hi-Res_Textures" group="Pete's OpenGL2 GPU Plugin" required="false" nullable="false" minLength="0" maxLength="2">
+							<KEYTYPE>Integer</KEYTYPE>
+							<DESCRIPTION>Hi-Res textures</DESCRIPTION>
+							<VALUES>
+								<VALUE description="0: None (standard)">0</VALUE>
+								<VALUE description="1: 2xSal (much vram needed)">1</VALUE>
+								<VALUE description="2: Stretched (filtering needed)">2</VALUE>
+							</VALUES>
+						</KEY>
+						<KEY name="Pixel_Shader" group="Pete's OpenGL2 GPU Plugin" required="false" nullable="false">
+							<KEYTYPE>Boolean</KEYTYPE>
+							<DESCRIPTION>Use pixel shader for a faster and more accurate emulation of the 'PSX texture window' ability.</DESCRIPTION>
+						</KEY>
+						<KEY name="Offscreen_Drawing" group="Pete's OpenGL2 GPU Plugin" required="false" nullable="false" minLength="0" maxLength="2">
+							<KEYTYPE>Integer</KEYTYPE>
+							<DESCRIPTION>Sometimes the real psx renders polygons not only into its display areas, but also to some other vram areas, to archive special effects like Crash Bandicoot's shadow in CB3. Default should be "1".</DESCRIPTION>
+							<VALUES>
+								<VALUE description="0: None - No offscreen polygon rendering">0</VALUE>
+								<VALUE description="1: Standard - OK for most games">1</VALUE>
+								<VALUE description="2: Extended - Can cause garbage">2</VALUE>
+							</VALUES>
+						</KEY>
+						<KEY name="Framebuffer_Effects" group="Pete's OpenGL2 GPU Plugin" required="false" nullable="false" minLength="0" maxLength="3">
+							<KEYTYPE>Integer</KEYTYPE>
+							<DESCRIPTION>The highest setting (3=Full) is the most compatible one (you should get all of the effects by selecting it).</DESCRIPTION>
+							<VALUES>
+								<VALUE description="0: None - No framebuffer effects will be emulated">0</VALUE>
+								<VALUE description="1: Minimum - Emulates most frame texture effects">1</VALUE>
+								<VALUE description="2: Standard - Emulates frame textures and buffer moves / reads">2</VALUE>
+								<VALUE description="3: Full - Emulates everything, causes overall slowdown">3</VALUE>
+							</VALUES>
+						</KEY>
+						<KEY name="Framebuffer_Uploads" group="Pete's OpenGL2 GPU Plugin" required="false" nullable="false" minLength="0" maxLength="2">
+							<KEYTYPE>Integer</KEYTYPE>
+							<DESCRIPTION>Another ability of the real psx gpu is to upload pictures to any part of its vram, and to display such areas as needed. The standard "1" setting is the best choice for most games.</DESCRIPTION>
+							<VALUES>
+								<VALUE description="0: Minimum - Lazy upload detection, can cause missing screens">0</VALUE>
+								<VALUE description="1: Standard - Uploads detected screen areas">1</VALUE>
+								<VALUE description="2: Full - Uploads full vram area, can be slow - use only when screens are missing">2</VALUE>
+							</VALUES>
+						</KEY>
+						<KEY name="Shader_Dir" group="Pete's OpenGL2 GPU Plugin" required="false" nullable="true">
+							<KEYTYPE>FolderPath</KEYTYPE>
+							<DESCRIPTION>This points to the specific shader folder of the shader you want to apply to the image.</DESCRIPTION>
+						</KEY>
+						<KEY name="Fullscreen_Shader" group="Pete's OpenGL2 GPU Plugin" required="false" nullable="false" minLength="0" maxLength="5">
+							<KEYTYPE>Integer</KEYTYPE>
+							<DESCRIPTION>If you selected a shader path, select if the shader is in GLSlang format(gpuPeteOGL2.slv and gpuPeteOGL2.slf) or in ARB format(gpuPeteOGL2.vp and gpuPeteOGL2.fp).</DESCRIPTION>
+							<VALUES>
+								<VALUE description="0: None">0</VALUE>
+								<VALUE description="1: Fullscreen smoothing">1</VALUE>
+								<VALUE description="2: Black/white smoothing">2</VALUE>
+								<VALUE description="3: ARB program (gpuPeteOGL2.vp/fp)">3</VALUE>
+								<VALUE description="4: GLSlang smoothing">4</VALUE>
+								<VALUE description="5: GLSlang files (gpuPeteOGL2.slv/slf)">5</VALUE>
+							</VALUES>
+						</KEY>
+						<KEY name="Shader_Level" group="Pete's OpenGL2 GPU Plugin" required="false" nullable="false" minLength="1" maxLength="4">
+							<KEYTYPE>Integer</KEYTYPE>
+							<DESCRIPTION>Select the shader intensity level, the intensity level will depend on the shader.</DESCRIPTION>
+							<VALUES>
+								<VALUE description="1: Minimum">1</VALUE>
+								<VALUE description="2: More">2</VALUE>
+								<VALUE description="3: Medium">3</VALUE>
+								<VALUE description="4: Maximum">4</VALUE>
+							</VALUES>
+						</KEY>
+					</KEYS>
+				</SECTION>
+			</SECTIONS>
+		</INIFILE>
+	</INIFILES>
+</INISCHEMA>

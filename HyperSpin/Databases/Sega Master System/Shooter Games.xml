@@ -1,0 +1,329 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Sega Master System</listname>
+		<lastlistupdate>10/27/2011</lastlistupdate>
+		<listversion>1.1 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="Aerial Assault (USA)" index="true" image="a">
+		<description>Aerial Assault (USA)</description>
+		<cloneof></cloneof>
+		<crc>15576613</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1990</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Air Rescue (Europe)" index="" image="">
+		<description>Air Rescue (Europe)</description>
+		<cloneof></cloneof>
+		<crc>8B43D21D</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1992</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Alien Syndrome (USA, Europe)" index="" image="">
+		<description>Alien Syndrome (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>5CBFE997</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1988</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Astro Warrior (Japan, USA)" index="" image="">
+		<description>Astro Warrior (Japan, USA)</description>
+		<cloneof></cloneof>
+		<crc>299CBB74</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1986</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Blade Eagle (World)" index="true" image="b">
+		<description>Blade Eagle (World)</description>
+		<cloneof></cloneof>
+		<crc>8ECD201C</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1988</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bomber Raid (World)" index="" image="">
+		<description>Bomber Raid (World)</description>
+		<cloneof></cloneof>
+		<crc>3084CF11</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>1988</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cloud Master (USA, Europe)" index="true" image="c">
+		<description>Cloud Master (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>E7F62E6D</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1989</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Double Hawk (Europe)" index="true" image="d">
+		<description>Double Hawk (Europe)</description>
+		<cloneof></cloneof>
+		<crc>8370F6CD</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1990</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fantasy Zone (World) (v1.2)" index="true" image="f">
+		<description>Fantasy Zone (World) (v1.2)</description>
+		<cloneof></cloneof>
+		<crc>65D7E4E0</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1986</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fantasy Zone II - The Tears of Opa-Opa (USA, Europe)" index="" image="">
+		<description>Fantasy Zone II - The Tears of Opa-Opa (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>B8B141F9</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1987</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Forgotten Worlds (Europe)" index="" image="">
+		<description>Forgotten Worlds (Europe)</description>
+		<cloneof></cloneof>
+		<crc>38C53916</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1991</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gain Ground (Europe)" index="true" image="g">
+		<description>Gain Ground (Europe)</description>
+		<cloneof></cloneof>
+		<crc>3EC5E627</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1991</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Galaxy Force (USA)" index="" image="">
+		<description>Galaxy Force (USA)</description>
+		<cloneof></cloneof>
+		<crc>6C827520</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>1989</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Global Defense (USA, Europe)" index="" image="">
+		<description>Global Defense (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>B746A6F5</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1987</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hang-On &amp; Astro Warrior (USA)" index="true" image="h">
+		<description>Hang-On &amp; Astro Warrior (USA)</description>
+		<cloneof></cloneof>
+		<crc>1C5059F0</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1986</year>
+		<genre>Motorcycle/Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Line of Fire (Europe)" index="true" image="l">
+		<description>Line of Fire (Europe)</description>
+		<cloneof></cloneof>
+		<crc>CB09F355</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1991</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mercs (Europe)" index="true" image="m">
+		<description>Mercs (Europe)</description>
+		<cloneof></cloneof>
+		<crc>D7416B83</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1987</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Power Strike (USA, Europe)" index="true" image="p">
+		<description>Power Strike (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>4077EFD9</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1988</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Power Strike II (Europe)" index="" image="">
+		<description>Power Strike II (Europe)</description>
+		<cloneof></cloneof>
+		<crc>A109A6FE</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1993</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="R-Type (World)" index="true" image="r">
+		<description>R-Type (World)</description>
+		<cloneof></cloneof>
+		<crc>BB54B6B0</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1988</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rambo - First Blood Part II (USA)" index="" image="">
+		<description>Rambo - First Blood Part II (USA)</description>
+		<cloneof></cloneof>
+		<crc>BBDA65F0</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1986</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sagaia (Europe)" index="true" image="s">
+		<description>Sagaia (Europe)</description>
+		<cloneof></cloneof>
+		<crc>66388128</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1992</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Scramble Spirits (Europe)" index="" image="">
+		<description>Scramble Spirits (Europe)</description>
+		<cloneof></cloneof>
+		<crc>9A8B28EC</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1988</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Space Harrier (USA, Europe)" index="" image="">
+		<description>Space Harrier (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>CA1D3752</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1986</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Space Harrier 3-D (USA, Europe)" index="" image="">
+		<description>Space Harrier 3-D (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>6BD5C2BF</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1988</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Space Invaders (Europe)" index="" image="">
+		<description>Super Space Invaders (Europe)</description>
+		<cloneof></cloneof>
+		<crc>1D6244EE</crc>
+		<manufacturer>Domark</manufacturer>
+		<year>1991</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Thunder Blade (USA, Europe)" index="true" image="t">
+		<description>Thunder Blade (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>AE920E4B</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1988</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Time Soldiers (USA, Europe)" index="" image="">
+		<description>Time Soldiers (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>51BD14BE</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1988</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="TransBot (USA, Europe)" index="" image="">
+		<description>TransBot (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>4BC42857</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1986</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Xenon 2 - Megablast (Europe) (Virgin)" index="true" image="x">
+		<description>Xenon 2 - Megablast (Europe) (Virgin)</description>
+		<cloneof></cloneof>
+		<crc>EC726C0D</crc>
+		<manufacturer>Imageworks</manufacturer>
+		<year>1991</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Zaxxon 3-D (World)" index="true" image="z">
+		<description>Zaxxon 3-D (World)</description>
+		<cloneof></cloneof>
+		<crc>A3EF13CB</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1987</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Zillion II - The Tri Formation (World)" index="" image="">
+		<description>Zillion II - The Tri Formation (World)</description>
+		<cloneof></cloneof>
+		<crc>2F2E3BC9</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1988</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

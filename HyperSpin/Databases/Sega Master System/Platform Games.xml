@@ -1,0 +1,649 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Sega Master System</listname>
+		<lastlistupdate>10/27/2011</lastlistupdate>
+		<listversion>1.1 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="Aladdin (Europe)" index="true" image="a">
+		<description>Aladdin (Europe)</description>
+		<cloneof></cloneof>
+		<crc>C8718D40</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1994</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Alex Kidd - High-Tech World (USA, Europe)" index="" image="">
+		<description>Alex Kidd - High-Tech World (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>013C0A94</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1989</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Alex Kidd - The Lost Stars (World)" index="" image="">
+		<description>Alex Kidd - The Lost Stars (World)</description>
+		<cloneof></cloneof>
+		<crc>C13896D5</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1988</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Alex Kidd in Miracle World (USA, Europe) (v1.1)" index="" image="">
+		<description>Alex Kidd in Miracle World (USA, Europe) (v1.1)</description>
+		<cloneof></cloneof>
+		<crc>AED9AAC4</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1986</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Alex Kidd in Shinobi World (USA, Europe)" index="" image="">
+		<description>Alex Kidd in Shinobi World (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>D2417ED7</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1990</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Asterix and the Great Rescue (Europe) (En,Fr,De,Es,It)" index="" image="">
+		<description>Asterix and the Great Rescue (Europe) (En,Fr,De,Es,It)</description>
+		<cloneof></cloneof>
+		<crc>F9B7D26B</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1993</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Asterix and the Secret Mission (Europe) (En,Fr,De)" index="" image="">
+		<description>Asterix and the Secret Mission (Europe) (En,Fr,De)</description>
+		<cloneof></cloneof>
+		<crc>DEF9B14E</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1993</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bubble Bobble (Europe)" index="true" image="b">
+		<description>Bubble Bobble (Europe)</description>
+		<cloneof></cloneof>
+		<crc>E843BA7E</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1992</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Captain Silver (USA)" index="true" image="c">
+		<description>Captain Silver (USA)</description>
+		<cloneof></cloneof>
+		<crc>B81F6FA5</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1988</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Castle of Illusion Starring Mickey Mouse (USA)" index="" image="">
+		<description>Castle of Illusion Starring Mickey Mouse (USA)</description>
+		<cloneof></cloneof>
+		<crc>B9DB4282</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1989</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cheese Cat-astrophe Starring Speedy Gonzales (Europe) (En,Fr,De,Es)" index="" image="">
+		<description>Cheese Cat-astrophe Starring Speedy Gonzales (Europe) (En,Fr,De,Es)</description>
+		<cloneof></cloneof>
+		<crc>46340C41</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1995</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Chuck Rock (Europe)" index="" image="">
+		<description>Chuck Rock (Europe)</description>
+		<cloneof></cloneof>
+		<crc>DD0E2927</crc>
+		<manufacturer>Virgin Interactive</manufacturer>
+		<year>1992</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Chuck Rock II - Son of Chuck (Europe)" index="" image="">
+		<description>Chuck Rock II - Son of Chuck (Europe)</description>
+		<cloneof></cloneof>
+		<crc>C30E690A</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1993</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cool Spot (Europe)" index="" image="">
+		<description>Cool Spot (Europe)</description>
+		<cloneof></cloneof>
+		<crc>13AC9023</crc>
+		<manufacturer>Virgin Interactive</manufacturer>
+		<year>1993</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cyber Shinobi, The (Europe)" index="" image="">
+		<description>Cyber Shinobi, The (Europe)</description>
+		<cloneof></cloneof>
+		<crc>1350E4F8</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1990</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Daffy Duck in Hollywood (Europe) (En,Fr,De,Es,It)" index="true" image="d">
+		<description>Daffy Duck in Hollywood (Europe) (En,Fr,De,Es,It)</description>
+		<cloneof></cloneof>
+		<crc>71ABEF27</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1993</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Danan - The Jungle Fighter (Europe)" index="" image="">
+		<description>Danan - The Jungle Fighter (Europe)</description>
+		<cloneof></cloneof>
+		<crc>AE4A28D7</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1991</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Deep Duck Trouble Starring Donald Duck (Europe)" index="" image="">
+		<description>Deep Duck Trouble Starring Donald Duck (Europe)</description>
+		<cloneof></cloneof>
+		<crc>42FC3A6E</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1993</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Desert Speedtrap Starring Road Runner and Wile E. Coyote (Europe) (En,Fr,De,Es,It)" index="" image="">
+		<description>Desert Speedtrap Starring Road Runner and Wile E. Coyote (Europe) (En,Fr,De,Es,It)</description>
+		<cloneof></cloneof>
+		<crc>B137007A</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1993</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dragon - The Bruce Lee Story (Europe)" index="" image="">
+		<description>Dragon - The Bruce Lee Story (Europe)</description>
+		<cloneof></cloneof>
+		<crc>C88A5064</crc>
+		<manufacturer>Virgin Interactive</manufacturer>
+		<year>1995</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Flash, The (Europe)" index="true" image="f">
+		<description>Flash, The (Europe)</description>
+		<cloneof></cloneof>
+		<crc>BE31D63F</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1993</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ghouls&apos;n Ghosts (USA, Europe)" index="true" image="g">
+		<description>Ghouls&apos;n Ghosts (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>7A92EBA6</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1990</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Incredible Hulk, The (Europe)" index="true" image="i">
+		<description>Incredible Hulk, The (Europe)</description>
+		<cloneof></cloneof>
+		<crc>BE9A7071</crc>
+		<manufacturer>U.S. Gold</manufacturer>
+		<year>1994</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="James Bond 007 - The Duel (Europe)" index="true" image="j">
+		<description>James Bond 007 - The Duel (Europe)</description>
+		<cloneof></cloneof>
+		<crc>8D23587F</crc>
+		<manufacturer>Domark</manufacturer>
+		<year>1993</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="James Pond 2 - Codename RoboCod (Europe)" index="" image="">
+		<description>James Pond 2 - Codename RoboCod (Europe)</description>
+		<cloneof></cloneof>
+		<crc>102D5FEA</crc>
+		<manufacturer>U.S. Gold</manufacturer>
+		<year>1991</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Kenseiden (USA, Europe)" index="true" image="k">
+		<description>Kenseiden (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>516ED32E</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1988</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Kung Fu Kid (USA, Europe)" index="" image="">
+		<description>Kung Fu Kid (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>1E949D1F</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1987</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Land of Illusion Starring Mickey Mouse (Europe)" index="true" image="l">
+		<description>Land of Illusion Starring Mickey Mouse (Europe)</description>
+		<cloneof></cloneof>
+		<crc>24E97200</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1992</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lion King, The (Europe)" index="" image="">
+		<description>Lion King, The (Europe)</description>
+		<cloneof></cloneof>
+		<crc>C352C7EB</crc>
+		<manufacturer>Virgin Interactive</manufacturer>
+		<year>1994</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lucky Dime Caper Starring Donald Duck, The (Europe)" index="" image="">
+		<description>Lucky Dime Caper Starring Donald Duck, The (Europe)</description>
+		<cloneof></cloneof>
+		<crc>A1710F13</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1991</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Michael Jackson&apos;s Moonwalker (USA, Europe)" index="true" image="m">
+		<description>Michael Jackson&apos;s Moonwalker (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>56CC906B</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1989</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mick &amp; Mack as the Global Gladiators (Europe)" index="" image="">
+		<description>Mick &amp; Mack as the Global Gladiators (Europe)</description>
+		<cloneof></cloneof>
+		<crc>B67CEB76</crc>
+		<manufacturer>Virgin Games</manufacturer>
+		<year>1992</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="New Zealand Story, The (Europe)" index="true" image="n">
+		<description>New Zealand Story, The (Europe)</description>
+		<cloneof></cloneof>
+		<crc>C660FF34</crc>
+		<manufacturer>TecMagik</manufacturer>
+		<year>1992</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ninja Gaiden (Europe)" index="" image="">
+		<description>Ninja Gaiden (Europe)</description>
+		<cloneof></cloneof>
+		<crc>1B1D8CC2</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1988</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ottifants, The (Europe) (En,Fr,De,Es,It)" index="true" image="o">
+		<description>Ottifants, The (Europe) (En,Fr,De,Es,It)</description>
+		<cloneof></cloneof>
+		<crc>82EF2A7D</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1993</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Prince of Persia (Europe)" index="true" image="p">
+		<description>Prince of Persia (Europe)</description>
+		<cloneof></cloneof>
+		<crc>7704287D</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1990</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Psycho Fox (USA, Europe)" index="" image="">
+		<description>Psycho Fox (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>97993479</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1989</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Quartet (USA, Europe)" index="true" image="q">
+		<description>Quartet (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>E0F34FA6</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1987</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rainbow Islands - The Story of Bubble Bobble 2 (Europe)" index="true" image="r">
+		<description>Rainbow Islands - The Story of Bubble Bobble 2 (Europe)</description>
+		<cloneof></cloneof>
+		<crc>C172A22C</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1993</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rastan (USA, Europe)" index="" image="">
+		<description>Rastan (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>C547EB1B</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1988</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="RoboCop 3 (Europe)" index="" image="">
+		<description>RoboCop 3 (Europe)</description>
+		<cloneof></cloneof>
+		<crc>9F951756</crc>
+		<manufacturer>Flying Edge</manufacturer>
+		<year>1993</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="RoboCop versus The Terminator (Europe)" index="" image="">
+		<description>RoboCop versus The Terminator (Europe)</description>
+		<cloneof></cloneof>
+		<crc>8212B754</crc>
+		<manufacturer>Virgin Interactive</manufacturer>
+		<year>1991</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Shadow Dancer (Europe)" index="true" image="s">
+		<description>Shadow Dancer (Europe)</description>
+		<cloneof></cloneof>
+		<crc>3793C01A</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1991</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Shadow of the Beast (Europe)" index="" image="">
+		<description>Shadow of the Beast (Europe)</description>
+		<cloneof></cloneof>
+		<crc>1575581D</crc>
+		<manufacturer>TecMagik</manufacturer>
+		<year>1992</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Shinobi (USA, Europe)" index="" image="">
+		<description>Shinobi (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>0C6FAC4E</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1988</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Simpsons, The - Bart vs. The Space Mutants (Europe)" index="" image="">
+		<description>Simpsons, The - Bart vs. The Space Mutants (Europe)</description>
+		<cloneof></cloneof>
+		<crc>D1CC08EE</crc>
+		<manufacturer>Flying Edge</manufacturer>
+		<year>1991</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Smurfs, The (Europe) (En,Fr,De,Es)" index="" image="">
+		<description>Smurfs, The (Europe) (En,Fr,De,Es)</description>
+		<cloneof></cloneof>
+		<crc>3E63768A</crc>
+		<manufacturer>Infogrames</manufacturer>
+		<year>1994</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sonic Chaos (Europe)" index="" image="">
+		<description>Sonic Chaos (Europe)</description>
+		<cloneof></cloneof>
+		<crc>AEDF3BDF</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1993</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sonic The Hedgehog (USA, Europe)" index="" image="">
+		<description>Sonic The Hedgehog (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>B519E833</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1991</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sonic The Hedgehog 2 (Europe) (v1.1)" index="" image="">
+		<description>Sonic The Hedgehog 2 (Europe) (v1.1)</description>
+		<cloneof></cloneof>
+		<crc>D6F2BFCA</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1992</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Spider-Man - Return of the Sinister Six (Europe)" index="" image="">
+		<description>Spider-Man - Return of the Sinister Six (Europe)</description>
+		<cloneof></cloneof>
+		<crc>EBE45388</crc>
+		<manufacturer>Flying Edge</manufacturer>
+		<year>1992</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Star Wars (Europe)" index="" image="">
+		<description>Star Wars (Europe)</description>
+		<cloneof></cloneof>
+		<crc>D4B8F66D</crc>
+		<manufacturer>U.S. Gold</manufacturer>
+		<year>1993</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Strider (USA, Europe)" index="" image="">
+		<description>Strider (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>9802ED31</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1991</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Strider II (Europe)" index="" image="">
+		<description>Strider II (Europe)</description>
+		<cloneof></cloneof>
+		<crc>B8F0915A</crc>
+		<manufacturer>U.S. Gold</manufacturer>
+		<year>1991</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Superman - The Man of Steel (Europe)" index="" image="">
+		<description>Superman - The Man of Steel (Europe)</description>
+		<cloneof></cloneof>
+		<crc>6F9AC98F</crc>
+		<manufacturer>Virgin Interactive</manufacturer>
+		<year>1993</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Taz-Mania (Europe)" index="true" image="t">
+		<description>Taz-Mania (Europe)</description>
+		<cloneof></cloneof>
+		<crc>7CC3E837</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1992</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Teddy Boy (USA, Europe)" index="" image="">
+		<description>Teddy Boy (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>2728FAA3</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1986</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Terminator 2 - Judgment Day (Europe)" index="" image="">
+		<description>Terminator 2 - Judgment Day (Europe)</description>
+		<cloneof></cloneof>
+		<crc>AC56104F</crc>
+		<manufacturer>Flying Edge</manufacturer>
+		<year>1993</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Terminator, The (Europe)" index="" image="">
+		<description>Terminator, The (Europe)</description>
+		<cloneof></cloneof>
+		<crc>EDC5C012</crc>
+		<manufacturer>Virgin Interactive</manufacturer>
+		<year>1990</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tom and Jerry - The Movie (Europe)" index="" image="">
+		<description>Tom and Jerry - The Movie (Europe)</description>
+		<cloneof></cloneof>
+		<crc>BF7B7285</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1992</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Wolfchild (Europe)" index="true" image="w">
+		<description>Wolfchild (Europe)</description>
+		<cloneof></cloneof>
+		<crc>1F8EFA1D</crc>
+		<manufacturer>Virgin Interactive</manufacturer>
+		<year>1993</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Wonder Boy (USA, Europe)" index="" image="">
+		<description>Wonder Boy (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>73705C02</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1987</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Zillion (Europe) (v1.2)" index="true" image="z">
+		<description>Zillion (Europe) (v1.2)</description>
+		<cloneof></cloneof>
+		<crc>7BA54510</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1987</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Zool - Ninja of the &apos;Nth&apos; Dimension (Europe)" index="" image="">
+		<description>Zool - Ninja of the &apos;Nth&apos; Dimension (Europe)</description>
+		<cloneof></cloneof>
+		<crc>9D9D0A5F</crc>
+		<manufacturer>Gremlin Graphics</manufacturer>
+		<year>1993</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

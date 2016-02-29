@@ -1,0 +1,8 @@
+<DonsHyperSpinListGenerator VersionMajor="4">
+  <Wheel>Taito Classics</Wheel>
+  <OutputFile>M:\Arcade\HyperSpin\Databases\Taito Classics\Taito Classics.xml</OutputFile>
+  <SourceFile>M:\Hyperlists\Taito Classics.xml</SourceFile>
+  <ExcludeFile>M:\Arcade\HyperSpin\Databases\Taito Classics\Taito Classics_excluded.xml</ExcludeFile>
+  <MameXmlFile>
+  </MameXmlFile>
+</DonsHyperSpinListGenerator>

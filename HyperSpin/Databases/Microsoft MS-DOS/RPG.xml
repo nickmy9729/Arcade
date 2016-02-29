@@ -1,0 +1,1633 @@
+<!-- edited with XMLSpy v2010 rel. 3 (http://www.altova.com) by djvj (djvj) -->
+<menu>
+	<game name="10Rogue (1984)">
+		<description>10Rogue (1984)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="2400 AD (1988)">
+		<description>2400 AD (1988)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="50 Mission Crush (1984)">
+		<description>50 Mission Crush (1984)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Abandoned Places - A Time for Heroes (1992)">
+		<description>Abandoned Places - A Time for Heroes (1992)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Adventure Construction Set (1987)">
+		<description>Adventure Construction Set (1987)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Al-Qadim - the Genie&apos;s Curse (1994)">
+		<description>Al-Qadim - the Genie&apos;s Curse (1994)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Albion (1995)">
+		<description>Albion (1995)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Aleshar - The World of Ice (1997)">
+		<description>Aleshar - The World of Ice (1997)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Alien Fires 2199 AD (1987)">
+		<description>Alien Fires 2199 AD (1987)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Alien Logic (1994)">
+		<description>Alien Logic (1994)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="AlphaMan (1995)">
+		<description>AlphaMan (1995)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Alternate Reality - The City (1988)">
+		<description>Alternate Reality - The City (1988)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Amberstar (1992)">
+		<description>Amberstar (1992)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Amulet of Yendor (1985)">
+		<description>Amulet of Yendor (1985)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Amulets and Armor (1997)">
+		<description>Amulets and Armor (1997)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="An Elder Scrolls Legend Battlespire (1997)">
+		<description>An Elder Scrolls Legend Battlespire (1997)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Ancient Domains of Mystery (1994)">
+		<description>Ancient Domains of Mystery (1994)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Ancients 1 Deathwatch">
+		<description>Ancients 1 Deathwatch</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Ancients 2 Approaching Evil">
+		<description>Ancients 2 Approaching Evil</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Angband (1992)">
+		<description>Angband (1992)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Antkill (1992)">
+		<description>Antkill (1992)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Anvil of Dawn (1995)">
+		<description>Anvil of Dawn (1995)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Aspetra (1996)">
+		<description>Aspetra (1996)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Autoduel (1988)">
+		<description>Autoduel (1988)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Avalon (1998)">
+		<description>Avalon (1998)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Bazooka of the Red Dragon (1997)">
+		<description>Bazooka of the Red Dragon (1997)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Beneath Apple Manor (1978)">
+		<description>Beneath Apple Manor (1978)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Betrayal of the Obsidian Baboon (1996)">
+		<description>Betrayal of the Obsidian Baboon (1996)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Blind Justice (1995)">
+		<description>Blind Justice (1995)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Bloodstone - An Epic Dwarven Tale (1993)">
+		<description>Bloodstone - An Epic Dwarven Tale (1993)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Bloodwych (1989)">
+		<description>Bloodwych (1989)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Bob&apos;s Dragon Hunt (1992)">
+		<description>Bob&apos;s Dragon Hunt (1992)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Buck Rogers - Countdown to Doomsday (1990)">
+		<description>Buck Rogers - Countdown to Doomsday (1990)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Buck Rogers - Matrix Cubed (1992)">
+		<description>Buck Rogers - Matrix Cubed (1992)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Burntime (1993)">
+		<description>Burntime (1993)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Captive (1992)">
+		<description>Captive (1992)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Cavequest (1985)">
+		<description>Cavequest (1985)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Caverns of Xaskazien (1995)">
+		<description>Caverns of Xaskazien (1995)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Caverns of Zoarre (1984)">
+		<description>Caverns of Zoarre (1984)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Challenge of the Five Realms (1992)">
+		<description>Challenge of the Five Realms (1992)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Champions of Krynn (1990)">
+		<description>Champions of Krynn (1990)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Cobra Mission (1992)">
+		<description>Cobra Mission (1992)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Computer Underground (1993)">
+		<description>Computer Underground (1993)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Cosmic Soldier - Psychic War (1989)">
+		<description>Cosmic Soldier - Psychic War (1989)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Crystals of Arborea (1990)">
+		<description>Crystals of Arborea (1990)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Curse of the Azure Bonds (1989)">
+		<description>Curse of the Azure Bonds (1989)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Daemonsgate (1992)">
+		<description>Daemonsgate (1992)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Dark Designs I - Grelminars Staff (1990)">
+		<description>Dark Designs I - Grelminars Staff (1990)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Dark Designs II - Closing the Gate (1991)">
+		<description>Dark Designs II - Closing the Gate (1991)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Dark Sun - Shattered Lands (1993)">
+		<description>Dark Sun - Shattered Lands (1993)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Dark Sun II - Wake of the Ravager (1994)">
+		<description>Dark Sun II - Wake of the Ravager (1994)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Dark Woods 2 (2002)">
+		<description>Dark Woods 2 (2002)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Darklands (1992)">
+		<description>Darklands (1992)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Darkspyre (1990)">
+		<description>Darkspyre (1990)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Death Bringer (1988)">
+		<description>Death Bringer (1988)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Death Knights of Krynn (1991)">
+		<description>Death Knights of Krynn (1991)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Defcon 5 (1995)">
+		<description>Defcon 5 (1995)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Defender of Boston - The Rock Island Mystery (1992)">
+		<description>Defender of Boston - The Rock Island Mystery (1992)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Demons Winter (1988)">
+		<description>Demons Winter (1988)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Descent to Undermountain (1998)">
+		<description>Descent to Undermountain (1998)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Disciples of Steel (1994)">
+		<description>Disciples of Steel (1994)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="DND (1986)">
+		<description>DND (1986)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Don&apos;t Go Alone (1989)">
+		<description>Don&apos;t Go Alone (1989)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Doom - The Roguelike (2005)">
+		<description>Doom - The Roguelike (2005)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Dracula in London (1988)">
+		<description>Dracula in London (1988)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Dragon Lord (1990)">
+		<description>Dragon Lord (1990)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Dragon Wars (1990)">
+		<description>Dragon Wars (1990)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Dragons of Flame (1989)">
+		<description>Dragons of Flame (1989)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Drakkhen (1989)">
+		<description>Drakkhen (1989)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Druid - Daemons of the Mind (1995)">
+		<description>Druid - Daemons of the Mind (1995)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Dungeon (1987)">
+		<description>Dungeon (1987)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Dungeon Crawl (1999)">
+		<description>Dungeon Crawl (1999)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Dungeon Hack (1993)">
+		<description>Dungeon Hack (1993)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Dungeon Master (1989)">
+		<description>Dungeon Master (1989)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Dungeon Master II - The Legend of Skullkeep (1994)">
+		<description>Dungeon Master II - The Legend of Skullkeep (1994)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Dungeon of Death (1994)">
+		<description>Dungeon of Death (1994)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Dungeon Quest (1985)">
+		<description>Dungeon Quest (1985)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Dungeons of Death (1994)">
+		<description>Dungeons of Death (1994)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Dungeons of Kairn (1989)">
+		<description>Dungeons of Kairn (1989)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Dungeons of the Unforgiven (1993)">
+		<description>Dungeons of the Unforgiven (1993)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Dusk of the Gods (1991)">
+		<description>Dusk of the Gods (1991)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Eamon (1988)">
+		<description>Eamon (1988)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Eamon Adventure Disk 1 - The Main Hall (1988)">
+		<description>Eamon Adventure Disk 1 - The Main Hall (1988)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Eamon Adventure Disk 2 - The Ice Cave (1988)">
+		<description>Eamon Adventure Disk 2 - The Ice Cave (1988)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Eamon Adventure Disk 3 - Assault on the Clone Master (1988)">
+		<description>Eamon Adventure Disk 3 - Assault on the Clone Master (1988)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Eamon Adventure Disk 4 - Quest For Trezore (1988)">
+		<description>Eamon Adventure Disk 4 - Quest For Trezore (1988)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Escape from Hell (1990)">
+		<description>Escape from Hell (1990)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Evets - The Ultimate Adventure (1988)">
+		<description>Evets - The Ultimate Adventure (1988)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Excelsior Phase One - Lysandia (1993)">
+		<description>Excelsior Phase One - Lysandia (1993)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Eye of the Beholder (1991)">
+		<description>Eye of the Beholder (1991)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Eye of the Beholder II - The Legend of Darkmoon (1991)">
+		<description>Eye of the Beholder II - The Legend of Darkmoon (1991)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Eye of the Beholder III - Assault on Myth Drannor (1993)">
+		<description>Eye of the Beholder III - Assault on Myth Drannor (1993)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Fallout (1997)">
+		<description>Fallout (1997)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="FallThru (1990)">
+		<description>FallThru (1990)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Fates of Twinion">
+		<description>Fates of Twinion</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Fire King (1990)">
+		<description>Fire King (1990)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="First Expedition (1987)">
+		<description>First Expedition (1987)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Flame Storm (1995)">
+		<description>Flame Storm (1995)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Forever Legend (1998)">
+		<description>Forever Legend (1998)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Fountain of Dreams (1990)">
+		<description>Fountain of Dreams (1990)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Gateway to the Savage Frontier (1991)">
+		<description>Gateway to the Savage Frontier (1991)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Girlfriend Construction Set (1989)">
+		<description>Girlfriend Construction Set (1989)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="God of Thunder (1993)">
+		<description>God of Thunder (1993)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Gunblaze (1994)">
+		<description>Gunblaze (1994)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Hack (1984)">
+		<description>Hack (1984)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Halls of the Dead - Faery Tale Adventure II (1997)">
+		<description>Halls of the Dead - Faery Tale Adventure II (1997)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Hard Nova (1990)">
+		<description>Hard Nova (1990)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Heathkit DND (1985)">
+		<description>Heathkit DND (1985)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Heimdall (1992)">
+		<description>Heimdall (1992)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Heimdall 2 - Into the Hall of Worlds (1994)">
+		<description>Heimdall 2 - Into the Hall of Worlds (1994)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Hera - Sword of Rhin (1995)">
+		<description>Hera - Sword of Rhin (1995)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Hero Quest (1992)">
+		<description>Hero Quest (1992)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Heroes of the Lance (1989)">
+		<description>Heroes of the Lance (1989)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Hexx - Heresy of the Wizard (1994)">
+		<description>Hexx - Heresy of the Wizard (1994)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Hillsfar (1989)">
+		<description>Hillsfar (1989)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Hired Guns (1993)">
+		<description>Hired Guns (1993)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Hong Gildong-jeon (1993)">
+		<description>Hong Gildong-jeon (1993)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Hoosier City (1992)">
+		<description>Hoosier City (1992)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Inindo - Way of the Ninja (1993)">
+		<description>Inindo - Way of the Ninja (1993)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Ishar - Legend of the Fortress (1992)">
+		<description>Ishar - Legend of the Fortress (1992)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Ishar 2 - Messengers of Doom (1993)">
+		<description>Ishar 2 - Messengers of Doom (1993)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Ishar 3 - The Seven Gates of Infinity (1994)">
+		<description>Ishar 3 - The Seven Gates of Infinity (1994)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="J.R.R. Tolkien&apos;s The Lord of the Rings Vol 1 (1990)">
+		<description>J.R.R. Tolkien&apos;s The Lord of the Rings Vol 1 (1990)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="J.R.R. Tolkien&apos;s The Lord of the Rings Vol 2 (1991)">
+		<description>J.R.R. Tolkien&apos;s The Lord of the Rings Vol 2 (1991)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Joyous Rebel (1996)">
+		<description>Joyous Rebel (1996)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Kahjar - The Bratockian Saga Part III (1995)">
+		<description>Kahjar - The Bratockian Saga Part III (1995)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Knights of Legend (1989)">
+		<description>Knights of Legend (1989)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Knights of Xentar (1994)">
+		<description>Knights of Xentar (1994)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Lands of Lore - Guardians of Destiny (1997)">
+		<description>Lands of Lore - Guardians of Destiny (1997)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Lands of Lore - The Throne of Chaos (1993)">
+		<description>Lands of Lore - The Throne of Chaos (1993)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Larn (1986)">
+		<description>Larn (1986)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Legacy of the Ancients (1989)">
+		<description>Legacy of the Ancients (1989)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Legend of Faerghail (1990)">
+		<description>Legend of Faerghail (1990)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Legend of Saladir (1999)">
+		<description>Legend of Saladir (1999)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Legend of the Red Dragon (1992)">
+		<description>Legend of the Red Dragon (1992)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Legend of the Red Dragon 2 - New World (1992)">
+		<description>Legend of the Red Dragon 2 - New World (1992)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Legends of Murder - Volume 1 Stonedale Castle (1989)">
+		<description>Legends of Murder - Volume 1 Stonedale Castle (1989)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Legends of Murder - Volume 1 Stonedale Castle (1993)">
+		<description>Legends of Murder - Volume 1 Stonedale Castle (1993)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Legends of Murder - Volume 2 Grey Haven (1991)">
+		<description>Legends of Murder - Volume 2 Grey Haven (1991)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Legends of Valour (1992)">
+		<description>Legends of Valour (1992)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Leygref&apos;s Castle (1986)">
+		<description>Leygref&apos;s Castle (1986)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Linley Henzell&apos;s Dungeon Crawl (1997)">
+		<description>Linley Henzell&apos;s Dungeon Crawl (1997)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Lords of Midnight (1995)">
+		<description>Lords of Midnight (1995)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Mad Paradox (1994)">
+		<description>Mad Paradox (1994)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Madman (1995)">
+		<description>Madman (1995)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="MAG (1988)">
+		<description>MAG (1988)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Magocracy (2004)">
+		<description>Magocracy (2004)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Mazzembly 1997 (1996)">
+		<description>Mazzembly 1997 (1996)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="MegaTraveller 1 - The Zhodani Conspiracy (1990)">
+		<description>MegaTraveller 1 - The Zhodani Conspiracy (1990)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="MegaTraveller 2 - Quest for the Ancients (1991)">
+		<description>MegaTraveller 2 - Quest for the Ancients (1991)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Menzoberranzan (1994)">
+		<description>Menzoberranzan (1994)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Might and Magic - Book 1 (1986)">
+		<description>Might and Magic - Book 1 (1986)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Might and Magic - Swords of Xeen (1995)">
+		<description>Might and Magic - Swords of Xeen (1995)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Might and Magic 2 - Gates to Another World (1988)">
+		<description>Might and Magic 2 - Gates to Another World (1988)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Might and Magic 3 - Isles of Terra (1991)">
+		<description>Might and Magic 3 - Isles of Terra (1991)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Might and Magic 4 - Couds of Xeen (1992)">
+		<description>Might and Magic 4 - Couds of Xeen (1992)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Might and Magic 4+5 - World of Xeen (1994)">
+		<description>Might and Magic 4+5 - World of Xeen (1994)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Might and Magic 5 - Darkside of Xeen (1993)">
+		<description>Might and Magic 5 - Darkside of Xeen (1993)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Mission - Mainframe (1987)">
+		<description>Mission - Mainframe (1987)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Moebius - The Orb of Celestial Harmony (1987)">
+		<description>Moebius - The Orb of Celestial Harmony (1987)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Moonstone -  A Hard Days Knight (1992)">
+		<description>Moonstone -  A Hard Days Knight (1992)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Moraff&apos;s Dungeons of the Unforgiven (1993)">
+		<description>Moraff&apos;s Dungeons of the Unforgiven (1993)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Moraffs Revenge (1988)">
+		<description>Moraffs Revenge (1988)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Moraffs World (1991)">
+		<description>Moraffs World (1991)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Moraffs World Beginner&apos;s Version (1993)">
+		<description>Moraffs World Beginner&apos;s Version (1993)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Moria (1992)">
+		<description>Moria (1992)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Morkin 2 (1992)">
+		<description>Morkin 2 (1992)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Mysterious Song (2000)">
+		<description>Mysterious Song (2000)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Mystic Towers (1994)">
+		<description>Mystic Towers (1994)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Nahlakh (1994)">
+		<description>Nahlakh (1994)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Nemesis - The Wizardry Adventure (1996)">
+		<description>Nemesis - The Wizardry Adventure (1996)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="NetHack (1987)">
+		<description>NetHack (1987)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Neverwinter Nights (1991)">
+		<description>Neverwinter Nights (1991)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Nurmans (1994)">
+		<description>Nurmans (1994)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Obitus (1991)">
+		<description>Obitus (1991)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Omega (1988)">
+		<description>Omega (1988)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Operation - Overkill II (1990)">
+		<description>Operation - Overkill II (1990)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Oubliette (1983)">
+		<description>Oubliette (1983)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Phantasie (1987)">
+		<description>Phantasie (1987)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Phantasie 3 - The Wrath of Nikademus (1988)">
+		<description>Phantasie 3 - The Wrath of Nikademus (1988)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Planet&apos;s Edge - The Point of No Return (1991)">
+		<description>Planet&apos;s Edge - The Point of No Return (1991)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Pool of Radiance (1988)">
+		<description>Pool of Radiance (1988)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Pools of Darkness (1991)">
+		<description>Pools of Darkness (1991)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Prophecy - The Fall of Trinadon (1989)">
+		<description>Prophecy - The Fall of Trinadon (1989)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Prophecy of the Shadow (1992)">
+		<description>Prophecy of the Shadow (1992)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Psionics (1993)">
+		<description>Psionics (1993)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Questron II (1988)">
+		<description>Questron II (1988)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Quik Majik Adventure (1991)">
+		<description>Quik Majik Adventure (1991)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Ravenloft  - Stone Prophet (1995)">
+		<description>Ravenloft  - Stone Prophet (1995)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Ravenloft - Strahd&apos;s Possession (1994)">
+		<description>Ravenloft - Strahd&apos;s Possession (1994)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Realms of Arkania - Blade of Destiny (1992)">
+		<description>Realms of Arkania - Blade of Destiny (1992)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Realms of Arkania 2 - Star Trail (1994)">
+		<description>Realms of Arkania 2 - Star Trail (1994)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Realms of Arkania 3 - Shadows over Riva (1996)">
+		<description>Realms of Arkania 3 - Shadows over Riva (1996)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Reaping the Dungeon (1993)">
+		<description>Reaping the Dungeon (1993)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Ring Cycle (1996)">
+		<description>Ring Cycle (1996)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Rings of Zilfin (1987)">
+		<description>Rings of Zilfin (1987)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Robinson&apos;s Requiem (1994)">
+		<description>Robinson&apos;s Requiem (1994)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Rogue (1983)">
+		<description>Rogue (1983)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Rogue Clone (1988)">
+		<description>Rogue Clone (1988)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Rome - Pathway to Power (1993)">
+		<description>Rome - Pathway to Power (1993)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Ruins of Cawdor">
+		<description>Ruins of Cawdor</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Scavengers of the Mutant World (1988)">
+		<description>Scavengers of the Mutant World (1988)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Secret of the Silver Blades (1990)">
+		<description>Secret of the Silver Blades (1990)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Sentinel Worlds 1 - Future Magic (1988)">
+		<description>Sentinel Worlds 1 - Future Magic (1988)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Shadow of Yserbius (1993)">
+		<description>Shadow of Yserbius (1993)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Shadow Sorcerer (1991)">
+		<description>Shadow Sorcerer (1991)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Shadowlands (1993)">
+		<description>Shadowlands (1993)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Shadoworlds (1993)">
+		<description>Shadoworlds (1993)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Shadows of Cairn (1994)">
+		<description>Shadows of Cairn (1994)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Shapeshifter (1992)">
+		<description>Shapeshifter (1992)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Shard of Spring (1986)">
+		<description>Shard of Spring (1986)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Silmar (1990)">
+		<description>Silmar (1990)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Sleeping Gods Lie (1989)">
+		<description>Sleeping Gods Lie (1989)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Solar Winds - Galaxy (1993)">
+		<description>Solar Winds - Galaxy (1993)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Sorcerer&apos;s Bane (1992)">
+		<description>Sorcerer&apos;s Bane (1992)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Sorcerian (1990)">
+		<description>Sorcerian (1990)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Space 1889 (1990)">
+		<description>Space 1889 (1990)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Space Rogue (1989)">
+		<description>Space Rogue (1989)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Spacewrecked - 14 Billion Light Years From Earth (1991)">
+		<description>Spacewrecked - 14 Billion Light Years From Earth (1991)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Spelljammer - Pirates of Realmspace (1992)">
+		<description>Spelljammer - Pirates of Realmspace (1992)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Spirit of Adventure (1991)">
+		<description>Spirit of Adventure (1991)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Spiritual Warfare (1993)">
+		<description>Spiritual Warfare (1993)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Star Command (1988)">
+		<description>Star Command (1988)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Star Saga One - Beyond the Boundary (1987)">
+		<description>Star Saga One - Beyond the Boundary (1987)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Star Saga Two - The Clathren Menace (1989)">
+		<description>Star Saga Two - The Clathren Menace (1989)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Starflight (1986)">
+		<description>Starflight (1986)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Starflight 2 - Trade Routes of the Cloud Nebula (1989)">
+		<description>Starflight 2 - Trade Routes of the Cloud Nebula (1989)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="StarQuest - Rescure at Rigel (1983)">
+		<description>StarQuest - Rescure at Rigel (1983)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="StarQuest - Star Warrior (1983)">
+		<description>StarQuest - Star Warrior (1983)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Stonekeep (1995)">
+		<description>Stonekeep (1995)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Super ZZT (1992)">
+		<description>Super ZZT (1992)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Sword Quest 1 - The Search (1992)">
+		<description>Sword Quest 1 - The Search (1992)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Sword Quest 2 - Tale of the Talisman (1993)">
+		<description>Sword Quest 2 - Tale of the Talisman (1993)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Swords of Glass (1986)">
+		<description>Swords of Glass (1986)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Tangled Tales (1989)">
+		<description>Tangled Tales (1989)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Telengard (1985)">
+		<description>Telengard (1985)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Temple of Apshai Trilogy (1982)">
+		<description>Temple of Apshai Trilogy (1982)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Ten Nights of Killing and Mayhem at F.J.B. II (1996)">
+		<description>Ten Nights of Killing and Mayhem at F.J.B. II (1996)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Teradyne (1992)">
+		<description>Teradyne (1992)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="The Aethra Chronicles - Volume One - Celystra&apos;s Bane (1994)">
+		<description>The Aethra Chronicles - Volume One - Celystra&apos;s Bane (1994)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="The Bard&apos;s Tale 1 - Tales Of The Unknown (1987)">
+		<description>The Bard&apos;s Tale 1 - Tales Of The Unknown (1987)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="The Bard&apos;s Tale 2 - The Destiny Knight (1988)">
+		<description>The Bard&apos;s Tale 2 - The Destiny Knight (1988)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="The Bard&apos;s Tale 3 - Thief Of Fate (1990)">
+		<description>The Bard&apos;s Tale 3 - Thief Of Fate (1990)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="The Bard&apos;s Tale Construction Set (1991)">
+		<description>The Bard&apos;s Tale Construction Set (1991)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="The Dark Heart of Uukrul (1989)">
+		<description>The Dark Heart of Uukrul (1989)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="The Dark Queen of Krynn (1992)">
+		<description>The Dark Queen of Krynn (1992)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="The Dragon Sword (1990)">
+		<description>The Dragon Sword (1990)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="The Elder Scrolls - Arena (1994)">
+		<description>The Elder Scrolls - Arena (1994)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="The Elder Scrolls - Daggerfall (1996)">
+		<description>The Elder Scrolls - Daggerfall (1996)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="The Faery Tale Adventure - Book 1 (1989)">
+		<description>The Faery Tale Adventure - Book 1 (1989)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="The Four Crystals of Trazere (1992)">
+		<description>The Four Crystals of Trazere (1992)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="The Infernal Tome (1994)">
+		<description>The Infernal Tome (1994)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="The Keys to Maramon (1990)">
+		<description>The Keys to Maramon (1990)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="The Kingdom of Syree (1992)">
+		<description>The Kingdom of Syree (1992)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="The Land (1989)">
+		<description>The Land (1989)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="The Magic Candle (1989)">
+		<description>The Magic Candle (1989)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="The Magic Candle 2 - The Four and Forty (1991)">
+		<description>The Magic Candle 2 - The Four and Forty (1991)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="The Magic Candle 3 (1992)">
+		<description>The Magic Candle 3 (1992)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="The Nine Lives of Secret Agent Katt (1991)">
+		<description>The Nine Lives of Secret Agent Katt (1991)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="The Original Mulan (1998)">
+		<description>The Original Mulan (1998)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="The Red Crystal - The Seven Secrets of Life (1993)">
+		<description>The Red Crystal - The Seven Secrets of Life (1993)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="The Rescue of Lorri in Lorrinitron (1991)">
+		<description>The Rescue of Lorri in Lorrinitron (1991)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="The Seven Spirits of Ra (1987)">
+		<description>The Seven Spirits of Ra (1987)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="The Summoning (1992)">
+		<description>The Summoning (1992)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="The Valley (2001)">
+		<description>The Valley (2001)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Times of Lore (1988)">
+		<description>Times of Lore (1988)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Totally Smashed (1995)">
+		<description>Totally Smashed (1995)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Tower of Souls (1995)">
+		<description>Tower of Souls (1995)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Towers - Lord Baniff&apos;s Deceit (1994)">
+		<description>Towers - Lord Baniff&apos;s Deceit (1994)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Treasures of the Savage Frontier (1992)">
+		<description>Treasures of the Savage Frontier (1992)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Treehouse Truants (1994)">
+		<description>Treehouse Truants (1994)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Trial by Magic (1995)">
+		<description>Trial by Magic (1995)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Tunnels &amp; Trolls - Crusaders of Khazan (1990)">
+		<description>Tunnels &amp; Trolls - Crusaders of Khazan (1990)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Ultima 0 - Akalabeth (1980)">
+		<description>Ultima 0 - Akalabeth (1980)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Ultima I - The First Age of Darkness (1986)">
+		<description>Ultima I - The First Age of Darkness (1986)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Ultima II - Revenge of the Enchantress (1983)">
+		<description>Ultima II - Revenge of the Enchantress (1983)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Ultima III - Exodus (1983)">
+		<description>Ultima III - Exodus (1983)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Ultima IV - Quest of the Avatar (1985)">
+		<description>Ultima IV - Quest of the Avatar (1985)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Ultima Underworld - The Stygian Abyss (1992)">
+		<description>Ultima Underworld - The Stygian Abyss (1992)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Ultima Underworld 2 - Labyrinth of Worlds (1993)">
+		<description>Ultima Underworld 2 - Labyrinth of Worlds (1993)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Ultima V - Warriors of Destiny (1988)">
+		<description>Ultima V - Warriors of Destiny (1988)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Ultima VI - The False Prophet (1990)">
+		<description>Ultima VI - The False Prophet (1990)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Ultima VII Part 1 - The Black Gate + Forge of Virtue (1992)">
+		<description>Ultima VII Part 1 - The Black Gate + Forge of Virtue (1992)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Ultima VII Part 2 - Serpent Isle + The Silver Seed (1993)">
+		<description>Ultima VII Part 2 - Serpent Isle + The Silver Seed (1993)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Ultima VIII - Pagan (1994)">
+		<description>Ultima VIII - Pagan (1994)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Ultima Worlds of Adventure 2 - Martian Dreams (1991)">
+		<description>Ultima Worlds of Adventure 2 - Martian Dreams (1991)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Ultimuh MCMLXVII - Part 2 of the 39th Trilogy - The Quest for the Golden Amulet (1993)">
+		<description>Ultimuh MCMLXVII - Part 2 of the 39th Trilogy - The Quest for the Golden Amulet (1993)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Ultizurk (1995)">
+		<description>Ultizurk (1995)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Ultizurk 2- The Shadow Master (1993)">
+		<description>Ultizurk 2- The Shadow Master (1993)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Ultizurk 3 - The Guildmaster&apos;s Quest (1995)">
+		<description>Ultizurk 3 - The Guildmaster&apos;s Quest (1995)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Unlimited Adventures (1993)">
+		<description>Unlimited Adventures (1993)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="UnReal World (1994)">
+		<description>UnReal World (1994)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Untima IX - Descension (2003)">
+		<description>Untima IX - Descension (2003)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Valhalla (1993)">
+		<description>Valhalla (1993)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Vampyr - Talisman of Invocation (1990)">
+		<description>Vampyr - Talisman of Invocation (1990)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Visions of Aftermath - The Boomtown (1988)">
+		<description>Visions of Aftermath - The Boomtown (1988)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Walls of Bratock, The (1993)">
+		<description>Walls of Bratock, The (1993)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Warrior of Ras - Volume One - Dunzhin (1982)">
+		<description>Warrior of Ras - Volume One - Dunzhin (1982)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Warriors of Legend (1993)">
+		<description>Warriors of Legend (1993)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Wasteland (1988)">
+		<description>Wasteland (1988)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Whale&apos;s Voyage (1993)">
+		<description>Whale&apos;s Voyage (1993)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Wibarm (1989)">
+		<description>Wibarm (1989)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Windwalker (1989)">
+		<description>Windwalker (1989)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Wizard Wars (1988)">
+		<description>Wizard Wars (1988)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Wizard Warz (1987)">
+		<description>Wizard Warz (1987)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Wizard&apos;s Crown (1985)">
+		<description>Wizard&apos;s Crown (1985)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Wizard&apos;s Lair (1988)">
+		<description>Wizard&apos;s Lair (1988)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Wizardry I - Proving Grounds of the Mad Overlord (1981)">
+		<description>Wizardry I - Proving Grounds of the Mad Overlord (1981)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Wizardry II - The Knight of Diamonds (1982)">
+		<description>Wizardry II - The Knight of Diamonds (1982)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Wizardry III - Legacy of Llylgamyn (1983)">
+		<description>Wizardry III - Legacy of Llylgamyn (1983)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Wizardry IV - The Return of Werdna (1986)">
+		<description>Wizardry IV - The Return of Werdna (1986)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Wizardry V - Heart of the Maelstrom (1988)">
+		<description>Wizardry V - Heart of the Maelstrom (1988)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Wizardry VI - Bane of the Cosmic Forge (1990)">
+		<description>Wizardry VI - Bane of the Cosmic Forge (1990)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Wizardry VII - Crusaders of the Dark Servant (1992)">
+		<description>Wizardry VII - Crusaders of the Dark Servant (1992)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="World of Aden - Thunderscape (1995)">
+		<description>World of Aden - Thunderscape (1995)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Worlds of Legend - Son of the Empire (1992)">
+		<description>Worlds of Legend - Son of the Empire (1992)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Worlds of Ultima - The Savage Empire (1990)">
+		<description>Worlds of Ultima - The Savage Empire (1990)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Wraith (1995)">
+		<description>Wraith (1995)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="X-Men 2 - The Fall of the Mutants (1991)">
+		<description>X-Men 2 - The Fall of the Mutants (1991)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Yendorian Tales - The Tyrants of Thaine (1997)">
+		<description>Yendorian Tales - The Tyrants of Thaine (1997)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Yendorian Tales Book1 (1994)">
+		<description>Yendorian Tales Book1 (1994)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Yendorian Tales Book1 - Chapter 2 (1996)">
+		<description>Yendorian Tales Book1 - Chapter 2 (1996)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Ys - The Vanished Omens (1989)">
+		<description>Ys - The Vanished Omens (1989)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="Zeliard (1990)">
+		<description>Zeliard (1990)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="ZZT (1991)">
+		<description>ZZT (1991)</description>
+		<genre/>
+		<rating/>
+	</game>
+	<game name="ZZT&apos;s City (1991)">
+		<description>ZZT&apos;s City (1991)</description>
+		<genre/>
+		<rating/>
+	</game>
+</menu>

@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Nintendo 64</listname>
+		<lastlistupdate>11/15/2011</lastlistupdate>
+		<listversion>1.1 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="ECW Hardcore Revolution (USA)" index="true" image="e">
+		<description>ECW Hardcore Revolution (USA)</description>
+		<cloneof></cloneof>
+		<crc>4BA40079</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>2000</year>
+		<genre>Sports/Wrestling</genre>
+		<rating>ESRB - M (Mature)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="WCW Backstage Assault (USA)" index="true" image="w">
+		<description>WCW Backstage Assault (USA)</description>
+		<cloneof></cloneof>
+		<crc>D3A9F234</crc>
+		<manufacturer>Electronic Arts</manufacturer>
+		<year>2000</year>
+		<genre>Sports/Wrestling</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="WCW Mayhem (USA)" index="" image="">
+		<description>WCW Mayhem (USA)</description>
+		<cloneof></cloneof>
+		<crc>A1911368</crc>
+		<manufacturer>EA Sports</manufacturer>
+		<year>1999</year>
+		<genre>Sports/Wrestling</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="WCW Nitro (USA)" index="" image="">
+		<description>WCW Nitro (USA)</description>
+		<cloneof></cloneof>
+		<crc>AC1909A9</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>1999</year>
+		<genre>Sports/Wrestling</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="WCW vs. nWo - World Tour (USA) (Rev A)" index="" image="">
+		<description>WCW vs. nWo - World Tour (USA) (Rev A)</description>
+		<cloneof></cloneof>
+		<crc>85E0C097</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>1997</year>
+		<genre>Sports/Wrestling</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="WCW-nWo Revenge (USA)" index="" image="">
+		<description>WCW-nWo Revenge (USA)</description>
+		<cloneof></cloneof>
+		<crc>2257FD02</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>1998</year>
+		<genre>Sports/Wrestling</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="WWF Attitude (USA)" index="" image="">
+		<description>WWF Attitude (USA)</description>
+		<cloneof></cloneof>
+		<crc>F694DB1E</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1999</year>
+		<genre>Sports/Wrestling</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="WWF No Mercy (USA) (Rev A)" index="" image="">
+		<description>WWF No Mercy (USA) (Rev A)</description>
+		<cloneof></cloneof>
+		<crc>AFBC514E</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2000</year>
+		<genre>Sports/Wrestling</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="WWF War Zone (USA)" index="" image="">
+		<description>WWF War Zone (USA)</description>
+		<cloneof></cloneof>
+		<crc>6CFE13A8</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1998</year>
+		<genre>Sports/Wrestling</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="WWF WrestleMania 2000 (USA)" index="" image="">
+		<description>WWF WrestleMania 2000 (USA)</description>
+		<cloneof></cloneof>
+		<crc>D514E83C</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>1999</year>
+		<genre>Sports/Wrestling</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<INISCHEMA>
+	<INIFILES>
+		<INIFILE name="%ModuleName%" required="false">
+			<INITYPE>Module</INITYPE>
+			<SECTIONS>
+				<SECTION name="Settings" required="false">
+					<SECTIONTYPE>Global</SECTIONTYPE>
+					<KEYS>
+						<KEY name="Fullscreen" required="false" nullable="false">
+							<KEYTYPE>Boolean</KEYTYPE>
+							<DESCRIPTION>Enables/Disables Fullscreen</DESCRIPTION>
+						</KEY>
+						<KEY name="PerGameMemoryCards" required="false" nullable="false">
+							<KEYTYPE>Boolean</KEYTYPE>
+							<DESCRIPTION>Enables/Disables Support for Per-Game Memory Card support. Make sure you first create a "default.ps2" memory card in the folder you store your memory cards in.</DESCRIPTION>
+						</KEY>
+						<KEY name="noGUI" required="false" nullable="false">
+							<KEYTYPE>Boolean</KEYTYPE>
+							<DESCRIPTION>If true, the GUI window will not show, DO NOT SET THIS AS TRUE, currently pcsx2 doesn't close properly when you exit in this mode. Make sure this option is set to default or false for normal usage, it is only for testing purposes.</DESCRIPTION>
+						</KEY>
+						<KEY name="fullboot" required="false" nullable="false">
+							<KEYTYPE>Boolean</KEYTYPE>
+							<DESCRIPTION>Disables fast booting and shows the bios screen.</DESCRIPTION>
+						</KEY>
+						<KEY name="HideConsole" required="false" nullable="false">
+							<KEYTYPE>Boolean</KEYTYPE>
+							<DESCRIPTION>Enables/Disables hiding of console window that can appear while in windowed mode or using bezels.</DESCRIPTION>
+						</KEY>
+						<KEY name="AutoCreateINIDir" required="false" nullable="false">
+							<KEYTYPE>Boolean</KEYTYPE>
+							<DESCRIPTION>Enables/Disables the module to automatically create per game ini directories for each game in the defined DefaultINISPath directory.</DESCRIPTION>
+						</KEY>
+						<KEY name="DefaultINISPath" required="false" nullable="true">
+							<KEYTYPE>FolderPath</KEYTYPE>
+							<FULLROW>true</FULLROW>
+							<DESCRIPTION>Path to default INIS folder of PCSX2. The INIS files in there will be copied in a new game config folder if AutoCreateINIDir is true, and if it doesn't already exist. If it's empty, it will use the inis subfolder in PCSX2 folder.</DESCRIPTION>
+						</KEY>
+						<KEY name="cfgpath" required="false" nullable="true">
+							<KEYTYPE>FolderPath</KEYTYPE>
+							<FULLROW>true</FULLROW>
+							<DESCRIPTION>Specifies the base config folder. Applies to pcsx2 + plugins. Default will be a subfolder inside your emuPath called "Game Configs". In this folder should reside more folders named after each game and contain any custom dll plugin inis.</DESCRIPTION>
+						</KEY>
+						<KEY name="VD_CDVD_Plugin" required="false" nullable="true">
+							<KEYTYPE>FilePath</KEYTYPE>
+							<FULLROW>true</FULLROW>
+							<DESCRIPTION>In order to support multiple types of images in a single collection, the module needs to know what your CDVD plugin is called when using games mounted with a Virtual Drive. Usually you set this to use cdvdGigaherz.dll (the plugin that supports virtual mounted images)</DESCRIPTION>
+							<PATHTYPE>Any</PATHTYPE>
+							<FILEEXTENSIONS>
+								<FILEEXTENSION>dll</FILEEXTENSION>
+							</FILEEXTENSIONS>
+						</KEY>
+						<KEY name="Image_CDVD_Plugin" required="false" nullable="true">
+							<KEYTYPE>FilePath</KEYTYPE>
+							<FULLROW>true</FULLROW>
+							<DESCRIPTION>In order to support multiple types of images in a single collection, the module needs to know what your CDVD plugin is called when using images directly loaded by your CDVD plugin. Usually you set this to use CDVDnull.dll (the plugin that supports loading images directly)</DESCRIPTION>
+							<PATHTYPE>Any</PATHTYPE>
+							<FILEEXTENSIONS>
+								<FILEEXTENSION>dll</FILEEXTENSION>
+							</FILEEXTENSIONS>
+						</KEY>
+						<KEY name="Linuz_CDVD_Plugin" required="false" nullable="true">
+							<KEYTYPE>FilePath</KEYTYPE>
+							<FULLROW>true</FULLROW>
+							<DESCRIPTION>If different than your Image_CDVD_Plugin, point this setting to your Linuz dll. In order to support multiple types of images in a single collection, the module needs to know what your CDVD plugin is called when using BZ2 formatted images, which are directly loaded by your CDVD plugin. Usually you set this to use cdvdiso.dll (the plugin that supports loading BZ2 directly)</DESCRIPTION>
+							<PATHTYPE>Any</PATHTYPE>
+							<FILEEXTENSIONS>
+								<FILEEXTENSION>dll</FILEEXTENSION>
+							</FILEEXTENSIONS>
+						</KEY>
+						<KEY name="gs" required="false" nullable="true">
+							<KEYTYPE>FilePath</KEYTYPE>
+							<FULLROW>true</FULLROW>
+							<DESCRIPTION>Override the default GS plugin set in the emu for all games, by setting one here.</DESCRIPTION>
+							<PATHTYPE>Any</PATHTYPE>
+							<FILEEXTENSIONS>
+								<FILEEXTENSION>dll</FILEEXTENSION>
+							</FILEEXTENSIONS>
+						</KEY>
+						<KEY name="pad" required="false" nullable="true">
+							<KEYTYPE>FilePath</KEYTYPE>
+							<FULLROW>true</FULLROW>
+							<DESCRIPTION>Override the default PAD plugin set in the emu for all games, by setting one here.</DESCRIPTION>
+							<PATHTYPE>Any</PATHTYPE>
+							<FILEEXTENSIONS>
+								<FILEEXTENSION>dll</FILEEXTENSION>
+							</FILEEXTENSIONS>
+						</KEY>
+						<KEY name="spu2" required="false" nullable="true">
+							<KEYTYPE>FilePath</KEYTYPE>
+							<FULLROW>true</FULLROW>
+							<DESCRIPTION>Override the default SPU2 plugin set in the emu for all games, by setting one here.</DESCRIPTION>
+							<PATHTYPE>Any</PATHTYPE>
+							<FILEEXTENSIONS>
+								<FILEEXTENSION>dll</FILEEXTENSION>
+							</FILEEXTENSIONS>
+						</KEY>
+						<KEY name="usb" required="false" nullable="true">
+							<KEYTYPE>FilePath</KEYTYPE>
+							<FULLROW>true</FULLROW>
+							<DESCRIPTION>Override the default USB plugin set in the emu for all games, by setting one here.</DESCRIPTION>
+							<PATHTYPE>Any</PATHTYPE>
+							<FILEEXTENSIONS>
+								<FILEEXTENSION>dll</FILEEXTENSION>
+							</FILEEXTENSIONS>
+						</KEY>
+						<KEY name="fw" required="false" nullable="true">
+							<KEYTYPE>FilePath</KEYTYPE>
+							<FULLROW>true</FULLROW>
+							<DESCRIPTION>Override the default FW plugin set in the emu for all games, by setting one here.</DESCRIPTION>
+							<PATHTYPE>Any</PATHTYPE>
+							<FILEEXTENSIONS>
+								<FILEEXTENSION>dll</FILEEXTENSION>
+							</FILEEXTENSIONS>
+						</KEY>
+						<KEY name="dev9" required="false" nullable="true">
+							<KEYTYPE>FilePath</KEYTYPE>
+							<FULLROW>true</FULLROW>
+							<DESCRIPTION>Override the default DEV9 plugin set in the emu for all games, by setting one here.</DESCRIPTION>
+							<PATHTYPE>Any</PATHTYPE>
+							<FILEEXTENSIONS>
+								<FILEEXTENSION>dll</FILEEXTENSION>
+							</FILEEXTENSIONS>
+						</KEY>
+					</KEYS>
+				</SECTION>
+				<SECTION name="%RomName%" required="false">
+					<SECTIONTYPE>Rom</SECTIONTYPE>
+					<KEYS>
+						<KEY name="VDOveride" required="false" nullable="false">
+							<KEYTYPE>Boolean</KEYTYPE>
+							<DESCRIPTION>This is an override for Virtual Drive support. It allows per-game support for Virtual Drives. Set to true to force this game to use a Virtual Drive or false to disable it.</DESCRIPTION>
+						</KEY>
+						<KEY name="nohacks" required="false" nullable="false">
+							<KEYTYPE>Boolean</KEYTYPE>
+							<DESCRIPTION>disables all speedhacks</DESCRIPTION>
+						</KEY>
+						<KEY name="gamefixes" required="false" nullable="true">
+							<KEYTYPE>String</KEYTYPE>
+							<DESCRIPTION>Use the specified comma or pipe-delimited list of gamefixes: "VuAddSub | VuClipFlag | FpuCompare | FpuMul | FpuNeg | EETiming | SkipMpeg | OPHFlag | DMABusy | VIFFIFO | VI | FMVinSoftware"</DESCRIPTION>
+						</KEY>
+						<KEY name="gs" required="false" nullable="true">
+							<KEYTYPE>FilePath</KEYTYPE>
+							<FULLROW>true</FULLROW>
+							<DESCRIPTION>Override the default GS plugin set in the emu, only for this rom, by setting one here.</DESCRIPTION>
+							<PATHTYPE>Any</PATHTYPE>
+							<FILEEXTENSIONS>
+								<FILEEXTENSION>dll</FILEEXTENSION>
+							</FILEEXTENSIONS>
+						</KEY>
+						<KEY name="pad" required="false" nullable="true">
+							<KEYTYPE>FilePath</KEYTYPE>
+							<FULLROW>true</FULLROW>
+							<DESCRIPTION>Override the default PAD plugin set in the emu, only for this rom, by setting one here.</DESCRIPTION>
+							<PATHTYPE>Any</PATHTYPE>
+							<FILEEXTENSIONS>
+								<FILEEXTENSION>dll</FILEEXTENSION>
+							</FILEEXTENSIONS>
+						</KEY>
+						<KEY name="spu2" required="false" nullable="true">
+							<KEYTYPE>FilePath</KEYTYPE>
+							<FULLROW>true</FULLROW>
+							<DESCRIPTION>Override the default SPU2 plugin set in the emu, only for this rom, by setting one here.</DESCRIPTION>
+							<PATHTYPE>Any</PATHTYPE>
+							<FILEEXTENSIONS>
+								<FILEEXTENSION>dll</FILEEXTENSION>
+							</FILEEXTENSIONS>
+						</KEY>
+						<KEY name="cdvd" required="false" nullable="true">
+							<KEYTYPE>FilePath</KEYTYPE>
+							<FULLROW>true</FULLROW>
+							<DESCRIPTION>Override the default CDVD plugin set in the emu, only for this rom, by setting one here. This will also override all the global CDVD plugins set for this module.</DESCRIPTION>
+							<PATHTYPE>Any</PATHTYPE>
+							<FILEEXTENSIONS>
+								<FILEEXTENSION>dll</FILEEXTENSION>
+							</FILEEXTENSIONS>
+						</KEY>
+						<KEY name="usb" required="false" nullable="true">
+							<KEYTYPE>FilePath</KEYTYPE>
+							<FULLROW>true</FULLROW>
+							<DESCRIPTION>Override the default USB plugin set in the emu, only for this rom, by setting one here.</DESCRIPTION>
+							<PATHTYPE>Any</PATHTYPE>
+							<FILEEXTENSIONS>
+								<FILEEXTENSION>dll</FILEEXTENSION>
+							</FILEEXTENSIONS>
+						</KEY>
+						<KEY name="fw" required="false" nullable="true">
+							<KEYTYPE>FilePath</KEYTYPE>
+							<FULLROW>true</FULLROW>
+							<DESCRIPTION>Override the default FW plugin set in the emu, only for this rom, by setting one here.</DESCRIPTION>
+							<PATHTYPE>Any</PATHTYPE>
+							<FILEEXTENSIONS>
+								<FILEEXTENSION>dll</FILEEXTENSION>
+							</FILEEXTENSIONS>
+						</KEY>
+						<KEY name="dev9" required="false" nullable="true">
+							<KEYTYPE>FilePath</KEYTYPE>
+							<FULLROW>true</FULLROW>
+							<DESCRIPTION>Override the default DEV9 plugin set in the emu, only for this rom, by setting one here.</DESCRIPTION>
+							<PATHTYPE>Any</PATHTYPE>
+							<FILEEXTENSIONS>
+								<FILEEXTENSION>dll</FILEEXTENSION>
+							</FILEEXTENSIONS>
+						</KEY>
+					</KEYS>
+				</SECTION>
+			</SECTIONS>
+		</INIFILE>
+	</INIFILES>
+</INISCHEMA>
+

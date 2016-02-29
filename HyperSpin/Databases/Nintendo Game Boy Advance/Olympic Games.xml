@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Nintendo Game Boy Advance</listname>
+		<lastlistupdate>10/27/2011</lastlistupdate>
+		<listversion>1.1 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="ESPN International Winter Sports 2002 (USA)" index="true" image="e">
+		<description>ESPN International Winter Sports 2002 (USA)</description>
+		<cloneof></cloneof>
+		<crc>FF51A9A9</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>2002</year>
+		<genre>Olympic</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="FILA Decathlon (Europe) (En,Fr,De,Es,It,Sv)" index="true" image="f">
+		<description>FILA Decathlon (Europe) (En,Fr,De,Es,It,Sv)</description>
+		<cloneof></cloneof>
+		<crc>628355B5</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2002</year>
+		<genre>Olympic</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Salt Lake 2002 (USA) (En,Fr,De,Es,It,Nl)" index="true" image="s">
+		<description>Salt Lake 2002 (USA) (En,Fr,De,Es,It,Nl)</description>
+		<cloneof></cloneof>
+		<crc>4603205A</crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>2002</year>
+		<genre>Olympic/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Winter Sports (Europe) (En,Fr,De,Es,It)" index="true" image="w">
+		<description>Winter Sports (Europe) (En,Fr,De,Es,It)</description>
+		<cloneof></cloneof>
+		<crc>64C802F9</crc>
+		<manufacturer>East Entertainment Media</manufacturer>
+		<year>2006</year>
+		<genre>Olympic/Sports</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

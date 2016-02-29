@@ -1,0 +1,279 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Atari 2600</listname>
+		<lastlistupdate>07/20/2013</lastlistupdate>
+		<listversion>1.0 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="3-D Tic-Tac-Toe (USA)" index="true" image="3">
+		<description>3-D Tic-Tac-Toe (USA)</description>
+		<cloneof></cloneof>
+		<crc>58805709</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1980</year>
+		<genre>Puzzle</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Acid Drop (Europe)" index="true" image="a">
+		<description>Acid Drop (Europe)</description>
+		<cloneof></cloneof>
+		<crc>14CDDAC7</crc>
+		<manufacturer>Salu</manufacturer>
+		<year>1992</year>
+		<genre>Puzzle</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Atari Video Cube (USA)" index="" image="">
+		<description>Atari Video Cube (USA)</description>
+		<cloneof></cloneof>
+		<crc>272AE37F</crc>
+		<manufacturer>Atari - GCC</manufacturer>
+		<year>1982</year>
+		<genre>Puzzle</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Crazy Valet (USA) (Unl)" index="true" image="c">
+		<description>Crazy Valet (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>00F7C122</crc>
+		<manufacturer>AtariAge - Brian Prescott</manufacturer>
+		<year>2000</year>
+		<genre>Puzzle</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cubicolor (USA) (Proto)" index="" image="">
+		<description>Cubicolor (USA) (Proto)</description>
+		<cloneof></cloneof>
+		<crc>D5D43A7A</crc>
+		<manufacturer>Imagic</manufacturer>
+		<year>1982</year>
+		<genre>Puzzle</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cubis (USA) (Unl)" index="" image="">
+		<description>Cubis (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>34AF49DA</crc>
+		<manufacturer>Hozer Video Games - Eckhard Stolberg</manufacturer>
+		<year>1997</year>
+		<genre>Puzzle</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dice Puzzle (Europe)" index="true" image="d">
+		<description>Dice Puzzle (Europe)</description>
+		<cloneof></cloneof>
+		<crc>F691B853</crc>
+		<manufacturer>Sancho - Tang&apos;s Electronic Co.</manufacturer>
+		<year>1983</year>
+		<genre>Puzzle</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Edtris 2600 (USA) (Unl)" index="true" image="e">
+		<description>Edtris 2600 (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>AA91D59C</crc>
+		<manufacturer>Hozer Video Games - Ed Federmeyer</manufacturer>
+		<year>1995</year>
+		<genre>Puzzle</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Flag Capture (USA)" index="true" image="f">
+		<description>Flag Capture (USA)</description>
+		<cloneof></cloneof>
+		<crc>8AA1C41E</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1978</year>
+		<genre>Puzzle</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Frostbite (USA)" index="" image="">
+		<description>Frostbite (USA)</description>
+		<cloneof></cloneof>
+		<crc>B61BE7A3</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>1983</year>
+		<genre>Puzzle</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hangman (USA)" index="true" image="h">
+		<description>Hangman (USA)</description>
+		<cloneof></cloneof>
+		<crc>C2BCC789</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1978</year>
+		<genre>Puzzle</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hunt &amp; Score (USA)" index="" image="">
+		<description>Hunt &amp; Score (USA)</description>
+		<cloneof></cloneof>
+		<crc>17DE8070</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1978</year>
+		<genre>Puzzle</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="IQ 180 (Europe)" index="true" image="i">
+		<description>IQ 180 (Europe)</description>
+		<cloneof></cloneof>
+		<crc>4DC2A674</crc>
+		<manufacturer>Homevision - Gem International Corp.</manufacturer>
+		<year>1983</year>
+		<genre>Puzzle</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Klax (Europe)" index="true" image="k">
+		<description>Klax (Europe)</description>
+		<cloneof></cloneof>
+		<crc>A8AAF68B</crc>
+		<manufacturer>Atari - Axlon</manufacturer>
+		<year>1990</year>
+		<genre>Puzzle</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Meltdown (USA) (Proto)" index="true" image="m">
+		<description>Meltdown (USA) (Proto)</description>
+		<cloneof></cloneof>
+		<crc>7955B3BE</crc>
+		<manufacturer>20th Century Fox Video Games - Videa</manufacturer>
+		<year>1983</year>
+		<genre>Puzzle</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mental Kombat (USA) (Unl)" index="" image="">
+		<description>Mental Kombat (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>13F4B30D</crc>
+		<manufacturer>AtariAge - Simon Quernhorst</manufacturer>
+		<year>2002</year>
+		<genre>Puzzle</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mind Maze (USA) (Proto)" index="" image="">
+		<description>Mind Maze (USA) (Proto)</description>
+		<cloneof></cloneof>
+		<crc>7CC6C991</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1984</year>
+		<genre>Puzzle</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Off Your Rocker (USA) (Proto)" index="true" image="o">
+		<description>Off Your Rocker (USA) (Proto)</description>
+		<cloneof></cloneof>
+		<crc>066EC995</crc>
+		<manufacturer>Amiga</manufacturer>
+		<year>1983</year>
+		<genre>Puzzle</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Okie Dokie (USA) (Unl)" index="" image="">
+		<description>Okie Dokie (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>5AA23B4C</crc>
+		<manufacturer>AtariAge - Bob Colbert</manufacturer>
+		<year>1996</year>
+		<genre>Puzzle</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pick &apos;n&apos; Pile (Europe)" index="true" image="p">
+		<description>Pick &apos;n&apos; Pile (Europe)</description>
+		<cloneof></cloneof>
+		<crc>CB76A9D4</crc>
+		<manufacturer>Salu - Ubi Soft</manufacturer>
+		<year>1990</year>
+		<genre>Puzzle</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Qb (USA) (Unl)" index="true" image="q">
+		<description>Qb (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>0DA0D447</crc>
+		<manufacturer>RetroActive &amp; XYPE - Andrew Davie</manufacturer>
+		<year>2001</year>
+		<genre>Puzzle</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Quick Step! (USA)" index="" image="">
+		<description>Quick Step! (USA)</description>
+		<cloneof></cloneof>
+		<crc>057440FE</crc>
+		<manufacturer>Imagic</manufacturer>
+		<year>1983</year>
+		<genre>Puzzle</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Raster Fahndung (USA) (Unl)" index="true" image="r">
+		<description>Raster Fahndung (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>B72D422C</crc>
+		<manufacturer>AtariAge - Simon Quernhorst</manufacturer>
+		<year>2007</year>
+		<genre>Puzzle</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rubik&apos;s Cube 3-D (USA) (Proto)" index="" image="">
+		<description>Rubik&apos;s Cube 3-D (USA) (Proto)</description>
+		<cloneof></cloneof>
+		<crc>47BFD42C</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1982</year>
+		<genre>Puzzle</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sneak &apos;n Peek (USA)" index="true" image="s">
+		<description>Sneak &apos;n Peek (USA)</description>
+		<cloneof></cloneof>
+		<crc>93B17C39</crc>
+		<manufacturer>U.S. Games Corporation - Vidtec</manufacturer>
+		<year>1982</year>
+		<genre>Puzzle</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Unknown Activision Game #1 (USA) (Proto)" index="true" image="u">
+		<description>Unknown Activision Game #1 (USA) (Proto)</description>
+		<cloneof></cloneof>
+		<crc>6B0672A6</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>1982</year>
+		<genre>Puzzle</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Video Reflex (USA)" index="true" image="v">
+		<description>Video Reflex (USA)</description>
+		<cloneof></cloneof>
+		<crc>77B8B0D1</crc>
+		<manufacturer>Exus Corporation</manufacturer>
+		<year>1983</year>
+		<genre>Puzzle</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

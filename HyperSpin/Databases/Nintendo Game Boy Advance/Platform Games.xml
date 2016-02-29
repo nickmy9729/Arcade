@@ -1,0 +1,2349 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Nintendo Game Boy Advance</listname>
+		<lastlistupdate>10/27/2011</lastlistupdate>
+		<listversion>1.1 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="2 Disney Games - Lilo &amp; Stitch 2 + Peter Pan - Return to Neverland (Europe) (En,Fr,De,Es En,Fr,De,Es,It,Nl)" index="true" image="2">
+		<description>2 Disney Games - Lilo &amp; Stitch 2 + Peter Pan - Return to Neverland (Europe) (En,Fr,De,Es En,Fr,De,Es,It,Nl)</description>
+		<cloneof></cloneof>
+		<crc>75703943</crc>
+		<manufacturer>Disney Interactive</manufacturer>
+		<year>2005</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="2 Games in 1 - Brother Bear + The Lion King (Europe) (En,Fr,De,Es,It,Nl,Sv,Da)" index="" image="">
+		<description>2 Games in 1 - Brother Bear + The Lion King (Europe) (En,Fr,De,Es,It,Nl,Sv,Da)</description>
+		<cloneof></cloneof>
+		<crc>9E5F961B</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2005</year>
+		<genre>Action/Platform</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="2 Games in 1 - Disney Princess + Brother Bear (Europe) (En+En,Fr,De,Es,It,Nl,Sv,Da)" index="" image="">
+		<description>2 Games in 1 - Disney Princess + Brother Bear (Europe) (En+En,Fr,De,Es,It,Nl,Sv,Da)</description>
+		<cloneof></cloneof>
+		<crc>34355326</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2005</year>
+		<genre>Platform</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="2 Games in 1 - Disney Princess + Lizzie McGuire (Europe)" index="" image="">
+		<description>2 Games in 1 - Disney Princess + Lizzie McGuire (Europe)</description>
+		<cloneof></cloneof>
+		<crc>99C96067</crc>
+		<manufacturer>Disney Interactive</manufacturer>
+		<year>2006</year>
+		<genre>Adventure/Platform</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="2 Games in 1 - Finding Nemo + Finding Nemo - The Continuing Adventures (Europe) (En+En,Es,It,Sv,Da)" index="" image="">
+		<description>2 Games in 1 - Finding Nemo + Finding Nemo - The Continuing Adventures (Europe) (En+En,Es,It,Sv,Da)</description>
+		<cloneof></cloneof>
+		<crc>72D5F428</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2005</year>
+		<genre>Platform</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="2 Games in 1 - Finding Nemo + The Incredibles (Europe)" index="" image="">
+		<description>2 Games in 1 - Finding Nemo + The Incredibles (Europe)</description>
+		<cloneof></cloneof>
+		<crc>9702ABCE</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2007</year>
+		<genre>Adventure/Platform</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="2 Games in 1 - Finding Nemo - The Continuing Adventures + The Incredibles (USA)" index="" image="">
+		<description>2 Games in 1 - Finding Nemo - The Continuing Adventures + The Incredibles (USA)</description>
+		<cloneof></cloneof>
+		<crc>D5A37AA8</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2007</year>
+		<genre>Adventure/Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="2 Games in 1 - Monsters, Inc. + Finding Nemo (USA)" index="" image="">
+		<description>2 Games in 1 - Monsters, Inc. + Finding Nemo (USA)</description>
+		<cloneof></cloneof>
+		<crc>AD1C5818</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2005</year>
+		<genre>Action/Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="2 Games in 1 - Power Rangers - Ninja Storm + Power Rangers - Time Force (USA) (En,Fr,De+En)" index="" image="">
+		<description>2 Games in 1 - Power Rangers - Ninja Storm + Power Rangers - Time Force (USA) (En,Fr,De+En)</description>
+		<cloneof></cloneof>
+		<crc>994E7629</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2005</year>
+		<genre>Action/Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="2 Games in 1 - Rugrats - Go Wild + SpongeBob SquarePants - SuperSponge (Europe)" index="" image="">
+		<description>2 Games in 1 - Rugrats - Go Wild + SpongeBob SquarePants - SuperSponge (Europe)</description>
+		<cloneof></cloneof>
+		<crc>E5AC73BB</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2005</year>
+		<genre>Action/Platform</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="2 Games in 1 - Scooby-Doo + Scooby-Doo 2 - Monsters Unleashed (USA)" index="" image="">
+		<description>2 Games in 1 - Scooby-Doo + Scooby-Doo 2 - Monsters Unleashed (USA)</description>
+		<cloneof></cloneof>
+		<crc>1F023DBE</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2006</year>
+		<genre>Action/Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="2 Games in 1 - Sonic Advance + ChuChu Rocket! (Europe) (En,Ja,Fr,De,Es)" index="" image="">
+		<description>2 Games in 1 - Sonic Advance + ChuChu Rocket! (Europe) (En,Ja,Fr,De,Es)</description>
+		<cloneof></cloneof>
+		<crc>22489C7C</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2005</year>
+		<genre>Platform/Puzzle</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="2 Games in 1 - Sonic Advance + Sonic Battle (Europe) (En,Ja,Fr,De,Es+En,Ja,Fr,De,Es,It)" index="" image="">
+		<description>2 Games in 1 - Sonic Advance + Sonic Battle (Europe) (En,Ja,Fr,De,Es+En,Ja,Fr,De,Es,It)</description>
+		<cloneof></cloneof>
+		<crc>94CF5B2B</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2005</year>
+		<genre>Fighter/Platform</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="2 Games in 1 - SpongeBob SquarePants - Battle for Bikini Bottom + Jimmy Neutron Boy Genius (Europe) (En,Fr,De+En,Fr,De,Es)" index="" image="">
+		<description>2 Games in 1 - SpongeBob SquarePants - Battle for Bikini Bottom + Jimmy Neutron Boy Genius (Europe) (En,Fr,De+En,Fr,De,Es)</description>
+		<cloneof></cloneof>
+		<crc>4BA7F7CB</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2005</year>
+		<genre>Action/Platform</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="2 Games in 1 - SpongeBob SquarePants - Battle for Bikini Bottom + Nicktoons - Freeze Frame Frenzy (USA)" index="" image="">
+		<description>2 Games in 1 - SpongeBob SquarePants - Battle for Bikini Bottom + Nicktoons - Freeze Frame Frenzy (USA)</description>
+		<cloneof></cloneof>
+		<crc>5802CAFD</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2005</year>
+		<genre>Adventure/Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="2 Games in 1 - SpongeBob SquarePants - Battle for Bikini Bottom + The Fairly OddParents! - Breakin&apos; da Rules (USA)" index="" image="">
+		<description>2 Games in 1 - SpongeBob SquarePants - Battle for Bikini Bottom + The Fairly OddParents! - Breakin&apos; da Rules (USA)</description>
+		<cloneof></cloneof>
+		<crc>82C21322</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2005</year>
+		<genre>Action/Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="2 Games in 1 - SpongeBob SquarePants - Revenge of the Flying Dutchman + SpongeBob SquarePants - SuperSponge (USA)" index="" image="">
+		<description>2 Games in 1 - SpongeBob SquarePants - Revenge of the Flying Dutchman + SpongeBob SquarePants - SuperSponge (USA)</description>
+		<cloneof></cloneof>
+		<crc>D515C0E4</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2004</year>
+		<genre>Action/Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="2 Games in 1 - SpongeBob SquarePants - SuperSponge + SpongeBob SquarePants - Battle for Bikini Bottom (Europe)" index="" image="">
+		<description>2 Games in 1 - SpongeBob SquarePants - SuperSponge + SpongeBob SquarePants - Battle for Bikini Bottom (Europe)</description>
+		<cloneof></cloneof>
+		<crc>06F0F43C</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2005</year>
+		<genre>Action/Platform</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="2 Games in 1 - The Lion King + Disney Princess (Europe) (En,Fr,De,Es,It,Nl,Sv,Da+En)" index="" image="">
+		<description>2 Games in 1 - The Lion King + Disney Princess (Europe) (En,Fr,De,Es,It,Nl,Sv,Da+En)</description>
+		<cloneof></cloneof>
+		<crc>3B1CF966</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2004</year>
+		<genre>Action/Platform</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="2 Games in 1 - The SpongeBob SquarePants Movie + SpongeBob SquarePants and Friends in Freeze Frame Frenzy (Europe) (En,Fr,De,Es,It,Nl+En,Fr,De,Es,Nl)" index="" image="">
+		<description>2 Games in 1 - The SpongeBob SquarePants Movie + SpongeBob SquarePants and Friends in Freeze Frame Frenzy (Europe) (En,Fr,De,Es,It,Nl+En,Fr,De,Es,Nl)</description>
+		<cloneof></cloneof>
+		<crc>A04CEBFE</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2005</year>
+		<genre>Adventure/Platform</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="2 in 1 Game Pack - Shrek 2 + Shark Tale (USA)" index="" image="">
+		<description>2 in 1 Game Pack - Shrek 2 + Shark Tale (USA)</description>
+		<cloneof></cloneof>
+		<crc>5CB036C7</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2005</year>
+		<genre>Action/Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="2 in 1 Game Pack - Spider-Man + Spider-Man 2 (USA) (En,Fr,De+En,Fr,De,Es)" index="" image="">
+		<description>2 in 1 Game Pack - Spider-Man + Spider-Man 2 (USA) (En,Fr,De+En,Fr,De,Es)</description>
+		<cloneof></cloneof>
+		<crc>0AE3637F</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2005</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="2 in 1 Game Pack - Spider-Man - Mysterio&apos;s Menace + X2 - Wolverine&apos;s Revenge (USA, Europe)" index="" image="">
+		<description>2 in 1 Game Pack - Spider-Man - Mysterio&apos;s Menace + X2 - Wolverine&apos;s Revenge (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>E7BAA5B9</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2005</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="2-in-1 Fun Pack - Shrek 2 + Madagascar (USA)" index="" image="">
+		<description>2-in-1 Fun Pack - Shrek 2 + Madagascar (USA)</description>
+		<cloneof></cloneof>
+		<crc>39D68733</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2006</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="2-in-1 Fun Pack - Shrek 2 + Madagascar - Operation Penguin (USA)" index="" image="">
+		<description>2-in-1 Fun Pack - Shrek 2 + Madagascar - Operation Penguin (USA)</description>
+		<cloneof></cloneof>
+		<crc>18670538</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2006</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="3 Games in 1 - Rugrats - I Gotta Go Party + SpongeBob SquarePants - SuperSponge + Tak and the Power of Juju (Europe) (En+En+En,Fr,De)" index="true" image="3">
+		<description>3 Games in 1 - Rugrats - I Gotta Go Party + SpongeBob SquarePants - SuperSponge + Tak and the Power of Juju (Europe) (En+En+En,Fr,De)</description>
+		<cloneof></cloneof>
+		<crc>6721794B</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2005</year>
+		<genre>Action/Platform</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Adventures of Jimmy Neutron Boy Genius, The - Jet Fusion (USA, Europe)" index="true" image="a">
+		<description>Adventures of Jimmy Neutron Boy Genius, The - Jet Fusion (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>67756000</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2003</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Aero the Acro-Bat - Rascal Rival Revenge (USA)" index="" image="">
+		<description>Aero the Acro-Bat - Rascal Rival Revenge (USA)</description>
+		<cloneof></cloneof>
+		<crc>B47AC020</crc>
+		<manufacturer>Metro3D</manufacturer>
+		<year>2002</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Aladdin (USA) (En,Fr,De,Es)" index="" image="">
+		<description>Aladdin (USA) (En,Fr,De,Es)</description>
+		<cloneof></cloneof>
+		<crc>40B383F6</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>2004</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Animaniacs - Lights, Camera, Action! (Europe) (En,Fr,De,Es,It)" index="" image="">
+		<description>Animaniacs - Lights, Camera, Action! (Europe) (En,Fr,De,Es,It)</description>
+		<cloneof></cloneof>
+		<crc>840D11C1</crc>
+		<manufacturer>Ignition Entertainment</manufacturer>
+		<year>2005</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ant Bully, The (USA) (En,Fr)" index="" image="">
+		<description>Ant Bully, The (USA) (En,Fr)</description>
+		<cloneof></cloneof>
+		<crc>8D51A101</crc>
+		<manufacturer>Midway</manufacturer>
+		<year>2006</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Atomic Betty (USA, Europe)" index="" image="">
+		<description>Atomic Betty (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>8919D82C</crc>
+		<manufacturer>Namco</manufacturer>
+		<year>2005</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Banjo-Kazooie - Grunty&apos;s Revenge (USA, Europe)" index="true" image="b">
+		<description>Banjo-Kazooie - Grunty&apos;s Revenge (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>DFB5ABA3</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2003</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Berenstain Bears and the Spooky Old Tree, The (USA)" index="" image="">
+		<description>Berenstain Bears and the Spooky Old Tree, The (USA)</description>
+		<cloneof></cloneof>
+		<crc>F87B787B</crc>
+		<manufacturer>Namco</manufacturer>
+		<year>2005</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bionicle - Matoran Adventures (USA, Europe) (En,Fr,De,Es,It,Nl,Sv,Da)" index="" image="">
+		<description>Bionicle - Matoran Adventures (USA, Europe) (En,Fr,De,Es,It,Nl,Sv,Da)</description>
+		<cloneof></cloneof>
+		<crc>DAEC2264</crc>
+		<manufacturer>Electronic Arts</manufacturer>
+		<year>2002</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Blender Bros. (USA)" index="" image="">
+		<description>Blender Bros. (USA)</description>
+		<cloneof></cloneof>
+		<crc>9A91D7F1</crc>
+		<manufacturer>Infogrames</manufacturer>
+		<year>2002</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bratz (USA) (En,Fr,Es)" index="" image="">
+		<description>Bratz (USA) (En,Fr,Es)</description>
+		<cloneof></cloneof>
+		<crc>21E5A010</crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>2003</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Brother Bear (USA)" index="" image="">
+		<description>Brother Bear (USA)</description>
+		<cloneof></cloneof>
+		<crc>342DE1D6</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2003</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bubble Bobble - Old &amp; New (USA)" index="" image="">
+		<description>Bubble Bobble - Old &amp; New (USA)</description>
+		<cloneof></cloneof>
+		<crc>FEEC503C</crc>
+		<manufacturer>Empire Interactive</manufacturer>
+		<year>2003</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Care Bears - The Care Quests (USA) (En,Fr,Es)" index="true" image="c">
+		<description>Care Bears - The Care Quests (USA) (En,Fr,Es)</description>
+		<cloneof></cloneof>
+		<crc>F848C327</crc>
+		<manufacturer>The Game Factory</manufacturer>
+		<year>2005</year>
+		<genre>Platform</genre>
+		<rating>ESRB - EC (Early Childhood)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Casper (USA) (En,Fr,Es)" index="" image="">
+		<description>Casper (USA) (En,Fr,Es)</description>
+		<cloneof></cloneof>
+		<crc>9F905E60</crc>
+		<manufacturer>Microids</manufacturer>
+		<year>2002</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Castlevania - Aria of Sorrow (USA)" index="" image="">
+		<description>Castlevania - Aria of Sorrow (USA)</description>
+		<cloneof></cloneof>
+		<crc>35536183</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>2003</year>
+		<genre>Platform</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Castlevania - Circle of the Moon (USA)" index="" image="">
+		<description>Castlevania - Circle of the Moon (USA)</description>
+		<cloneof></cloneof>
+		<crc>1CC059A4</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>2001</year>
+		<genre>Platform</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Castlevania - Harmony of Dissonance (USA)" index="" image="">
+		<description>Castlevania - Harmony of Dissonance (USA)</description>
+		<cloneof></cloneof>
+		<crc>88C1B562</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>2002</year>
+		<genre>Platform</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Castlevania Double Pack (USA)" index="" image="">
+		<description>Castlevania Double Pack (USA)</description>
+		<cloneof></cloneof>
+		<crc>DBCECC7D</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>2006</year>
+		<genre>Platform</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cat in the Hat by Dr. Seuss, The (USA)" index="" image="">
+		<description>Cat in the Hat by Dr. Seuss, The (USA)</description>
+		<cloneof></cloneof>
+		<crc>13C2249E</crc>
+		<manufacturer>Jack of All Games</manufacturer>
+		<year>2005</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Chicken Little (USA, Europe) (En,Fr,De,Es,It,Nl)" index="" image="">
+		<description>Chicken Little (USA, Europe) (En,Fr,De,Es,It,Nl)</description>
+		<cloneof></cloneof>
+		<crc>1E86F5B0</crc>
+		<manufacturer>Buena Vista Games</manufacturer>
+		<year>2005</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cinderella - Magical Dreams (USA) (En,Fr,De,Es,It)" index="" image="">
+		<description>Cinderella - Magical Dreams (USA) (En,Fr,De,Es,It)</description>
+		<cloneof></cloneof>
+		<crc>22F19169</crc>
+		<manufacturer>Buena Vista Interactive</manufacturer>
+		<year>2005</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Classic NES Series - Castlevania (USA, Europe)" index="" image="">
+		<description>Classic NES Series - Castlevania (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>CFC1F558</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2004</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Classic NES Series - Donkey Kong (USA, Europe)" index="" image="">
+		<description>Classic NES Series - Donkey Kong (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>BA82D416</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2004</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Classic NES Series - Ice Climber (USA, Europe)" index="" image="">
+		<description>Classic NES Series - Ice Climber (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>3126D612</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2004</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Classic NES Series - Super Mario Bros. (USA, Europe)" index="" image="">
+		<description>Classic NES Series - Super Mario Bros. (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>7EDDFFAD</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2004</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cocoto - Platform Jumper (Europe) (En,Fr,De,Es,It)" index="" image="">
+		<description>Cocoto - Platform Jumper (Europe) (En,Fr,De,Es,It)</description>
+		<cloneof></cloneof>
+		<crc>27411EF5</crc>
+		<manufacturer>BigBen Interactive</manufacturer>
+		<year>2007</year>
+		<genre>Platform</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Codename - Kids Next Door - Operation S.O.D.A. (USA)" index="" image="">
+		<description>Codename - Kids Next Door - Operation S.O.D.A. (USA)</description>
+		<cloneof></cloneof>
+		<crc>420A81B7</crc>
+		<manufacturer>Global Star Software</manufacturer>
+		<year>2004</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Combo Pack - Sonic Advance + Sonic Pinball Party (USA) (En,Ja,Fr,De,Es+En,Ja,Fr,De,Es,It)" index="" image="">
+		<description>Combo Pack - Sonic Advance + Sonic Pinball Party (USA) (En,Ja,Fr,De,Es+En,Ja,Fr,De,Es,It)</description>
+		<cloneof></cloneof>
+		<crc>FBAFB638</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2005</year>
+		<genre>Pinball/Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Crash &amp; Spyro Super Pack Volume 1 (Europe) (En,Fr,De,Es,It,Nl)" index="" image="">
+		<description>Crash &amp; Spyro Super Pack Volume 1 (Europe) (En,Fr,De,Es,It,Nl)</description>
+		<cloneof></cloneof>
+		<crc>D8382427</crc>
+		<manufacturer>VU Games</manufacturer>
+		<year>2005</year>
+		<genre>Platform</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Crash &amp; Spyro Super Pack Volume 2 (Europe) (En,Fr,De,Es,It,Nl)" index="" image="">
+		<description>Crash &amp; Spyro Super Pack Volume 2 (Europe) (En,Fr,De,Es,It,Nl)</description>
+		<cloneof></cloneof>
+		<crc>7B3C4F90</crc>
+		<manufacturer>Sierra Entertainment</manufacturer>
+		<year>2005</year>
+		<genre>Driving/Platform</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Crash &amp; Spyro Superpack - Spyro - Season of Ice + Crash Bandicoot - The Huge Adventure (USA)" index="" image="">
+		<description>Crash &amp; Spyro Superpack - Spyro - Season of Ice + Crash Bandicoot - The Huge Adventure (USA)</description>
+		<cloneof></cloneof>
+		<crc>CDBE00E3</crc>
+		<manufacturer>Sierra Entertainment</manufacturer>
+		<year>2005</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Crash &amp; Spyro Superpack - Spyro Orange - The Cortex Conspiracy + Crash Bandicoot Purple - Ripto&apos;s Rampage (USA)" index="" image="">
+		<description>Crash &amp; Spyro Superpack - Spyro Orange - The Cortex Conspiracy + Crash Bandicoot Purple - Ripto&apos;s Rampage (USA)</description>
+		<cloneof></cloneof>
+		<crc>5940906E</crc>
+		<manufacturer>Sierra Entertainment</manufacturer>
+		<year>2005</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Crash Bandicoot - The Huge Adventure (USA)" index="" image="">
+		<description>Crash Bandicoot - The Huge Adventure (USA)</description>
+		<cloneof></cloneof>
+		<crc>034D2D4B</crc>
+		<manufacturer>Universal Interactive</manufacturer>
+		<year>2002</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Crash Bandicoot 2 - N-Tranced (USA)" index="" image="">
+		<description>Crash Bandicoot 2 - N-Tranced (USA)</description>
+		<cloneof></cloneof>
+		<crc>2E16184A</crc>
+		<manufacturer>Universal Interactive</manufacturer>
+		<year>2003</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Crash Superpack (USA)" index="" image="">
+		<description>Crash Superpack (USA)</description>
+		<cloneof></cloneof>
+		<crc>2C38BAE2</crc>
+		<manufacturer>Sierra Entertainment</manufacturer>
+		<year>2005</year>
+		<genre>Driving/Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Crazy Chase (USA)" index="" image="">
+		<description>Crazy Chase (USA)</description>
+		<cloneof></cloneof>
+		<crc>CABA1DB9</crc>
+		<manufacturer>Kemco</manufacturer>
+		<year>2002</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Danny Phantom - The Ultimate Enemy (USA)" index="true" image="d">
+		<description>Danny Phantom - The Ultimate Enemy (USA)</description>
+		<cloneof></cloneof>
+		<crc>1384ECEA</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2005</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Daredevil (USA, Europe)" index="" image="">
+		<description>Daredevil (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>D438347E</crc>
+		<manufacturer>Encore Software, Inc.</manufacturer>
+		<year>2003</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dinotopia - The Timestone Pirates (USA, Europe) (En,Fr,De,Es,It,Nl)" index="" image="">
+		<description>Dinotopia - The Timestone Pirates (USA, Europe) (En,Fr,De,Es,It,Nl)</description>
+		<cloneof></cloneof>
+		<crc>7BD01B31</crc>
+		<manufacturer>TDK Mediactive</manufacturer>
+		<year>2002</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Disney Princess (USA, Europe)" index="" image="">
+		<description>Disney Princess (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>4A2B9E0B</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2003</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="DK - King of Swing (USA, Australia)" index="" image="">
+		<description>DK - King of Swing (USA, Australia)</description>
+		<cloneof></cloneof>
+		<crc>D610B239</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2005</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Donald Duck Advance (USA)" index="" image="">
+		<description>Donald Duck Advance (USA)</description>
+		<cloneof></cloneof>
+		<crc>936DAAB2</crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>2001</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Donkey Kong Country (USA)" index="" image="">
+		<description>Donkey Kong Country (USA)</description>
+		<cloneof></cloneof>
+		<crc>12F7A968</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2003</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Donkey Kong Country 2 (USA, Australia)" index="" image="">
+		<description>Donkey Kong Country 2 (USA, Australia)</description>
+		<cloneof></cloneof>
+		<crc>11417FC1</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2004</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Donkey Kong Country 3 (USA, Australia)" index="" image="">
+		<description>Donkey Kong Country 3 (USA, Australia)</description>
+		<cloneof></cloneof>
+		<crc>FE03E5AF</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2005</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dragon&apos;s Rock (Europe) (En,Fr,De,Es,It)" index="" image="">
+		<description>Dragon&apos;s Rock (Europe) (En,Fr,De,Es,It)</description>
+		<cloneof></cloneof>
+		<crc>F0CA6D70</crc>
+		<manufacturer>East Entertainment Media</manufacturer>
+		<year>2006</year>
+		<genre>Platform</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Drill Dozer (USA)" index="" image="">
+		<description>Drill Dozer (USA)</description>
+		<cloneof></cloneof>
+		<crc>E60EC183</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2006</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Earthworm Jim (USA, Europe)" index="true" image="e">
+		<description>Earthworm Jim (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>C4991D13</crc>
+		<manufacturer>Majesco Games</manufacturer>
+		<year>2001</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Earthworm Jim 2 (USA)" index="" image="">
+		<description>Earthworm Jim 2 (USA)</description>
+		<cloneof></cloneof>
+		<crc>7496555C</crc>
+		<manufacturer>Majesco Games</manufacturer>
+		<year>2002</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ed, Edd n Eddy - Jawbreakers! (USA) (Rev 1)" index="" image="">
+		<description>Ed, Edd n Eddy - Jawbreakers! (USA) (Rev 1)</description>
+		<cloneof></cloneof>
+		<crc>315A9114</crc>
+		<manufacturer>Bam Entertainment</manufacturer>
+		<year>2002</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ed, Edd n Eddy - The Mis-Edventures (USA) (En,Fr)" index="" image="">
+		<description>Ed, Edd n Eddy - The Mis-Edventures (USA) (En,Fr)</description>
+		<cloneof></cloneof>
+		<crc>64EDB487</crc>
+		<manufacturer>Midway</manufacturer>
+		<year>2005</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fairly OddParents!, The - Clash with the Anti-World (USA)" index="true" image="f">
+		<description>Fairly OddParents!, The - Clash with the Anti-World (USA)</description>
+		<cloneof></cloneof>
+		<crc>6FD773CD</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2005</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fairly OddParents!, The - Enter the Cleft (USA)" index="" image="">
+		<description>Fairly OddParents!, The - Enter the Cleft (USA)</description>
+		<cloneof></cloneof>
+		<crc>B0533F41</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2002</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fairly OddParents!, The - Shadow Showdown (USA)" index="" image="">
+		<description>Fairly OddParents!, The - Shadow Showdown (USA)</description>
+		<cloneof></cloneof>
+		<crc>BA72E185</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2004</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Finding Nemo (USA, Europe)" index="" image="">
+		<description>Finding Nemo (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>3B098667</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2003</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Flushed Away (USA)" index="" image="">
+		<description>Flushed Away (USA)</description>
+		<cloneof></cloneof>
+		<crc>0ED5DF4B</crc>
+		<manufacturer>D3</manufacturer>
+		<year>2006</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Frogger Advance - The Great Quest (USA)" index="" image="">
+		<description>Frogger Advance - The Great Quest (USA)</description>
+		<cloneof></cloneof>
+		<crc>B75782C9</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>2002</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Galidor - Defenders of the Outer Dimension (USA) (En,Fr,De,Es,It,Nl,Sv,Da)" index="true" image="g">
+		<description>Galidor - Defenders of the Outer Dimension (USA) (En,Fr,De,Es,It,Nl,Sv,Da)</description>
+		<cloneof></cloneof>
+		<crc>4D8F49F9</crc>
+		<manufacturer>Electronic Arts</manufacturer>
+		<year>2002</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Garfield - The Search for Pooky (USA) (En,Fr,De,Es,It)" index="" image="">
+		<description>Garfield - The Search for Pooky (USA) (En,Fr,De,Es,It)</description>
+		<cloneof></cloneof>
+		<crc>76035741</crc>
+		<manufacturer>The Game Factory</manufacturer>
+		<year>2005</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Garfield and His Nine Lives (USA) (En,Fr,Es)" index="" image="">
+		<description>Garfield and His Nine Lives (USA) (En,Fr,Es)</description>
+		<cloneof></cloneof>
+		<crc>D442F13D</crc>
+		<manufacturer>The Game Factory</manufacturer>
+		<year>2006</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Green Eggs and Ham by Dr. Seuss (USA)" index="" image="">
+		<description>Green Eggs and Ham by Dr. Seuss (USA)</description>
+		<cloneof></cloneof>
+		<crc>E4AE2CD1</crc>
+		<manufacturer>NewKidCo</manufacturer>
+		<year>2003</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gumby vs. the Astrobots (USA)" index="" image="">
+		<description>Gumby vs. the Astrobots (USA)</description>
+		<cloneof></cloneof>
+		<crc>2B7E3CCB</crc>
+		<manufacturer>Namco</manufacturer>
+		<year>2005</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Heidi - The Game (Europe) (En,Fr,De,Es,It)" index="true" image="h">
+		<description>Heidi - The Game (Europe) (En,Fr,De,Es,It)</description>
+		<cloneof></cloneof>
+		<crc>E8C44FB8</crc>
+		<manufacturer>East Entertainment Media</manufacturer>
+		<year>2005</year>
+		<genre>Platform</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hey Arnold! - The Movie (USA)" index="" image="">
+		<description>Hey Arnold! - The Movie (USA)</description>
+		<cloneof></cloneof>
+		<crc>59DFAB9E</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2002</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="High School Musical - Livin&apos; the Dream (USA)" index="" image="">
+		<description>High School Musical - Livin&apos; the Dream (USA)</description>
+		<cloneof></cloneof>
+		<crc>7B31D4DA</crc>
+		<manufacturer>Disney Interactive</manufacturer>
+		<year>2007</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Home on the Range (USA) (En,Fr)" index="" image="">
+		<description>Home on the Range (USA) (En,Fr)</description>
+		<cloneof></cloneof>
+		<crc>DBD4A6CB</crc>
+		<manufacturer>Disney Interactive</manufacturer>
+		<year>2004</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hugo - The Evil Mirror Advance (USA) (En,Fr,Es)" index="" image="">
+		<description>Hugo - The Evil Mirror Advance (USA) (En,Fr,Es)</description>
+		<cloneof></cloneof>
+		<crc>ED5CA311</crc>
+		<manufacturer>Namco</manufacturer>
+		<year>2005</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hugo 2 in 1 (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl)" index="" image="">
+		<description>Hugo 2 in 1 (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl)</description>
+		<cloneof></cloneof>
+		<crc>8EAE8860</crc>
+		<manufacturer>ITE Media</manufacturer>
+		<year>2005</year>
+		<genre>Driving/Platform</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ice Age (USA) (En,Fr,Es)" index="true" image="i">
+		<description>Ice Age (USA) (En,Fr,Es)</description>
+		<cloneof></cloneof>
+		<crc>3FC99714</crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>2002</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ice Age 2 - The Meltdown (USA)" index="" image="">
+		<description>Ice Age 2 - The Meltdown (USA)</description>
+		<cloneof></cloneof>
+		<crc>000206C0</crc>
+		<manufacturer>Sierra Entertainment</manufacturer>
+		<year>2006</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Incredible Hulk, The (USA)" index="" image="">
+		<description>Incredible Hulk, The (USA)</description>
+		<cloneof></cloneof>
+		<crc>0B978DFA</crc>
+		<manufacturer>Universal Interactive</manufacturer>
+		<year>2003</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Incredibles, The - Rise of the Underminer (USA, Europe)" index="" image="">
+		<description>Incredibles, The - Rise of the Underminer (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>2D806290</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2005</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Invincible Iron Man, The (USA, Europe)" index="" image="">
+		<description>Invincible Iron Man, The (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>39A31B68</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2002</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="James Pond - Codename Robocod (USA) (En,Fr,Es,Pt)" index="true" image="j">
+		<description>James Pond - Codename Robocod (USA) (En,Fr,Es,Pt)</description>
+		<cloneof></cloneof>
+		<crc>EB25BB5B</crc>
+		<manufacturer>Valcon Games</manufacturer>
+		<year>2005</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Jazz Jackrabbit (USA)" index="" image="">
+		<description>Jazz Jackrabbit (USA)</description>
+		<cloneof></cloneof>
+		<crc>948531D4</crc>
+		<manufacturer>Jaleco Entertainment</manufacturer>
+		<year>2003</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Jet Grind Radio (USA)" index="" image="">
+		<description>Jet Grind Radio (USA)</description>
+		<cloneof></cloneof>
+		<crc>AE4142B5</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2003</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Jungle Book, The (USA) (En,Fr,De,Es,It,Nl)" index="" image="">
+		<description>Jungle Book, The (USA) (En,Fr,De,Es,It,Nl)</description>
+		<cloneof></cloneof>
+		<crc>E9A21637</crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>2003</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Jurassic Park III - The DNA Factor (USA)" index="" image="">
+		<description>Jurassic Park III - The DNA Factor (USA)</description>
+		<cloneof></cloneof>
+		<crc>F93DCC2E</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>2001</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Justice League - Injustice for All (USA)" index="" image="">
+		<description>Justice League - Injustice for All (USA)</description>
+		<cloneof></cloneof>
+		<crc>B2477B72</crc>
+		<manufacturer>Midway</manufacturer>
+		<year>2002</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Justice League Chronicles (USA)" index="" image="">
+		<description>Justice League Chronicles (USA)</description>
+		<cloneof></cloneof>
+		<crc>07090F67</crc>
+		<manufacturer>Midway</manufacturer>
+		<year>2003</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Kim Possible - Revenge of Monkey Fist (USA)" index="true" image="k">
+		<description>Kim Possible - Revenge of Monkey Fist (USA)</description>
+		<cloneof></cloneof>
+		<crc>1A56EFBD</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2002</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Kim Possible 2 - Drakken&apos;s Demise (USA) (En,Fr)" index="" image="">
+		<description>Kim Possible 2 - Drakken&apos;s Demise (USA) (En,Fr)</description>
+		<cloneof></cloneof>
+		<crc>FA946FC6</crc>
+		<manufacturer>Buena Vista Interactive</manufacturer>
+		<year>2004</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Kim Possible III - Team Possible (USA) (En,Fr)" index="" image="">
+		<description>Kim Possible III - Team Possible (USA) (En,Fr)</description>
+		<cloneof></cloneof>
+		<crc>FDEC60EC</crc>
+		<manufacturer>Buena Vista Interactive</manufacturer>
+		<year>2005</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Kirby &amp; the Amazing Mirror (USA)" index="" image="">
+		<description>Kirby &amp; the Amazing Mirror (USA)</description>
+		<cloneof></cloneof>
+		<crc>9F2A3048</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2004</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Kirby - Nightmare in Dream Land (USA)" index="" image="">
+		<description>Kirby - Nightmare in Dream Land (USA)</description>
+		<cloneof></cloneof>
+		<crc>20EF3F64</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2002</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Klonoa - Empire of Dreams (USA)" index="" image="">
+		<description>Klonoa - Empire of Dreams (USA)</description>
+		<cloneof></cloneof>
+		<crc>F74E1036</crc>
+		<manufacturer>Namco</manufacturer>
+		<year>2001</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Kong - The Animated Series (USA) (En,Fr,De,Es,It,Nl)" index="" image="">
+		<description>Kong - The Animated Series (USA) (En,Fr,De,Es,It,Nl)</description>
+		<cloneof></cloneof>
+		<crc>150BDD9E</crc>
+		<manufacturer>Bam Entertainment</manufacturer>
+		<year>2002</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Legend of Spyro, The - A New Beginning (USA)" index="true" image="l">
+		<description>Legend of Spyro, The - A New Beginning (USA)</description>
+		<cloneof></cloneof>
+		<crc>1B81CC00</crc>
+		<manufacturer>Sierra Entertainment</manufacturer>
+		<year>2006</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Legend of Spyro, The - The Eternal Night (USA) (En,Fr)" index="" image="">
+		<description>Legend of Spyro, The - The Eternal Night (USA) (En,Fr)</description>
+		<cloneof></cloneof>
+		<crc>BD2751E6</crc>
+		<manufacturer>Sierra Entertainment</manufacturer>
+		<year>2007</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="LEGO Bionicle (USA) (En,Fr)" index="" image="">
+		<description>LEGO Bionicle (USA) (En,Fr)</description>
+		<cloneof></cloneof>
+		<crc>3E5EC871</crc>
+		<manufacturer>Lego Media</manufacturer>
+		<year>2001</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lemony Snicket&apos;s A Series of Unfortunate Events (USA, Europe)" index="" image="">
+		<description>Lemony Snicket&apos;s A Series of Unfortunate Events (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>72BA6B8C</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2004</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lilo &amp; Stitch (USA)" index="" image="">
+		<description>Lilo &amp; Stitch (USA)</description>
+		<cloneof></cloneof>
+		<crc>542AA4AC</crc>
+		<manufacturer>Disney Interactive</manufacturer>
+		<year>2002</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lilo &amp; Stitch 2 - Haemsterviel Havoc (USA)" index="" image="">
+		<description>Lilo &amp; Stitch 2 - Haemsterviel Havoc (USA)</description>
+		<cloneof></cloneof>
+		<crc>021A5755</crc>
+		<manufacturer>Buena Vista Interactive</manufacturer>
+		<year>2004</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lizzie McGuire 3 - Homecoming Havoc (USA)" index="" image="">
+		<description>Lizzie McGuire 3 - Homecoming Havoc (USA)</description>
+		<cloneof></cloneof>
+		<crc>A2843980</crc>
+		<manufacturer>Buena Vista Interactive</manufacturer>
+		<year>2005</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Looney Tunes - Back in Action (USA, Europe) (En,Fr,De,Es,It)" index="" image="">
+		<description>Looney Tunes - Back in Action (USA, Europe) (En,Fr,De,Es,It)</description>
+		<cloneof></cloneof>
+		<crc>2B8B3964</crc>
+		<manufacturer>Warner Bros.</manufacturer>
+		<year>2003</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Madagascar (USA)" index="true" image="m">
+		<description>Madagascar (USA)</description>
+		<cloneof></cloneof>
+		<crc>7503F71B</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2005</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Madagascar - Operation Penguin (USA)" index="" image="">
+		<description>Madagascar - Operation Penguin (USA)</description>
+		<cloneof></cloneof>
+		<crc>DA3FA501</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2005</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Magical Quest 2 Starring Mickey &amp; Minnie (USA) (En,Fr,De)" index="" image="">
+		<description>Magical Quest 2 Starring Mickey &amp; Minnie (USA) (En,Fr,De)</description>
+		<cloneof></cloneof>
+		<crc>69F1117D</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>2003</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Magical Quest 3 Starring Mickey &amp; Donald (USA) (En,Fr,De)" index="" image="">
+		<description>Magical Quest 3 Starring Mickey &amp; Donald (USA) (En,Fr,De)</description>
+		<cloneof></cloneof>
+		<crc>5A23094D</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>2005</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Magical Quest Starring Mickey &amp; Minnie (USA)" index="" image="">
+		<description>Magical Quest Starring Mickey &amp; Minnie (USA)</description>
+		<cloneof></cloneof>
+		<crc>B4294FA7</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2002</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Manic Miner (Europe) (En,Fr,De,Es,It)" index="" image="">
+		<description>Manic Miner (Europe) (En,Fr,De,Es,It)</description>
+		<cloneof></cloneof>
+		<crc>138439F4</crc>
+		<manufacturer>Jester Interactive</manufacturer>
+		<year>2002</year>
+		<genre>Platform</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mario vs. Donkey Kong (USA, Australia)" index="" image="">
+		<description>Mario vs. Donkey Kong (USA, Australia)</description>
+		<cloneof></cloneof>
+		<crc>25C394D1</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2004</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Masters of the Universe He-Man - Power of Grayskull (USA)" index="" image="">
+		<description>Masters of the Universe He-Man - Power of Grayskull (USA)</description>
+		<cloneof></cloneof>
+		<crc>75491E30</crc>
+		<manufacturer>TDK Mediactive</manufacturer>
+		<year>2002</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Maya the Bee - Sweet Gold (Europe) (En,Fr,De,Es,It)" index="" image="">
+		<description>Maya the Bee - Sweet Gold (Europe) (En,Fr,De,Es,It)</description>
+		<cloneof></cloneof>
+		<crc>A75778C7</crc>
+		<manufacturer>Midway</manufacturer>
+		<year>2005</year>
+		<genre>Platform</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Maya the Bee - The Great Adventure (Europe) (En,Fr,De,Es,It)" index="" image="">
+		<description>Maya the Bee - The Great Adventure (Europe) (En,Fr,De,Es,It)</description>
+		<cloneof></cloneof>
+		<crc>A1764F3C</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>2002</year>
+		<genre>Platform</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mega Man &amp; Bass (USA)" index="" image="">
+		<description>Mega Man &amp; Bass (USA)</description>
+		<cloneof></cloneof>
+		<crc>EEA68C2E</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>2003</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mega Man Zero (USA, Europe)" index="" image="">
+		<description>Mega Man Zero (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>9707D2A1</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>2002</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mega Man Zero 2 (USA)" index="" image="">
+		<description>Mega Man Zero 2 (USA)</description>
+		<cloneof></cloneof>
+		<crc>CE1E37BB</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>2003</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mega Man Zero 3 (USA)" index="" image="">
+		<description>Mega Man Zero 3 (USA)</description>
+		<cloneof></cloneof>
+		<crc>2784F3F2</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>2004</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mega Man Zero 4 (USA)" index="" image="">
+		<description>Mega Man Zero 4 (USA)</description>
+		<cloneof></cloneof>
+		<crc>7EE24793</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>2005</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Metroid - Zero Mission (USA)" index="" image="">
+		<description>Metroid - Zero Mission (USA)</description>
+		<cloneof></cloneof>
+		<crc>5C61A844</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2004</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Metroid Fusion (USA, Australia)" index="" image="">
+		<description>Metroid Fusion (USA, Australia)</description>
+		<cloneof></cloneof>
+		<crc>6C75479C</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2002</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mission Impossible - Operation Surma (USA) (En,Fr,Es)" index="" image="">
+		<description>Mission Impossible - Operation Surma (USA) (En,Fr,Es)</description>
+		<cloneof></cloneof>
+		<crc>F3DC4E3E</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>2003</year>
+		<genre>Platform</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mummy, The (USA) (En,Fr,De,Es,It)" index="" image="">
+		<description>Mummy, The (USA) (En,Fr,De,Es,It)</description>
+		<cloneof></cloneof>
+		<crc>55BF350B</crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>2002</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Nicktoons - Attack of the Toybots (USA)" index="true" image="n">
+		<description>Nicktoons - Attack of the Toybots (USA)</description>
+		<cloneof></cloneof>
+		<crc>DDA9A035</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2007</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ninja Five-0 (USA)" index="" image="">
+		<description>Ninja Five-0 (USA)</description>
+		<cloneof></cloneof>
+		<crc>EB3954C6</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>2003</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Oddworld - Munch&apos;s Oddysee (USA, Europe)" index="true" image="o">
+		<description>Oddworld - Munch&apos;s Oddysee (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>97367887</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2003</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="One Piece (USA)" index="" image="">
+		<description>One Piece (USA)</description>
+		<cloneof></cloneof>
+		<crc>7D2CF2A1</crc>
+		<manufacturer>Bandai</manufacturer>
+		<year>2005</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Open Season (USA) (En,Fr,Es)" index="" image="">
+		<description>Open Season (USA) (En,Fr,Es)</description>
+		<cloneof></cloneof>
+		<crc>E6A1D5B2</crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>2006</year>
+		<genre>Platform</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Over the Hedge (USA)" index="" image="">
+		<description>Over the Hedge (USA)</description>
+		<cloneof></cloneof>
+		<crc>5F3A7BB7</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2006</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Over the Hedge - Hammy Goes Nuts! (USA)" index="" image="">
+		<description>Over the Hedge - Hammy Goes Nuts! (USA)</description>
+		<cloneof></cloneof>
+		<crc>B9D4E9E7</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2006</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ozzy &amp; Drix (USA)" index="" image="">
+		<description>Ozzy &amp; Drix (USA)</description>
+		<cloneof></cloneof>
+		<crc>D7245280</crc>
+		<manufacturer>Midway</manufacturer>
+		<year>2003</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Peter Pan - Return to Neverland (USA)" index="true" image="p">
+		<description>Peter Pan - Return to Neverland (USA)</description>
+		<cloneof></cloneof>
+		<crc>4CAFCCBD</crc>
+		<manufacturer>Disney Interactive</manufacturer>
+		<year>2002</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Phil of the Future (USA)" index="" image="">
+		<description>Phil of the Future (USA)</description>
+		<cloneof></cloneof>
+		<crc>E199E132</crc>
+		<manufacturer>Buena Vista Games</manufacturer>
+		<year>2006</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Piglet&apos;s Big Game (USA)" index="" image="">
+		<description>Piglet&apos;s Big Game (USA)</description>
+		<cloneof></cloneof>
+		<crc>52919538</crc>
+		<manufacturer>Disney Interactive</manufacturer>
+		<year>2003</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pink Panther - Pinkadelic Pursuit (USA)" index="" image="">
+		<description>Pink Panther - Pinkadelic Pursuit (USA)</description>
+		<cloneof></cloneof>
+		<crc>1762A578</crc>
+		<manufacturer>DreamCatcher Interactive</manufacturer>
+		<year>2002</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pinky and the Brain - The Masterplan (Europe) (En,Fr,De,Es,It)" index="" image="">
+		<description>Pinky and the Brain - The Masterplan (Europe) (En,Fr,De,Es,It)</description>
+		<cloneof></cloneof>
+		<crc>FF7D5F62</crc>
+		<manufacturer>Swing! Deutschland</manufacturer>
+		<year>2002</year>
+		<genre>Platform</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pitfall - The Lost Expedition (USA)" index="" image="">
+		<description>Pitfall - The Lost Expedition (USA)</description>
+		<cloneof></cloneof>
+		<crc>5C11DC26</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2004</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pitfall - The Mayan Adventure (USA, Europe)" index="" image="">
+		<description>Pitfall - The Mayan Adventure (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>2CEDBB31</crc>
+		<manufacturer>Majesco Games</manufacturer>
+		<year>2001</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Popeye - Rush for Spinach (USA, Europe) (En,Fr,De,Es,It)" index="" image="">
+		<description>Popeye - Rush for Spinach (USA, Europe) (En,Fr,De,Es,It)</description>
+		<cloneof></cloneof>
+		<crc>CFFC52DD</crc>
+		<manufacturer>Namco</manufacturer>
+		<year>2005</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Postman Pat and the Greendale Rocket (Europe) (En,No,Da)" index="" image="">
+		<description>Postman Pat and the Greendale Rocket (Europe) (En,No,Da)</description>
+		<cloneof></cloneof>
+		<crc>566CF164</crc>
+		<manufacturer>Game Factory</manufacturer>
+		<year>2007</year>
+		<genre>Platform</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Power Rangers - Ninja Storm (USA)" index="" image="">
+		<description>Power Rangers - Ninja Storm (USA)</description>
+		<cloneof></cloneof>
+		<crc>E8691A0F</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2003</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Power Rangers - Wild Force (USA, Europe)" index="" image="">
+		<description>Power Rangers - Wild Force (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>54C31AFB</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2002</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Powerpuff Girls, The - Him and Seek (USA)" index="" image="">
+		<description>Powerpuff Girls, The - Him and Seek (USA)</description>
+		<cloneof></cloneof>
+		<crc>4D22B35E</crc>
+		<manufacturer>Bam Entertainment</manufacturer>
+		<year>2002</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Powerpuff Girls, The - Mojo Jojo A-Go-Go (USA) (En,Fr,De,Es,It,Nl)" index="" image="">
+		<description>Powerpuff Girls, The - Mojo Jojo A-Go-Go (USA) (En,Fr,De,Es,It,Nl)</description>
+		<cloneof></cloneof>
+		<crc>DFB57DCF</crc>
+		<manufacturer>Bam Entertainment</manufacturer>
+		<year>2001</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Prehistorik Man (USA, Europe) (En,Fr,De,Es,It,Nl)" index="" image="">
+		<description>Prehistorik Man (USA, Europe) (En,Fr,De,Es,It,Nl)</description>
+		<cloneof></cloneof>
+		<crc>0D3B922B</crc>
+		<manufacturer>Titus Software</manufacturer>
+		<year>2001</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Proud Family, The (USA)" index="" image="">
+		<description>Proud Family, The (USA)</description>
+		<cloneof></cloneof>
+		<crc>C92BDE6E</crc>
+		<manufacturer>Buena Vista Interactive</manufacturer>
+		<year>2005</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ratatouille (USA)" index="true" image="r">
+		<description>Ratatouille (USA)</description>
+		<cloneof></cloneof>
+		<crc>AA2EB686</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2007</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rayman - 10th Anniversary (USA) (En,Fr,De,Es,It)" index="" image="">
+		<description>Rayman - 10th Anniversary (USA) (En,Fr,De,Es,It)</description>
+		<cloneof></cloneof>
+		<crc>AE72B0EE</crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>2001</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rayman - Hoodlum&apos;s Revenge (USA) (En,Fr,Es)" index="" image="">
+		<description>Rayman - Hoodlum&apos;s Revenge (USA) (En,Fr,Es)</description>
+		<cloneof></cloneof>
+		<crc>025A9998</crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>2005</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rayman - Raving Rabbids (USA) (En,Fr,Es)" index="" image="">
+		<description>Rayman - Raving Rabbids (USA) (En,Fr,Es)</description>
+		<cloneof></cloneof>
+		<crc>751EF0D2</crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>2006</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rayman 3 (USA) (En,Fr,Es)" index="" image="">
+		<description>Rayman 3 (USA) (En,Fr,Es)</description>
+		<cloneof></cloneof>
+		<crc>D1613266</crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>2003</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rayman Advance (USA) (En,Fr,De,Es,It)" index="" image="">
+		<description>Rayman Advance (USA) (En,Fr,De,Es,It)</description>
+		<cloneof></cloneof>
+		<crc>8ABA5AB8</crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>2001</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Revenge of Shinobi, The (USA)" index="" image="">
+		<description>Revenge of Shinobi, The (USA)</description>
+		<cloneof></cloneof>
+		<crc>E9339304</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2002</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rocket Power - Beach Bandits (USA, Europe)" index="" image="">
+		<description>Rocket Power - Beach Bandits (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>13695669</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2002</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rocket Power - Dream Scheme (USA, Europe)" index="" image="">
+		<description>Rocket Power - Dream Scheme (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>93961CB2</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2001</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rugrats - Go Wild (USA, Europe)" index="" image="">
+		<description>Rugrats - Go Wild (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>52A33375</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2003</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sabrina - The Teenage Witch - Potion Commotion (USA) (En,Fr,Es)" index="true" image="s">
+		<description>Sabrina - The Teenage Witch - Potion Commotion (USA) (En,Fr,Es)</description>
+		<cloneof></cloneof>
+		<crc>A39EDD2F</crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>2002</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Samurai Jack - The Amulet of Time (USA, Europe)" index="" image="">
+		<description>Samurai Jack - The Amulet of Time (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>B250366C</crc>
+		<manufacturer>Bam Entertainment</manufacturer>
+		<year>2003</year>
+		<genre>Platform</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Santa Clause 3, The - The Escape Clause (USA)" index="" image="">
+		<description>Santa Clause 3, The - The Escape Clause (USA)</description>
+		<cloneof></cloneof>
+		<crc>206933F5</crc>
+		<manufacturer>Buena Vista Games</manufacturer>
+		<year>2006</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Scooby-Doo (USA)" index="" image="">
+		<description>Scooby-Doo (USA)</description>
+		<cloneof></cloneof>
+		<crc>22D993C6</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2001</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Scooby-Doo! - Unmasked (USA) (En,Fr)" index="" image="">
+		<description>Scooby-Doo! - Unmasked (USA) (En,Fr)</description>
+		<cloneof></cloneof>
+		<crc>96BDD6C1</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2005</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Scorpion King, The - Sword of Osiris (USA)" index="" image="">
+		<description>Scorpion King, The - Sword of Osiris (USA)</description>
+		<cloneof></cloneof>
+		<crc>6E0A8585</crc>
+		<manufacturer>Universal Interactive</manufacturer>
+		<year>2002</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Shrek - Reekin&apos; Havoc (USA) (En,Fr,De,Es,It,Nl)" index="" image="">
+		<description>Shrek - Reekin&apos; Havoc (USA) (En,Fr,De,Es,It,Nl)</description>
+		<cloneof></cloneof>
+		<crc>63F49BA9</crc>
+		<manufacturer>TDK Mediactive</manufacturer>
+		<year>2003</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Shrek 2 (USA, Europe)" index="" image="">
+		<description>Shrek 2 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>52FF42D4</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2004</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sitting Ducks (USA) (En,Fr,De,Es,It,Nl)" index="" image="">
+		<description>Sitting Ducks (USA) (En,Fr,De,Es,It,Nl)</description>
+		<cloneof></cloneof>
+		<crc>8BC90ADB</crc>
+		<manufacturer>Hip Games</manufacturer>
+		<year>2004</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sky Dancers - They Magically Fly! (USA)" index="" image="">
+		<description>Sky Dancers - They Magically Fly! (USA)</description>
+		<cloneof></cloneof>
+		<crc>CADD57DD</crc>
+		<manufacturer>Crave</manufacturer>
+		<year>2005</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sonic Advance (USA) (En,Ja)" index="" image="">
+		<description>Sonic Advance (USA) (En,Ja)</description>
+		<cloneof></cloneof>
+		<crc>63F70FD8</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2002</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sonic Advance 2 (USA) (En,Ja,Fr,De,Es,It)" index="" image="">
+		<description>Sonic Advance 2 (USA) (En,Ja,Fr,De,Es,It)</description>
+		<cloneof></cloneof>
+		<crc>7EFEE7F7</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2003</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sonic Advance 3 (USA) (En,Ja,Fr,De,Es,It)" index="" image="">
+		<description>Sonic Advance 3 (USA) (En,Ja,Fr,De,Es,It)</description>
+		<cloneof></cloneof>
+		<crc>49DDA5E6</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2004</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sonic the Hedgehog - Genesis (USA)" index="" image="">
+		<description>Sonic the Hedgehog - Genesis (USA)</description>
+		<cloneof></cloneof>
+		<crc>027BC70D</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2006</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Spider-Man (USA, Europe)" index="" image="">
+		<description>Spider-Man (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>406265B8</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2002</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Spider-Man - Battle for New York (USA)" index="" image="">
+		<description>Spider-Man - Battle for New York (USA)</description>
+		<cloneof></cloneof>
+		<crc>6310BA16</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2006</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Spider-Man - Mysterio&apos;s Menace (USA, Europe)" index="" image="">
+		<description>Spider-Man - Mysterio&apos;s Menace (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>6E135B4D</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2001</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Spider-Man 2 (USA, Europe)" index="" image="">
+		<description>Spider-Man 2 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>0145F3F4</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2004</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Spider-Man 3 (USA)" index="" image="">
+		<description>Spider-Man 3 (USA)</description>
+		<cloneof></cloneof>
+		<crc>AD0228A1</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2007</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Spirit - Stallion of the Cimarron - Search for Homeland (USA)" index="" image="">
+		<description>Spirit - Stallion of the Cimarron - Search for Homeland (USA)</description>
+		<cloneof></cloneof>
+		<crc>9A457633</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2002</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="SpongeBob SquarePants - Battle for Bikini Bottom (USA)" index="" image="">
+		<description>SpongeBob SquarePants - Battle for Bikini Bottom (USA)</description>
+		<cloneof></cloneof>
+		<crc>235628C3</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2003</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="SpongeBob SquarePants - Creature from the Krusty Krab (USA)" index="" image="">
+		<description>SpongeBob SquarePants - Creature from the Krusty Krab (USA)</description>
+		<cloneof></cloneof>
+		<crc>51CE91D6</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2006</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="SpongeBob SquarePants - Revenge of the Flying Dutchman (USA, Europe)" index="" image="">
+		<description>SpongeBob SquarePants - Revenge of the Flying Dutchman (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>30D6C979</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2002</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="SpongeBob SquarePants - SuperSponge (USA, Europe)" index="" image="">
+		<description>SpongeBob SquarePants - SuperSponge (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>98AD67E6</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2001</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="SpongeBob SquarePants Movie, The (USA)" index="" image="">
+		<description>SpongeBob SquarePants Movie, The (USA)</description>
+		<cloneof></cloneof>
+		<crc>E1068687</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2004</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Spy Kids Challenger (USA)" index="" image="">
+		<description>Spy Kids Challenger (USA)</description>
+		<cloneof></cloneof>
+		<crc>E8227E41</crc>
+		<manufacturer>Disney Interactive</manufacturer>
+		<year>2002</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Spyro - Attack of the Rhynocs (USA)" index="" image="">
+		<description>Spyro - Attack of the Rhynocs (USA)</description>
+		<cloneof></cloneof>
+		<crc>13F10A1E</crc>
+		<manufacturer>VU Games</manufacturer>
+		<year>2003</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Spyro - Season of Ice (USA)" index="" image="">
+		<description>Spyro - Season of Ice (USA)</description>
+		<cloneof></cloneof>
+		<crc>2F2389D2</crc>
+		<manufacturer>VU Games</manufacturer>
+		<year>2001</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Spyro Orange - The Cortex Conspiracy (USA)" index="" image="">
+		<description>Spyro Orange - The Cortex Conspiracy (USA)</description>
+		<cloneof></cloneof>
+		<crc>A9915BAF</crc>
+		<manufacturer>VU Games</manufacturer>
+		<year>2004</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Spyro Superpack (USA)" index="" image="">
+		<description>Spyro Superpack (USA)</description>
+		<cloneof></cloneof>
+		<crc>7EF359ED</crc>
+		<manufacturer>VU Games</manufacturer>
+		<year>2005</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Star Wars - The New Droid Army (USA)" index="" image="">
+		<description>Star Wars - The New Droid Army (USA)</description>
+		<cloneof></cloneof>
+		<crc>59C52F98</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2002</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Stuart Little 2 (USA, Europe)" index="" image="">
+		<description>Stuart Little 2 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>6EB7C688</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2002</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Ghouls&apos;n Ghosts (USA, Europe)" index="" image="">
+		<description>Super Ghouls&apos;n Ghosts (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>1EF2ACF3</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>2002</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Mario Advance (USA, Europe)" index="" image="">
+		<description>Super Mario Advance (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>1E4C6D6A</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2001</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Mario Advance 2 - Super Mario World (USA, Australia)" index="" image="">
+		<description>Super Mario Advance 2 - Super Mario World (USA, Australia)</description>
+		<cloneof></cloneof>
+		<crc>5206880A</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2002</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Mario Advance 3 - Yoshi&apos;s Island (USA)" index="" image="">
+		<description>Super Mario Advance 3 - Yoshi&apos;s Island (USA)</description>
+		<cloneof></cloneof>
+		<crc>40A48276</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2002</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Mario Advance 4 - Super Mario Bros. 3 (USA, Australia) (Rev 1)" index="" image="">
+		<description>Super Mario Advance 4 - Super Mario Bros. 3 (USA, Australia) (Rev 1)</description>
+		<cloneof></cloneof>
+		<crc>88DAB27F</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2003</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Superman - Countdown to Apokolips (USA)" index="" image="">
+		<description>Superman - Countdown to Apokolips (USA)</description>
+		<cloneof></cloneof>
+		<crc>43017D47</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>2003</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tak - The Great Juju Challenge (USA, Europe)" index="true" image="t">
+		<description>Tak - The Great Juju Challenge (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>881C8416</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2005</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tak 2 - The Staff of Dreams (USA)" index="" image="">
+		<description>Tak 2 - The Staff of Dreams (USA)</description>
+		<cloneof></cloneof>
+		<crc>8F7EB026</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2004</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tak and the Power of Juju (USA)" index="" image="">
+		<description>Tak and the Power of Juju (USA)</description>
+		<cloneof></cloneof>
+		<crc>A9AF1381</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2003</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tarzan - Return to the Jungle (USA, Europe)" index="" image="">
+		<description>Tarzan - Return to the Jungle (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>32C6DF3F</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2002</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="That&apos;s So Raven (USA)" index="" image="">
+		<description>That&apos;s So Raven (USA)</description>
+		<cloneof></cloneof>
+		<crc>8E190698</crc>
+		<manufacturer>Buena Vista Interactive</manufacturer>
+		<year>2004</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="That&apos;s So Raven 2 - Supernatural Style (USA) (En,Fr)" index="" image="">
+		<description>That&apos;s So Raven 2 - Supernatural Style (USA) (En,Fr)</description>
+		<cloneof></cloneof>
+		<crc>5495CBE1</crc>
+		<manufacturer>Buena Vista Interactive</manufacturer>
+		<year>2005</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tim Burton&apos;s The Nightmare Before Christmas - The Pumpkin King (USA, Europe) (En,Fr,De,Es,It)" index="" image="">
+		<description>Tim Burton&apos;s The Nightmare Before Christmas - The Pumpkin King (USA, Europe) (En,Fr,De,Es,It)</description>
+		<cloneof></cloneof>
+		<crc>3C247C14</crc>
+		<manufacturer>Buena Vista Interactive</manufacturer>
+		<year>2005</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tom and Jerry Tales (USA) (En,Fr,Es)" index="" image="">
+		<description>Tom and Jerry Tales (USA) (En,Fr,Es)</description>
+		<cloneof></cloneof>
+		<crc>AF494F20</crc>
+		<manufacturer>Warner Bros. Interactive Entertainment</manufacturer>
+		<year>2006</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Treasure Planet (USA)" index="" image="">
+		<description>Treasure Planet (USA)</description>
+		<cloneof></cloneof>
+		<crc>8B14F9EC</crc>
+		<manufacturer>Disney Interactive</manufacturer>
+		<year>2002</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Turok Evolution (USA)" index="" image="">
+		<description>Turok Evolution (USA)</description>
+		<cloneof></cloneof>
+		<crc>4EDAC27A</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>2002</year>
+		<genre>Platform</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ty the Tasmanian Tiger 2 - Bush Rescue (USA, Europe) (En,Fr,De)" index="" image="">
+		<description>Ty the Tasmanian Tiger 2 - Bush Rescue (USA, Europe) (En,Fr,De)</description>
+		<cloneof></cloneof>
+		<crc>108C3535</crc>
+		<manufacturer>EA Games</manufacturer>
+		<year>2004</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="VeggieTales - LarryBoy and the Bad Apple (USA)" index="true" image="v">
+		<description>VeggieTales - LarryBoy and the Bad Apple (USA)</description>
+		<cloneof></cloneof>
+		<crc>B5213253</crc>
+		<manufacturer>Crave</manufacturer>
+		<year>2006</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="W.i.t.c.h. (Europe) (En,Fr,De,Es,It)" index="true" image="w">
+		<description>W.i.t.c.h. (Europe) (En,Fr,De,Es,It)</description>
+		<cloneof></cloneof>
+		<crc>CA4F6D5D</crc>
+		<manufacturer>Disney Interactive</manufacturer>
+		<year>2006</year>
+		<genre>Platform</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Wario Land 4 (USA, Europe)" index="" image="">
+		<description>Wario Land 4 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>D6141609</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2001</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Wild Thornberrys Movie, The (USA, Europe)" index="" image="">
+		<description>Wild Thornberrys Movie, The (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>4E2C47BC</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2002</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Wild, The (USA, Europe) (En,Fr,De,Es)" index="" image="">
+		<description>Wild, The (USA, Europe) (En,Fr,De,Es)</description>
+		<cloneof></cloneof>
+		<crc>DE79EDC3</crc>
+		<manufacturer>Buena Vista Games</manufacturer>
+		<year>2006</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Winnie the Pooh&apos;s Rumbly Tumbly Adventure (USA) (En,Fr,Es)" index="" image="">
+		<description>Winnie the Pooh&apos;s Rumbly Tumbly Adventure (USA) (En,Fr,Es)</description>
+		<cloneof></cloneof>
+		<crc>5B098A68</crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>2005</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Woody Woodpecker in Crazy Castle 5 (USA)" index="" image="">
+		<description>Woody Woodpecker in Crazy Castle 5 (USA)</description>
+		<cloneof></cloneof>
+		<crc>B9A3C878</crc>
+		<manufacturer>Kemco</manufacturer>
+		<year>2003</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="X2 - Wolverine&apos;s Revenge (USA, Europe)" index="true" image="x">
+		<description>X2 - Wolverine&apos;s Revenge (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>41A92220</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2003</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="xXx (USA, Europe)" index="" image="">
+		<description>xXx (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>2B3A2AB2</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2002</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Yoshi - Topsy-Turvy (USA)" index="true" image="y">
+		<description>Yoshi - Topsy-Turvy (USA)</description>
+		<cloneof></cloneof>
+		<crc>E64C265C</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2005</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Zapper (USA)" index="true" image="z">
+		<description>Zapper (USA)</description>
+		<cloneof></cloneof>
+		<crc>6751A4EF</crc>
+		<manufacturer>Infogrames</manufacturer>
+		<year>2002</year>
+		<genre>Platform</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

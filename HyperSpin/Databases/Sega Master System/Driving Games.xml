@@ -1,0 +1,189 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Sega Master System</listname>
+		<lastlistupdate>10/27/2011</lastlistupdate>
+		<listversion>1.1 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="Action Fighter (USA, Europe) (v1.2)" index="true" image="a">
+		<description>Action Fighter (USA, Europe) (v1.2)</description>
+		<cloneof></cloneof>
+		<crc>3658F3E0</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1986</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ayrton Senna&apos;s Super Monaco GP II (Europe)" index="" image="">
+		<description>Ayrton Senna&apos;s Super Monaco GP II (Europe)</description>
+		<cloneof></cloneof>
+		<crc>E890331D</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1992</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Battle Out Run (Europe)" index="true" image="b">
+		<description>Battle Out Run (Europe)</description>
+		<cloneof></cloneof>
+		<crc>C19430CE</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1989</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Buggy Run (Europe)" index="" image="">
+		<description>Buggy Run (Europe)</description>
+		<cloneof></cloneof>
+		<crc>B0FC4577</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1994</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="F1 (Europe)" index="true" image="f">
+		<description>F1 (Europe)</description>
+		<cloneof></cloneof>
+		<crc>EC788661</crc>
+		<manufacturer>Domark</manufacturer>
+		<year>1993</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fire &amp; Forget II (Europe)" index="" image="">
+		<description>Fire &amp; Forget II (Europe)</description>
+		<cloneof></cloneof>
+		<crc>F6AD7B1D</crc>
+		<manufacturer>Titus Software</manufacturer>
+		<year>1990</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="GP Rider (Europe)" index="true" image="g">
+		<description>GP Rider (Europe)</description>
+		<cloneof></cloneof>
+		<crc>EC2DA554</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1993</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Micro Machines (Europe)" index="true" image="m">
+		<description>Micro Machines (Europe)</description>
+		<cloneof></cloneof>
+		<crc>A577CE46</crc>
+		<manufacturer>Codemasters</manufacturer>
+		<year>1993</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Out Run (World)" index="true" image="o">
+		<description>Out Run (World)</description>
+		<cloneof></cloneof>
+		<crc>5589D8D2</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1987</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Out Run 3-D (Europe)" index="" image="">
+		<description>Out Run 3-D (Europe)</description>
+		<cloneof></cloneof>
+		<crc>D6F43DDA</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1991</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Out Run Europa (Europe)" index="" image="">
+		<description>Out Run Europa (Europe)</description>
+		<cloneof></cloneof>
+		<crc>3932ADBC</crc>
+		<manufacturer>U.S. Gold</manufacturer>
+		<year>1991</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="R.C. Grand Prix (USA, Europe)" index="true" image="r">
+		<description>R.C. Grand Prix (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>54316FEA</crc>
+		<manufacturer>Seismic</manufacturer>
+		<year>1989</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Road Rash (Europe)" index="" image="">
+		<description>Road Rash (Europe)</description>
+		<cloneof></cloneof>
+		<crc>B876FC74</crc>
+		<manufacturer>U.S. Gold</manufacturer>
+		<year>1989</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Special Criminal Investigation (Europe)" index="true" image="s">
+		<description>Special Criminal Investigation (Europe)</description>
+		<cloneof></cloneof>
+		<crc>FA8E4CA0</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1992</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Monaco GP (USA)" index="" image="">
+		<description>Super Monaco GP (USA)</description>
+		<cloneof></cloneof>
+		<crc>3EF12BAA</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1990</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Off Road (Europe)" index="" image="">
+		<description>Super Off Road (Europe)</description>
+		<cloneof></cloneof>
+		<crc>54F68C2A</crc>
+		<manufacturer>Virgin Mastertronic</manufacturer>
+		<year>1992</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Taito Chase H.Q. (Europe)" index="true" image="t">
+		<description>Taito Chase H.Q. (Europe)</description>
+		<cloneof></cloneof>
+		<crc>85CFC9C9</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1990</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="World Grand Prix (USA)" index="true" image="w">
+		<description>World Grand Prix (USA)</description>
+		<cloneof></cloneof>
+		<crc>7B369892</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1986</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

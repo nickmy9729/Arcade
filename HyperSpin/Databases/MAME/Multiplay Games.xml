@@ -1,0 +1,1289 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>MAME</listname>
+		<lastlistupdate>07/02/2011</lastlistupdate>
+		<listversion>.143 Ongoing</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="39in1" index="true" image="3">
+		<description>39 in 1 MAME bootleg</description>
+		<cloneof></cloneof>
+		<crc>9149dbc4</crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>2004</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="4in1" index="true" image="4">
+		<description>4 Fun in 1</description>
+		<cloneof></cloneof>
+		<crc>ce1af4d9</crc>
+		<manufacturer>Armenia / Food and Fun</manufacturer>
+		<year>1981</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="48in1a" index="" image="">
+		<description>48 in 1 MAME bootleg (ver 3.02)</description>
+		<cloneof>39in1</cloneof>
+		<crc>5ea25870</crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>2004</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="48in1" index="" image="">
+		<description>48 in 1 MAME bootleg (ver 3.09)</description>
+		<cloneof>39in1</cloneof>
+		<crc>27023186</crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>2004</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="alphaho" index="true" image="a">
+		<description>Alpha Fighter / Head On</description>
+		<cloneof></cloneof>
+		<crc>db774c23</crc>
+		<manufacturer>Data East Corporation</manufacturer>
+		<year>19??</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="arcadecl" index="" image="">
+		<description>Arcade Classics (prototype)</description>
+		<cloneof></cloneof>
+		<crc>b5b93623</crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1992</year>
+		<genre>Multiplay/Trackball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="bestri" index="true" image="b">
+		<description>Bestri (Korea)</description>
+		<cloneof></cloneof>
+		<crc>9e94023d</crc>
+		<manufacturer>F2 System</manufacturer>
+		<year>1998</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="bonanzar2" index="" image="">
+		<description>Bonanza (Revision 2)</description>
+		<cloneof>bonanza</cloneof>
+		<crc>fa545ba8</crc>
+		<manufacturer>New Image Technologies</manufacturer>
+		<year>1993</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="bonanza" index="" image="">
+		<description>Bonanza (Revision 3)</description>
+		<cloneof></cloneof>
+		<crc>fa545ba8</crc>
+		<manufacturer>New Image Technologies</manufacturer>
+		<year>1993</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="cham24" index="true" image="c">
+		<description>Chameleon 24</description>
+		<cloneof></cloneof>
+		<crc>686e9d05</crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>2002</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="funcube2" index="true" image="f">
+		<description>Funcube 2 (v1.1)</description>
+		<cloneof></cloneof>
+		<crc>add1c8a6</crc>
+		<manufacturer>Namco</manufacturer>
+		<year>2001</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="funcube4" index="" image="">
+		<description>Funcube 4 (v1.0)</description>
+		<cloneof></cloneof>
+		<crc>ef870874</crc>
+		<manufacturer>Namco</manufacturer>
+		<year>2001</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="galgame2" index="true" image="g">
+		<description>Galaxy Games StarPak 2</description>
+		<cloneof></cloneof>
+		<crc>e51ff184</crc>
+		<manufacturer>Creative Electronics &amp; Software / Namco</manufacturer>
+		<year>1998</year>
+		<genre>Multiplay/Trackball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gamecstl" index="" image="">
+		<description>GameCristal</description>
+		<cloneof></cloneof>
+		<crc>27834ce9</crc>
+		<manufacturer>Cristaltec</manufacturer>
+		<year>2002</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gamecst2" index="" image="">
+		<description>GameCristal (version 2.613)</description>
+		<cloneof>gamecstl</cloneof>
+		<crc>27834ce9</crc>
+		<manufacturer>Cristaltec</manufacturer>
+		<year>2002</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="usg185" index="" image="">
+		<description>Games V18.7C</description>
+		<cloneof></cloneof>
+		<crc>2f4ed125</crc>
+		<manufacturer>U.S. Games</manufacturer>
+		<year>1991</year>
+		<genre>Multiplay/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="usg252" index="" image="">
+		<description>Games V25.4X</description>
+		<cloneof></cloneof>
+		<crc>766a855a</crc>
+		<manufacturer>U.S. Games</manufacturer>
+		<year>1992</year>
+		<genre>Multiplay/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gmgalax" index="" image="">
+		<description>Ghostmuncher Galaxian (bootleg)</description>
+		<cloneof></cloneof>
+		<crc>19338c70</crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1981</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="happy6" index="true" image="h">
+		<description>Happy 6-in-1 (ver. 101CN)</description>
+		<cloneof></cloneof>
+		<crc>78c15fa2</crc>
+		<manufacturer>IGS</manufacturer>
+		<year>2004</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="invds" index="true" image="i">
+		<description>Invinco / Deep Scan</description>
+		<cloneof></cloneof>
+		<crc>e6a33eae</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1979</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="invho2" index="" image="">
+		<description>Invinco / Head On 2</description>
+		<cloneof></cloneof>
+		<crc>44356a73</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1979</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="janptr96" index="true" image="j">
+		<description>Janputer &apos;96 (Japan)</description>
+		<cloneof></cloneof>
+		<crc>39914ecd</crc>
+		<manufacturer>Dynax</manufacturer>
+		<year>1996</year>
+		<genre>Multiplay/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="kingpin" index="true" image="k">
+		<description>King Pin</description>
+		<cloneof></cloneof>
+		<crc>5ba9aca3</crc>
+		<manufacturer>American Communication Laboratories Inc.</manufacturer>
+		<year>1983</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="konam80a" index="" image="">
+		<description>Konami 80&apos;s AC Special (GC826 VER. AAA)</description>
+		<cloneof>konam80s</cloneof>
+		<crc>11812ef8</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1998</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="konam80s" index="" image="">
+		<description>Konami 80&apos;s AC Special (GC826 VER. EAA)</description>
+		<cloneof></cloneof>
+		<crc>11812ef8</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1998</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="konam80k" index="" image="">
+		<description>Konami 80&apos;s AC Special (GC826 VER. KAA)</description>
+		<cloneof>konam80s</cloneof>
+		<crc>11812ef8</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1998</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="konam80u" index="" image="">
+		<description>Konami 80&apos;s AC Special (GC826 VER. UAA)</description>
+		<cloneof>konam80s</cloneof>
+		<crc>11812ef8</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1998</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="konam80j" index="" image="">
+		<description>Konami 80&apos;s Gallery (GC826 VER. JAA)</description>
+		<cloneof>konam80s</cloneof>
+		<crc>11812ef8</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1998</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="megat5a" index="true" image="m">
+		<description>Megatouch 5 (9255-60-01 ROC, Standard version)</description>
+		<cloneof>megat5</cloneof>
+		<crc>f8f7f48e</crc>
+		<manufacturer>Merit</manufacturer>
+		<year>1997</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="megat5" index="" image="">
+		<description>Megatouch 5 (9255-60-01 ROI, Standard version)</description>
+		<cloneof></cloneof>
+		<crc>f8f7f48e</crc>
+		<manufacturer>Merit</manufacturer>
+		<year>1997</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="megat5nj" index="" image="">
+		<description>Megatouch 5 (9255-60-07 RON, New Jersey version)</description>
+		<cloneof>megat5</cloneof>
+		<crc>f8f7f48e</crc>
+		<manufacturer>Merit</manufacturer>
+		<year>1998</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="megat5tg" index="" image="">
+		<description>Megatouch 5 Turnier Version (9255-70-50 ROD, Bi-Lingual GER/ENG version)</description>
+		<cloneof>megat5</cloneof>
+		<crc>f57e4d36</crc>
+		<manufacturer>Merit</manufacturer>
+		<year>1998</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="megat6" index="" image="">
+		<description>Megatouch 6 (9255-80-01 ROA, Standard version)</description>
+		<cloneof></cloneof>
+		<crc>f8f7f48e</crc>
+		<manufacturer>Merit</manufacturer>
+		<year>1998</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="megat3a" index="" image="">
+		<description>Megatouch III (9255-20-01 ROF, Standard version)</description>
+		<cloneof>megat3</cloneof>
+		<crc>ac969296</crc>
+		<manufacturer>Merit</manufacturer>
+		<year>1995</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="megat3" index="" image="">
+		<description>Megatouch III (9255-20-01 RON, Standard version)</description>
+		<cloneof></cloneof>
+		<crc>ac969296</crc>
+		<manufacturer>Merit</manufacturer>
+		<year>1996</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="megat3cb" index="" image="">
+		<description>Megatouch III (9255-20-06 ROD, California version)</description>
+		<cloneof>megat3</cloneof>
+		<crc>ac969296</crc>
+		<manufacturer>Merit</manufacturer>
+		<year>1995</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="megat3ca" index="" image="">
+		<description>Megatouch III (9255-20-06 RON, California version)</description>
+		<cloneof>megat3</cloneof>
+		<crc>69110f8f</crc>
+		<manufacturer>Merit</manufacturer>
+		<year>1996</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="megat3nj" index="" image="">
+		<description>Megatouch III (9255-20-07 ROG, New Jersey version)</description>
+		<cloneof>megat3</cloneof>
+		<crc>ac969296</crc>
+		<manufacturer>Merit</manufacturer>
+		<year>1995</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="megat3te" index="" image="">
+		<description>Megatouch III Tournament Edition (9255-30-01 ROE, Standard version)</description>
+		<cloneof>megat3</cloneof>
+		<crc>31ac0004</crc>
+		<manufacturer>Merit</manufacturer>
+		<year>1996</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="megat4a" index="" image="">
+		<description>Megatouch IV (9255-40-01 ROD, Standard version)</description>
+		<cloneof>megat4</cloneof>
+		<crc>08b1b8fe</crc>
+		<manufacturer>Merit</manufacturer>
+		<year>1996</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="megat4" index="" image="">
+		<description>Megatouch IV (9255-40-01 ROE, Standard version)</description>
+		<cloneof></cloneof>
+		<crc>08b1b8fe</crc>
+		<manufacturer>Merit</manufacturer>
+		<year>1996</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="megat4tea" index="" image="">
+		<description>Megatouch IV Tournament Edition (9255-50-01 ROA, Standard version)</description>
+		<cloneof>megat4</cloneof>
+		<crc>08b1b8fe</crc>
+		<manufacturer>Merit</manufacturer>
+		<year>1996</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="megat4te" index="" image="">
+		<description>Megatouch IV Tournament Edition (9255-50-01 ROD, Standard version)</description>
+		<cloneof>megat4</cloneof>
+		<crc>08b1b8fe</crc>
+		<manufacturer>Merit</manufacturer>
+		<year>1996</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="20pacgalr1" index="" image="">
+		<description>Ms. Pac-Man/Galaga - 20th Anniversary Class of 1981 Reunion (V1.01)</description>
+		<cloneof>20pacgal</cloneof>
+		<crc>77159582</crc>
+		<manufacturer>Namco / Cosmodog</manufacturer>
+		<year>2000</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="20pacgalr4" index="" image="">
+		<description>Ms. Pac-Man/Galaga - 20th Anniversary Class of 1981 Reunion (V1.04)</description>
+		<cloneof>20pacgal</cloneof>
+		<crc>6c474d2d</crc>
+		<manufacturer>Namco / Cosmodog</manufacturer>
+		<year>2000</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="nmg5" index="" image="">
+		<description>Multi 5 / New Multi Game 5</description>
+		<cloneof></cloneof>
+		<crc>36af3e2f</crc>
+		<manufacturer>Yun Sung</manufacturer>
+		<year>1998</year>
+		<genre>Multiplay/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="nmg5e" index="" image="">
+		<description>Multi 5 / New Multi Game 5 (earlier)</description>
+		<cloneof>nmg5</cloneof>
+		<crc>578516e2</crc>
+		<manufacturer>Yun Sung</manufacturer>
+		<year>1997</year>
+		<genre>Multiplay/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mchampdx" index="" image="">
+		<description>Multi Champ Deluxe (ver. 0106, 06/01/2000)</description>
+		<cloneof></cloneof>
+		<crc>ea98b3fd</crc>
+		<manufacturer>ESD</manufacturer>
+		<year>2000</year>
+		<genre>Multiplay/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mchampdxb" index="" image="">
+		<description>Multi Champ Deluxe (ver. 1114, 14/11/1999)</description>
+		<cloneof>mchampdx</cloneof>
+		<crc>d17b2616</crc>
+		<manufacturer>ESD</manufacturer>
+		<year>1999</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mchampdxa" index="" image="">
+		<description>Multi Champ Deluxe (ver. 1126, 26/11/1999)</description>
+		<cloneof>mchampdx</cloneof>
+		<crc>4cca802c</crc>
+		<manufacturer>ESD</manufacturer>
+		<year>1999</year>
+		<genre>Multiplay/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="multigam" index="" image="">
+		<description>Multi Game (set 1)</description>
+		<cloneof></cloneof>
+		<crc>f0fa7cf2</crc>
+		<manufacturer>unknown</manufacturer>
+		<year>1992</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="multigmb" index="" image="">
+		<description>Multi Game (set 2)</description>
+		<cloneof>multigam</cloneof>
+		<crc>079226c1</crc>
+		<manufacturer>unknown</manufacturer>
+		<year>1992</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="multigmt" index="" image="">
+		<description>Multi Game (Tung Sheng Electronics)</description>
+		<cloneof></cloneof>
+		<crc>fdc40548</crc>
+		<manufacturer>Tung Sheng Electronics</manufacturer>
+		<year>1992</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="multigm2" index="" image="">
+		<description>Multi Game 2</description>
+		<cloneof></cloneof>
+		<crc>e0588e11</crc>
+		<manufacturer>Seo Jin</manufacturer>
+		<year>1992</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="am_mg24" index="" image="">
+		<description>Multi Game I (V.Ger 2.4)</description>
+		<cloneof></cloneof>
+		<crc>9ce159f7</crc>
+		<manufacturer>Amatic Trading GmbH</manufacturer>
+		<year>2000</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="multigm3" index="" image="">
+		<description>Multi Game III</description>
+		<cloneof></cloneof>
+		<crc>3c1e53f1</crc>
+		<manufacturer>Seo Jin</manufacturer>
+		<year>1992</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="am_mg3" index="" image="">
+		<description>Multi Game III (V.Ger 3.5)</description>
+		<cloneof></cloneof>
+		<crc>21d64029</crc>
+		<manufacturer>Amatic Trading GmbH</manufacturer>
+		<year>2000</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="cmmb162" index="" image="">
+		<description>Multipede (rev 1.62)</description>
+		<cloneof></cloneof>
+		<crc>71a5a75d</crc>
+		<manufacturer>Infogrames / Cosmodog</manufacturer>
+		<year>2002</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ncv1" index="true" image="n">
+		<description>Namco Classic Collection Vol.1</description>
+		<cloneof></cloneof>
+		<crc>4ffc530b</crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1995</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ncv1j" index="" image="">
+		<description>Namco Classic Collection Vol.1 (Japan, v1.00)</description>
+		<cloneof>ncv1</cloneof>
+		<crc>48ce0b2b</crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1995</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ncv1j2" index="" image="">
+		<description>Namco Classic Collection Vol.1 (Japan, v1.03)</description>
+		<cloneof>ncv1</cloneof>
+		<crc>7207469d</crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1995</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ncv2" index="" image="">
+		<description>Namco Classic Collection Vol.2</description>
+		<cloneof></cloneof>
+		<crc>fb8a4123</crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1996</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ncv2j" index="" image="">
+		<description>Namco Classic Collection Vol.2 (Japan)</description>
+		<cloneof>ncv2</cloneof>
+		<crc>99991192</crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1996</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="otenamhf" index="true" image="o">
+		<description>Otenami Haiken Final (V2.07JC)</description>
+		<cloneof></cloneof>
+		<crc>c48c8236</crc>
+		<manufacturer>Success / Warashi</manufacturer>
+		<year>2005</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mt_parlg" index="true" image="p">
+		<description>Parlour Games (Mega-Tech, SMS based)</description>
+		<cloneof></cloneof>
+		<crc>f71e9526</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1987</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="photoply" index="" image="">
+		<description>PhotoPlay</description>
+		<cloneof></cloneof>
+		<crc>e96d1bbc</crc>
+		<manufacturer>Funworld</manufacturer>
+		<year>199?</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pitboss2" index="" image="">
+		<description>Pit Boss II</description>
+		<cloneof></cloneof>
+		<crc>a1b6ac15</crc>
+		<manufacturer>Merit</manufacturer>
+		<year>1988</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pitbossma" index="" image="">
+		<description>Pit Boss Megastar (9243-00-01)</description>
+		<cloneof>pitbossm</cloneof>
+		<crc>55e14fb1</crc>
+		<manufacturer>Merit</manufacturer>
+		<year>1994</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pitbossm" index="" image="">
+		<description>Pit Boss Megastar (9244-00-01)</description>
+		<cloneof></cloneof>
+		<crc>8317fea1</crc>
+		<manufacturer>Merit</manufacturer>
+		<year>1994</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pitbosssa" index="" image="">
+		<description>Pit Boss Superstar (9221-10-00A)</description>
+		<cloneof>pitbosss</cloneof>
+		<crc>41be6b30</crc>
+		<manufacturer>Merit</manufacturer>
+		<year>1990</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pitbosss" index="" image="">
+		<description>Pit Boss Superstar (9221-10-00B)</description>
+		<cloneof></cloneof>
+		<crc>e1fbf7cb</crc>
+		<manufacturer>Merit</manufacturer>
+		<year>1990</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pbst30b" index="" image="">
+		<description>Pit Boss Supertouch 30 (9234-00-01)</description>
+		<cloneof>pbst30</cloneof>
+		<crc>5f058f95</crc>
+		<manufacturer>Merit</manufacturer>
+		<year>1993</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pbst30" index="" image="">
+		<description>Pit Boss Supertouch 30 (9234-10-01)</description>
+		<cloneof></cloneof>
+		<crc>96f39c9a</crc>
+		<manufacturer>Merit</manufacturer>
+		<year>1994</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="polyplay" index="" image="">
+		<description>Poly-Play</description>
+		<cloneof></cloneof>
+		<crc>87884c5f</crc>
+		<manufacturer>VEB Polytechnik Karl-Marx-Stadt</manufacturer>
+		<year>1985</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pclubys" index="" image="">
+		<description>Puzzle Club (Yun Sung, set 1)</description>
+		<cloneof></cloneof>
+		<crc>62e28e6d</crc>
+		<manufacturer>Yun Sung</manufacturer>
+		<year>2000</year>
+		<genre>Multiplay/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pclubysa" index="" image="">
+		<description>Puzzle Club (Yun Sung, set 2)</description>
+		<cloneof>pclubys</cloneof>
+		<crc>885aa07a</crc>
+		<manufacturer>Yun Sung</manufacturer>
+		<year>2000</year>
+		<genre>Multiplay/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="4in1boot" index="" image="">
+		<description>Puzzle King (includes bootleg of Snow Bros.)</description>
+		<cloneof></cloneof>
+		<crc>71815878</crc>
+		<manufacturer>K1 Soft</manufacturer>
+		<year>2002</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="rollingc" index="true" image="r">
+		<description>Rolling Crash / Moon Base</description>
+		<cloneof></cloneof>
+		<crc>66fa50bf</crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1979</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="salmankt" index="true" image="s">
+		<description>Salary Man Kintarou</description>
+		<cloneof></cloneof>
+		<crc>e5693ce3</crc>
+		<manufacturer>Sammy</manufacturer>
+		<year>2004</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sspacaho" index="" image="">
+		<description>Space Attack / Head On</description>
+		<cloneof></cloneof>
+		<crc>ba62f57a</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1979</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="streetgr3" index="" image="">
+		<description>Street Games (Revision 3)</description>
+		<cloneof>streetg</cloneof>
+		<crc>e4d6511f</crc>
+		<manufacturer>New Image Technologies</manufacturer>
+		<year>1993</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="streetg" index="" image="">
+		<description>Street Games (Revision 4)</description>
+		<cloneof></cloneof>
+		<crc>e4d6511f</crc>
+		<manufacturer>New Image Technologies</manufacturer>
+		<year>1993</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="streetg2r5" index="" image="">
+		<description>Street Games II (Revision 5)</description>
+		<cloneof>streetg2</cloneof>
+		<crc>e4d6511f</crc>
+		<manufacturer>New Image Technologies</manufacturer>
+		<year>1993</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="streetg2" index="" image="">
+		<description>Street Games II (Revision 7C)</description>
+		<cloneof></cloneof>
+		<crc>e4d6511f</crc>
+		<manufacturer>New Image Technologies</manufacturer>
+		<year>1993</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pss64" index="" image="">
+		<description>Super Donkey Kong / Super Bomberman 2 (Super Famicom Box)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nintendo / Hudson Soft</manufacturer>
+		<year>199?</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pss63" index="" image="">
+		<description>Super Donkey Kong / Super Tetris 2 + Bombliss (Super Famicom Box)</description>
+		<cloneof></cloneof>
+		<crc>ebec4c1c</crc>
+		<manufacturer>Nintendo / BPS</manufacturer>
+		<year>199?</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="usg32" index="" image="">
+		<description>Super Duper Casino (California V3.2)</description>
+		<cloneof></cloneof>
+		<crc>bc313387</crc>
+		<manufacturer>U.S. Games</manufacturer>
+		<year>1987</year>
+		<genre>Multiplay/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="supergm3" index="" image="">
+		<description>Super Game III</description>
+		<cloneof></cloneof>
+		<crc>f79dd9ef</crc>
+		<manufacturer>unknown</manufacturer>
+		<year>1996</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pss61" index="" image="">
+		<description>Super Mario Kart / Super Mario Collection / Star Fox (Super Famicom Box)</description>
+		<cloneof></cloneof>
+		<crc>333bf9a7</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>199?</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="megat4s" index="" image="">
+		<description>Super Megatouch IV (9255-41-01 ROG, Standard version)</description>
+		<cloneof>megat4</cloneof>
+		<crc>f51ae565</crc>
+		<manufacturer>Merit</manufacturer>
+		<year>1996</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="megat4sn" index="" image="">
+		<description>Super Megatouch IV (9255-41-07 ROG, New Jersey version)</description>
+		<cloneof>megat4</cloneof>
+		<crc>9ace8f52</crc>
+		<manufacturer>Merit</manufacturer>
+		<year>1996</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="megat4st" index="" image="">
+		<description>Super Megatouch IV Tournament Edition (9255-51-01 ROB, Standard version)</description>
+		<cloneof>megat4</cloneof>
+		<crc>f51ae565</crc>
+		<manufacturer>Merit</manufacturer>
+		<year>1996</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="megat4stg" index="" image="">
+		<description>Super Megatouch IV Turnier Version (9255-51-50 ROA, Bi-Lingual GER/ENG version)</description>
+		<cloneof>megat4</cloneof>
+		<crc>f51ae565</crc>
+		<manufacturer>Merit</manufacturer>
+		<year>1996</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="spitboss" index="" image="">
+		<description>Super Pit Boss</description>
+		<cloneof></cloneof>
+		<crc>e0c45c9c</crc>
+		<manufacturer>Merit</manufacturer>
+		<year>1988</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="usg82" index="" image="">
+		<description>Super Ten V8.2</description>
+		<cloneof>usg83</cloneof>
+		<crc>09c20b78</crc>
+		<manufacturer>U.S. Games</manufacturer>
+		<year>1988</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="usg83" index="" image="">
+		<description>Super Ten V8.3</description>
+		<cloneof></cloneof>
+		<crc>aae84186</crc>
+		<manufacturer>U.S. Games</manufacturer>
+		<year>1988</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="usg83x" index="" image="">
+		<description>Super Ten V8.3X</description>
+		<cloneof>usg83</cloneof>
+		<crc>4ad9b6e0</crc>
+		<manufacturer>U.S. Games</manufacturer>
+		<year>1988</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="3wondersh" index="true" image="t">
+		<description>Three Wonders (hack)</description>
+		<cloneof>3wonders</cloneof>
+		<crc>e6071884</crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1991</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="3wondersu" index="" image="">
+		<description>Three Wonders (USA 910520)</description>
+		<cloneof>3wonders</cloneof>
+		<crc>0b156fd8</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1991</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="3wonders" index="" image="">
+		<description>Three Wonders (World 910520)</description>
+		<cloneof></cloneof>
+		<crc>ef5b8b33</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1991</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tmdo" index="" image="">
+		<description>Touchmaster (v2.2-01 Standard)</description>
+		<cloneof>tm</cloneof>
+		<crc>12e1b085</crc>
+		<manufacturer>Midway Games Inc. / CES Inc.</manufacturer>
+		<year>1996</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tm" index="" image="">
+		<description>Touchmaster (v3.00 Euro)</description>
+		<cloneof></cloneof>
+		<crc>edaa5874</crc>
+		<manufacturer>Midway Games Inc. / CES Inc.</manufacturer>
+		<year>1996</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tm2kb" index="" image="">
+		<description>Touchmaster 2000 (v4.00 Standard)</description>
+		<cloneof>tm2k</cloneof>
+		<crc>c110502b</crc>
+		<manufacturer>Midway Games Inc.</manufacturer>
+		<year>1996</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tm2ka" index="" image="">
+		<description>Touchmaster 2000 (v4.02 Standard)</description>
+		<cloneof>tm2k</cloneof>
+		<crc>47269aeb</crc>
+		<manufacturer>Midway Games Inc.</manufacturer>
+		<year>1996</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tm2k" index="" image="">
+		<description>Touchmaster 2000 Plus (v4.63 Standard)</description>
+		<cloneof></cloneof>
+		<crc>f73fdb23</crc>
+		<manufacturer>Midway Games Inc.</manufacturer>
+		<year>1996</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tm3ka" index="" image="">
+		<description>Touchmaster 3000 (v5.01 Standard)</description>
+		<cloneof>tm3k</cloneof>
+		<crc>c9522279</crc>
+		<manufacturer>Midway Games Inc.</manufacturer>
+		<year>1997</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tm3k" index="" image="">
+		<description>Touchmaster 3000 (v5.02 Standard)</description>
+		<cloneof></cloneof>
+		<crc>6267e2bd</crc>
+		<manufacturer>Midway Games Inc.</manufacturer>
+		<year>1997</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tm4kb" index="" image="">
+		<description>Touchmaster 4000 (v6.01 Standard)</description>
+		<cloneof>tm4k</cloneof>
+		<crc>cdcfd064</crc>
+		<manufacturer>Midway Games Inc.</manufacturer>
+		<year>1998</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tm4ka" index="" image="">
+		<description>Touchmaster 4000 (v6.02 Standard)</description>
+		<cloneof>tm4k</cloneof>
+		<crc>3d8d7848</crc>
+		<manufacturer>Midway Games Inc.</manufacturer>
+		<year>1998</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tm4k" index="" image="">
+		<description>Touchmaster 4000 (v6.03 Standard)</description>
+		<cloneof></cloneof>
+		<crc>0c88c856</crc>
+		<manufacturer>Midway Games Inc.</manufacturer>
+		<year>1998</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tm5ka" index="" image="">
+		<description>Touchmaster 5000 (v7.01 Standard)</description>
+		<cloneof>tm5k</cloneof>
+		<crc>3ff68213</crc>
+		<manufacturer>Midway Games Inc.</manufacturer>
+		<year>1998</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tm5kca" index="" image="">
+		<description>Touchmaster 5000 (v7.10 California)</description>
+		<cloneof>tm5k</cloneof>
+		<crc>7c03708f</crc>
+		<manufacturer>Midway Games Inc.</manufacturer>
+		<year>1998</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tm5k" index="" image="">
+		<description>Touchmaster 5000 (v7.10 Standard)</description>
+		<cloneof></cloneof>
+		<crc>df0bd25e</crc>
+		<manufacturer>Midway Games Inc.</manufacturer>
+		<year>1998</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tm7ka" index="" image="">
+		<description>Touchmaster 7000 (v8.00 Standard)</description>
+		<cloneof>tm7k</cloneof>
+		<crc>83ec3da7</crc>
+		<manufacturer>Midway Games Inc.</manufacturer>
+		<year>1999</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tm7k" index="" image="">
+		<description>Touchmaster 7000 (v8.04 Standard)</description>
+		<cloneof></cloneof>
+		<crc>2461af04</crc>
+		<manufacturer>Midway Games Inc.</manufacturer>
+		<year>1999</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tm7keval" index="" image="">
+		<description>Touchmaster 7000 (v8.1X Evaluation)</description>
+		<cloneof>tm7k</cloneof>
+		<crc>57c88287</crc>
+		<manufacturer>Midway Games Inc.</manufacturer>
+		<year>1999</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tm8k902" index="" image="">
+		<description>Touchmaster 8000 (v9.02 Standard)</description>
+		<cloneof>tm8k</cloneof>
+		<crc>c0d95b2c</crc>
+		<manufacturer>Midway Games Inc.</manufacturer>
+		<year>2000</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tm8k" index="" image="">
+		<description>Touchmaster 8000 (v9.04 Standard)</description>
+		<cloneof></cloneof>
+		<crc>28864ec8</crc>
+		<manufacturer>Midway Games Inc.</manufacturer>
+		<year>2000</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tourtabl" index="" image="">
+		<description>Tournament Table (set 1)</description>
+		<cloneof></cloneof>
+		<crc>4479a6f7</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1978</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tourtab2" index="" image="">
+		<description>Tournament Table (set 2)</description>
+		<cloneof>tourtabl</cloneof>
+		<crc>fcdfafa2</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1978</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="trisport" index="" image="">
+		<description>Tri-Sports</description>
+		<cloneof></cloneof>
+		<crc>fe1e9e37</crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>1989</year>
+		<genre>Multiplay/Trackball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tron4" index="" image="">
+		<description>Tron (6/15)</description>
+		<cloneof>tron</cloneof>
+		<crc>09d7a95a</crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>1982</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tron3" index="" image="">
+		<description>Tron (6/17)</description>
+		<cloneof>tron</cloneof>
+		<crc>fc33afd7</crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>1982</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tron2" index="" image="">
+		<description>Tron (6/25)</description>
+		<cloneof>tron</cloneof>
+		<crc>5151770b</crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>1982</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tron" index="" image="">
+		<description>Tron (8/9)</description>
+		<cloneof></cloneof>
+		<crc>0de0471a</crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>1982</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="wonder3" index="true" image="w">
+		<description>Wonder 3 (Japan 910520)</description>
+		<cloneof>3wonders</cloneof>
+		<crc>e3741247</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1991</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="3in1semi" index="true" image="x">
+		<description>XESS - The New Revolution (SemiCom 3-in-1)</description>
+		<cloneof></cloneof>
+		<crc>b0e4a0f7</crc>
+		<manufacturer>SemiCom</manufacturer>
+		<year>1997</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="zokuoten" index="true" image="z">
+		<description>Zoku Otenamihaiken (V2.03J)</description>
+		<cloneof></cloneof>
+		<crc>c48c8236</crc>
+		<manufacturer>Success</manufacturer>
+		<year>2000</year>
+		<genre>Multiplay</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

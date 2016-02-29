@@ -1,0 +1,1769 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Super Nintendo Entertainment System</listname>
+		<lastlistupdate>11/26/2011</lastlistupdate>
+		<listversion>1.3 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="2020 Super Baseball (USA)" index="true" image="2">
+		<description>2020 Super Baseball (USA)</description>
+		<cloneof></cloneof>
+		<crc>0d77933e</crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Baseball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="90 Minutes - European Prime Goal (Europe)" index="true" image="9">
+		<description>90 Minutes - European Prime Goal (Europe)</description>
+		<cloneof></cloneof>
+		<crc>1ad61bd0</crc>
+		<manufacturer>Ocean</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Soccer</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ABC Monday Night Football (USA)" index="true" image="a">
+		<description>ABC Monday Night Football (USA)</description>
+		<cloneof></cloneof>
+		<crc>e0dc8ad7</crc>
+		<manufacturer>Data East</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Football</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="American Gladiators (USA)" index="" image="">
+		<description>American Gladiators (USA)</description>
+		<cloneof></cloneof>
+		<crc>76b151fd</crc>
+		<manufacturer>GameTek</manufacturer>
+		<year>1993</year>
+		<genre>Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Andre Agassi Tennis (USA)" index="" image="">
+		<description>Andre Agassi Tennis (USA)</description>
+		<cloneof></cloneof>
+		<crc>d1ae87be</crc>
+		<manufacturer>TecMagik</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Tennis</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Barkley Shut Up and Jam! (USA)" index="true" image="b">
+		<description>Barkley Shut Up and Jam! (USA)</description>
+		<cloneof></cloneof>
+		<crc>726b6c5a</crc>
+		<manufacturer>Accolade</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Basketball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="BASS Masters Classic (USA)" index="" image="">
+		<description>BASS Masters Classic (USA)</description>
+		<cloneof></cloneof>
+		<crc>832a27c2</crc>
+		<manufacturer>Malibu</manufacturer>
+		<year>1995</year>
+		<genre>Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="BASS Masters Classic - Pro Edition (USA)" index="" image="">
+		<description>BASS Masters Classic - Pro Edition (USA)</description>
+		<cloneof></cloneof>
+		<crc>c5058634</crc>
+		<manufacturer>Black Pearl</manufacturer>
+		<year>1996</year>
+		<genre>Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bassin&apos;s Black Bass (USA)" index="" image="">
+		<description>Bassin&apos;s Black Bass (USA)</description>
+		<cloneof></cloneof>
+		<crc>7dc5b7b3</crc>
+		<manufacturer>Hot-B</manufacturer>
+		<year>1994</year>
+		<genre>Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Best of the Best - Championship Karate (USA)" index="" image="">
+		<description>Best of the Best - Championship Karate (USA)</description>
+		<cloneof></cloneof>
+		<crc>7f6ed86e</crc>
+		<manufacturer>Electro Brain</manufacturer>
+		<year>1992</year>
+		<genre>Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bill Laimbeer&apos;s Combat Basketball (USA)" index="" image="">
+		<description>Bill Laimbeer&apos;s Combat Basketball (USA)</description>
+		<cloneof></cloneof>
+		<crc>468d8cdd</crc>
+		<manufacturer>Hudson Soft</manufacturer>
+		<year>1991</year>
+		<genre>Sports/Basketball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bill Walsh College Football (USA)" index="" image="">
+		<description>Bill Walsh College Football (USA)</description>
+		<cloneof></cloneof>
+		<crc>25391c9f</crc>
+		<manufacturer>EA Sports</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Football</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Boxing Legends of the Ring (USA)" index="" image="">
+		<description>Boxing Legends of the Ring (USA)</description>
+		<cloneof></cloneof>
+		<crc>c0b632c0</crc>
+		<manufacturer>Electro Brain</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Boxing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Brett Hull Hockey &apos;95 (USA)" index="" image="">
+		<description>Brett Hull Hockey &apos;95 (USA)</description>
+		<cloneof></cloneof>
+		<crc>9ebfe809</crc>
+		<manufacturer>Accolade</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Hockey</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Brett Hull Hockey (USA)" index="" image="">
+		<description>Brett Hull Hockey (USA)</description>
+		<cloneof></cloneof>
+		<crc>fbe35998</crc>
+		<manufacturer>Accolade</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Hockey</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Brunswick World Tournament of Champions (USA)" index="" image="">
+		<description>Brunswick World Tournament of Champions (USA)</description>
+		<cloneof></cloneof>
+		<crc>52e4dc92</crc>
+		<manufacturer>Black Pearl</manufacturer>
+		<year>1997</year>
+		<genre>Sports/Tennis</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bulls vs Blazers and the NBA Playoffs (USA) (Rev 1)" index="" image="">
+		<description>Bulls vs Blazers and the NBA Playoffs (USA) (Rev 1)</description>
+		<cloneof></cloneof>
+		<crc>c2e91694</crc>
+		<manufacturer>EA Sports</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Basketball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cal Ripken Jr. Baseball (USA)" index="true" image="c">
+		<description>Cal Ripken Jr. Baseball (USA)</description>
+		<cloneof></cloneof>
+		<crc>ce2eaa41</crc>
+		<manufacturer>Mindscape</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Baseball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="California Games II (USA)" index="" image="">
+		<description>California Games II (USA)</description>
+		<cloneof></cloneof>
+		<crc>21392b00</crc>
+		<manufacturer>DTMC</manufacturer>
+		<year>1993</year>
+		<genre>Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cannondale Cup (USA)" index="" image="">
+		<description>Cannondale Cup (USA)</description>
+		<cloneof></cloneof>
+		<crc>b95fe0a0</crc>
+		<manufacturer>American Softworks</manufacturer>
+		<year>1994</year>
+		<genre>Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Capcom&apos;s MVP Football (USA)" index="" image="">
+		<description>Capcom&apos;s MVP Football (USA)</description>
+		<cloneof></cloneof>
+		<crc>bd0a0c0e</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Football</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Capcom&apos;s Soccer Shootout (USA)" index="" image="">
+		<description>Capcom&apos;s Soccer Shootout (USA)</description>
+		<cloneof></cloneof>
+		<crc>ee314ae5</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Soccer</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Champions - World Class Soccer (USA)" index="" image="">
+		<description>Champions - World Class Soccer (USA)</description>
+		<cloneof></cloneof>
+		<crc>bcd59d08</crc>
+		<manufacturer>Flying Edge</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Soccer</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Championship Pool (USA)" index="" image="">
+		<description>Championship Pool (USA)</description>
+		<cloneof></cloneof>
+		<crc>98ef8414</crc>
+		<manufacturer>Mindscape</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Pool and Dart</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Championship Soccer &apos;94 (USA)" index="" image="">
+		<description>Championship Soccer &apos;94 (USA)</description>
+		<cloneof></cloneof>
+		<crc>6b953095</crc>
+		<manufacturer>Sony Imagesoft</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Soccer</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Chavez (USA)" index="" image="">
+		<description>Chavez (USA)</description>
+		<cloneof></cloneof>
+		<crc>a9d604ea</crc>
+		<manufacturer>American Softworks</manufacturer>
+		<year>1994</year>
+		<genre>Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Chavez II (USA)" index="" image="">
+		<description>Chavez II (USA)</description>
+		<cloneof></cloneof>
+		<crc>86981887</crc>
+		<manufacturer>American Softworks</manufacturer>
+		<year>1994</year>
+		<genre>Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="College Football USA &apos;97 - The Road to New Orleans (USA)" index="" image="">
+		<description>College Football USA &apos;97 - The Road to New Orleans (USA)</description>
+		<cloneof></cloneof>
+		<crc>a27940c1</crc>
+		<manufacturer>Black Pearl</manufacturer>
+		<year>1996</year>
+		<genre>Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="College Slam (USA)" index="" image="">
+		<description>College Slam (USA)</description>
+		<cloneof></cloneof>
+		<crc>ce842c6d</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1996</year>
+		<genre>Sports/Basketball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="David Crane&apos;s Amazing Tennis (USA)" index="true" image="d">
+		<description>David Crane&apos;s Amazing Tennis (USA)</description>
+		<cloneof></cloneof>
+		<crc>caad18dc</crc>
+		<manufacturer>Absolute Entertainment</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Tennis</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dig &amp; Spike Volleyball (USA)" index="" image="">
+		<description>Dig &amp; Spike Volleyball (USA)</description>
+		<cloneof></cloneof>
+		<crc>954340f8</crc>
+		<manufacturer>Hudson</manufacturer>
+		<year>1993</year>
+		<genre>Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dino Dini&apos;s Soccer! (Europe)" index="" image="">
+		<description>Dino Dini&apos;s Soccer! (Europe)</description>
+		<cloneof></cloneof>
+		<crc>dbf4a8ab</crc>
+		<manufacturer>Virgin Interactive</manufacturer>
+		<year>1995</year>
+		<genre>Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Elite Soccer (USA)" index="true" image="e">
+		<description>Elite Soccer (USA)</description>
+		<cloneof></cloneof>
+		<crc>62abaee1</crc>
+		<manufacturer>GameTek</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Soccer</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Emmitt Smith Football (USA)" index="" image="">
+		<description>Emmitt Smith Football (USA)</description>
+		<cloneof></cloneof>
+		<crc>09c3c0ef</crc>
+		<manufacturer>JVC Digital Studios</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Football</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ESPN Baseball Tonight (USA)" index="" image="">
+		<description>ESPN Baseball Tonight (USA)</description>
+		<cloneof></cloneof>
+		<crc>8606d69b</crc>
+		<manufacturer>Sony Imagesoft</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Baseball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ESPN National Hockey Night (USA)" index="" image="">
+		<description>ESPN National Hockey Night (USA)</description>
+		<cloneof></cloneof>
+		<crc>75058ede</crc>
+		<manufacturer>Sony Imagesoft</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Hockey</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ESPN Speedworld (USA)" index="" image="">
+		<description>ESPN Speedworld (USA)</description>
+		<cloneof></cloneof>
+		<crc>c2cff05a</crc>
+		<manufacturer>Sony Imagesoft</manufacturer>
+		<year>1994</year>
+		<genre>Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ESPN Sunday Night NFL (USA)" index="" image="">
+		<description>ESPN Sunday Night NFL (USA)</description>
+		<cloneof></cloneof>
+		<crc>26849f90</crc>
+		<manufacturer>Sony Imagesoft</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Football</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Extra Innings (USA)" index="" image="">
+		<description>Extra Innings (USA)</description>
+		<cloneof></cloneof>
+		<crc>440a4250</crc>
+		<manufacturer>Sony Imagesoft</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Baseball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="FIFA 98 - Road to World Cup (Europe)" index="true" image="f">
+		<description>FIFA 98 - Road to World Cup (Europe)</description>
+		<cloneof></cloneof>
+		<crc>5e4f4856</crc>
+		<manufacturer>EA Sports</manufacturer>
+		<year>1998</year>
+		<genre>Sports/Soccer</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="FIFA International Soccer (USA)" index="" image="">
+		<description>FIFA International Soccer (USA)</description>
+		<cloneof></cloneof>
+		<crc>56296426</crc>
+		<manufacturer>Victor Interactive Software</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Soccer</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="FIFA Soccer 96 (USA)" index="" image="">
+		<description>FIFA Soccer 96 (USA)</description>
+		<cloneof></cloneof>
+		<crc>7566347d</crc>
+		<manufacturer>EA Sports</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Soccer</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="FIFA Soccer 97 - Gold Edition (USA)" index="" image="">
+		<description>FIFA Soccer 97 - Gold Edition (USA)</description>
+		<cloneof></cloneof>
+		<crc>9cdbb2f8</crc>
+		<manufacturer>EA Sports</manufacturer>
+		<year>1996</year>
+		<genre>Sports/Soccer</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Football Fury (USA)" index="" image="">
+		<description>Football Fury (USA)</description>
+		<cloneof></cloneof>
+		<crc>729a5524</crc>
+		<manufacturer>American Sammy</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Football</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Foreman For Real (USA)" index="" image="">
+		<description>Foreman For Real (USA)</description>
+		<cloneof></cloneof>
+		<crc>5fa4d051</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Boxing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Frank Thomas Big Hurt Baseball (USA)" index="" image="">
+		<description>Frank Thomas Big Hurt Baseball (USA)</description>
+		<cloneof></cloneof>
+		<crc>21239dda</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Baseball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="George Foreman&apos;s KO Boxing (USA) (Rev 1)" index="true" image="g">
+		<description>George Foreman&apos;s KO Boxing (USA) (Rev 1)</description>
+		<cloneof></cloneof>
+		<crc>15194fc9</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Boxing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Goal! (USA)" index="" image="">
+		<description>Goal! (USA)</description>
+		<cloneof></cloneof>
+		<crc>935ea22c</crc>
+		<manufacturer>Jaleco</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Soccer</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="HAL&apos;s Hole in One Golf (USA)" index="true" image="h">
+		<description>HAL&apos;s Hole in One Golf (USA)</description>
+		<cloneof></cloneof>
+		<crc>58752baf</crc>
+		<manufacturer>Hal</manufacturer>
+		<year>1991</year>
+		<genre>Sports/Golf</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hammerlock Wrestling (USA)" index="" image="">
+		<description>Hammerlock Wrestling (USA)</description>
+		<cloneof></cloneof>
+		<crc>3d2352ea</crc>
+		<manufacturer>Jaleco</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Wrestling</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="HardBall III (USA)" index="" image="">
+		<description>HardBall III (USA)</description>
+		<cloneof></cloneof>
+		<crc>f3589b15</crc>
+		<manufacturer>Accolade</manufacturer>
+		<year>1994</year>
+		<genre>Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Head-On Soccer (USA)" index="" image="">
+		<description>Head-On Soccer (USA)</description>
+		<cloneof></cloneof>
+		<crc>60dc3634</crc>
+		<manufacturer>U.S. Gold</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Soccer</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hit the Ice (USA)" index="" image="">
+		<description>Hit the Ice (USA)</description>
+		<cloneof></cloneof>
+		<crc>ec13477e</crc>
+		<manufacturer>Taito</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Hockey</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hyper V-Ball (USA)" index="" image="">
+		<description>Hyper V-Ball (USA)</description>
+		<cloneof></cloneof>
+		<crc>7d179e21</crc>
+		<manufacturer>Mc O&apos;River</manufacturer>
+		<year>1993</year>
+		<genre>Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="International Superstar Soccer (Europe)" index="true" image="i">
+		<description>International Superstar Soccer (Europe)</description>
+		<cloneof></cloneof>
+		<crc>6cd568a9</crc>
+		<manufacturer>Sony Imagesoft</manufacturer>
+		<year>1994</year>
+		<genre>Soccer/Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="International Superstar Soccer (USA)" index="" image="">
+		<description>International Superstar Soccer (USA)</description>
+		<cloneof></cloneof>
+		<crc>49627238</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Soccer</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="International Superstar Soccer Deluxe (USA)" index="" image="">
+		<description>International Superstar Soccer Deluxe (USA)</description>
+		<cloneof></cloneof>
+		<crc>0a20e602</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Soccer</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="International Tennis Tour (USA)" index="" image="">
+		<description>International Tennis Tour (USA)</description>
+		<cloneof></cloneof>
+		<crc>ad3cd5e6</crc>
+		<manufacturer>Taito</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Tennis</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Irem Skins Game, The (USA)" index="" image="">
+		<description>Irem Skins Game, The (USA)</description>
+		<cloneof></cloneof>
+		<crc>b95ddc44</crc>
+		<manufacturer>Irem</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Golf</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Jack Nicklaus Golf (USA)" index="true" image="j">
+		<description>Jack Nicklaus Golf (USA)</description>
+		<cloneof></cloneof>
+		<crc>9abc58e2</crc>
+		<manufacturer>Tradewest</manufacturer>
+		<year>1991</year>
+		<genre>Sports/Golf</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Jammit (USA)" index="" image="">
+		<description>Jammit (USA)</description>
+		<cloneof></cloneof>
+		<crc>7bddd73f</crc>
+		<manufacturer>GTE Entertainment</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Basketball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Jimmy Connors Pro Tennis Tour (USA)" index="" image="">
+		<description>Jimmy Connors Pro Tennis Tour (USA)</description>
+		<cloneof></cloneof>
+		<crc>913f1555</crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Tennis</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Jimmy Houston&apos;s Bass Tournament U.S.A. (USA)" index="" image="">
+		<description>Jimmy Houston&apos;s Bass Tournament U.S.A. (USA)</description>
+		<cloneof></cloneof>
+		<crc>e7e488d5</crc>
+		<manufacturer>American Sammy</manufacturer>
+		<year>1995</year>
+		<genre>Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="John Madden Football &apos;93 (USA) (Rev 1)" index="" image="">
+		<description>John Madden Football &apos;93 (USA) (Rev 1)</description>
+		<cloneof></cloneof>
+		<crc>dc5a250b</crc>
+		<manufacturer>Electronic Arts</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Football</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="John Madden Football (USA)" index="" image="">
+		<description>John Madden Football (USA)</description>
+		<cloneof></cloneof>
+		<crc>796294c6</crc>
+		<manufacturer>Electronic Arts</manufacturer>
+		<year>1991</year>
+		<genre>Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ken Griffey Jr. Presents Major League Baseball (USA)" index="true" image="k">
+		<description>Ken Griffey Jr. Presents Major League Baseball (USA)</description>
+		<cloneof></cloneof>
+		<crc>8bf2b589</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1994</year>
+		<genre>Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ken Griffey Jr.&apos;s Winning Run (USA)" index="" image="">
+		<description>Ken Griffey Jr.&apos;s Winning Run (USA)</description>
+		<cloneof></cloneof>
+		<crc>e9b4bd73</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1996</year>
+		<genre>Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Kevin Keegan&apos;s Player Manager (Europe)" index="" image="">
+		<description>Kevin Keegan&apos;s Player Manager (Europe)</description>
+		<cloneof></cloneof>
+		<crc>fce7bade</crc>
+		<manufacturer>Imagineer</manufacturer>
+		<year>1993</year>
+		<genre>Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Kick Off (Europe)" index="" image="">
+		<description>Kick Off (Europe)</description>
+		<cloneof></cloneof>
+		<crc>a1306f3b</crc>
+		<manufacturer>Imagineer</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Soccer</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Kick Off 3 - European Challenge (Europe)" index="" image="">
+		<description>Kick Off 3 - European Challenge (Europe)</description>
+		<cloneof></cloneof>
+		<crc>1ac7f523</crc>
+		<manufacturer>Vic Tokai</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Soccer</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Kirby&apos;s Dream Course (USA)" index="" image="">
+		<description>Kirby&apos;s Dream Course (USA)</description>
+		<cloneof></cloneof>
+		<crc>df8153d9</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1994</year>
+		<genre>Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Looney Tunes B-Ball (USA)" index="true" image="l">
+		<description>Looney Tunes B-Ball (USA)</description>
+		<cloneof></cloneof>
+		<crc>6d3bc96f</crc>
+		<manufacturer>Sun Soft</manufacturer>
+		<year>1995</year>
+		<genre>Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Madden NFL &apos;94 (USA)" index="true" image="m">
+		<description>Madden NFL &apos;94 (USA)</description>
+		<cloneof></cloneof>
+		<crc>8bed5914</crc>
+		<manufacturer>Electronic Arts</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Football</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Madden NFL 95 (USA)" index="" image="">
+		<description>Madden NFL 95 (USA)</description>
+		<cloneof></cloneof>
+		<crc>021a3f69</crc>
+		<manufacturer>EA Sports</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Football</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Madden NFL 96 (USA)" index="" image="">
+		<description>Madden NFL 96 (USA)</description>
+		<cloneof></cloneof>
+		<crc>51a1fe86</crc>
+		<manufacturer>EA Sports</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Football</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Madden NFL 97 (USA)" index="" image="">
+		<description>Madden NFL 97 (USA)</description>
+		<cloneof></cloneof>
+		<crc>abcf026e</crc>
+		<manufacturer>EA Sports</manufacturer>
+		<year>1996</year>
+		<genre>Sports/Football</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Madden NFL 98 (USA)" index="" image="">
+		<description>Madden NFL 98 (USA)</description>
+		<cloneof></cloneof>
+		<crc>cf10cc01</crc>
+		<manufacturer>Black Pearl</manufacturer>
+		<year>1997</year>
+		<genre>Sports/Football</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Manchester United Championship Soccer (Europe)" index="" image="">
+		<description>Manchester United Championship Soccer (Europe)</description>
+		<cloneof></cloneof>
+		<crc>8d2596a7</crc>
+		<manufacturer>Ocean</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Soccer</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mark Davis&apos; The Fishing Master (USA)" index="" image="">
+		<description>Mark Davis&apos; The Fishing Master (USA)</description>
+		<cloneof></cloneof>
+		<crc>22a109b9</crc>
+		<manufacturer>Natsume</manufacturer>
+		<year>1996</year>
+		<genre>Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Marko&apos;s Magic Football (Europe)" index="" image="">
+		<description>Marko&apos;s Magic Football (Europe)</description>
+		<cloneof></cloneof>
+		<crc>4824a630</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1995</year>
+		<genre>Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mecarobot Golf (USA)" index="" image="">
+		<description>Mecarobot Golf (USA)</description>
+		<cloneof></cloneof>
+		<crc>82ceee3a</crc>
+		<manufacturer>Toho</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Golf</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mega Man Soccer (USA)" index="" image="">
+		<description>Mega Man Soccer (USA)</description>
+		<cloneof></cloneof>
+		<crc>fa9ee2ce</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Soccer</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="MLBPA Baseball (USA)" index="" image="">
+		<description>MLBPA Baseball (USA)</description>
+		<cloneof></cloneof>
+		<crc>62a92e57</crc>
+		<manufacturer>EA Sports</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Baseball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Natsume Championship Wrestling (USA)" index="true" image="n">
+		<description>Natsume Championship Wrestling (USA)</description>
+		<cloneof></cloneof>
+		<crc>d4dc20e1</crc>
+		<manufacturer>Natsume</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Wrestling</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NBA All-Star Challenge (USA)" index="" image="">
+		<description>NBA All-Star Challenge (USA)</description>
+		<cloneof></cloneof>
+		<crc>a905a565</crc>
+		<manufacturer>LJN Ltd.</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Basketball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NBA Give &apos;n Go (USA)" index="" image="">
+		<description>NBA Give &apos;n Go (USA)</description>
+		<cloneof></cloneof>
+		<crc>68c8b643</crc>
+		<manufacturer>KCEO</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Basketball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NBA Hang Time (USA)" index="" image="">
+		<description>NBA Hang Time (USA)</description>
+		<cloneof></cloneof>
+		<crc>262ce76b</crc>
+		<manufacturer>Midway</manufacturer>
+		<year>1996</year>
+		<genre>Sports/Basketball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NBA Jam (USA) (Rev 1)" index="" image="">
+		<description>NBA Jam (USA) (Rev 1)</description>
+		<cloneof></cloneof>
+		<crc>8f42cae7</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Basketball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NBA Jam - Tournament Edition (USA)" index="" image="">
+		<description>NBA Jam - Tournament Edition (USA)</description>
+		<cloneof></cloneof>
+		<crc>1fbc1ddb</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Basketball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NBA Live 95 (USA)" index="" image="">
+		<description>NBA Live 95 (USA)</description>
+		<cloneof></cloneof>
+		<crc>1cd2393d</crc>
+		<manufacturer>EA Sports</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Basketball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NBA Live 96 (USA)" index="" image="">
+		<description>NBA Live 96 (USA)</description>
+		<cloneof></cloneof>
+		<crc>042a6495</crc>
+		<manufacturer>EA Sports</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Basketball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NBA Live 97 (USA)" index="" image="">
+		<description>NBA Live 97 (USA)</description>
+		<cloneof></cloneof>
+		<crc>5115b8e5</crc>
+		<manufacturer>EA Sports</manufacturer>
+		<year>1996</year>
+		<genre>Sports/Basketball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NBA Live 98 (USA)" index="" image="">
+		<description>NBA Live 98 (USA)</description>
+		<cloneof></cloneof>
+		<crc>514bfcb5</crc>
+		<manufacturer>EA Sports</manufacturer>
+		<year>1998</year>
+		<genre>Sports/Basketball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NBA Showdown (USA)" index="" image="">
+		<description>NBA Showdown (USA)</description>
+		<cloneof></cloneof>
+		<crc>65746f02</crc>
+		<manufacturer>EA Sports</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Basketball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NCAA Basketball (USA) (Rev 1)" index="" image="">
+		<description>NCAA Basketball (USA) (Rev 1)</description>
+		<cloneof></cloneof>
+		<crc>200370a2</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Basketball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NCAA Final Four Basketball (USA)" index="" image="">
+		<description>NCAA Final Four Basketball (USA)</description>
+		<cloneof></cloneof>
+		<crc>b07cfa91</crc>
+		<manufacturer>Mindscape</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Basketball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NCAA Football (USA)" index="" image="">
+		<description>NCAA Football (USA)</description>
+		<cloneof></cloneof>
+		<crc>2641c12a</crc>
+		<manufacturer>Mindscape</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Football</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NFL Football (USA)" index="" image="">
+		<description>NFL Football (USA)</description>
+		<cloneof></cloneof>
+		<crc>adb7731b</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Football</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NFL Quarterback Club (USA)" index="" image="">
+		<description>NFL Quarterback Club (USA)</description>
+		<cloneof></cloneof>
+		<crc>79f16421</crc>
+		<manufacturer>LJN Ltd.</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Football</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NFL Quarterback Club 96 (USA)" index="" image="">
+		<description>NFL Quarterback Club 96 (USA)</description>
+		<cloneof></cloneof>
+		<crc>e557689f</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Football</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NHL &apos;94 (USA)" index="" image="">
+		<description>NHL &apos;94 (USA)</description>
+		<cloneof></cloneof>
+		<crc>42212a77</crc>
+		<manufacturer>Electronic Arts</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Hockey</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NHL &apos;95 (USA)" index="" image="">
+		<description>NHL &apos;95 (USA)</description>
+		<cloneof></cloneof>
+		<crc>2e9b1463</crc>
+		<manufacturer>EA Sports</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Hockey</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NHL &apos;96 (USA)" index="" image="">
+		<description>NHL &apos;96 (USA)</description>
+		<cloneof></cloneof>
+		<crc>b6c6e7f3</crc>
+		<manufacturer>EA Sports</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Hockey</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NHL &apos;97 (USA)" index="" image="">
+		<description>NHL &apos;97 (USA)</description>
+		<cloneof></cloneof>
+		<crc>06badb74</crc>
+		<manufacturer>EA Sports</manufacturer>
+		<year>1996</year>
+		<genre>Sports/Hockey</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NHL &apos;98 (USA)" index="" image="">
+		<description>NHL &apos;98 (USA)</description>
+		<cloneof></cloneof>
+		<crc>03cad2d2</crc>
+		<manufacturer>EA Sports</manufacturer>
+		<year>1997</year>
+		<genre>Sports/Hockey</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NHL Stanley Cup (USA)" index="" image="">
+		<description>NHL Stanley Cup (USA)</description>
+		<cloneof></cloneof>
+		<crc>584ce502</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Hockey</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NHLPA Hockey &apos;93 (USA)" index="" image="">
+		<description>NHLPA Hockey &apos;93 (USA)</description>
+		<cloneof></cloneof>
+		<crc>c858eac4</crc>
+		<manufacturer>EA Sports</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Hockey</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Nickelodeon GUTS (USA)" index="" image="">
+		<description>Nickelodeon GUTS (USA)</description>
+		<cloneof></cloneof>
+		<crc>233fec8c</crc>
+		<manufacturer>Viacom New Media</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Hockey</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Nolan Ryan&apos;s Baseball (USA)" index="" image="">
+		<description>Nolan Ryan&apos;s Baseball (USA)</description>
+		<cloneof></cloneof>
+		<crc>1919baff</crc>
+		<manufacturer>Romstar</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Baseball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Olympic Summer Games (USA)" index="true" image="o">
+		<description>Olympic Summer Games (USA)</description>
+		<cloneof></cloneof>
+		<crc>6b882d11</crc>
+		<manufacturer>Black Pearl</manufacturer>
+		<year>1996</year>
+		<genre>Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="PGA European Tour (USA)" index="true" image="p">
+		<description>PGA European Tour (USA)</description>
+		<cloneof></cloneof>
+		<crc>914f2ea3</crc>
+		<manufacturer>Black Pearl</manufacturer>
+		<year>1996</year>
+		<genre>Sports/Golf</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="PGA Tour 96 (USA)" index="" image="">
+		<description>PGA Tour 96 (USA)</description>
+		<cloneof></cloneof>
+		<crc>bc5df071</crc>
+		<manufacturer>Black Pearl</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Golf</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="PGA Tour Golf (USA)" index="" image="">
+		<description>PGA Tour Golf (USA)</description>
+		<cloneof></cloneof>
+		<crc>b6566944</crc>
+		<manufacturer>Electronic Arts</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Golf</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pro Quarterback (USA)" index="" image="">
+		<description>Pro Quarterback (USA)</description>
+		<cloneof></cloneof>
+		<crc>6910626d</crc>
+		<manufacturer>Tradewest</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Football</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pro Sport Hockey (USA)" index="" image="">
+		<description>Pro Sport Hockey (USA)</description>
+		<cloneof></cloneof>
+		<crc>a9cc0a74</crc>
+		<manufacturer>Jaleco</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Hockey</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rap Jam - Volume One (USA)" index="true" image="r">
+		<description>Rap Jam - Volume One (USA)</description>
+		<cloneof></cloneof>
+		<crc>adf4ffce</crc>
+		<manufacturer>Mandingo</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Basketball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Relief Pitcher (USA)" index="" image="">
+		<description>Relief Pitcher (USA)</description>
+		<cloneof></cloneof>
+		<crc>2f48ff14</crc>
+		<manufacturer>Left Field Productions</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Baseball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Riddick Bowe Boxing (USA)" index="" image="">
+		<description>Riddick Bowe Boxing (USA)</description>
+		<cloneof></cloneof>
+		<crc>a967a041</crc>
+		<manufacturer>Extreme Entertainment Group</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Boxing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Roger Clemens&apos; MVP Baseball (USA) (Rev 1)" index="" image="">
+		<description>Roger Clemens&apos; MVP Baseball (USA) (Rev 1)</description>
+		<cloneof></cloneof>
+		<crc>a012d1ad</crc>
+		<manufacturer>LJN Ltd.</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Baseball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Saturday Night Slam Masters (USA)" index="true" image="s">
+		<description>Saturday Night Slam Masters (USA)</description>
+		<cloneof></cloneof>
+		<crc>54161830</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1996</year>
+		<genre>Sports/Wrestling</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Smash Tennis (Europe)" index="" image="">
+		<description>Smash Tennis (Europe)</description>
+		<cloneof></cloneof>
+		<crc>6f7d1745</crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Tennis</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Space Football - One on One (USA)" index="" image="">
+		<description>Space Football - One on One (USA)</description>
+		<cloneof></cloneof>
+		<crc>55dcf09e</crc>
+		<manufacturer>Triffix</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Football</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sporting News Power Baseball, The (USA)" index="" image="">
+		<description>Sporting News Power Baseball, The (USA)</description>
+		<cloneof></cloneof>
+		<crc>315af696</crc>
+		<manufacturer>Hudson</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Baseball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sports Illustrated Championship Football &amp; Baseball (USA)" index="" image="">
+		<description>Sports Illustrated Championship Football &amp; Baseball (USA)</description>
+		<cloneof></cloneof>
+		<crc>d4874966</crc>
+		<manufacturer>Malibu</manufacturer>
+		<year>1994</year>
+		<genre>Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sterling Sharpe - End 2 End (USA)" index="" image="">
+		<description>Sterling Sharpe - End 2 End (USA)</description>
+		<cloneof></cloneof>
+		<crc>70d9c906</crc>
+		<manufacturer>Jaleco</manufacturer>
+		<year>1995</year>
+		<genre>Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Street Hockey &apos;95 (USA)" index="" image="">
+		<description>Street Hockey &apos;95 (USA)</description>
+		<cloneof></cloneof>
+		<crc>97357a1b</crc>
+		<manufacturer>GTE Entertainment</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Hockey</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Aquatic Games Starring the Aquabats, The (USA)" index="" image="">
+		<description>Super Aquatic Games Starring the Aquabats, The (USA)</description>
+		<cloneof></cloneof>
+		<crc>2a5ddac0</crc>
+		<manufacturer>Seika Corp.</manufacturer>
+		<year>1993</year>
+		<genre>Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Baseball Simulator 1.000 (USA)" index="" image="">
+		<description>Super Baseball Simulator 1.000 (USA)</description>
+		<cloneof></cloneof>
+		<crc>aa760fec</crc>
+		<manufacturer>Culture Brain</manufacturer>
+		<year>1991</year>
+		<genre>Sports/Baseball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Bases Loaded (USA)" index="" image="">
+		<description>Super Bases Loaded (USA)</description>
+		<cloneof></cloneof>
+		<crc>6b971f1e</crc>
+		<manufacturer>Jaleco</manufacturer>
+		<year>1991</year>
+		<genre>Sports/Baseball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Bases Loaded 3 - License to Steal (USA)" index="" image="">
+		<description>Super Bases Loaded 3 - License to Steal (USA)</description>
+		<cloneof></cloneof>
+		<crc>f0540d1b</crc>
+		<manufacturer>Jaleco</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Baseball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Bases Loaded II (USA)" index="" image="">
+		<description>Super Bases Loaded II (USA)</description>
+		<cloneof></cloneof>
+		<crc>e14128ca</crc>
+		<manufacturer>Jaleco</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Baseball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Batter Up (USA)" index="" image="">
+		<description>Super Batter Up (USA)</description>
+		<cloneof></cloneof>
+		<crc>5896c854</crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Baseball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Black Bass (USA)" index="" image="">
+		<description>Super Black Bass (USA)</description>
+		<cloneof></cloneof>
+		<crc>57d9fd61</crc>
+		<manufacturer>Hot-B</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Fishing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Bowling (USA)" index="" image="">
+		<description>Super Bowling (USA)</description>
+		<cloneof></cloneof>
+		<crc>94945b50</crc>
+		<manufacturer>Technos</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Bowling</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Copa (Brazil) (Es,Pt)" index="" image="">
+		<description>Super Copa (Brazil) (Es,Pt)</description>
+		<cloneof></cloneof>
+		<crc>49e53877</crc>
+		<manufacturer>American Softworks</manufacturer>
+		<year>1994</year>
+		<genre>Soccer/Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Goal! 2 (USA)" index="" image="">
+		<description>Super Goal! 2 (USA)</description>
+		<cloneof></cloneof>
+		<crc>c5829306</crc>
+		<manufacturer>Jaleco</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Soccer</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super High Impact (USA)" index="" image="">
+		<description>Super High Impact (USA)</description>
+		<cloneof></cloneof>
+		<crc>2eed70fb</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Football</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Ice Hockey (Europe)" index="" image="">
+		<description>Super Ice Hockey (Europe)</description>
+		<cloneof></cloneof>
+		<crc>fb1d16c4</crc>
+		<manufacturer>Sun Soft</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Hockey</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super International Cricket (Europe)" index="" image="">
+		<description>Super International Cricket (Europe)</description>
+		<cloneof></cloneof>
+		<crc>89cd72b0</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1994</year>
+		<genre>Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Play Action Football (USA)" index="" image="">
+		<description>Super Play Action Football (USA)</description>
+		<cloneof></cloneof>
+		<crc>0f359a60</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Football</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Punch-Out!! (USA)" index="" image="">
+		<description>Super Punch-Out!! (USA)</description>
+		<cloneof></cloneof>
+		<crc>e2f92f84</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Boxing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super R.B.I. Baseball (USA)" index="" image="">
+		<description>Super R.B.I. Baseball (USA)</description>
+		<cloneof></cloneof>
+		<crc>31db6cfe</crc>
+		<manufacturer>Time Warner</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Baseball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Slam Dunk (USA)" index="" image="">
+		<description>Super Slam Dunk (USA)</description>
+		<cloneof></cloneof>
+		<crc>3effc9e5</crc>
+		<manufacturer>Virgin Interactive</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Basketball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Slap Shot (USA)" index="" image="">
+		<description>Super Slap Shot (USA)</description>
+		<cloneof></cloneof>
+		<crc>7355c9b9</crc>
+		<manufacturer>Virgin Interactive</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Hockey</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Soccer (USA)" index="" image="">
+		<description>Super Soccer (USA)</description>
+		<cloneof></cloneof>
+		<crc>4fd164d8</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Soccer</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Soccer Champ (USA)" index="" image="">
+		<description>Super Soccer Champ (USA)</description>
+		<cloneof></cloneof>
+		<crc>b31d35a5</crc>
+		<manufacturer>Taito</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Soccer</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Tennis (USA)" index="" image="">
+		<description>Super Tennis (USA)</description>
+		<cloneof></cloneof>
+		<crc>8d383776</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1991</year>
+		<genre>Sports/Tennis</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tecmo Super Baseball (USA)" index="true" image="t">
+		<description>Tecmo Super Baseball (USA)</description>
+		<cloneof></cloneof>
+		<crc>e302d853</crc>
+		<manufacturer>Tecmo</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Baseball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tecmo Super Bowl (USA)" index="" image="">
+		<description>Tecmo Super Bowl (USA)</description>
+		<cloneof></cloneof>
+		<crc>cde3746b</crc>
+		<manufacturer>Tecmo</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Football</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tecmo Super Bowl II - Special Edition (USA)" index="" image="">
+		<description>Tecmo Super Bowl II - Special Edition (USA)</description>
+		<cloneof></cloneof>
+		<crc>d67d507b</crc>
+		<manufacturer>Tecmo</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Football</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tecmo Super Bowl III - Final Edition (USA)" index="" image="">
+		<description>Tecmo Super Bowl III - Final Edition (USA)</description>
+		<cloneof></cloneof>
+		<crc>8ef1411f</crc>
+		<manufacturer>Tecmo</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Football</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tecmo Super NBA Basketball (USA)" index="" image="">
+		<description>Tecmo Super NBA Basketball (USA)</description>
+		<cloneof></cloneof>
+		<crc>1b6f0b43</crc>
+		<manufacturer>Tecmo</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Basketball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tiny Toon Adventures - Wacky Sports Challenge (USA)" index="" image="">
+		<description>Tiny Toon Adventures - Wacky Sports Challenge (USA)</description>
+		<cloneof></cloneof>
+		<crc>afe72ff0</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1994</year>
+		<genre>Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="TKO Super Championship Boxing (USA)" index="" image="">
+		<description>TKO Super Championship Boxing (USA)</description>
+		<cloneof></cloneof>
+		<crc>fd4af462</crc>
+		<manufacturer>Sofel</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Boxing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="TNN Bass Tournament of Champions (USA)" index="" image="">
+		<description>TNN Bass Tournament of Champions (USA)</description>
+		<cloneof></cloneof>
+		<crc>c367b683</crc>
+		<manufacturer>American Softworks</manufacturer>
+		<year>1994</year>
+		<genre>Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tommy Moe&apos;s Winter Extreme - Skiing and Snowboarding (USA)" index="" image="">
+		<description>Tommy Moe&apos;s Winter Extreme - Skiing and Snowboarding (USA)</description>
+		<cloneof></cloneof>
+		<crc>3d005f22</crc>
+		<manufacturer>Electro Brain</manufacturer>
+		<year>1994</year>
+		<genre>Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tony Meola&apos;s Sidekicks Soccer (USA)" index="" image="">
+		<description>Tony Meola&apos;s Sidekicks Soccer (USA)</description>
+		<cloneof></cloneof>
+		<crc>32b658c1</crc>
+		<manufacturer>Electro Brain</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Soccer</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Troy Aikman NFL Football (USA)" index="" image="">
+		<description>Troy Aikman NFL Football (USA)</description>
+		<cloneof></cloneof>
+		<crc>0b26446b</crc>
+		<manufacturer>Tradewest</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Football</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="True Golf Classics - Pebble Beach Golf Links (USA)" index="" image="">
+		<description>True Golf Classics - Pebble Beach Golf Links (USA)</description>
+		<cloneof></cloneof>
+		<crc>18c5ad58</crc>
+		<manufacturer>T&amp;E Soft</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Golf</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="True Golf Classics - Waialae Country Club (USA)" index="" image="">
+		<description>True Golf Classics - Waialae Country Club (USA)</description>
+		<cloneof></cloneof>
+		<crc>e9d6c61e</crc>
+		<manufacturer>T&amp;E Soft</manufacturer>
+		<year>1991</year>
+		<genre>Sports/Golf</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="True Golf Classics - Wicked 18 (USA)" index="" image="">
+		<description>True Golf Classics - Wicked 18 (USA)</description>
+		<cloneof></cloneof>
+		<crc>26177842</crc>
+		<manufacturer>Bullet Proof Software</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Golf</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Virtual Soccer (Europe)" index="true" image="v">
+		<description>Virtual Soccer (Europe)</description>
+		<cloneof></cloneof>
+		<crc>ecb8a53a</crc>
+		<manufacturer>Hudson</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Soccer</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Wayne Gretzky and the NHLPA All-Stars (USA)" index="true" image="w">
+		<description>Wayne Gretzky and the NHLPA All-Stars (USA)</description>
+		<cloneof></cloneof>
+		<crc>0b7d22b2</crc>
+		<manufacturer>Time Warner</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Hockey</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="WCW Super Brawl Wrestling (USA)" index="" image="">
+		<description>WCW Super Brawl Wrestling (USA)</description>
+		<cloneof></cloneof>
+		<crc>8b477300</crc>
+		<manufacturer>FCI, Inc.</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Wrestling</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Winter Gold (Europe)" index="" image="">
+		<description>Winter Gold (Europe)</description>
+		<cloneof></cloneof>
+		<crc>0f8378a6</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1996</year>
+		<genre>Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Winter Olympic Games - Lillehammer &apos;94 (USA)" index="" image="">
+		<description>Winter Olympic Games - Lillehammer &apos;94 (USA)</description>
+		<cloneof></cloneof>
+		<crc>0704abe4</crc>
+		<manufacturer>U.S. Gold</manufacturer>
+		<year>1994</year>
+		<genre>Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="World Class Rugby (Europe)" index="" image="">
+		<description>World Class Rugby (Europe)</description>
+		<cloneof></cloneof>
+		<crc>d73d6c80</crc>
+		<manufacturer>Imagineer</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Football</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="World Cup Striker (Europe)" index="" image="">
+		<description>World Cup Striker (Europe)</description>
+		<cloneof></cloneof>
+		<crc>6d16f5e7</crc>
+		<manufacturer>Elite</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Soccer</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="World Cup USA 94 (USA)" index="" image="">
+		<description>World Cup USA 94 (USA)</description>
+		<cloneof></cloneof>
+		<crc>fb1c9082</crc>
+		<manufacturer>U.S. Gold</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Soccer</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="World League Soccer (USA)" index="" image="">
+		<description>World League Soccer (USA)</description>
+		<cloneof></cloneof>
+		<crc>591cbb2d</crc>
+		<manufacturer>Mindscape</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Soccer</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="World Masters Golf (Europe)" index="" image="">
+		<description>World Masters Golf (Europe)</description>
+		<cloneof></cloneof>
+		<crc>e0ee681f</crc>
+		<manufacturer>Virgin Interactive</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Golf</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="World Soccer 94 - Road to Glory (USA)" index="" image="">
+		<description>World Soccer 94 - Road to Glory (USA)</description>
+		<cloneof></cloneof>
+		<crc>0aae0a10</crc>
+		<manufacturer>Atlus</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Soccer</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="WWF Raw (USA)" index="" image="">
+		<description>WWF Raw (USA)</description>
+		<cloneof></cloneof>
+		<crc>3e0038bf</crc>
+		<manufacturer>LJN Ltd.</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Wrestling</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="WWF Royal Rumble (USA)" index="" image="">
+		<description>WWF Royal Rumble (USA)</description>
+		<cloneof></cloneof>
+		<crc>2101d515</crc>
+		<manufacturer>LJN Ltd.</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Wrestling</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="WWF Super WrestleMania (USA)" index="" image="">
+		<description>WWF Super WrestleMania (USA)</description>
+		<cloneof></cloneof>
+		<crc>676cb638</crc>
+		<manufacturer>LJN Ltd.</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Wrestling</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="WWF WrestleMania - The Arcade Game (USA)" index="" image="">
+		<description>WWF WrestleMania - The Arcade Game (USA)</description>
+		<cloneof></cloneof>
+		<crc>1ba08495</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1996</year>
+		<genre>Sports/Wrestling</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

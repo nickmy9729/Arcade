@@ -1,0 +1,8 @@
+<DonsHyperSpinListGenerator VersionMajor="4">
+  <Wheel>Amstrad GX4000</Wheel>
+  <OutputFile>M:\Arcade\HyperSpin\Databases\Amstrad GX4000\Amstrad GX4000.xml</OutputFile>
+  <SourceFile>M:\Hyperlists\Amstrad GX4000.xml</SourceFile>
+  <ExcludeFile>M:\Arcade\HyperSpin\Databases\Amstrad GX4000\Amstrad GX4000_excluded.xml</ExcludeFile>
+  <MameXmlFile>
+  </MameXmlFile>
+</DonsHyperSpinListGenerator>

@@ -1,0 +1,159 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Nintendo 64</listname>
+		<lastlistupdate>11/15/2011</lastlistupdate>
+		<listversion>1.1 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="Donald Duck - Goin&apos; Quackers (USA) (En,Fr,De,Es,It)" index="true" image="d">
+		<description>Donald Duck - Goin&apos; Quackers (USA) (En,Fr,De,Es,It)</description>
+		<cloneof></cloneof>
+		<crc>6D48B64E</crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>2000</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hercules - The Legendary Journeys (USA)" index="true" image="h">
+		<description>Hercules - The Legendary Journeys (USA)</description>
+		<cloneof></cloneof>
+		<crc>CF90BC4A</crc>
+		<manufacturer>Titus Software</manufacturer>
+		<year>2000</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hey You, Pikachu! (USA)" index="" image="">
+		<description>Hey You, Pikachu! (USA)</description>
+		<cloneof></cloneof>
+		<crc>0149E9F6</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2000</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Indiana Jones and the Infernal Machine (USA)" index="true" image="i">
+		<description>Indiana Jones and the Infernal Machine (USA)</description>
+		<cloneof></cloneof>
+		<crc>A8F86EB6</crc>
+		<manufacturer>LucasArts</manufacturer>
+		<year>2000</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Legend of Zelda, The - Majora&apos;s Mask (USA)" index="true" image="l">
+		<description>Legend of Zelda, The - Majora&apos;s Mask (USA)</description>
+		<cloneof></cloneof>
+		<crc>3EE3F2D1</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2000</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Legend of Zelda, The - Ocarina of Time (USA) (Rev B)" index="" image="">
+		<description>Legend of Zelda, The - Ocarina of Time (USA) (Rev B)</description>
+		<cloneof></cloneof>
+		<crc>3C7DBF5B</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1998</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mega Man 64 (USA)" index="true" image="m">
+		<description>Mega Man 64 (USA)</description>
+		<cloneof></cloneof>
+		<crc>B57DD0E4</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>2001</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mission Impossible (USA)" index="" image="">
+		<description>Mission Impossible (USA)</description>
+		<cloneof></cloneof>
+		<crc>2DBD815D</crc>
+		<manufacturer>Ocean</manufacturer>
+		<year>1998</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Nightmare Creatures (USA)" index="true" image="n">
+		<description>Nightmare Creatures (USA)</description>
+		<cloneof></cloneof>
+		<crc>134C09DA</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>1998</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - M (Mature)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Resident Evil 2 (USA) (Rev A)" index="true" image="r">
+		<description>Resident Evil 2 (USA) (Rev A)</description>
+		<cloneof></cloneof>
+		<crc>6A0D64BB</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>2000</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - M (Mature)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Scooby-Doo! - Classic Creep Capers (USA)" index="true" image="s">
+		<description>Scooby-Doo! - Classic Creep Capers (USA)</description>
+		<cloneof></cloneof>
+		<crc>E3A2F1E7</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2001</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Shadow Man (USA)" index="" image="">
+		<description>Shadow Man (USA)</description>
+		<cloneof></cloneof>
+		<crc>47E05128</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1999</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - M (Mature)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Shadowgate 64 - Trials of the Four Towers (USA) (En,Es)" index="" image="">
+		<description>Shadowgate 64 - Trials of the Four Towers (USA) (En,Es)</description>
+		<cloneof></cloneof>
+		<crc>1E9986E5</crc>
+		<manufacturer>Kemco</manufacturer>
+		<year>1999</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Spider-Man (USA)" index="" image="">
+		<description>Spider-Man (USA)</description>
+		<cloneof></cloneof>
+		<crc>A2866A6E</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2000</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Superman (USA) (En,Fr,Es)" index="" image="">
+		<description>Superman (USA) (En,Fr,Es)</description>
+		<cloneof></cloneof>
+		<crc>F10D66F0</crc>
+		<manufacturer>Titus Software</manufacturer>
+		<year>1999</year>
+		<genre>Adventure</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

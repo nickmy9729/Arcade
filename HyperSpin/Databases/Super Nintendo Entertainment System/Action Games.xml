@@ -1,0 +1,1059 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Super Nintendo Entertainment System</listname>
+		<lastlistupdate>11/26/2011</lastlistupdate>
+		<listversion>1.3 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="ActRaiser (USA)" index="true" image="a">
+		<description>ActRaiser (USA)</description>
+		<cloneof></cloneof>
+		<crc>eac3358d</crc>
+		<manufacturer>Enix</manufacturer>
+		<year>1991</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Adventures of Batman &amp; Robin, The (USA)" index="" image="">
+		<description>Adventures of Batman &amp; Robin, The (USA)</description>
+		<cloneof></cloneof>
+		<crc>b3ef81f5</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1994</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Air Cavalry (USA)" index="" image="">
+		<description>Air Cavalry (USA)</description>
+		<cloneof></cloneof>
+		<crc>6b452801</crc>
+		<manufacturer>Cybersoft</manufacturer>
+		<year>1995</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Arkanoid - Doh It Again (USA)" index="" image="">
+		<description>Arkanoid - Doh It Again (USA)</description>
+		<cloneof></cloneof>
+		<crc>b50503a0</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1997</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="B.O.B. (USA)" index="true" image="b">
+		<description>B.O.B. (USA)</description>
+		<cloneof></cloneof>
+		<crc>4f593c46</crc>
+		<manufacturer>Electronic Arts</manufacturer>
+		<year>1993</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Barbie Super Model (USA)" index="" image="">
+		<description>Barbie Super Model (USA)</description>
+		<cloneof></cloneof>
+		<crc>3b73610e</crc>
+		<manufacturer>Hi-Tech</manufacturer>
+		<year>1993</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Battle Cars (USA)" index="" image="">
+		<description>Battle Cars (USA)</description>
+		<cloneof></cloneof>
+		<crc>46043454</crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1993</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Big Sky Trooper (USA)" index="" image="">
+		<description>Big Sky Trooper (USA)</description>
+		<cloneof></cloneof>
+		<crc>25c69316</crc>
+		<manufacturer>JVC Musical Industries, Inc.</manufacturer>
+		<year>1995</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cacoma Knight in Bizyland (USA)" index="true" image="c">
+		<description>Cacoma Knight in Bizyland (USA)</description>
+		<cloneof></cloneof>
+		<crc>ba921443</crc>
+		<manufacturer>Seta Corporation</manufacturer>
+		<year>1993</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Casper (USA)" index="" image="">
+		<description>Casper (USA)</description>
+		<cloneof></cloneof>
+		<crc>a3b745bc</crc>
+		<manufacturer>Natsume</manufacturer>
+		<year>1996</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Chester Cheetah - Too Cool to Fool (USA)" index="" image="">
+		<description>Chester Cheetah - Too Cool to Fool (USA)</description>
+		<cloneof></cloneof>
+		<crc>552bf16a</crc>
+		<manufacturer>Kaneko</manufacturer>
+		<year>1992</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Chester Cheetah - Wild Wild Quest (USA)" index="" image="">
+		<description>Chester Cheetah - Wild Wild Quest (USA)</description>
+		<cloneof></cloneof>
+		<crc>557fe962</crc>
+		<manufacturer>Kaneko</manufacturer>
+		<year>1994</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Combatribes, The (USA)" index="" image="">
+		<description>Combatribes, The (USA)</description>
+		<cloneof></cloneof>
+		<crc>9304044a</crc>
+		<manufacturer>Technos</manufacturer>
+		<year>1993</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Congo&apos;s Caper (USA)" index="" image="">
+		<description>Congo&apos;s Caper (USA)</description>
+		<cloneof></cloneof>
+		<crc>8a24fba8</crc>
+		<manufacturer>Data East</manufacturer>
+		<year>1993</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cool World (USA)" index="" image="">
+		<description>Cool World (USA)</description>
+		<cloneof></cloneof>
+		<crc>0730c37c</crc>
+		<manufacturer>Ocean</manufacturer>
+		<year>1992</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cutthroat Island (USA)" index="" image="">
+		<description>Cutthroat Island (USA)</description>
+		<cloneof></cloneof>
+		<crc>19ea457b</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1995</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="D-Force (USA)" index="true" image="d">
+		<description>D-Force (USA)</description>
+		<cloneof></cloneof>
+		<crc>24230807</crc>
+		<manufacturer>Asmik Corporation of America</manufacturer>
+		<year>1991</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dream TV (USA)" index="" image="">
+		<description>Dream TV (USA)</description>
+		<cloneof></cloneof>
+		<crc>ab5a9e40</crc>
+		<manufacturer>Triffix</manufacturer>
+		<year>1993</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="E.V.O. - Search for Eden (USA)" index="true" image="e">
+		<description>E.V.O. - Search for Eden (USA)</description>
+		<cloneof></cloneof>
+		<crc>dd49911e</crc>
+		<manufacturer>Enix</manufacturer>
+		<year>1993</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Faceball 2000 (USA)" index="true" image="f">
+		<description>Faceball 2000 (USA)</description>
+		<cloneof></cloneof>
+		<crc>8d4df815</crc>
+		<manufacturer>Bullet Proof Software</manufacturer>
+		<year>1992</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fire Striker (USA)" index="" image="">
+		<description>Fire Striker (USA)</description>
+		<cloneof></cloneof>
+		<crc>e500c7ba</crc>
+		<manufacturer>DTMC</manufacturer>
+		<year>1994</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Firepower 2000 (USA)" index="" image="">
+		<description>Firepower 2000 (USA)</description>
+		<cloneof></cloneof>
+		<crc>327416d4</crc>
+		<manufacturer>Sun Soft</manufacturer>
+		<year>1992</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="First Samurai (USA)" index="" image="">
+		<description>First Samurai (USA)</description>
+		<cloneof></cloneof>
+		<crc>4f0a1e2a</crc>
+		<manufacturer>Kemco</manufacturer>
+		<year>1993</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Frantic Flea (USA)" index="" image="">
+		<description>Frantic Flea (USA)</description>
+		<cloneof></cloneof>
+		<crc>ffa8d1ff</crc>
+		<manufacturer>GameTek</manufacturer>
+		<year>1996</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Frogger (USA)" index="" image="">
+		<description>Frogger (USA)</description>
+		<cloneof></cloneof>
+		<crc>2488b8f2</crc>
+		<manufacturer>Majesco</manufacturer>
+		<year>1998</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ghoul Patrol (USA)" index="true" image="g">
+		<description>Ghoul Patrol (USA)</description>
+		<cloneof></cloneof>
+		<crc>ea16b5a2</crc>
+		<manufacturer>JVC Musical Industries, Inc.</manufacturer>
+		<year>1994</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Goof Troop (USA)" index="" image="">
+		<description>Goof Troop (USA)</description>
+		<cloneof></cloneof>
+		<crc>4aafa462</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1993</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Home Alone (USA)" index="true" image="h">
+		<description>Home Alone (USA)</description>
+		<cloneof></cloneof>
+		<crc>07c494b1</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>1991</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Home Alone 2 - Lost in New York (USA)" index="" image="">
+		<description>Home Alone 2 - Lost in New York (USA)</description>
+		<cloneof></cloneof>
+		<crc>d19165d9</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>1992</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ignition Factor, The (USA)" index="true" image="i">
+		<description>Ignition Factor, The (USA)</description>
+		<cloneof></cloneof>
+		<crc>ee441564</crc>
+		<manufacturer>Jaleco</manufacturer>
+		<year>1995</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Itchy &amp; Scratchy Game, The (USA)" index="" image="">
+		<description>Itchy &amp; Scratchy Game, The (USA)</description>
+		<cloneof></cloneof>
+		<crc>95b65dfe</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1995</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Jim Power - The Lost Dimension in 3D (USA)" index="true" image="j">
+		<description>Jim Power - The Lost Dimension in 3D (USA)</description>
+		<cloneof></cloneof>
+		<crc>c469f8f0</crc>
+		<manufacturer>ElectroBrain</manufacturer>
+		<year>1993</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Kid Klown in Crazy Chase (USA)" index="true" image="k">
+		<description>Kid Klown in Crazy Chase (USA)</description>
+		<cloneof></cloneof>
+		<crc>bd6c8ab1</crc>
+		<manufacturer>Kemco</manufacturer>
+		<year>1994</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="King Arthur &amp; The Knights of Justice (USA)" index="" image="">
+		<description>King Arthur &amp; The Knights of Justice (USA)</description>
+		<cloneof></cloneof>
+		<crc>615a183b</crc>
+		<manufacturer>Enix</manufacturer>
+		<year>1995</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lester the Unlikely (USA)" index="true" image="l">
+		<description>Lester the Unlikely (USA)</description>
+		<cloneof></cloneof>
+		<crc>1a52fee5</crc>
+		<manufacturer>DTMC</manufacturer>
+		<year>1994</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mario Is Missing! (USA)" index="true" image="m">
+		<description>Mario Is Missing! (USA)</description>
+		<cloneof></cloneof>
+		<crc>e51a3fcd</crc>
+		<manufacturer>Software Toolworks</manufacturer>
+		<year>1993</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mary Shelley&apos;s Frankenstein (USA)" index="" image="">
+		<description>Mary Shelley&apos;s Frankenstein (USA)</description>
+		<cloneof></cloneof>
+		<crc>91415d1e</crc>
+		<manufacturer>Sony Imagesoft</manufacturer>
+		<year>1994</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Metal Morph (USA)" index="" image="">
+		<description>Metal Morph (USA)</description>
+		<cloneof></cloneof>
+		<crc>0adaa9da</crc>
+		<manufacturer>FCI, Inc.</manufacturer>
+		<year>1994</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Metal Warriors (USA)" index="" image="">
+		<description>Metal Warriors (USA)</description>
+		<cloneof></cloneof>
+		<crc>f2ab92d4</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1995</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mickey Mania - The Timeless Adventures of Mickey Mouse (USA)" index="" image="">
+		<description>Mickey Mania - The Timeless Adventures of Mickey Mouse (USA)</description>
+		<cloneof></cloneof>
+		<crc>08806b5b</crc>
+		<manufacturer>Sony Imagesoft</manufacturer>
+		<year>1995</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mickey&apos;s Ultimate Challenge (USA)" index="" image="">
+		<description>Mickey&apos;s Ultimate Challenge (USA)</description>
+		<cloneof></cloneof>
+		<crc>d6c60a84</crc>
+		<manufacturer>Hi Tech Expressions</manufacturer>
+		<year>1994</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mr. Do! (USA)" index="" image="">
+		<description>Mr. Do! (USA)</description>
+		<cloneof></cloneof>
+		<crc>1c1025e2</crc>
+		<manufacturer>Black Pearl</manufacturer>
+		<year>1995</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ms. Pac-Man (USA)" index="" image="">
+		<description>Ms. Pac-Man (USA)</description>
+		<cloneof></cloneof>
+		<crc>74d210d3</crc>
+		<manufacturer>Midway</manufacturer>
+		<year>1996</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="No Escape (USA)" index="true" image="n">
+		<description>No Escape (USA)</description>
+		<cloneof></cloneof>
+		<crc>c1082880</crc>
+		<manufacturer>Sony Imagesoft</manufacturer>
+		<year>1994</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Nosferatu (USA)" index="" image="">
+		<description>Nosferatu (USA)</description>
+		<cloneof></cloneof>
+		<crc>de762764</crc>
+		<manufacturer>Seta Corporation</manufacturer>
+		<year>1995</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="On the Ball (USA)" index="true" image="o">
+		<description>On the Ball (USA)</description>
+		<cloneof></cloneof>
+		<crc>50ad3fe8</crc>
+		<manufacturer>Taito</manufacturer>
+		<year>1992</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Outlander (USA)" index="" image="">
+		<description>Outlander (USA)</description>
+		<cloneof></cloneof>
+		<crc>a978b36f</crc>
+		<manufacturer>Mindscape</manufacturer>
+		<year>1993</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pac-in-Time (USA)" index="true" image="p">
+		<description>Pac-in-Time (USA)</description>
+		<cloneof></cloneof>
+		<crc>44375368</crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1995</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pac-Man 2 - The New Adventures (USA)" index="" image="">
+		<description>Pac-Man 2 - The New Adventures (USA)</description>
+		<cloneof></cloneof>
+		<crc>9fc62bcc</crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1994</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Paperboy 2 (USA)" index="" image="">
+		<description>Paperboy 2 (USA)</description>
+		<cloneof></cloneof>
+		<crc>c85aa66a</crc>
+		<manufacturer>Mindscape</manufacturer>
+		<year>1991</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Plok! (USA)" index="" image="">
+		<description>Plok! (USA)</description>
+		<cloneof></cloneof>
+		<crc>bbd678f6</crc>
+		<manufacturer>Tradewest</manufacturer>
+		<year>1993</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Push-Over (USA)" index="" image="">
+		<description>Push-Over (USA)</description>
+		<cloneof></cloneof>
+		<crc>fa06d5f5</crc>
+		<manufacturer>Ocean</manufacturer>
+		<year>1992</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Q-bert 3 (USA)" index="true" image="q">
+		<description>Q-bert 3 (USA)</description>
+		<cloneof></cloneof>
+		<crc>694cbfe4</crc>
+		<manufacturer>NTVIC</manufacturer>
+		<year>1992</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Radical Rex (USA)" index="true" image="r">
+		<description>Radical Rex (USA)</description>
+		<cloneof></cloneof>
+		<crc>e2b8da18</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>1994</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rampart (USA)" index="" image="">
+		<description>Rampart (USA)</description>
+		<cloneof></cloneof>
+		<crc>aed8892a</crc>
+		<manufacturer>Electronic Arts</manufacturer>
+		<year>1992</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ren &amp; Stimpy Show, The - Buckeroos! (USA)" index="" image="">
+		<description>Ren &amp; Stimpy Show, The - Buckeroos! (USA)</description>
+		<cloneof></cloneof>
+		<crc>672ebf39</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>1995</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ren &amp; Stimpy Show, The - Fire Dogs (USA)" index="" image="">
+		<description>Ren &amp; Stimpy Show, The - Fire Dogs (USA)</description>
+		<cloneof></cloneof>
+		<crc>0b472197</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>1994</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ren &amp; Stimpy Show, The - Time Warp (USA)" index="" image="">
+		<description>Ren &amp; Stimpy Show, The - Time Warp (USA)</description>
+		<cloneof></cloneof>
+		<crc>de8fe3e8</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>1994</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rex Ronan - Experimental Surgeon (USA)" index="" image="">
+		<description>Rex Ronan - Experimental Surgeon (USA)</description>
+		<cloneof></cloneof>
+		<crc>105ac679</crc>
+		<manufacturer>Raya Systems</manufacturer>
+		<year>1994</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="RoboCop 3 (USA)" index="" image="">
+		<description>RoboCop 3 (USA)</description>
+		<cloneof></cloneof>
+		<crc>3502f9b3</crc>
+		<manufacturer>Ocean</manufacturer>
+		<year>1992</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rocketeer, The (USA)" index="" image="">
+		<description>Rocketeer, The (USA)</description>
+		<cloneof></cloneof>
+		<crc>4c68a3c7</crc>
+		<manufacturer>IGS</manufacturer>
+		<year>1992</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rocky Rodent (USA)" index="" image="">
+		<description>Rocky Rodent (USA)</description>
+		<cloneof></cloneof>
+		<crc>c81a7b07</crc>
+		<manufacturer>Irem</manufacturer>
+		<year>1993</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Scooby-Doo Mystery (USA)" index="true" image="s">
+		<description>Scooby-Doo Mystery (USA)</description>
+		<cloneof></cloneof>
+		<crc>98d7611e</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1995</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="SeaQuest DSV (USA)" index="" image="">
+		<description>SeaQuest DSV (USA)</description>
+		<cloneof></cloneof>
+		<crc>a6579e03</crc>
+		<manufacturer>Malibu</manufacturer>
+		<year>1995</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Shien&apos;s Revenge (USA)" index="" image="">
+		<description>Shien&apos;s Revenge (USA)</description>
+		<cloneof></cloneof>
+		<crc>5bb2e6c3</crc>
+		<manufacturer>Vic Tokai</manufacturer>
+		<year>1994</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Simpsons, The - Bart&apos;s Nightmare (USA)" index="" image="">
+		<description>Simpsons, The - Bart&apos;s Nightmare (USA)</description>
+		<cloneof></cloneof>
+		<crc>ed1c03c2</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1992</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Smart Ball (USA)" index="" image="">
+		<description>Smart Ball (USA)</description>
+		<cloneof></cloneof>
+		<crc>3cfe77ab</crc>
+		<manufacturer>Sony Imagesoft</manufacturer>
+		<year>1991</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Snow White in Happily Ever After (USA)" index="" image="">
+		<description>Snow White in Happily Ever After (USA)</description>
+		<cloneof></cloneof>
+		<crc>d68d1ab3</crc>
+		<manufacturer>American Softworks</manufacturer>
+		<year>1994</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="SOS (USA)" index="" image="">
+		<description>SOS (USA)</description>
+		<cloneof></cloneof>
+		<crc>09ae53f5</crc>
+		<manufacturer>Vic Tokai</manufacturer>
+		<year>1994</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Space Ace (USA)" index="" image="">
+		<description>Space Ace (USA)</description>
+		<cloneof></cloneof>
+		<crc>f4bb0888</crc>
+		<manufacturer>Absolute Entertainment</manufacturer>
+		<year>1993</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Spanky&apos;s Quest (USA)" index="" image="">
+		<description>Spanky&apos;s Quest (USA)</description>
+		<cloneof></cloneof>
+		<crc>ca68c5c3</crc>
+		<manufacturer>Natsume</manufacturer>
+		<year>1992</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sparkster (USA)" index="" image="">
+		<description>Sparkster (USA)</description>
+		<cloneof></cloneof>
+		<crc>40d11c94</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1994</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Spawn (USA)" index="" image="">
+		<description>Spawn (USA)</description>
+		<cloneof></cloneof>
+		<crc>4e1dafd0</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1995</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Spectre (USA)" index="" image="">
+		<description>Spectre (USA)</description>
+		<cloneof></cloneof>
+		<crc>ade6e0d8</crc>
+		<manufacturer>Cybersoft</manufacturer>
+		<year>1994</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Spindizzy Worlds (USA)" index="" image="">
+		<description>Spindizzy Worlds (USA)</description>
+		<cloneof></cloneof>
+		<crc>52b68163</crc>
+		<manufacturer>ASCII Entertainment</manufacturer>
+		<year>1993</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Star Trek - Deep Space Nine - Crossroads of Time (USA)" index="" image="">
+		<description>Star Trek - Deep Space Nine - Crossroads of Time (USA)</description>
+		<cloneof></cloneof>
+		<crc>9a245fa3</crc>
+		<manufacturer>Playmates</manufacturer>
+		<year>1995</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Steel Talons (USA)" index="" image="">
+		<description>Steel Talons (USA)</description>
+		<cloneof></cloneof>
+		<crc>4ea9f93f</crc>
+		<manufacturer>Left Field Productions</manufacturer>
+		<year>1993</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Adventure Island II (USA)" index="" image="">
+		<description>Super Adventure Island II (USA)</description>
+		<cloneof></cloneof>
+		<crc>52fe16fd</crc>
+		<manufacturer>Hudson</manufacturer>
+		<year>1995</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Alfred Chicken (USA)" index="" image="">
+		<description>Super Alfred Chicken (USA)</description>
+		<cloneof></cloneof>
+		<crc>f21c5a9d</crc>
+		<manufacturer>Mindscape</manufacturer>
+		<year>1994</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Bomberman (USA)" index="" image="">
+		<description>Super Bomberman (USA)</description>
+		<cloneof></cloneof>
+		<crc>63a8e2c6</crc>
+		<manufacturer>Hudson</manufacturer>
+		<year>1993</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Bomberman 2 (USA)" index="" image="">
+		<description>Super Bomberman 2 (USA)</description>
+		<cloneof></cloneof>
+		<crc>9c1f11e4</crc>
+		<manufacturer>Hudson</manufacturer>
+		<year>1994</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Bomberman 3 (Europe)" index="" image="">
+		<description>Super Bomberman 3 (Europe)</description>
+		<cloneof></cloneof>
+		<crc>a096a6e5</crc>
+		<manufacturer>Hudson</manufacturer>
+		<year>1995</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Buster Bros. (USA) (Rev 1)" index="" image="">
+		<description>Super Buster Bros. (USA) (Rev 1)</description>
+		<cloneof></cloneof>
+		<crc>9526d1aa</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1992</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Conflict - The Mideast (USA)" index="" image="">
+		<description>Super Conflict - The Mideast (USA)</description>
+		<cloneof></cloneof>
+		<crc>f254d5cf</crc>
+		<manufacturer>Vic Tokai</manufacturer>
+		<year>1993</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Putty (USA)" index="" image="">
+		<description>Super Putty (USA)</description>
+		<cloneof></cloneof>
+		<crc>746087c1</crc>
+		<manufacturer>U.S. Gold</manufacturer>
+		<year>1993</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Troll Islands (USA)" index="" image="">
+		<description>Super Troll Islands (USA)</description>
+		<cloneof></cloneof>
+		<crc>f9690be9</crc>
+		<manufacturer>ASC Games</manufacturer>
+		<year>1993</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Taz-Mania (USA) (Rev 1)" index="true" image="t">
+		<description>Taz-Mania (USA) (Rev 1)</description>
+		<cloneof></cloneof>
+		<crc>b17230ae</crc>
+		<manufacturer>SunSoft</manufacturer>
+		<year>1993</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Terminator 2 - Judgment Day (USA)" index="" image="">
+		<description>Terminator 2 - Judgment Day (USA)</description>
+		<cloneof></cloneof>
+		<crc>f729b19e</crc>
+		<manufacturer>LJN Ltd.</manufacturer>
+		<year>1993</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Thomas the Tank Engine and Friends (USA)" index="" image="">
+		<description>Thomas the Tank Engine and Friends (USA)</description>
+		<cloneof></cloneof>
+		<crc>bb4cd5a4</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>1993</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Time Slip (USA)" index="" image="">
+		<description>Time Slip (USA)</description>
+		<cloneof></cloneof>
+		<crc>838d0304</crc>
+		<manufacturer>Vic Tokai</manufacturer>
+		<year>1993</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Timecop (USA)" index="" image="">
+		<description>Timecop (USA)</description>
+		<cloneof></cloneof>
+		<crc>130b0933</crc>
+		<manufacturer>JVC Musical Industries, Inc.</manufacturer>
+		<year>1995</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Toys (USA)" index="" image="">
+		<description>Toys (USA)</description>
+		<cloneof></cloneof>
+		<crc>efebf501</crc>
+		<manufacturer>Absolute Entertainment</manufacturer>
+		<year>1993</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Troddlers (USA)" index="" image="">
+		<description>Troddlers (USA)</description>
+		<cloneof></cloneof>
+		<crc>6a7ff02d</crc>
+		<manufacturer>Seika Corp.</manufacturer>
+		<year>1993</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Untouchables, The (USA)" index="true" image="u">
+		<description>Untouchables, The (USA)</description>
+		<cloneof></cloneof>
+		<crc>c70f2374</crc>
+		<manufacturer>Ocean</manufacturer>
+		<year>1994</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Urban Strike (USA)" index="" image="">
+		<description>Urban Strike (USA)</description>
+		<cloneof></cloneof>
+		<crc>b9bf7990</crc>
+		<manufacturer>Black Pearl</manufacturer>
+		<year>1994</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Virtual Bart (USA)" index="true" image="v">
+		<description>Virtual Bart (USA)</description>
+		<cloneof></cloneof>
+		<crc>5d0addda</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1994</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Warlock (USA)" index="true" image="w">
+		<description>Warlock (USA)</description>
+		<cloneof></cloneof>
+		<crc>a47884d0</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1994</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="WarpSpeed (USA)" index="" image="">
+		<description>WarpSpeed (USA)</description>
+		<cloneof></cloneof>
+		<crc>1e10a1d1</crc>
+		<manufacturer>Accolade</manufacturer>
+		<year>1992</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Waterworld (Europe)" index="" image="">
+		<description>Waterworld (Europe)</description>
+		<cloneof></cloneof>
+		<crc>7acf2ac6</crc>
+		<manufacturer>Ocean</manufacturer>
+		<year>1995</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Wayne&apos;s World (USA)" index="" image="">
+		<description>Wayne&apos;s World (USA)</description>
+		<cloneof></cloneof>
+		<crc>0d426a15</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>1993</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="We&apos;re Back! - A Dinosaur&apos;s Story (USA)" index="" image="">
+		<description>We&apos;re Back! - A Dinosaur&apos;s Story (USA)</description>
+		<cloneof></cloneof>
+		<crc>3f654414</crc>
+		<manufacturer>Hi-Tech</manufacturer>
+		<year>1993</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Whirlo (Europe)" index="" image="">
+		<description>Whirlo (Europe)</description>
+		<cloneof></cloneof>
+		<crc>7379e3b3</crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1992</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Wizard of Oz, The (USA)" index="" image="">
+		<description>Wizard of Oz, The (USA)</description>
+		<cloneof></cloneof>
+		<crc>d5ce2db5</crc>
+		<manufacturer>Seta Corporation</manufacturer>
+		<year>1993</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Wolverine - Adamantium Rage (USA)" index="" image="">
+		<description>Wolverine - Adamantium Rage (USA)</description>
+		<cloneof></cloneof>
+		<crc>4e62d6bf</crc>
+		<manufacturer>LJN Ltd.</manufacturer>
+		<year>1994</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Zombies Ate My Neighbors (USA)" index="true" image="z">
+		<description>Zombies Ate My Neighbors (USA)</description>
+		<cloneof></cloneof>
+		<crc>7cfc0c7c</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1993</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

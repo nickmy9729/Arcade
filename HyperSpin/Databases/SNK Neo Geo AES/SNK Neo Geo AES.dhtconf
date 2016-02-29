@@ -1,0 +1,8 @@
+<DonsHyperSpinListGenerator VersionMajor="4">
+  <Wheel>SNK Neo Geo AES</Wheel>
+  <OutputFile>M:\Arcade\HyperSpin\Databases\SNK Neo Geo AES\SNK Neo Geo AES.xml</OutputFile>
+  <SourceFile>M:\Hyperlists\SNK Neo Geo AES.xml</SourceFile>
+  <ExcludeFile>M:\Arcade\HyperSpin\Databases\SNK Neo Geo AES\SNK Neo Geo AES_excluded.xml</ExcludeFile>
+  <MameXmlFile>
+  </MameXmlFile>
+</DonsHyperSpinListGenerator>

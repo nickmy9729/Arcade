@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Nintendo Game Boy</listname>
+		<lastlistupdate>06/08/2013</lastlistupdate>
+		<listversion>1.1 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="Battleship (USA, Europe)" index="true" image="b">
+		<description>Battleship (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>fef62da5</crc>
+		<manufacturer>Mindscape Inc.</manufacturer>
+		<year>1992</year>
+		<genre>Strategy</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Casino FunPak (USA, Europe)" index="true" image="c">
+		<description>Casino FunPak (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>8641ba55</crc>
+		<manufacturer>Interplay</manufacturer>
+		<year>1995</year>
+		<genre>Strategy</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Castle Quest (Europe)" index="" image="">
+		<description>Castle Quest (Europe)</description>
+		<cloneof></cloneof>
+		<crc>2f8aaf6f</crc>
+		<manufacturer>Hudson</manufacturer>
+		<year>1993</year>
+		<genre>Strategy</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Nobunaga&apos;s Ambition (USA)" index="true" image="n">
+		<description>Nobunaga\&apos;s Ambition (USA)</description>
+		<cloneof></cloneof>
+		<crc>5a843008</crc>
+		<manufacturer>Koei</manufacturer>
+		<year>1991</year>
+		<genre>Strategy</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Panel Action Bingo (USA)" index="true" image="p">
+		<description>Panel Action Bingo (USA)</description>
+		<cloneof></cloneof>
+		<crc>d000a116</crc>
+		<manufacturer>FCI, Inc</manufacturer>
+		<year>1993</year>
+		<genre>Strategy</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Populous (Europe)" index="" image="">
+		<description>Populous (Europe)</description>
+		<cloneof></cloneof>
+		<crc>453057ac</crc>
+		<manufacturer>Imagineer</manufacturer>
+		<year>1993</year>
+		<genre>Strategy</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Power Mission (USA)" index="" image="">
+		<description>Power Mission (USA)</description>
+		<cloneof></cloneof>
+		<crc>46cb2f33</crc>
+		<manufacturer>NTVIC</manufacturer>
+		<year>1991</year>
+		<genre>Strategy</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sea Battle (Europe)" index="true" image="s">
+		<description>Sea Battle (Europe)</description>
+		<cloneof></cloneof>
+		<crc>ba091b91</crc>
+		<manufacturer>Infogrames</manufacturer>
+		<year>1998</year>
+		<genre>Strategy</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Worms (Europe)" index="true" image="w">
+		<description>Worms (Europe)</description>
+		<cloneof></cloneof>
+		<crc>2ebc40c2</crc>
+		<manufacturer>Team 17</manufacturer>
+		<year>1995</year>
+		<genre>Strategy</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

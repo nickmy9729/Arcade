@@ -1,0 +1,49 @@
+﻿<menu>
+  <game SteamAppId="252350" name="Double Dragon Neon">
+    <description>Double Dragon Neon</description>
+    <manufacturer>WayForward, Abstraction Games</manufacturer>
+    <year>2014</year>
+    <genre>Action/Indie</genre>
+  </game>
+  <game SteamAppId="322210" name="Guns, Gore &amp; Cannoli">
+    <description>Guns, Gore &amp; Cannoli</description>
+    <manufacturer>Crazy Monkey Studios, Claeys Brothers</manufacturer>
+    <year>2015</year>
+    <genre>Action/Indie</genre>
+  </game>
+  <game SteamAppId="236450" name="PAC-MAN Championship Edition DX+">
+    <description>PAC-MAN Championship Edition DX+</description>
+    <manufacturer>Mine Loader Software Co., Ltd.</manufacturer>
+    <year>2013</year>
+    <genre>Action</genre>
+  </game>
+  <game SteamAppId="226980" name="Pinball FX2">
+    <description>Pinball FX2</description>
+    <manufacturer>Zen Studios</manufacturer>
+    <year>2013</year>
+    <genre>Casual/Simulation</genre>
+  </game>
+  <game SteamAppId="242550" name="Rayman Legends">
+    <description>Rayman Legends</description>
+    <year>2013</year>
+    <genre>Action/Adventure</genre>
+  </game>
+  <game SteamAppId="207490" name="Rayman Origins">
+    <description>Rayman Origins</description>
+    <manufacturer>UBIart Montpellier, Feral Interactive (Mac)</manufacturer>
+    <year>2012</year>
+    <genre>Action/Adventure</genre>
+  </game>
+  <game SteamAppId="212480" name="Sonic &amp; All-Stars Racing Transformed">
+    <description>Sonic &amp; All-Stars Racing Transformed</description>
+    <manufacturer>Sumo Digital</manufacturer>
+    <year>2013</year>
+    <genre>Racing/Sports</genre>
+  </game>
+  <game SteamAppId="209120" name="Street Fighter X Tekken">
+    <description>Street Fighter X Tekken</description>
+    <manufacturer>Capcom U.S.A., Inc.</manufacturer>
+    <year>2012</year>
+    <genre>Action</genre>
+  </game>
+</menu>

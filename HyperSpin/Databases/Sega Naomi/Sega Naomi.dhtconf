@@ -1,0 +1,8 @@
+<DonsHyperSpinListGenerator VersionMajor="4">
+  <Wheel>Sega Naomi</Wheel>
+  <OutputFile>M:\Arcade\HyperSpin\Databases\Sega Naomi\Sega Naomi.xml</OutputFile>
+  <SourceFile>M:\Hyperlists\Sega Naomi.xml</SourceFile>
+  <ExcludeFile>M:\Arcade\HyperSpin\Databases\Sega Naomi\Sega Naomi_excluded.xml</ExcludeFile>
+  <MameXmlFile>
+  </MameXmlFile>
+</DonsHyperSpinListGenerator>

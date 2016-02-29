@@ -1,0 +1,209 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Nintendo Entertainment System</listname>
+		<lastlistupdate>07/28/2013</lastlistupdate>
+		<listversion>1.1 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="Bad News Baseball (USA)" index="true" image="b">
+		<description>Bad News Baseball (USA)</description>
+		<cloneof></cloneof>
+		<crc>40DAFCBA</crc>
+		<manufacturer>Tecmo</manufacturer>
+		<year>1990</year>
+		<genre>Baseball/Sports</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Baseball (USA, Europe)" index="" image="">
+		<description>Baseball (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>AFDCBD24</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1985</year>
+		<genre>Baseball/Sports</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Baseball Simulator 1.000 (USA)" index="" image="">
+		<description>Baseball Simulator 1.000 (USA)</description>
+		<cloneof></cloneof>
+		<crc>1F6EA423</crc>
+		<manufacturer>Culture Brain</manufacturer>
+		<year>1990</year>
+		<genre>Baseball/Sports</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Baseball Stars (USA)" index="" image="">
+		<description>Baseball Stars (USA)</description>
+		<cloneof></cloneof>
+		<crc>40D159B6</crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1989</year>
+		<genre>Baseball/Sports</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Baseball Stars II (USA)" index="" image="">
+		<description>Baseball Stars II (USA)</description>
+		<cloneof></cloneof>
+		<crc>18A9F0D9</crc>
+		<manufacturer>Romstar</manufacturer>
+		<year>1992</year>
+		<genre>Baseball/Sports</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bases Loaded (USA) (Rev B)" index="" image="">
+		<description>Bases Loaded (USA) (Rev B)</description>
+		<cloneof></cloneof>
+		<crc>6ABAD366</crc>
+		<manufacturer>Jaleco Entertainment</manufacturer>
+		<year>1988</year>
+		<genre>Baseball/Sports</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bases Loaded 3 (USA)" index="" image="">
+		<description>Bases Loaded 3 (USA)</description>
+		<cloneof></cloneof>
+		<crc>3ECA3DDA</crc>
+		<manufacturer>Jaleco Entertainment</manufacturer>
+		<year>1991</year>
+		<genre>Baseball/Sports</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bases Loaded 4 (USA)" index="" image="">
+		<description>Bases Loaded 4 (USA)</description>
+		<cloneof></cloneof>
+		<crc>28F9B41F</crc>
+		<manufacturer>Jaleco Entertainment</manufacturer>
+		<year>1993</year>
+		<genre>Baseball</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bases Loaded II - Second Season (USA)" index="" image="">
+		<description>Bases Loaded II - Second Season (USA)</description>
+		<cloneof></cloneof>
+		<crc>B9CF171F</crc>
+		<manufacturer>Jaleco Entertainment</manufacturer>
+		<year>1990</year>
+		<genre>Baseball/Sports</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bo Jackson Baseball (USA)" index="" image="">
+		<description>Bo Jackson Baseball (USA)</description>
+		<cloneof></cloneof>
+		<crc>5FD2AAB1</crc>
+		<manufacturer>Data East USA</manufacturer>
+		<year>1991</year>
+		<genre>Baseball/Sports</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cyber Stadium Series - Base Wars (USA)" index="true" image="c">
+		<description>Cyber Stadium Series - Base Wars (USA)</description>
+		<cloneof></cloneof>
+		<crc>F00584B6</crc>
+		<manufacturer>Ultra</manufacturer>
+		<year>1991</year>
+		<genre>Baseball/Sports</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dusty Diamond&apos;s All-Star Softball (USA)" index="true" image="d">
+		<description>Dusty Diamond&apos;s All-Star Softball (USA)</description>
+		<cloneof></cloneof>
+		<crc>38B590E4</crc>
+		<manufacturer>Tonkin House</manufacturer>
+		<year>1990</year>
+		<genre>Baseball/Sports</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Legends of the Diamond - The Baseball Championship Game (USA)" index="true" image="l">
+		<description>Legends of the Diamond - The Baseball Championship Game (USA)</description>
+		<cloneof></cloneof>
+		<crc>05CE560C</crc>
+		<manufacturer>Bandai</manufacturer>
+		<year>1992</year>
+		<genre>Baseball/Sports</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Little League Baseball - Championship Series (USA)" index="" image="">
+		<description>Little League Baseball - Championship Series (USA)</description>
+		<cloneof></cloneof>
+		<crc>859C65E1</crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1990</year>
+		<genre>Baseball/Sports</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Major League Baseball (USA) (Rev A)" index="true" image="m">
+		<description>Major League Baseball (USA) (Rev A)</description>
+		<cloneof></cloneof>
+		<crc>96E6C1CE</crc>
+		<manufacturer>LJN Ltd.</manufacturer>
+		<year>1988</year>
+		<genre>Baseball/Sports</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="R.B.I. Baseball (USA)" index="true" image="r">
+		<description>R.B.I. Baseball (USA)</description>
+		<cloneof></cloneof>
+		<crc>3C5C81D4</crc>
+		<manufacturer>Tengen</manufacturer>
+		<year>1988</year>
+		<genre>Baseball/Sports</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="R.B.I. Baseball 2 (USA) (Unl)" index="" image="">
+		<description>R.B.I. Baseball 2 (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>96DFC776</crc>
+		<manufacturer>Tengen</manufacturer>
+		<year>1990</year>
+		<genre>Baseball/Sports</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="R.B.I. Baseball 3 (USA) (Unl)" index="" image="">
+		<description>R.B.I. Baseball 3 (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>FD63E7AC</crc>
+		<manufacturer>Tengen</manufacturer>
+		<year>1991</year>
+		<genre>Baseball/Sports</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Roger Clemens&apos; MVP Baseball (USA)" index="" image="">
+		<description>Roger Clemens&apos; MVP Baseball (USA)</description>
+		<cloneof></cloneof>
+		<crc>018A8699</crc>
+		<manufacturer>LJN Ltd.</manufacturer>
+		<year>1991</year>
+		<genre>Baseball/Sports</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tecmo Baseball (USA)" index="true" image="t">
+		<description>Tecmo Baseball (USA)</description>
+		<cloneof></cloneof>
+		<crc>AD12A34F</crc>
+		<manufacturer>Tecmo</manufacturer>
+		<year>1989</year>
+		<genre>Baseball/Sports</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

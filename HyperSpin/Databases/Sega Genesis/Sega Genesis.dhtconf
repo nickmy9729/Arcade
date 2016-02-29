@@ -1,0 +1,8 @@
+<DonsHyperSpinListGenerator VersionMajor="4">
+  <Wheel>Sega Genesis</Wheel>
+  <OutputFile>M:\Arcade\HyperSpin\Databases\Sega Genesis\Sega Genesis.xml</OutputFile>
+  <SourceFile>M:\Hyperlists\Sega Genesis.xml</SourceFile>
+  <ExcludeFile>M:\Arcade\HyperSpin\Databases\Sega Genesis\Sega Genesis_excluded.xml</ExcludeFile>
+  <MameXmlFile>
+  </MameXmlFile>
+</DonsHyperSpinListGenerator>

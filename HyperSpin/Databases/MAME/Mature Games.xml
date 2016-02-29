@@ -1,0 +1,5309 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>MAME</listname>
+		<lastlistupdate>07/02/2011</lastlistupdate>
+		<listversion>.143 Ongoing</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="7jigen" index="true" image="7">
+		<description>7jigen no Youseitachi - Mahjong 7 Dimensions (Japan)</description>
+		<cloneof></cloneof>
+		<crc>ee8ab3c4</crc>
+		<manufacturer>Dynax</manufacturer>
+		<year>1990</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="abunai" index="true" image="a">
+		<description>Abunai Houkago - Mou Matenai (Japan 890325)</description>
+		<cloneof></cloneof>
+		<crc>8ed2119f</crc>
+		<manufacturer>Green Soft</manufacturer>
+		<year>1989</year>
+		<genre>Tabletop/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjapinky" index="" image="">
+		<description>Almond Pinky [BET] (Japan)</description>
+		<cloneof></cloneof>
+		<crc>0c4fb83a</crc>
+		<manufacturer>Dynax</manufacturer>
+		<year>1988</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="apparel" index="" image="">
+		<description>Apparel Night (Japan 860929)</description>
+		<cloneof></cloneof>
+		<crc>31bd49d5</crc>
+		<manufacturer>Central Denshi</manufacturer>
+		<year>1986</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hnageman" index="" image="">
+		<description>AV Hanafuda Hana no Ageman (Japan 900716)</description>
+		<cloneof></cloneof>
+		<crc>155ed09a</crc>
+		<manufacturer>Nichibutsu / AV Japan</manufacturer>
+		<year>1990</year>
+		<genre>Tabletop/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="av2mj1bb" index="" image="">
+		<description>AV2Mahjong No.1 Bay Bridge no Seijo (Japan)</description>
+		<cloneof></cloneof>
+		<crc>df0f03fb</crc>
+		<manufacturer>Miki Syouji / AV Japan</manufacturer>
+		<year>1991</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="av2mj2rg" index="" image="">
+		<description>AV2Mahjong No.2 Rouge no Kaori (Japan)</description>
+		<cloneof></cloneof>
+		<crc>2295b8df</crc>
+		<manufacturer>Miki Syouji / AV Japan</manufacturer>
+		<year>1991</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="bakatono" index="true" image="b">
+		<description>Bakatonosama Mahjong Manyuuki (MOM-002)(MOH-002)</description>
+		<cloneof></cloneof>
+		<crc>9036d879</crc>
+		<manufacturer>Monolith Corp.</manufacturer>
+		<year>1991</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="bigtwin" index="" image="">
+		<description>Big Twin</description>
+		<cloneof></cloneof>
+		<crc>e6767f60</crc>
+		<manufacturer>Playmark</manufacturer>
+		<year>1995</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="bijokkog" index="" image="">
+		<description>Bijokko Gakuen (Japan 880116)</description>
+		<cloneof></cloneof>
+		<crc>3c28b45c</crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1988</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="bijokkoy" index="" image="">
+		<description>Bijokko Yume Monogatari (Japan 870925)</description>
+		<cloneof></cloneof>
+		<crc>7dec7ae1</crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1987</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="realbrk" index="" image="">
+		<description>Billiard Academy Real Break (Europe)</description>
+		<cloneof></cloneof>
+		<crc>6954ff7f</crc>
+		<manufacturer>Nakanihon</manufacturer>
+		<year>1998</year>
+		<genre>Sports/Pool and Dart/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="realbrkj" index="" image="">
+		<description>Billiard Academy Real Break (Japan)</description>
+		<cloneof>realbrk</cloneof>
+		<crc>ab0379b0</crc>
+		<manufacturer>Nakanihon</manufacturer>
+		<year>1998</year>
+		<genre>Sports/Pool and Dart/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="realbrkk" index="" image="">
+		<description>Billiard Academy Real Break (Korea)</description>
+		<cloneof>realbrk</cloneof>
+		<crc>fdca08b1</crc>
+		<manufacturer>Nakanihon</manufacturer>
+		<year>1998</year>
+		<genre>Sports/Pool and Dart/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="bishjan" index="" image="">
+		<description>Bishou Jan (Japan, Ver. 2.03)</description>
+		<cloneof></cloneof>
+		<crc>1f891d48</crc>
+		<manufacturer>Subsino</manufacturer>
+		<year>1999</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="psailor1" index="" image="">
+		<description>Bishoujo Janshi Pretty Sailor 18-kin (Japan)</description>
+		<cloneof></cloneof>
+		<crc>a93dab87</crc>
+		<manufacturer>Sphinx</manufacturer>
+		<year>1994</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="psailor2" index="" image="">
+		<description>Bishoujo Janshi Pretty Sailor 2 (Japan)</description>
+		<cloneof></cloneof>
+		<crc>5a94677f</crc>
+		<manufacturer>Sphinx</manufacturer>
+		<year>1994</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="blandia" index="" image="">
+		<description>Blandia</description>
+		<cloneof></cloneof>
+		<crc>2376a1f3</crc>
+		<manufacturer>Allumer</manufacturer>
+		<year>1992</year>
+		<genre>Fighter/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="blandiap" index="" image="">
+		<description>Blandia (prototype)</description>
+		<cloneof>blandia</cloneof>
+		<crc>7ecd30e8</crc>
+		<manufacturer>Allumer</manufacturer>
+		<year>1992</year>
+		<genre>Fighter/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="blockgalb" index="" image="">
+		<description>Block Gal (bootleg)</description>
+		<cloneof>blockgal</cloneof>
+		<crc>65c47676</crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1987</year>
+		<genre>Breakout/Mature/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="blockgal" index="" image="">
+		<description>Block Gal (MC-8123B, 317-0029)</description>
+		<cloneof></cloneof>
+		<crc>a99b231a</crc>
+		<manufacturer>Sega / Vic Tokai</manufacturer>
+		<year>1987</year>
+		<genre>Breakout/Mature/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="bballs" index="" image="">
+		<description>Bouncing Balls</description>
+		<cloneof></cloneof>
+		<crc>4501c245</crc>
+		<manufacturer>Comad</manufacturer>
+		<year>1991</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="bubl2000" index="" image="">
+		<description>Bubble 2000</description>
+		<cloneof></cloneof>
+		<crc>87f960d7</crc>
+		<manufacturer>Tuning</manufacturer>
+		<year>1998</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="cabaret" index="true" image="c">
+		<description>Cabaret</description>
+		<cloneof></cloneof>
+		<crc>44cebf77</crc>
+		<manufacturer>AMT Co. Ltd.</manufacturer>
+		<year>1992</year>
+		<genre>Casino/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="cannball" index="" image="">
+		<description>Cannon Ball (Yun Sung) (horizontal)</description>
+		<cloneof></cloneof>
+		<crc>17db56b4</crc>
+		<manufacturer>Yun Sung / Soft Vision</manufacturer>
+		<year>1995</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="cannballv" index="" image="">
+		<description>Cannon Ball (Yun Sung) (vertical)</description>
+		<cloneof>cannball</cloneof>
+		<crc>f7398b0d</crc>
+		<manufacturer>Yun Sung / T&amp;K</manufacturer>
+		<year>1995</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="cstripxi" index="" image="">
+		<description>Casino Strip XI</description>
+		<cloneof></cloneof>
+		<crc>7821c604</crc>
+		<manufacturer>Status Games</manufacturer>
+		<year>1990</year>
+		<genre>Casino/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="citalcup" index="" image="">
+		<description>Champion Italian Cup (bootleg V220IT)</description>
+		<cloneof>cpokerpk</cloneof>
+		<crc>f120eb31</crc>
+		<manufacturer>bootleg (SGS)</manufacturer>
+		<year>199?</year>
+		<genre>Casino/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="cpokerpk" index="" image="">
+		<description>Champion Italian PK (bootleg, blue board)</description>
+		<cloneof></cloneof>
+		<crc>3e987389</crc>
+		<manufacturer>bootleg (SGS)</manufacturer>
+		<year>199?</year>
+		<genre>Casino/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="cpokerpkg" index="" image="">
+		<description>Champion Italian PK (bootleg, green board)</description>
+		<cloneof>cpokerpk</cloneof>
+		<crc>25e129b9</crc>
+		<manufacturer>bootleg (SGS)</manufacturer>
+		<year>199?</year>
+		<genre>Casino/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="cpoker" index="" image="">
+		<description>Champion Poker (v220I)</description>
+		<cloneof></cloneof>
+		<crc>b7cae556</crc>
+		<manufacturer>IGS</manufacturer>
+		<year>1993?</year>
+		<genre>Casino/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="csk234it" index="" image="">
+		<description>Champion Skill (Ability, Poker &amp; Symbols)</description>
+		<cloneof>csk227it</cloneof>
+		<crc>344b7059</crc>
+		<manufacturer>IGS</manufacturer>
+		<year>198?</year>
+		<genre>Casino/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="csk227it" index="" image="">
+		<description>Champion Skill (with Ability)</description>
+		<cloneof></cloneof>
+		<crc>df1ebf49</crc>
+		<manufacturer>IGS</manufacturer>
+		<year>198?</year>
+		<genre>Casino/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="7toitsu" index="" image="">
+		<description>Chi-Toitsu</description>
+		<cloneof>mgakuen</cloneof>
+		<crc>0bebe45f</crc>
+		<manufacturer>Yuga</manufacturer>
+		<year>1988</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ccasino" index="" image="">
+		<description>Chinese Casino [BET] (Japan)</description>
+		<cloneof></cloneof>
+		<crc>d6cf3387</crc>
+		<manufacturer>V-System Co.</manufacturer>
+		<year>1987</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="citylove" index="" image="">
+		<description>City Love (Japan 860908)</description>
+		<cloneof></cloneof>
+		<crc>2db5186c</crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1986</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mcitylov" index="" image="">
+		<description>City Love [BET] (Japan 860904)</description>
+		<cloneof>citylove</cloneof>
+		<crc>b0815b50</crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1986</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="crystalg" index="" image="">
+		<description>Crystal Gal (Japan 860512)</description>
+		<cloneof></cloneof>
+		<crc>1cacdbbd</crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1986</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="crystal2" index="" image="">
+		<description>Crystal Gal 2 (Japan 860620)</description>
+		<cloneof></cloneof>
+		<crc>67673350</crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1986</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="daisyari" index="true" image="d">
+		<description>Daisyarin [BET] (Japan)</description>
+		<cloneof></cloneof>
+		<crc>7d14f90c</crc>
+		<manufacturer>Best System</manufacturer>
+		<year>1989</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="dakkochn" index="" image="">
+		<description>DakkoChan House (MC-8123, 317-0014)</description>
+		<cloneof></cloneof>
+		<crc>9fb1972b</crc>
+		<manufacturer>White Board</manufacturer>
+		<year>1987</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="danchih" index="" image="">
+		<description>Danchi de Hanafuda (J 990607 V1.400)</description>
+		<cloneof></cloneof>
+		<crc>59ed40f4</crc>
+		<manufacturer>Altron (Tecmo license)</manufacturer>
+		<year>1999</year>
+		<genre>Tabletop/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="danceyes" index="" image="">
+		<description>Dancing Eyes (Japan, DC1/VER.A)</description>
+		<cloneof></cloneof>
+		<crc>b164ad67</crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1996</year>
+		<genre>Maze/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="discoboy" index="" image="">
+		<description>Disco Boy</description>
+		<cloneof></cloneof>
+		<crc>44a4fefa</crc>
+		<manufacturer>Soft Art Co.</manufacturer>
+		<year>1993</year>
+		<genre>Shooter/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="otatidai" index="" image="">
+		<description>Disco Mahjong Otachidai no Okite (Japan)</description>
+		<cloneof></cloneof>
+		<crc>a68acf90</crc>
+		<manufacturer>Sphinx</manufacturer>
+		<year>1995</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ddenlovr" index="" image="">
+		<description>Don Den Lover Vol. 1 (Hong Kong)</description>
+		<cloneof>ddenlovj</cloneof>
+		<crc>43accdff</crc>
+		<manufacturer>Dynax</manufacturer>
+		<year>1996</year>
+		<genre>Tabletop/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="dondenmj" index="" image="">
+		<description>Don Den Mahjong [BET] (Japan)</description>
+		<cloneof></cloneof>
+		<crc>3080252e</crc>
+		<manufacturer>Dyna Electronics</manufacturer>
+		<year>1986</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="drgnwrldv11h" index="" image="">
+		<description>Dong Fang Zhi Zhu (Hong Kong, V011H)</description>
+		<cloneof>drgnwrld</cloneof>
+		<crc>182037ce</crc>
+		<manufacturer>IGS</manufacturer>
+		<year>1995</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ddealer" index="" image="">
+		<description>Double Dealer</description>
+		<cloneof></cloneof>
+		<crc>ce0dff50</crc>
+		<manufacturer>NMK</manufacturer>
+		<year>1991</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="dblpoint" index="" image="">
+		<description>Double Point</description>
+		<cloneof></cloneof>
+		<crc>b05c9e02</crc>
+		<manufacturer>Min Corp.</manufacturer>
+		<year>1995</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="dblpointd" index="" image="">
+		<description>Double Point (Dong Bang Electron, bootleg?)</description>
+		<cloneof>dblpoint</cloneof>
+		<crc>44bc1bd9</crc>
+		<manufacturer>bootleg? (Dong Bang Electron)</manufacturer>
+		<year>1995</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="drtomy" index="" image="">
+		<description>Dr. Tomy</description>
+		<cloneof></cloneof>
+		<crc>0b8d763b</crc>
+		<manufacturer>Playmark</manufacturer>
+		<year>1993</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="drgpunch" index="" image="">
+		<description>Dragon Punch (Japan)</description>
+		<cloneof></cloneof>
+		<crc>b310709c</crc>
+		<manufacturer>Dynax</manufacturer>
+		<year>1989</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="drgnwrldv21" index="" image="">
+		<description>Dragon World (World, V021O)</description>
+		<cloneof>drgnwrld</cloneof>
+		<crc>60c2b018</crc>
+		<manufacturer>IGS</manufacturer>
+		<year>1995</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="drgnwrldv30" index="" image="">
+		<description>Dragon World (World, V030O)</description>
+		<cloneof>drgnwrld</cloneof>
+		<crc>5ac243e5</crc>
+		<manufacturer>IGS</manufacturer>
+		<year>1995</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="drgnwrld" index="" image="">
+		<description>Dragon World (World, V040O)</description>
+		<cloneof></cloneof>
+		<crc>a6daa2b8</crc>
+		<manufacturer>IGS</manufacturer>
+		<year>1997</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ejanhs" index="true" image="e">
+		<description>E-Jan High School (Japan)</description>
+		<cloneof></cloneof>
+		<crc>e626d3d2</crc>
+		<manufacturer>Seibu Kaihatsu</manufacturer>
+		<year>1996</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ejsakura12" index="" image="">
+		<description>E-Jan Sakurasou (v1.2)</description>
+		<cloneof>ejsakura</cloneof>
+		<crc>c734fde6</crc>
+		<manufacturer>Seibu Kaihatsu</manufacturer>
+		<year>1999</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ejsakura" index="" image="">
+		<description>E-Jan Sakurasou (v2.0)</description>
+		<cloneof></cloneof>
+		<crc>199f2f08</crc>
+		<manufacturer>Seibu Kaihatsu</manufacturer>
+		<year>1999</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ertictac" index="" image="">
+		<description>Erotictac/Tactic</description>
+		<cloneof></cloneof>
+		<crc>8dce677c</crc>
+		<manufacturer>Sisteme</manufacturer>
+		<year>1990</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="excelsr" index="" image="">
+		<description>Excelsior</description>
+		<cloneof></cloneof>
+		<crc>f0aa1c1b</crc>
+		<manufacturer>Playmark</manufacturer>
+		<year>1996</year>
+		<genre>Shooter/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="fantasia" index="true" image="f">
+		<description>Fantasia</description>
+		<cloneof></cloneof>
+		<crc>e27c6c57</crc>
+		<manufacturer>Comad &amp; New Japan System</manufacturer>
+		<year>1994</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="fantsia2" index="" image="">
+		<description>Fantasia II (Explicit)</description>
+		<cloneof></cloneof>
+		<crc>57c59972</crc>
+		<manufacturer>Comad</manufacturer>
+		<year>1997</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="fantsia2a" index="" image="">
+		<description>Fantasia II (Less Explicit)</description>
+		<cloneof>fantsia2</cloneof>
+		<crc>a3a92c4b</crc>
+		<manufacturer>Comad</manufacturer>
+		<year>1997</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="fantsy95" index="" image="">
+		<description>Fantasy &apos;95</description>
+		<cloneof></cloneof>
+		<crc>1e684da7</crc>
+		<manufacturer>Hi-max Technology Inc.</manufacturer>
+		<year>1995</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="findlove" index="" image="">
+		<description>Find Love (J 971212 V1.000)</description>
+		<cloneof></cloneof>
+		<crc>59ed40f4</crc>
+		<manufacturer>Daiki / FCF</manufacturer>
+		<year>1997</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="funybubl" index="" image="">
+		<description>Funny Bubble</description>
+		<cloneof></cloneof>
+		<crc>4e799cdd</crc>
+		<manufacturer>In Chang Electronic Co</manufacturer>
+		<year>1999</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="funybublc" index="" image="">
+		<description>Funny Bubble (Comad version)</description>
+		<cloneof>funybubl</cloneof>
+		<crc>d684c13f</crc>
+		<manufacturer>Comad</manufacturer>
+		<year>1999</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="galhustl" index="true" image="g">
+		<description>Gals Hustler</description>
+		<cloneof></cloneof>
+		<crc>b2583dbb</crc>
+		<manufacturer>ACE International</manufacturer>
+		<year>1997</year>
+		<genre>Sports/Pool and Dart/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="galsnewa" index="" image="">
+		<description>Gals Panic (Export, EXPRO-02 PCB)</description>
+		<cloneof>galsnew</cloneof>
+		<crc>34e1ee0d</crc>
+		<manufacturer>Kaneko</manufacturer>
+		<year>1990</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="galsnewj" index="" image="">
+		<description>Gals Panic (Japan, EXPRO-02 PCB)</description>
+		<cloneof>galsnew</cloneof>
+		<crc>220b6df5</crc>
+		<manufacturer>Kaneko (Taito license)</manufacturer>
+		<year>1990</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="galsnewk" index="" image="">
+		<description>Gals Panic (Korea, EXPRO-02 PCB)</description>
+		<cloneof>galsnew</cloneof>
+		<crc>babe6a71</crc>
+		<manufacturer>Kaneko (Inter license)</manufacturer>
+		<year>1990</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="galpanica" index="" image="">
+		<description>Gals Panic (MCU Protected)</description>
+		<cloneof>galpanic</cloneof>
+		<crc>ae6b17a8</crc>
+		<manufacturer>Kaneko</manufacturer>
+		<year>1990</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="galpanic" index="" image="">
+		<description>Gals Panic (Unprotected)</description>
+		<cloneof></cloneof>
+		<crc>ae6b17a8</crc>
+		<manufacturer>Kaneko</manufacturer>
+		<year>1990</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="galsnew" index="" image="">
+		<description>Gals Panic (US, EXPRO-02 PCB)</description>
+		<cloneof></cloneof>
+		<crc>b793a57d</crc>
+		<manufacturer>Kaneko</manufacturer>
+		<year>1990</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="galpani3" index="" image="">
+		<description>Gals Panic 3</description>
+		<cloneof></cloneof>
+		<crc>52893326</crc>
+		<manufacturer>Kaneko</manufacturer>
+		<year>1995</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="galpani4" index="" image="">
+		<description>Gals Panic 4 (Japan)</description>
+		<cloneof></cloneof>
+		<crc>7e2b836c</crc>
+		<manufacturer>Kaneko</manufacturer>
+		<year>1996</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="galpani4k" index="" image="">
+		<description>Gals Panic 4 (Korea)</description>
+		<cloneof>galpani4</cloneof>
+		<crc>ff1c9f79</crc>
+		<manufacturer>Kaneko</manufacturer>
+		<year>1996</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="galpani2" index="" image="">
+		<description>Gals Panic II (Asia)</description>
+		<cloneof></cloneof>
+		<crc>0c6dfe3f</crc>
+		<manufacturer>Kaneko</manufacturer>
+		<year>1993</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="galpani2g" index="" image="">
+		<description>Gals Panic II (Germany)</description>
+		<cloneof>galpani2</cloneof>
+		<crc>5a9c4886</crc>
+		<manufacturer>Kaneko</manufacturer>
+		<year>1993</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="galpani2j" index="" image="">
+		<description>Gals Panic II (Japan)</description>
+		<cloneof>galpani2</cloneof>
+		<crc>e0c5a03d</crc>
+		<manufacturer>Kaneko</manufacturer>
+		<year>1993</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="galpani2t" index="" image="">
+		<description>Gals Panic II (Taiwan)</description>
+		<cloneof>galpani2</cloneof>
+		<crc>332048e7</crc>
+		<manufacturer>Kaneko</manufacturer>
+		<year>1993</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gp2quiz" index="" image="">
+		<description>Gals Panic II - Quiz Version</description>
+		<cloneof></cloneof>
+		<crc>b6de2653</crc>
+		<manufacturer>Kaneko</manufacturer>
+		<year>1993</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gp2se" index="" image="">
+		<description>Gals Panic II&apos; - Special Edition (Japan)</description>
+		<cloneof></cloneof>
+		<crc>d8258a7a</crc>
+		<manufacturer>Kaneko</manufacturer>
+		<year>1994</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="galpanis" index="" image="">
+		<description>Gals Panic S - Extra Edition (Japan)</description>
+		<cloneof></cloneof>
+		<crc>7e2b836c</crc>
+		<manufacturer>Kaneko</manufacturer>
+		<year>1997</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="galpanisk" index="" image="">
+		<description>Gals Panic S - Extra Edition (Korea)</description>
+		<cloneof>galpanis</cloneof>
+		<crc>ff1c9f79</crc>
+		<manufacturer>Kaneko</manufacturer>
+		<year>1997</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="galpans2a" index="" image="">
+		<description>Gals Panic S2 (Asia)</description>
+		<cloneof>galpans2</cloneof>
+		<crc>745e5212</crc>
+		<manufacturer>Kaneko</manufacturer>
+		<year>1999</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="galpans2" index="" image="">
+		<description>Gals Panic S2 (Japan)</description>
+		<cloneof></cloneof>
+		<crc>7e2b836c</crc>
+		<manufacturer>Kaneko</manufacturer>
+		<year>1999</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="galpans3" index="" image="">
+		<description>Gals Panic S3 (Japan)</description>
+		<cloneof></cloneof>
+		<crc>7e2b836c</crc>
+		<manufacturer>Kaneko</manufacturer>
+		<year>2002</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="galpansu" index="" image="">
+		<description>Gals Panic SU (Korea)</description>
+		<cloneof>galpans2</cloneof>
+		<crc>161fb79e</crc>
+		<manufacturer>Kaneko</manufacturer>
+		<year>1999</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="galspnbl" index="" image="">
+		<description>Gals Pinball</description>
+		<cloneof></cloneof>
+		<crc>ce0189bf</crc>
+		<manufacturer>Comad</manufacturer>
+		<year>1996</year>
+		<genre>Pinball/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="usg185" index="" image="">
+		<description>Games V18.7C</description>
+		<cloneof></cloneof>
+		<crc>2f4ed125</crc>
+		<manufacturer>U.S. Games</manufacturer>
+		<year>1991</year>
+		<genre>Multiplay/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="usg252" index="" image="">
+		<description>Games V25.4X</description>
+		<cloneof></cloneof>
+		<crc>766a855a</crc>
+		<manufacturer>U.S. Games</manufacturer>
+		<year>1992</year>
+		<genre>Multiplay/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gangonta" index="" image="">
+		<description>Ganbare! Gonta!! 2 / Party Time: Gonta the Diver II (Japan Release)</description>
+		<cloneof>prtytime</cloneof>
+		<crc>f80f43bb</crc>
+		<manufacturer>Mitchell</manufacturer>
+		<year>1995</year>
+		<genre>Miscellaneous/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gionbana" index="" image="">
+		<description>Gionbana (Japan 890120)</description>
+		<cloneof></cloneof>
+		<crc>615e993b</crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1989</year>
+		<genre>Tabletop/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mgion" index="" image="">
+		<description>Gionbana [BET] (Japan 890207)</description>
+		<cloneof></cloneof>
+		<crc>ec8f5b5f</crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1989</year>
+		<genre>Tabletop/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="glass10" index="" image="">
+		<description>Glass (Ver 1.0)</description>
+		<cloneof>glass</cloneof>
+		<crc>688cdf33</crc>
+		<manufacturer>Gaelco</manufacturer>
+		<year>1993</year>
+		<genre>Shooter/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="glassbrk" index="" image="">
+		<description>Glass (Ver 1.0, Break Edition)</description>
+		<cloneof>glass</cloneof>
+		<crc>c1393bea</crc>
+		<manufacturer>Gaelco</manufacturer>
+		<year>1993</year>
+		<genre>Shooter/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="glass" index="" image="">
+		<description>Glass (Ver 1.1)</description>
+		<cloneof></cloneof>
+		<crc>aeebd4ed</crc>
+		<manufacturer>Gaelco</manufacturer>
+		<year>1993</year>
+		<genre>Shooter/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gfire2" index="" image="">
+		<description>Golden Fire II</description>
+		<cloneof></cloneof>
+		<crc>a102f7d0</crc>
+		<manufacturer>Topis Corp</manufacturer>
+		<year>1992</year>
+		<genre>Tabletop/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="grndtour" index="" image="">
+		<description>Grand Tour</description>
+		<cloneof></cloneof>
+		<crc>95cac31e</crc>
+		<manufacturer>IGS</manufacturer>
+		<year>1993</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gumbo" index="" image="">
+		<description>Gumbo</description>
+		<cloneof></cloneof>
+		<crc>e09899e4</crc>
+		<manufacturer>Min Corp.</manufacturer>
+		<year>1994</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gundealr" index="" image="">
+		<description>Gun Dealer</description>
+		<cloneof></cloneof>
+		<crc>5797e830</crc>
+		<manufacturer>Dooyong</manufacturer>
+		<year>1990</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gundl94" index="" image="">
+		<description>Gun Dealer &apos;94</description>
+		<cloneof></cloneof>
+		<crc>3a5cc045</crc>
+		<manufacturer>Dooyong</manufacturer>
+		<year>1994</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gundealra" index="" image="">
+		<description>Gun Dealer (alt card set)</description>
+		<cloneof>gundealr</cloneof>
+		<crc>d87e24f1</crc>
+		<manufacturer>Dooyong</manufacturer>
+		<year>19??</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gundealrt" index="" image="">
+		<description>Gun Dealer (Korea)</description>
+		<cloneof>gundealr</cloneof>
+		<crc>1d951292</crc>
+		<manufacturer>Dooyong (Tecmo license)</manufacturer>
+		<year>1990</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hnfubuki" index="true" image="h">
+		<description>Hana Fubuki [BET] (Japan)</description>
+		<cloneof>hnayayoi</cloneof>
+		<crc>afe3179c</crc>
+		<manufacturer>Dynax</manufacturer>
+		<year>1987</year>
+		<genre>Tabletop/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hkagerou" index="" image="">
+		<description>Hana Kagerou [BET] (Japan)</description>
+		<cloneof></cloneof>
+		<crc>c56c0856</crc>
+		<manufacturer>Nakanihon / Dynax</manufacturer>
+		<year>1997</year>
+		<genre>Tabletop/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hanakanz" index="" image="">
+		<description>Hana Kanzashi (Japan)</description>
+		<cloneof></cloneof>
+		<crc>dc40fcfc</crc>
+		<manufacturer>Dynax</manufacturer>
+		<year>1996</year>
+		<genre>Tabletop/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hnkochou" index="" image="">
+		<description>Hana Kochou (Japan, Bet)</description>
+		<cloneof></cloneof>
+		<crc>b3657123</crc>
+		<manufacturer>Dynax</manufacturer>
+		<year>1989</year>
+		<genre>Tabletop/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hanamai" index="" image="">
+		<description>Hana no Mai (Japan)</description>
+		<cloneof>hnkochou</cloneof>
+		<crc>5ca0b073</crc>
+		<manufacturer>Dynax</manufacturer>
+		<year>1988</year>
+		<genre>Tabletop/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hanaoji" index="" image="">
+		<description>Hana to Ojisan [BET] (Japan 911209)</description>
+		<cloneof></cloneof>
+		<crc>580cd095</crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1991</year>
+		<genre>Tabletop/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hnayayoi" index="" image="">
+		<description>Hana Yayoi (Japan)</description>
+		<cloneof></cloneof>
+		<crc>d9734da4</crc>
+		<manufacturer>Dyna Electronics</manufacturer>
+		<year>1987</year>
+		<genre>Tabletop/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hgokou" index="" image="">
+		<description>Hanafuda Hana Gokou (Japan)</description>
+		<cloneof></cloneof>
+		<crc>e33bc5a5</crc>
+		<manufacturer>Dynax (Alba license)</manufacturer>
+		<year>1995</year>
+		<genre>Tabletop/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="haremchl" index="" image="">
+		<description>Harem Challenge</description>
+		<cloneof></cloneof>
+		<crc>d3837ae4</crc>
+		<manufacturer>CD Express</manufacturer>
+		<year>1995</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hexa" index="" image="">
+		<description>Hexa</description>
+		<cloneof></cloneof>
+		<crc>98b00586</crc>
+		<manufacturer>D.R. Korea</manufacturer>
+		<year>199?</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="honeydol" index="" image="">
+		<description>Honey Dolls</description>
+		<cloneof></cloneof>
+		<crc>cee1a2e3</crc>
+		<manufacturer>Barko Corp.</manufacturer>
+		<year>1995</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hotblock" index="" image="">
+		<description>Hot Blocks - Tetrix II</description>
+		<cloneof></cloneof>
+		<crc>5f90f776</crc>
+		<manufacturer>NIX?</manufacturer>
+		<year>1993</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hotbubl" index="" image="">
+		<description>Hot Bubble</description>
+		<cloneof>bubl2000</cloneof>
+		<crc>7bb240e9</crc>
+		<manufacturer>Pandora</manufacturer>
+		<year>1998</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hotmemry" index="" image="">
+		<description>Hot Memory (V1.2, Germany)</description>
+		<cloneof>pairs</cloneof>
+		<crc>5b9d87a2</crc>
+		<manufacturer>Tuning/Incredible Technologies</manufacturer>
+		<year>1994</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hotpinbl" index="" image="">
+		<description>Hot Pinball</description>
+		<cloneof></cloneof>
+		<crc>978cc13e</crc>
+		<manufacturer>Comad &amp; New Japan System</manufacturer>
+		<year>1995</year>
+		<genre>Pinball/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="housemnq" index="" image="">
+		<description>House Mannequin (Japan 870217)</description>
+		<cloneof></cloneof>
+		<crc>465f61bb</crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1987</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="housemn2" index="" image="">
+		<description>House Mannequin Roppongi Live hen (Japan 870418)</description>
+		<cloneof></cloneof>
+		<crc>a5aaf6c8</crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1987</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="47pie2o" index="true" image="i">
+		<description>Idol Janshi Su-Chi-Pie 2 (v1.0)</description>
+		<cloneof>47pie2</cloneof>
+		<crc>21dc94dd</crc>
+		<manufacturer>Jaleco</manufacturer>
+		<year>1994</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="47pie2" index="" image="">
+		<description>Idol Janshi Su-Chi-Pie 2 (v1.1)</description>
+		<cloneof></cloneof>
+		<crc>e4e62134</crc>
+		<manufacturer>Jaleco</manufacturer>
+		<year>1994</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="suchie3" index="" image="">
+		<description>Idol Janshi Suchie-Pai 3 (JPN)</description>
+		<cloneof></cloneof>
+		<crc>08c0add7</crc>
+		<manufacturer>Jaleco</manufacturer>
+		<year>1999</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="suchipi" index="" image="">
+		<description>Idol Janshi Suchie-Pai Special (Japan)</description>
+		<cloneof></cloneof>
+		<crc>e37cc745</crc>
+		<manufacturer>Jaleco</manufacturer>
+		<year>1993</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="idhimitu" index="" image="">
+		<description>Idol no Himitsu [BET] (Japan 890304)</description>
+		<cloneof></cloneof>
+		<crc>619f9465</crc>
+		<manufacturer>Digital Soft</manufacturer>
+		<year>1989</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="fromance" index="" image="">
+		<description>Idol-Mahjong Final Romance (Japan)</description>
+		<cloneof></cloneof>
+		<crc>a0866e26</crc>
+		<manufacturer>Video System Co.</manufacturer>
+		<year>1991</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="idolmj" index="" image="">
+		<description>Idol-Mahjong Housoukyoku (Japan)</description>
+		<cloneof></cloneof>
+		<crc>910e9e7a</crc>
+		<manufacturer>System Service</manufacturer>
+		<year>1988</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="iemoto" index="" image="">
+		<description>Iemoto (Japan 871020)</description>
+		<cloneof></cloneof>
+		<crc>ab51f5c3</crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1987</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="iemotom" index="" image="">
+		<description>Iemoto [BET] (Japan 871118)</description>
+		<cloneof>iemoto</cloneof>
+		<crc>c4107170</crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1987</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="imekura" index="" image="">
+		<description>Imekura Mahjong (Japan)</description>
+		<cloneof></cloneof>
+		<crc>3491083b</crc>
+		<manufacturer>Sphinx / AV Japan</manufacturer>
+		<year>1994</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="inca" index="" image="">
+		<description>Inca</description>
+		<cloneof></cloneof>
+		<crc>b0d513f7</crc>
+		<manufacturer>unknown</manufacturer>
+		<year>199?</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="jjparads" index="true" image="j">
+		<description>Jan Jan Paradise</description>
+		<cloneof></cloneof>
+		<crc>7e2b836c</crc>
+		<manufacturer>Electro Design</manufacturer>
+		<year>1996</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="jjparad2" index="" image="">
+		<description>Jan Jan Paradise 2</description>
+		<cloneof></cloneof>
+		<crc>7e2b836c</crc>
+		<manufacturer>Electro Design</manufacturer>
+		<year>1997</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="janoh" index="" image="">
+		<description>Jan Oh (set 1)</description>
+		<cloneof></cloneof>
+		<crc>8fc19963</crc>
+		<manufacturer>Toaplan</manufacturer>
+		<year>1984</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="janoha" index="" image="">
+		<description>Jan Oh (set 2)</description>
+		<cloneof>janoh</cloneof>
+		<crc>1a7dd28d</crc>
+		<manufacturer>Toaplan</manufacturer>
+		<year>1984</year>
+		<genre>Tabletop/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="jngolady" index="" image="">
+		<description>Jangou Lady (Japan)</description>
+		<cloneof></cloneof>
+		<crc>69e31165</crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1984</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="janptr96" index="" image="">
+		<description>Janputer &apos;96 (Japan)</description>
+		<cloneof></cloneof>
+		<crc>39914ecd</crc>
+		<manufacturer>Dynax</manufacturer>
+		<year>1996</year>
+		<genre>Multiplay/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="jansou" index="" image="">
+		<description>Jansou (set 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Dyna</manufacturer>
+		<year>1985</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="jansoua" index="" image="">
+		<description>Jansou (set 2)</description>
+		<cloneof>jansou</cloneof>
+		<crc>aa66a9fc</crc>
+		<manufacturer>Dyna</manufacturer>
+		<year>1985</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="cultures" index="" image="">
+		<description>Jibun wo Migaku Culture School Mahjong Hen</description>
+		<cloneof></cloneof>
+		<crc>f57417b3</crc>
+		<manufacturer>Face</manufacturer>
+		<year>1994</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="jingbell" index="" image="">
+		<description>Jingle Bell (Italy, V133I)</description>
+		<cloneof></cloneof>
+		<crc>df60dc39</crc>
+		<manufacturer>IGS</manufacturer>
+		<year>1995?</year>
+		<genre>Casino/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="jituroku" index="" image="">
+		<description>Jitsuroku Maru-chi Mahjong (Japan)</description>
+		<cloneof></cloneof>
+		<crc>fb483b47</crc>
+		<manufacturer>Windom</manufacturer>
+		<year>1993</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="jantouki" index="" image="">
+		<description>Jong Tou Ki (Japan)</description>
+		<cloneof></cloneof>
+		<crc>9e9bea93</crc>
+		<manufacturer>Dynax</manufacturer>
+		<year>1990</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="jongkyo" index="" image="">
+		<description>Jongkyo</description>
+		<cloneof></cloneof>
+		<crc>fb8b7bcc</crc>
+		<manufacturer>Kiwako</manufacturer>
+		<year>1985</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="janshin" index="" image="">
+		<description>Jyanshin Densetsu - Quest of Jongmaster</description>
+		<cloneof></cloneof>
+		<crc>9036d879</crc>
+		<manufacturer>Aicom</manufacturer>
+		<year>1994</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="kanatuen" index="true" image="k">
+		<description>Kanatsuen no Onna [BET] (Japan 880905)</description>
+		<cloneof></cloneof>
+		<crc>3345d977</crc>
+		<manufacturer>Panac</manufacturer>
+		<year>1988</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mayumi" index="" image="">
+		<description>Kikiippatsu Mayumi-chan (Japan)</description>
+		<cloneof></cloneof>
+		<crc>33189e37</crc>
+		<manufacturer>Sanritsu / Victory L.L.C.</manufacturer>
+		<year>1988</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="koikoi" index="" image="">
+		<description>Koi Koi Part 2</description>
+		<cloneof></cloneof>
+		<crc>bdc68f9d</crc>
+		<manufacturer>Kiwako</manufacturer>
+		<year>1982</year>
+		<genre>Tabletop/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="koikois2" index="" image="">
+		<description>Koi Koi Shimasho 2 - Super Real Hanafuda (Japan)</description>
+		<cloneof></cloneof>
+		<crc>4be937a1</crc>
+		<manufacturer>Visco</manufacturer>
+		<year>1997</year>
+		<genre>Tabletop/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="kyuhito" index="" image="">
+		<description>Kyukyoku no Hito [BET] (Japan 880824)</description>
+		<cloneof>kanatuen</cloneof>
+		<crc>f3929245</crc>
+		<manufacturer>Roller Tron</manufacturer>
+		<year>1988</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="lagirl" index="true" image="l">
+		<description>LA Girl</description>
+		<cloneof>plgirls</cloneof>
+		<crc>ba1acfdb</crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1992</year>
+		<genre>Breakout/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ladykill" index="" image="">
+		<description>Lady Killer</description>
+		<cloneof></cloneof>
+		<crc>211a4865</crc>
+		<manufacturer>Yanyaka (Mitchell license)</manufacturer>
+		<year>1993</year>
+		<genre>Miscellaneous/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ladylinr" index="" image="">
+		<description>Lady Liner</description>
+		<cloneof></cloneof>
+		<crc>44d2aed0</crc>
+		<manufacturer>TAB Austria</manufacturer>
+		<year>198?</year>
+		<genre>Casino/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="landbrk" index="" image="">
+		<description>Land Breaker (World) / Miss Tang Ja Ru Gi (Korea) (pcb ver 3.02)</description>
+		<cloneof></cloneof>
+		<crc>8429189a</crc>
+		<manufacturer>Eolith</manufacturer>
+		<year>1999</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="landbrka" index="" image="">
+		<description>Land Breaker (World) / Miss Tang Ja Ru Gi (Korea) (pcb ver 3.03) (AT89c52 protected)</description>
+		<cloneof>landbrk</cloneof>
+		<crc>f8bbcf44</crc>
+		<manufacturer>Eolith</manufacturer>
+		<year>1999</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="lvgirl94" index="" image="">
+		<description>Las Vegas Girl (Girl &apos;94)</description>
+		<cloneof></cloneof>
+		<crc>c4fb449e</crc>
+		<manufacturer>Comad</manufacturer>
+		<year>1994</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="lasstixx" index="" image="">
+		<description>Laser Strixx 2</description>
+		<cloneof></cloneof>
+		<crc>d3837ae4</crc>
+		<manufacturer>CD Express</manufacturer>
+		<year>1995</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="lastforte" index="" image="">
+		<description>Last Fortress - Toride (Erotic)</description>
+		<cloneof>lastfort</cloneof>
+		<crc>32f43390</crc>
+		<manufacturer>Metro</manufacturer>
+		<year>1994</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="lastfortg" index="" image="">
+		<description>Last Fortress - Toride (German)</description>
+		<cloneof>lastfort</cloneof>
+		<crc>e6f40918</crc>
+		<manufacturer>Metro</manufacturer>
+		<year>1994</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="livegal" index="" image="">
+		<description>Live Gal (Japan 870530)</description>
+		<cloneof></cloneof>
+		<crc>25f28dfb</crc>
+		<manufacturer>Central Denshi</manufacturer>
+		<year>1987</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="lvcards" index="" image="">
+		<description>Lovely Cards</description>
+		<cloneof></cloneof>
+		<crc>0c5fbf05</crc>
+		<manufacturer>Tehkan</manufacturer>
+		<year>1985</year>
+		<genre>Casino/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="lvpoker" index="" image="">
+		<description>Lovely Poker [BET]</description>
+		<cloneof>lvcards</cloneof>
+		<crc>ecfefa91</crc>
+		<manufacturer>Tehkan</manufacturer>
+		<year>1985</year>
+		<genre>Casino/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="janjans1" index="" image="">
+		<description>Lovely Pop Mahjong JangJang Shimasho (Japan)</description>
+		<cloneof></cloneof>
+		<crc>6734537e</crc>
+		<manufacturer>Visco</manufacturer>
+		<year>1996</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="janjans2" index="" image="">
+		<description>Lovely Pop Mahjong JangJang Shimasho 2 (Japan)</description>
+		<cloneof></cloneof>
+		<crc>0c9c62bf</crc>
+		<manufacturer>Visco</manufacturer>
+		<year>2000</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="loverboy" index="" image="">
+		<description>Lover Boy</description>
+		<cloneof></cloneof>
+		<crc>ffec4e41</crc>
+		<manufacturer>G.T Enterprise Inc</manufacturer>
+		<year>1983</year>
+		<genre>Maze/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="lucky74" index="" image="">
+		<description>Lucky 74 (bootleg, set 1)</description>
+		<cloneof></cloneof>
+		<crc>3b906f0e</crc>
+		<manufacturer>Wing Co., Ltd.</manufacturer>
+		<year>1988</year>
+		<genre>Casino/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="lucky74a" index="" image="">
+		<description>Lucky 74 (bootleg, set 2)</description>
+		<cloneof>lucky74</cloneof>
+		<crc>e3f7db99</crc>
+		<manufacturer>Wing Co., Ltd.</manufacturer>
+		<year>1988</year>
+		<genre>Casino/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="luplup29" index="" image="">
+		<description>Lup Lup Puzzle / Zhuan Zhuan Puzzle (version 2.9 / 990108)</description>
+		<cloneof>suplup</cloneof>
+		<crc>36a8b8c1</crc>
+		<manufacturer>Omega System</manufacturer>
+		<year>1999</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="luplup" index="" image="">
+		<description>Lup Lup Puzzle / Zhuan Zhuan Puzzle (version 3.0 / 990128)</description>
+		<cloneof>suplup</cloneof>
+		<crc>9ea67f87</crc>
+		<manufacturer>Omega System</manufacturer>
+		<year>1999</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="madball" index="true" image="m">
+		<description>Mad Ball V2.0</description>
+		<cloneof></cloneof>
+		<crc>73008425</crc>
+		<manufacturer>Yun Sung</manufacturer>
+		<year>1998</year>
+		<genre>Breakout/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="madballn" index="" image="">
+		<description>Mad Ball V2.0 (With Nudity)</description>
+		<cloneof>madball</cloneof>
+		<crc>531fa919</crc>
+		<manufacturer>Yun Sung</manufacturer>
+		<year>1997</year>
+		<genre>Breakout/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="maddonna" index="" image="">
+		<description>Mad Donna (set 1)</description>
+		<cloneof></cloneof>
+		<crc>643f9054</crc>
+		<manufacturer>Tuning</manufacturer>
+		<year>1995</year>
+		<genre>Maze/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="maddonnb" index="" image="">
+		<description>Mad Donna (set 2)</description>
+		<cloneof>maddonna</cloneof>
+		<crc></crc>
+		<manufacturer>Tuning</manufacturer>
+		<year>1995</year>
+		<genre>Maze/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="magix" index="" image="">
+		<description>Magix / Rock</description>
+		<cloneof></cloneof>
+		<crc>d4d0b68b</crc>
+		<manufacturer>Yun Sung</manufacturer>
+		<year>1995</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="4psimasy" index="" image="">
+		<description>Mahjong 4P Simasyo (Japan)</description>
+		<cloneof></cloneof>
+		<crc>28dda353</crc>
+		<manufacturer>Sphinx / AV Japan</manufacturer>
+		<year>1994</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="akiss" index="" image="">
+		<description>Mahjong Angel Kiss</description>
+		<cloneof></cloneof>
+		<crc>5bdd01ee</crc>
+		<manufacturer>Jaleco</manufacturer>
+		<year>1995</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjangels" index="" image="">
+		<description>Mahjong Angels - Comic Theater Vol.2 (Japan)</description>
+		<cloneof></cloneof>
+		<crc>cd353ba9</crc>
+		<manufacturer>Dynax</manufacturer>
+		<year>1991</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="bakuhatu" index="" image="">
+		<description>Mahjong Bakuhatsu Junjouden (Japan)</description>
+		<cloneof>mjgottsu</cloneof>
+		<crc>687900ed</crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1991</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="bananadr" index="" image="">
+		<description>Mahjong Banana Dream [BET] (Japan 891124)</description>
+		<cloneof></cloneof>
+		<crc>a6344e0d</crc>
+		<manufacturer>Digital Soft</manufacturer>
+		<year>1989</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="jongbou" index="" image="">
+		<description>Mahjong Block Jongbou (Japan)</description>
+		<cloneof></cloneof>
+		<crc>ee59e67a</crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1987</year>
+		<genre>Breakout/Mature/Spinner</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="cafedoll" index="" image="">
+		<description>Mahjong Cafe Doll (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Dynax</manufacturer>
+		<year>1993</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjcamera" index="" image="">
+		<description>Mahjong Camera Kozou (set 1) (Japan 881109)</description>
+		<cloneof></cloneof>
+		<crc>73d4b9ff</crc>
+		<manufacturer>Miki Syouji</manufacturer>
+		<year>1988</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjcamerb" index="" image="">
+		<description>Mahjong Camera Kozou (set 2) (Japan 881109)</description>
+		<cloneof></cloneof>
+		<crc>3a0f110b</crc>
+		<manufacturer>Miki Syouji</manufacturer>
+		<year>1989</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mmcamera" index="" image="">
+		<description>Mahjong Camera Kozou [BET] (Japan 890509)</description>
+		<cloneof>mjcamerb</cloneof>
+		<crc>b6eed2cf</crc>
+		<manufacturer>Miki Syouji</manufacturer>
+		<year>1989</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mcnpshnt" index="" image="">
+		<description>Mahjong Campus Hunting (Japan)</description>
+		<cloneof></cloneof>
+		<crc>e3b457a8</crc>
+		<manufacturer>Dynax</manufacturer>
+		<year>1990</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjzoomin" index="" image="">
+		<description>Mahjong Channel Zoom In (Japan)</description>
+		<cloneof></cloneof>
+		<crc>b8b04d30</crc>
+		<manufacturer>Jaleco</manufacturer>
+		<year>1990</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="chinmoku" index="" image="">
+		<description>Mahjong Chinmoku no Hentai (Japan 900511)</description>
+		<cloneof></cloneof>
+		<crc>eddff33e</crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1990</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjchuuka" index="" image="">
+		<description>Mahjong Chuukanejyo (China)</description>
+		<cloneof></cloneof>
+		<crc>585a0a8e</crc>
+		<manufacturer>Dynax</manufacturer>
+		<year>1998</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="cmehyou" index="" image="">
+		<description>Mahjong Circuit no Mehyou (Japan)</description>
+		<cloneof></cloneof>
+		<crc>436dfa6c</crc>
+		<manufacturer>Nichibutsu / Kawakusu</manufacturer>
+		<year>1992</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjclinic" index="" image="">
+		<description>Mahjong Clinic (Japan)</description>
+		<cloneof></cloneof>
+		<crc>787b4fb5</crc>
+		<manufacturer>Home Data</manufacturer>
+		<year>1988</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="club90s" index="" image="">
+		<description>Mahjong CLUB 90&apos;s (set 1) (Japan 900919)</description>
+		<cloneof></cloneof>
+		<crc>f8148ba5</crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1990</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="club90sa" index="" image="">
+		<description>Mahjong CLUB 90&apos;s (set 2) (Japan 900919)</description>
+		<cloneof>club90s</cloneof>
+		<crc>60433c11</crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1990</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjcomv1" index="" image="">
+		<description>Mahjong Comic Gekijou Vol.1 (Japan)</description>
+		<cloneof></cloneof>
+		<crc>60552776</crc>
+		<manufacturer>Dynax</manufacturer>
+		<year>1991</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="daiyogen" index="" image="">
+		<description>Mahjong Daiyogen (Japan)</description>
+		<cloneof></cloneof>
+		<crc>29af632b</crc>
+		<manufacturer>Video System Co.</manufacturer>
+		<year>1990</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjderngr" index="" image="">
+		<description>Mahjong Derringer (Japan)</description>
+		<cloneof></cloneof>
+		<crc>54ec531d</crc>
+		<manufacturer>Dynax</manufacturer>
+		<year>1989</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjdialq2" index="" image="">
+		<description>Mahjong Dial Q2 (Japan)</description>
+		<cloneof></cloneof>
+		<crc>5186c2df</crc>
+		<manufacturer>Dynax</manufacturer>
+		<year>1991</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjdiplob" index="" image="">
+		<description>Mahjong Diplomat [BET] (Japan)</description>
+		<cloneof></cloneof>
+		<crc>81a6d6b0</crc>
+		<manufacturer>Dynax</manufacturer>
+		<year>1987</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="dokyusei" index="" image="">
+		<description>Mahjong Doukyuusei</description>
+		<cloneof></cloneof>
+		<crc>36157c2e</crc>
+		<manufacturer>Make Software / Elf / Media Trading</manufacturer>
+		<year>1995</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="dokyusp" index="" image="">
+		<description>Mahjong Doukyuusei Special</description>
+		<cloneof></cloneof>
+		<crc>01729b7f</crc>
+		<manufacturer>Make Software / Elf / Media Trading</manufacturer>
+		<year>1995</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjelct3a" index="" image="">
+		<description>Mahjong Electron Base (parts 2 &amp; 3, alt., Japan)</description>
+		<cloneof>mjelctrn</cloneof>
+		<crc>d28358f7</crc>
+		<manufacturer>Dynax</manufacturer>
+		<year>1990</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjelct3" index="" image="">
+		<description>Mahjong Electron Base (parts 2 &amp; 3, Japan)</description>
+		<cloneof>mjelctrn</cloneof>
+		<crc>370347e7</crc>
+		<manufacturer>Dynax</manufacturer>
+		<year>1990</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjelctrn" index="" image="">
+		<description>Mahjong Electron Base (parts 2 &amp; 4, Japan)</description>
+		<cloneof></cloneof>
+		<crc>7773d382</crc>
+		<manufacturer>Dynax</manufacturer>
+		<year>1993</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjelctrb" index="" image="">
+		<description>Mahjong Electron Base (parts 2 &amp; 4, Japan, bootleg)</description>
+		<cloneof>mjelctrn</cloneof>
+		<crc>688990ca</crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1993</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjegolf" index="" image="">
+		<description>Mahjong Erotica Golf (Japan)</description>
+		<cloneof></cloneof>
+		<crc>1d7c2fcc</crc>
+		<manufacturer>Fujic / AV Japan</manufacturer>
+		<year>1994</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjflove" index="" image="">
+		<description>Mahjong Fantasic Love (Japan)</description>
+		<cloneof></cloneof>
+		<crc>20afcdec</crc>
+		<manufacturer>Nakanihon</manufacturer>
+		<year>1996</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="finalbny" index="" image="">
+		<description>Mahjong Final Bunny [BET] (Japan)</description>
+		<cloneof>vanilla</cloneof>
+		<crc>ccb85d99</crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1991</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjfocus" index="" image="">
+		<description>Mahjong Focus (Japan 890313)</description>
+		<cloneof></cloneof>
+		<crc>fd88b3e6</crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1989</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjfocusm" index="" image="">
+		<description>Mahjong Focus [BET] (Japan 890510)</description>
+		<cloneof>mjfocus</cloneof>
+		<crc>409d4f0b</crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1989</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjfriday" index="" image="">
+		<description>Mahjong Friday (Japan)</description>
+		<cloneof></cloneof>
+		<crc>00e0e0d3</crc>
+		<manufacturer>Dynax</manufacturer>
+		<year>1989</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mfunclub" index="" image="">
+		<description>Mahjong Fun Club - Idol Saizensen (Japan)</description>
+		<cloneof></cloneof>
+		<crc>e6f76ca3</crc>
+		<manufacturer>Video System Co.</manufacturer>
+		<year>1989</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mgmen89" index="" image="">
+		<description>Mahjong G-MEN&apos;89 (Japan 890425)</description>
+		<cloneof></cloneof>
+		<crc>1ac5cd84</crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1989</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjgtaste" index="" image="">
+		<description>Mahjong G-Taste</description>
+		<cloneof></cloneof>
+		<crc>5f2041dc</crc>
+		<manufacturer>Psikyo</manufacturer>
+		<year>2002</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mgakuen" index="" image="">
+		<description>Mahjong Gakuen</description>
+		<cloneof></cloneof>
+		<crc>bf02ea6b</crc>
+		<manufacturer>Yuga</manufacturer>
+		<year>1988</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mgakuen2" index="" image="">
+		<description>Mahjong Gakuen 2 Gakuen-chou no Fukushuu</description>
+		<cloneof></cloneof>
+		<crc>c8165d2d</crc>
+		<manufacturer>Face</manufacturer>
+		<year>1989</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gakusai" index="" image="">
+		<description>Mahjong Gakuensai (Japan)</description>
+		<cloneof></cloneof>
+		<crc>6f8ab082</crc>
+		<manufacturer>MakeSoft</manufacturer>
+		<year>1997</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gakusai2" index="" image="">
+		<description>Mahjong Gakuensai 2 (Japan)</description>
+		<cloneof></cloneof>
+		<crc>8b006dd4</crc>
+		<manufacturer>MakeSoft</manufacturer>
+		<year>1998</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gal10ren" index="" image="">
+		<description>Mahjong Gal 10-renpatsu (Japan)</description>
+		<cloneof></cloneof>
+		<crc>f63f81b4</crc>
+		<manufacturer>Fujic</manufacturer>
+		<year>1993</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="galkaika" index="" image="">
+		<description>Mahjong Gal no Kaika (Japan)</description>
+		<cloneof></cloneof>
+		<crc>81b89559</crc>
+		<manufacturer>Nichibutsu / T.R.Tec</manufacturer>
+		<year>1989</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="galkoku" index="" image="">
+		<description>Mahjong Gal no Kokuhaku (Japan)</description>
+		<cloneof></cloneof>
+		<crc>254c526c</crc>
+		<manufacturer>Nichibutsu / T.R.Tec</manufacturer>
+		<year>1989</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjgottsu" index="" image="">
+		<description>Mahjong Gottsu ee-kanji (Japan)</description>
+		<cloneof></cloneof>
+		<crc>949676d7</crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1991</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hanamomb" index="" image="">
+		<description>Mahjong Hana no Momoko gumi (Japan 881125)</description>
+		<cloneof>hanamomo</cloneof>
+		<crc>d75920b9</crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1988</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hanamomo" index="" image="">
+		<description>Mahjong Hana no Momoko gumi (Japan 881201)</description>
+		<cloneof></cloneof>
+		<crc>5b59d413</crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1988</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hotgmcki" index="" image="">
+		<description>Mahjong Hot Gimmick Integral (Japan)</description>
+		<cloneof></cloneof>
+		<crc>abc192dd</crc>
+		<manufacturer>Psikyo</manufacturer>
+		<year>2001</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mhgaiden" index="" image="">
+		<description>Mahjong Hourouki Gaiden (Japan)</description>
+		<cloneof></cloneof>
+		<crc>98cfa53e</crc>
+		<manufacturer>Home Data</manufacturer>
+		<year>1987</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjhokite" index="" image="">
+		<description>Mahjong Hourouki Okite (Japan)</description>
+		<cloneof></cloneof>
+		<crc>409cc501</crc>
+		<manufacturer>Home Data</manufacturer>
+		<year>1988</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hourouki" index="" image="">
+		<description>Mahjong Hourouki Part 1 - Seisyun Hen (Japan)</description>
+		<cloneof></cloneof>
+		<crc>cd3197b8</crc>
+		<manufacturer>Home Data</manufacturer>
+		<year>1987</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mhhonban" index="" image="">
+		<description>Mahjong Housoukyoku Honbanchuu (Japan)</description>
+		<cloneof></cloneof>
+		<crc>121c861f</crc>
+		<manufacturer>Nichibutsu?</manufacturer>
+		<year>199?</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hyouban" index="" image="">
+		<description>Mahjong Hyouban Musume [BET] (Japan)</description>
+		<cloneof>galkoku</cloneof>
+		<crc>307b4f7e</crc>
+		<manufacturer>Nichibutsu / T.R.Tec</manufacturer>
+		<year>1989</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hypreact" index="" image="">
+		<description>Mahjong Hyper Reaction (Japan)</description>
+		<cloneof></cloneof>
+		<crc>d90a383c</crc>
+		<manufacturer>Sammy</manufacturer>
+		<year>1995</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hypreac2" index="" image="">
+		<description>Mahjong Hyper Reaction 2 (Japan)</description>
+		<cloneof></cloneof>
+		<crc>05c93266</crc>
+		<manufacturer>Sammy</manufacturer>
+		<year>1997</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjikaga" index="" image="">
+		<description>Mahjong Ikaga Desu ka (Japan)</description>
+		<cloneof></cloneof>
+		<crc>938cc4fb</crc>
+		<manufacturer>Mitchell</manufacturer>
+		<year>1991?</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="janbari" index="" image="">
+		<description>Mahjong Janjan Baribari (Japan)</description>
+		<cloneof></cloneof>
+		<crc>f82d26a9</crc>
+		<manufacturer>Nichibutsu / Yubis / AV Japan</manufacturer>
+		<year>1992</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjlstory" index="" image="">
+		<description>Mahjong Jikken Love Story (Japan)</description>
+		<cloneof></cloneof>
+		<crc>a9febe8b</crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1991</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="jogakuen" index="" image="">
+		<description>Mahjong Jogakuen (Japan)</description>
+		<cloneof></cloneof>
+		<crc>a189490a</crc>
+		<manufacturer>Windom</manufacturer>
+		<year>1992?</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="jongtei" index="" image="">
+		<description>Mahjong Jong-Tei (Japan, ver. NM532-01)</description>
+		<cloneof></cloneof>
+		<crc>fa95a7f2</crc>
+		<manufacturer>Dynax</manufacturer>
+		<year>1999</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="kaguya2f" index="" image="">
+		<description>Mahjong Kaguyahime Sono2 Fukkokuban [BET] (Japan 010808)</description>
+		<cloneof>kaguya2</cloneof>
+		<crc>8b5481a0</crc>
+		<manufacturer>Miki Syouji</manufacturer>
+		<year>1989</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="kaguya2" index="" image="">
+		<description>Mahjong Kaguyahime Sono2 [BET] (Japan 890829)</description>
+		<cloneof></cloneof>
+		<crc>1a6ad8fd</crc>
+		<manufacturer>Miki Syouji</manufacturer>
+		<year>1989</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="kaguya" index="" image="">
+		<description>Mahjong Kaguyahime [BET] (Japan 880521)</description>
+		<cloneof></cloneof>
+		<crc>6ac18c32</crc>
+		<manufacturer>Miki Syouji</manufacturer>
+		<year>1988</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="kakumei" index="" image="">
+		<description>Mahjong Kakumei (Japan)</description>
+		<cloneof></cloneof>
+		<crc>b90215be</crc>
+		<manufacturer>Jaleco</manufacturer>
+		<year>1990</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="kakumei2" index="" image="">
+		<description>Mahjong Kakumei 2 - Princess League (Japan)</description>
+		<cloneof></cloneof>
+		<crc>db4ce32f</crc>
+		<manufacturer>Jaleco</manufacturer>
+		<year>1992</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mkeibaou" index="" image="">
+		<description>Mahjong Keibaou (Japan)</description>
+		<cloneof></cloneof>
+		<crc>2e37b1fb</crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1993</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjkinjas" index="" image="">
+		<description>Mahjong Kinjirareta Asobi (Japan)</description>
+		<cloneof></cloneof>
+		<crc>e6534904</crc>
+		<manufacturer>Home Data</manufacturer>
+		<year>1991</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="koinomp" index="" image="">
+		<description>Mahjong Koi no Magic Potion (Japan)</description>
+		<cloneof></cloneof>
+		<crc>e4d626fc</crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1992</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjkoiura" index="" image="">
+		<description>Mahjong Koi Uranai (Japan set 1)</description>
+		<cloneof></cloneof>
+		<crc>ef9ae73e</crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1992</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mkoiuraa" index="" image="">
+		<description>Mahjong Koi Uranai (Japan set 2)</description>
+		<cloneof>mjkoiura</cloneof>
+		<crc>06149bc0</crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1992</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjkojink" index="" image="">
+		<description>Mahjong Kojinkyouju (Private Teacher) (Japan)</description>
+		<cloneof></cloneof>
+		<crc>91f90376</crc>
+		<manufacturer>Home Data</manufacturer>
+		<year>1989</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mahretsu" index="" image="">
+		<description>Mahjong Kyo Retsuden (NGM-004)(NGH-004)</description>
+		<cloneof></cloneof>
+		<crc>9036d879</crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1990</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjkjidai" index="" image="">
+		<description>Mahjong Kyou Jidai (Japan)</description>
+		<cloneof></cloneof>
+		<crc>188a27e9</crc>
+		<manufacturer>Sanritsu</manufacturer>
+		<year>1986</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjlaman" index="" image="">
+		<description>Mahjong La Man (Japan)</description>
+		<cloneof></cloneof>
+		<crc>5974740d</crc>
+		<manufacturer>Nichibutsu / AV Japan</manufacturer>
+		<year>1993</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="lemnangl" index="" image="">
+		<description>Mahjong Lemon Angel (Japan)</description>
+		<cloneof></cloneof>
+		<crc>4c2fae05</crc>
+		<manufacturer>Home Data</manufacturer>
+		<year>1990</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="lovehous" index="" image="">
+		<description>Mahjong Love House [BET] (Japan 901024)</description>
+		<cloneof>club90s</cloneof>
+		<crc>c3a0ed85</crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1990</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjnanpaa" index="" image="">
+		<description>Mahjong Nanpa Story (Japan 890712)</description>
+		<cloneof>mjnanpas</cloneof>
+		<crc>a105b2b8</crc>
+		<manufacturer>Brooks</manufacturer>
+		<year>1989</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjnanpas" index="" image="">
+		<description>Mahjong Nanpa Story (Japan 890713)</description>
+		<cloneof></cloneof>
+		<crc>ece14e07</crc>
+		<manufacturer>Brooks</manufacturer>
+		<year>1989</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjnanpau" index="" image="">
+		<description>Mahjong Nanpa Story (Ura) (Japan 890805)</description>
+		<cloneof>mjnanpas</cloneof>
+		<crc>f96bdda7</crc>
+		<manufacturer>Brooks</manufacturer>
+		<year>1989</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjnatsu" index="" image="">
+		<description>Mahjong Natsu Monogatari (Japan)</description>
+		<cloneof></cloneof>
+		<crc>543eb9e1</crc>
+		<manufacturer>Video System Co.</manufacturer>
+		<year>1989</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ntopstar" index="" image="">
+		<description>Mahjong Nerae! Top Star (Japan)</description>
+		<cloneof></cloneof>
+		<crc>3a4325f2</crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1990</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="neruton" index="" image="">
+		<description>Mahjong Neruton Haikujiradan (Japan, Rev. B?)</description>
+		<cloneof></cloneof>
+		<crc>0e53eeee</crc>
+		<manufacturer>Dynax / Yukiyoshi Tokoro</manufacturer>
+		<year>1990</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="patimono" index="" image="">
+		<description>Mahjong Pachinko Monogatari (Japan)</description>
+		<cloneof></cloneof>
+		<crc>e4860829</crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1992</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pstadium" index="" image="">
+		<description>Mahjong Panic Stadium (Japan)</description>
+		<cloneof></cloneof>
+		<crc>4af81589</crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1990</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ponchin" index="" image="">
+		<description>Mahjong Pon Chin Kan (Japan set 1)</description>
+		<cloneof></cloneof>
+		<crc>cf88efbb</crc>
+		<manufacturer>Visco</manufacturer>
+		<year>1991</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ponchina" index="" image="">
+		<description>Mahjong Pon Chin Kan (Japan set 2)</description>
+		<cloneof>ponchin</cloneof>
+		<crc>9181de20</crc>
+		<manufacturer>Visco</manufacturer>
+		<year>1991</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjprivat" index="" image="">
+		<description>Mahjong Private (Japan)</description>
+		<cloneof></cloneof>
+		<crc>3b4f4676</crc>
+		<manufacturer>Matoba</manufacturer>
+		<year>1991</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjnquest" index="" image="">
+		<description>Mahjong Quest (Japan)</description>
+		<cloneof></cloneof>
+		<crc>0a005d01</crc>
+		<manufacturer>Taito Corporation</manufacturer>
+		<year>1990</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="majrjhdx" index="" image="">
+		<description>Mahjong Raijinhai DX</description>
+		<cloneof></cloneof>
+		<crc>54c31732</crc>
+		<manufacturer>Dynax</manufacturer>
+		<year>1996</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjreach" index="" image="">
+		<description>Mahjong Reach (bootleg)</description>
+		<cloneof></cloneof>
+		<crc>d914ac92</crc>
+		<manufacturer>bootleg / Dynax</manufacturer>
+		<year>1994</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjreach1" index="" image="">
+		<description>Mahjong Reach Ippatsu (Japan)</description>
+		<cloneof></cloneof>
+		<crc>6bef7978</crc>
+		<manufacturer>Nihon System</manufacturer>
+		<year>1998</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="renaiclb" index="" image="">
+		<description>Mahjong Ren-ai Club (Japan)</description>
+		<cloneof></cloneof>
+		<crc>82f99130</crc>
+		<manufacturer>Fujic</manufacturer>
+		<year>1993</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mrokumei" index="" image="">
+		<description>Mahjong Rokumeikan (Japan)</description>
+		<cloneof></cloneof>
+		<crc>6f81a78a</crc>
+		<manufacturer>Home Data</manufacturer>
+		<year>1988</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sailorws" index="" image="">
+		<description>Mahjong Sailor Wars (Japan set 1)</description>
+		<cloneof></cloneof>
+		<crc>33191e48</crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1993</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sailorwa" index="" image="">
+		<description>Mahjong Sailor Wars (Japan set 2)</description>
+		<cloneof>sailorws</cloneof>
+		<crc>f3da8f19</crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1993</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sailorwr" index="" image="">
+		<description>Mahjong Sailor Wars-R [BET] (Japan)</description>
+		<cloneof>sailorws</cloneof>
+		<crc>a0d65cd5</crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1993</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="msjiken" index="" image="">
+		<description>Mahjong Satsujin Jiken (Japan 881017)</description>
+		<cloneof></cloneof>
+		<crc>723499ef</crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1988</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mscoutm" index="" image="">
+		<description>Mahjong Scout Man (Japan)</description>
+		<cloneof></cloneof>
+		<crc>9840ccd8</crc>
+		<manufacturer>Sphinx / AV Japan</manufacturer>
+		<year>1994</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjsikakb" index="" image="">
+		<description>Mahjong Shikaku (Japan 880722)</description>
+		<cloneof>mjsikaku</cloneof>
+		<crc>66349663</crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1988</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjsikakd" index="" image="">
+		<description>Mahjong Shikaku (Japan 880802)</description>
+		<cloneof>mjsikaku</cloneof>
+		<crc>372474bd</crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1988</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjsikakc" index="" image="">
+		<description>Mahjong Shikaku (Japan 880806)</description>
+		<cloneof>mjsikaku</cloneof>
+		<crc>74e6e403</crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1988</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjsikaku" index="" image="">
+		<description>Mahjong Shikaku (Japan 880908)</description>
+		<cloneof></cloneof>
+		<crc>6b64c96a</crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1988</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mmsikaku" index="" image="">
+		<description>Mahjong Shikaku [BET] (Japan 880929)</description>
+		<cloneof>mjsikaku</cloneof>
+		<crc>6a8483af</crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1988</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjdejavu" index="" image="">
+		<description>Mahjong Shinkirou Deja Vu (Japan)</description>
+		<cloneof></cloneof>
+		<crc>b0426ea7</crc>
+		<manufacturer>Dynax</manufacturer>
+		<year>1989</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjdejav2" index="" image="">
+		<description>Mahjong Shinkirou Deja Vu 2 (Japan)</description>
+		<cloneof>mjdejavu</cloneof>
+		<crc>caa5c267</crc>
+		<manufacturer>Dynax</manufacturer>
+		<year>1989</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjsiyoub" index="" image="">
+		<description>Mahjong Shiyou (Japan)</description>
+		<cloneof></cloneof>
+		<crc>47d0f16e</crc>
+		<manufacturer>Visco</manufacturer>
+		<year>1986</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjsister" index="" image="">
+		<description>Mahjong Sisters (Japan)</description>
+		<cloneof></cloneof>
+		<crc>9468c33b</crc>
+		<manufacturer>Toaplan</manufacturer>
+		<year>1986</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="majs101b" index="" image="">
+		<description>Mahjong Studio 101 [BET] (Japan)</description>
+		<cloneof></cloneof>
+		<crc>fa3c553b</crc>
+		<manufacturer>Dynax</manufacturer>
+		<year>1988</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tenkai" index="" image="">
+		<description>Mahjong Tenkaigen</description>
+		<cloneof></cloneof>
+		<crc>a35e54db</crc>
+		<manufacturer>Dynax</manufacturer>
+		<year>1991</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tenkaibb" index="" image="">
+		<description>Mahjong Tenkaigen (bootleg b)</description>
+		<cloneof>tenkai</cloneof>
+		<crc>7b877721</crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1991</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tenkaicb" index="" image="">
+		<description>Mahjong Tenkaigen (bootleg c)</description>
+		<cloneof>tenkai</cloneof>
+		<crc>7b877721</crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1991</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tenkaid" index="" image="">
+		<description>Mahjong Tenkaigen (set 1)</description>
+		<cloneof>tenkai</cloneof>
+		<crc>4ffa543c</crc>
+		<manufacturer>Dynax</manufacturer>
+		<year>1991</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tenkaie" index="" image="">
+		<description>Mahjong Tenkaigen (set 2)</description>
+		<cloneof>tenkai</cloneof>
+		<crc>a35e54db</crc>
+		<manufacturer>Dynax</manufacturer>
+		<year>1991</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tenkai2b" index="" image="">
+		<description>Mahjong Tenkaigen Part 2 (bootleg)</description>
+		<cloneof>tenkai</cloneof>
+		<crc>8488a3ab</crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1991</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjtensin" index="" image="">
+		<description>Mahjong Tensinhai (Japan)</description>
+		<cloneof></cloneof>
+		<crc>960e1fe9</crc>
+		<manufacturer>Dynax</manufacturer>
+		<year>1995</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mladyhtr" index="" image="">
+		<description>Mahjong THE LADY HUNTER (Japan 900509)</description>
+		<cloneof></cloneof>
+		<crc>bda76c24</crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1990</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="triplew1" index="" image="">
+		<description>Mahjong Triple Wars (Japan)</description>
+		<cloneof></cloneof>
+		<crc>2542958a</crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1989</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="triplew2" index="" image="">
+		<description>Mahjong Triple Wars 2 (Japan)</description>
+		<cloneof></cloneof>
+		<crc>2637f19d</crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1990</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="uchuuai" index="" image="">
+		<description>Mahjong Uchuu yori Ai wo komete (Japan)</description>
+		<cloneof></cloneof>
+		<crc>6a6fd569</crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1989</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjuraden" index="" image="">
+		<description>Mahjong Uranai Densetsu (Japan)</description>
+		<cloneof></cloneof>
+		<crc>3b142791</crc>
+		<manufacturer>Nichibutsu / Yubis</manufacturer>
+		<year>1992</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="vanilla" index="" image="">
+		<description>Mahjong Vanilla Syndrome (Japan)</description>
+		<cloneof></cloneof>
+		<crc>2a3341a8</crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1991</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="vitaminc" index="" image="">
+		<description>Mahjong Vitamin C (Japan)</description>
+		<cloneof></cloneof>
+		<crc>bc982525</crc>
+		<manufacturer>Home Data</manufacturer>
+		<year>1989</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="wcatcher" index="" image="">
+		<description>Mahjong Wakuwaku Catcher (Japan)</description>
+		<cloneof></cloneof>
+		<crc>1f20adc8</crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1993</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="majxtal7" index="" image="">
+		<description>Mahjong X-Tal 7 - Crystal Mahjong / Mahjong Diamond 7 (Japan)</description>
+		<cloneof></cloneof>
+		<crc>82fc6dd5</crc>
+		<manufacturer>Dynax</manufacturer>
+		<year>1990</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="yarunara" index="" image="">
+		<description>Mahjong Yarunara (Japan)</description>
+		<cloneof></cloneof>
+		<crc>d86fade5</crc>
+		<manufacturer>Dynax</manufacturer>
+		<year>1991</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="yosimoto" index="" image="">
+		<description>Mahjong Yoshimoto Gekijou (Japan)</description>
+		<cloneof></cloneof>
+		<crc>6059f773</crc>
+		<manufacturer>Nichibutsu / Yoshimoto Kougyou</manufacturer>
+		<year>1994</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjyuugi" index="" image="">
+		<description>Mahjong Yuugi (Japan set 1)</description>
+		<cloneof></cloneof>
+		<crc>28d5340f</crc>
+		<manufacturer>Visco</manufacturer>
+		<year>1990</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjyuugia" index="" image="">
+		<description>Mahjong Yuugi (Japan set 2)</description>
+		<cloneof>mjyuugi</cloneof>
+		<crc>76dc0594</crc>
+		<manufacturer>Visco</manufacturer>
+		<year>1990</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjyougo" index="" image="">
+		<description>Mahjong-yougo no Kisotairyoku (Japan)</description>
+		<cloneof></cloneof>
+		<crc>e28e8c21</crc>
+		<manufacturer>Home Data</manufacturer>
+		<year>1989</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="korinai" index="" image="">
+		<description>Mahjong-zukino Korinai Menmen (Japan 880425)</description>
+		<cloneof></cloneof>
+		<crc>ddcf787c</crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1988</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="korinaim" index="" image="">
+		<description>Mahjong-zukino Korinai Menmen [BET] (Japan 880920)</description>
+		<cloneof>korinai</cloneof>
+		<crc>23664cdc</crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1988</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="maiko" index="" image="">
+		<description>Maikobana (Japan 900802)</description>
+		<cloneof></cloneof>
+		<crc>fbf68ebd</crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1990</year>
+		<genre>Tabletop/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mmaiko" index="" image="">
+		<description>Maikobana [BET] (Japan 900911)</description>
+		<cloneof></cloneof>
+		<crc>82b63476</crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1990</year>
+		<genre>Tabletop/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="matchit" index="" image="">
+		<description>Match It</description>
+		<cloneof></cloneof>
+		<crc>299815f7</crc>
+		<manufacturer>Tamtex</manufacturer>
+		<year>1989</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="maya" index="" image="">
+		<description>Maya (set 1)</description>
+		<cloneof></cloneof>
+		<crc>5aaa015e</crc>
+		<manufacturer>Promat</manufacturer>
+		<year>1994</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mmehyou" index="" image="">
+		<description>Medal Mahjong Circuit no Mehyou [BET] (Japan)</description>
+		<cloneof></cloneof>
+		<crc>29d51130</crc>
+		<manufacturer>Nichibutsu / Kawakusu</manufacturer>
+		<year>1992</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjgottub" index="" image="">
+		<description>Medal Mahjong Gottsu ee-kanji [BET] (Japan)</description>
+		<cloneof></cloneof>
+		<crc>a143c52d</crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1991</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjanbari" index="" image="">
+		<description>Medal Mahjong Janjan Baribari [BET] (Japan)</description>
+		<cloneof>janbari</cloneof>
+		<crc>1edde2ef</crc>
+		<manufacturer>Nichibutsu / Yubis / AV Japan</manufacturer>
+		<year>1992</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pachiten" index="" image="">
+		<description>Medal Mahjong Pachi-Slot Tengoku [BET] (Japan)</description>
+		<cloneof></cloneof>
+		<crc>c033d7c6</crc>
+		<manufacturer>Nichibutsu / AV Japan / Miki Syouji</manufacturer>
+		<year>1993</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mil4000b" index="" image="">
+		<description>Millennium Nuovo 4000 (Version 1.5)</description>
+		<cloneof>mil4000</cloneof>
+		<crc>a5ca8a1e</crc>
+		<manufacturer>Sure Milano</manufacturer>
+		<year>2000</year>
+		<genre>Casino/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mil4000c" index="" image="">
+		<description>Millennium Nuovo 4000 (Version 1.6)</description>
+		<cloneof>mil4000</cloneof>
+		<crc>2f84883e</crc>
+		<manufacturer>Sure Milano</manufacturer>
+		<year>2000</year>
+		<genre>Casino/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mil4000a" index="" image="">
+		<description>Millennium Nuovo 4000 (Version 1.8)</description>
+		<cloneof>mil4000</cloneof>
+		<crc>2a090f82</crc>
+		<manufacturer>Sure Milano</manufacturer>
+		<year>2000</year>
+		<genre>Casino/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mil4000" index="" image="">
+		<description>Millennium Nuovo 4000 (Version 2.0)</description>
+		<cloneof></cloneof>
+		<crc>e3e520df</crc>
+		<manufacturer>Sure Milano</manufacturer>
+		<year>2000</year>
+		<genre>Casino/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mirage" index="" image="">
+		<description>Mirage Youjuu Mahjongden (Japan)</description>
+		<cloneof></cloneof>
+		<crc>3a53f33d</crc>
+		<manufacturer>Mitchell</manufacturer>
+		<year>1994</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="msbingo" index="" image="">
+		<description>Miss Bingo</description>
+		<cloneof></cloneof>
+		<crc>6eeb6d89</crc>
+		<manufacturer>Min Corp.</manufacturer>
+		<year>1994</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="missb2" index="" image="">
+		<description>Miss Bubble II</description>
+		<cloneof></cloneof>
+		<crc>b633bdde</crc>
+		<manufacturer>Alpha Co.</manufacturer>
+		<year>1996</year>
+		<genre>Platform/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mcontest" index="" image="">
+		<description>Miss Mahjong Contest (Japan)</description>
+		<cloneof></cloneof>
+		<crc>79a30028</crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1989</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="missmw96" index="" image="">
+		<description>Miss Mister World &apos;96 (Nude)</description>
+		<cloneof>missw96</cloneof>
+		<crc>45ed1cd9</crc>
+		<manufacturer>Comad</manufacturer>
+		<year>1996</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mspuzzle" index="" image="">
+		<description>Miss Puzzle</description>
+		<cloneof></cloneof>
+		<crc>d9e63f12</crc>
+		<manufacturer>Min Corp.</manufacturer>
+		<year>1994</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mspuzzleg" index="" image="">
+		<description>Miss Puzzle (Clone of Gumbo)</description>
+		<cloneof>gumbo</cloneof>
+		<crc>95218ff1</crc>
+		<manufacturer>Min Corp.</manufacturer>
+		<year>1994</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mspuzzlen" index="" image="">
+		<description>Miss Puzzle (Nudes)</description>
+		<cloneof>mspuzzle</cloneof>
+		<crc>ec940df4</crc>
+		<manufacturer>Min Corp.</manufacturer>
+		<year>1994</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="missw96" index="" image="">
+		<description>Miss World &apos;96 (Nude)</description>
+		<cloneof></cloneof>
+		<crc>b1309bb1</crc>
+		<manufacturer>Comad</manufacturer>
+		<year>1996</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="quiz18k" index="" image="">
+		<description>Miyasu Nonki no Quiz 18-Kin</description>
+		<cloneof></cloneof>
+		<crc>10a64336</crc>
+		<manufacturer>EIM</manufacturer>
+		<year>1992</year>
+		<genre>Quiz/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="moegonta" index="" image="">
+		<description>Moeyo Gonta!! (Japan)</description>
+		<cloneof>ladykill</cloneof>
+		<crc>aa18d130</crc>
+		<manufacturer>Yanyaka</manufacturer>
+		<year>1993</year>
+		<genre>Miscellaneous/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="nmg5" index="" image="">
+		<description>Multi 5 / New Multi Game 5</description>
+		<cloneof></cloneof>
+		<crc>36af3e2f</crc>
+		<manufacturer>Yun Sung</manufacturer>
+		<year>1998</year>
+		<genre>Multiplay/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="nmg5e" index="" image="">
+		<description>Multi 5 / New Multi Game 5 (earlier)</description>
+		<cloneof>nmg5</cloneof>
+		<crc>578516e2</crc>
+		<manufacturer>Yun Sung</manufacturer>
+		<year>1997</year>
+		<genre>Multiplay/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mchampdx" index="" image="">
+		<description>Multi Champ Deluxe (ver. 0106, 06/01/2000)</description>
+		<cloneof></cloneof>
+		<crc>ea98b3fd</crc>
+		<manufacturer>ESD</manufacturer>
+		<year>2000</year>
+		<genre>Multiplay/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mchampdxa" index="" image="">
+		<description>Multi Champ Deluxe (ver. 1126, 26/11/1999)</description>
+		<cloneof>mchampdx</cloneof>
+		<crc>4cca802c</crc>
+		<manufacturer>ESD</manufacturer>
+		<year>1999</year>
+		<genre>Multiplay/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mfish_11" index="" image="">
+		<description>Multi Fish (031124)</description>
+		<cloneof>mfish_3</cloneof>
+		<crc>1d60d37a</crc>
+		<manufacturer>Igrosoft</manufacturer>
+		<year>2002</year>
+		<genre>Casino/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="musobana" index="" image="">
+		<description>Musoubana (Japan)</description>
+		<cloneof></cloneof>
+		<crc>574929a1</crc>
+		<manufacturer>Nichibutsu / Yubis</manufacturer>
+		<year>1995</year>
+		<genre>Tabletop/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="natsuiro" index="true" image="n">
+		<description>Natsuiro Mahjong (Japan)</description>
+		<cloneof>mjnatsu</cloneof>
+		<crc>543eb9e1</crc>
+		<manufacturer>Video System Co.</manufacturer>
+		<year>1989</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ngpgal" index="" image="">
+		<description>Nekketsu Grand-Prix Gal (Japan)</description>
+		<cloneof></cloneof>
+		<crc>c766378b</crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1991</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="nmsengen" index="" image="">
+		<description>Nekketsu Mahjong Sengen! AFTER 5 (Japan)</description>
+		<cloneof></cloneof>
+		<crc>4e6edbbb</crc>
+		<manufacturer>Video System Co.</manufacturer>
+		<year>1991</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="newfant" index="" image="">
+		<description>New Fantasia</description>
+		<cloneof></cloneof>
+		<crc>de43a457</crc>
+		<manufacturer>Comad &amp; New Japan System</manufacturer>
+		<year>1995</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="lucky8" index="" image="">
+		<description>New Lucky 8 Lines (set 1, W-4)</description>
+		<cloneof></cloneof>
+		<crc>a187573e</crc>
+		<manufacturer>Wing Co., Ltd. / GEI</manufacturer>
+		<year>1989</year>
+		<genre>Casino/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="lucky8a" index="" image="">
+		<description>New Lucky 8 Lines (set 2, W-4)</description>
+		<cloneof>lucky8</cloneof>
+		<crc>554cddff</crc>
+		<manufacturer>Wing Co., Ltd. / GEI</manufacturer>
+		<year>1989</year>
+		<genre>Casino/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="news" index="" image="">
+		<description>News (set 1)</description>
+		<cloneof></cloneof>
+		<crc>aa005dfb</crc>
+		<manufacturer>Poby / Virus</manufacturer>
+		<year>1993</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="newsa" index="" image="">
+		<description>News (set 2)</description>
+		<cloneof>news</cloneof>
+		<crc>74a257da</crc>
+		<manufacturer>Poby</manufacturer>
+		<year>1993</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ngtbunny" index="" image="">
+		<description>Night Bunny (Japan 840601 MRN 2-10)</description>
+		<cloneof></cloneof>
+		<crc>3e39c0ef</crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1984</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="nightgal" index="" image="">
+		<description>Night Gal (Japan 840920 AG 1-00)</description>
+		<cloneof></cloneof>
+		<crc>5eb28742</crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1984</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ngalsumr" index="" image="">
+		<description>Night Gal Summer</description>
+		<cloneof></cloneof>
+		<crc>30f81b12</crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1985</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="nightlov" index="" image="">
+		<description>Night Love (Japan 860705)</description>
+		<cloneof></cloneof>
+		<crc>f9be0b15</crc>
+		<manufacturer>Central Denshi</manufacturer>
+		<year>1986</year>
+		<genre>/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="niyanpai" index="" image="">
+		<description>Niyanpai (Japan)</description>
+		<cloneof></cloneof>
+		<crc>a904e8a1</crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1996</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="peepshow" index="" image="">
+		<description>Nozokimeguri Mahjong Peep Show (Japan 890404)</description>
+		<cloneof>mjfocus</cloneof>
+		<crc>8db1746c</crc>
+		<manufacturer>AC</manufacturer>
+		<year>1989</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ohpaipee" index="true" image="o">
+		<description>Oh! Paipee (Japan 890227)</description>
+		<cloneof></cloneof>
+		<crc>2b6c9afc</crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1989</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ojankoc" index="" image="">
+		<description>Ojanko Club (Japan)</description>
+		<cloneof></cloneof>
+		<crc>cb3e900c</crc>
+		<manufacturer>V-System Co.</manufacturer>
+		<year>1986</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ojankohs" index="" image="">
+		<description>Ojanko High School (Japan)</description>
+		<cloneof></cloneof>
+		<crc>f652db23</crc>
+		<manufacturer>V-System Co.</manufacturer>
+		<year>1988</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ojankoy" index="" image="">
+		<description>Ojanko Yakata (Japan)</description>
+		<cloneof></cloneof>
+		<crc>9f149c30</crc>
+		<manufacturer>V-System Co.</manufacturer>
+		<year>1986</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ojanko2" index="" image="">
+		<description>Ojanko Yakata 2bankan (Japan)</description>
+		<cloneof></cloneof>
+		<crc>4b33bd54</crc>
+		<manufacturer>V-System Co.</manufacturer>
+		<year>1987</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ojousan" index="" image="">
+		<description>Ojousan (Japan 871204)</description>
+		<cloneof></cloneof>
+		<crc>c0166351</crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1987</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ojousanm" index="" image="">
+		<description>Ojousan [BET] (Japan 870108)</description>
+		<cloneof>ojousan</cloneof>
+		<crc>ba1d08dd</crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1987</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="omotesnd" index="" image="">
+		<description>Omotesandou (Japan 890215)</description>
+		<cloneof></cloneof>
+		<crc>8b9856f6</crc>
+		<manufacturer>Anime Tec</manufacturer>
+		<year>1989</year>
+		<genre>Tabletop/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="onetwo" index="" image="">
+		<description>One + Two</description>
+		<cloneof></cloneof>
+		<crc>83431e6e</crc>
+		<manufacturer>Barko</manufacturer>
+		<year>1997</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="onetwoe" index="" image="">
+		<description>One + Two (earlier)</description>
+		<cloneof>onetwo</cloneof>
+		<crc>6c1936e9</crc>
+		<manufacturer>Barko</manufacturer>
+		<year>1997</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="orangeci" index="" image="">
+		<description>Orange Club - Maru-hi Ippatsu Kaihou [BET] (Japan 880221)</description>
+		<cloneof>orangec</cloneof>
+		<crc>8599bf78</crc>
+		<manufacturer>Daiichi Denshi</manufacturer>
+		<year>1988</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="orangec" index="" image="">
+		<description>Orange Club - Maruhi Kagai Jugyou (Japan 880213)</description>
+		<cloneof></cloneof>
+		<crc>4ed413aa</crc>
+		<manufacturer>Daiichi Denshi</manufacturer>
+		<year>1988</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="otonano" index="" image="">
+		<description>Otona no Mahjong (Japan 880628)</description>
+		<cloneof></cloneof>
+		<crc>ee629b72</crc>
+		<manufacturer>Apple</manufacturer>
+		<year>1988</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pkgnsh" index="true" image="p">
+		<description>Pachinko Gindama Shoubu (Japan)</description>
+		<cloneof></cloneof>
+		<crc>06949a7d</crc>
+		<manufacturer>Nakanihon / Dynax</manufacturer>
+		<year>1998</year>
+		<genre>Pinball/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pkgnshdx" index="" image="">
+		<description>Pachinko Gindama Shoubu DX (Japan)</description>
+		<cloneof></cloneof>
+		<crc>3c1a10de</crc>
+		<manufacturer>Nakanihon / Dynax</manufacturer>
+		<year>1998</year>
+		<genre>Pinball/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sxyreact" index="" image="">
+		<description>Pachinko Sexy Reaction (Japan)</description>
+		<cloneof></cloneof>
+		<crc>d5dd7593</crc>
+		<manufacturer>Sammy</manufacturer>
+		<year>1998</year>
+		<genre>Pinball/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sxyreac2" index="" image="">
+		<description>Pachinko Sexy Reaction 2 (Japan)</description>
+		<cloneof></cloneof>
+		<crc>78075d70</crc>
+		<manufacturer>Sammy</manufacturer>
+		<year>1999</year>
+		<genre>Pinball/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="paintlad" index="" image="">
+		<description>Painted Lady (Splash) (Ver. 1.3 US)</description>
+		<cloneof>splash</cloneof>
+		<crc>cd00864a</crc>
+		<manufacturer>Gaelco</manufacturer>
+		<year>1992</year>
+		<genre>Miscellaneous/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pairsa" index="" image="">
+		<description>Pairs (09/07/94)</description>
+		<cloneof>pairs</cloneof>
+		<crc>774995a3</crc>
+		<manufacturer>Strata/Incredible Technologies</manufacturer>
+		<year>1994</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pairsnb" index="" image="">
+		<description>Pairs (Nichibutsu) (Japan 890822)</description>
+		<cloneof></cloneof>
+		<crc>86cb9301</crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1989</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pairsten" index="" image="">
+		<description>Pairs (System Ten) (Japan 890826)</description>
+		<cloneof>pairsnb</cloneof>
+		<crc>037d6acb</crc>
+		<manufacturer>System Ten</manufacturer>
+		<year>1989</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pairs" index="" image="">
+		<description>Pairs (V1.2, 09/30/94)</description>
+		<cloneof></cloneof>
+		<crc>a9c761d8</crc>
+		<manufacturer>Strata/Incredible Technologies</manufacturer>
+		<year>1994</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pairlove" index="" image="">
+		<description>Pairs Love</description>
+		<cloneof></cloneof>
+		<crc>083338b7</crc>
+		<manufacturer>Athena</manufacturer>
+		<year>1991</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pangofun" index="" image="">
+		<description>Pango Fun (Italy)</description>
+		<cloneof></cloneof>
+		<crc>e70168ff</crc>
+		<manufacturer>InfoCube</manufacturer>
+		<year>1995</year>
+		<genre>Casino/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="paprazzi" index="" image="">
+		<description>Paparazzi</description>
+		<cloneof></cloneof>
+		<crc>91f33abd</crc>
+		<manufacturer>Yun Sung</manufacturer>
+		<year>1996</year>
+		<genre>Miscellaneous/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="paradise" index="" image="">
+		<description>Paradise</description>
+		<cloneof></cloneof>
+		<crc>8e5b5a24</crc>
+		<manufacturer>Yun Sung</manufacturer>
+		<year>1994+</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="paradlx" index="" image="">
+		<description>Paradise Deluxe</description>
+		<cloneof></cloneof>
+		<crc>3a45ac9e</crc>
+		<manufacturer>Yun Sung</manufacturer>
+		<year>1994+</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="prtytime" index="" image="">
+		<description>Party Time: Gonta the Diver II / Ganbare! Gonta!! 2 (World Release)</description>
+		<cloneof></cloneof>
+		<crc>ec715c87</crc>
+		<manufacturer>Mitchell</manufacturer>
+		<year>1995</year>
+		<genre>Miscellaneous/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pastelg" index="" image="">
+		<description>Pastel Gal (Japan 851224)</description>
+		<cloneof></cloneof>
+		<crc>1e494af3</crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1985</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="peekaboo" index="" image="">
+		<description>Peek-a-Boo!</description>
+		<cloneof></cloneof>
+		<crc>f5f4cf33</crc>
+		<manufacturer>Jaleco</manufacturer>
+		<year>1993</year>
+		<genre>Breakout/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="perestro" index="" image="">
+		<description>Perestroika Girls</description>
+		<cloneof></cloneof>
+		<crc>0cbf96c1</crc>
+		<manufacturer>Promat</manufacturer>
+		<year>1994</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="perestrof" index="" image="">
+		<description>Perestroika Girls (Fuuki license)</description>
+		<cloneof>perestro</cloneof>
+		<crc>0cbf96c1</crc>
+		<manufacturer>Promat (Fuuki license)</manufacturer>
+		<year>1993</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="phrcrazev" index="" image="">
+		<description>Phraze Craze (Sex Kit, Vertical)</description>
+		<cloneof>phrcraze</cloneof>
+		<crc>6122b5bb</crc>
+		<manufacturer>Merit</manufacturer>
+		<year>1986</year>
+		<genre>Mature/Quiz</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pipibibsbl" index="" image="">
+		<description>Pipi &amp; Bibis / Whoopee!! (bootleg)</description>
+		<cloneof>pipibibs</cloneof>
+		<crc>14c92515</crc>
+		<manufacturer>bootleg (Ryouta Kikaku)</manufacturer>
+		<year>1991</year>
+		<genre>Mature/Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="whoopee" index="" image="">
+		<description>Pipi &amp; Bibis / Whoopee!! (Teki Paki hardware)</description>
+		<cloneof>pipibibs</cloneof>
+		<crc>28882e7e</crc>
+		<manufacturer>Toaplan</manufacturer>
+		<year>1991</year>
+		<genre>Platform/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pipibibs" index="" image="">
+		<description>Pipi &amp; Bibis / Whoopee!! (Z80 sound cpu, set 1)</description>
+		<cloneof></cloneof>
+		<crc>b2ea8659</crc>
+		<manufacturer>Toaplan</manufacturer>
+		<year>1991</year>
+		<genre>Platform/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pipibibsa" index="" image="">
+		<description>Pipi &amp; Bibis / Whoopee!! (Z80 sound cpu, set 2)</description>
+		<cloneof>pipibibs</cloneof>
+		<crc>3e522d98</crc>
+		<manufacturer>Toaplan</manufacturer>
+		<year>1991</year>
+		<genre>Platform/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="plgirls" index="" image="">
+		<description>Play Girls</description>
+		<cloneof></cloneof>
+		<crc>6ca73092</crc>
+		<manufacturer>Hot-B</manufacturer>
+		<year>1992</year>
+		<genre>Breakout/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="plgirls2" index="" image="">
+		<description>Play Girls 2</description>
+		<cloneof></cloneof>
+		<crc>f924197a</crc>
+		<manufacturer>Hot-B</manufacturer>
+		<year>1993</year>
+		<genre>Shooter/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pcktgalb" index="" image="">
+		<description>Pocket Gal (bootleg)</description>
+		<cloneof>pcktgal</cloneof>
+		<crc>4acb3e84</crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1987</year>
+		<genre>Sports/Pool and Dart/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pcktgal" index="" image="">
+		<description>Pocket Gal (Japan)</description>
+		<cloneof></cloneof>
+		<crc>8215d60d</crc>
+		<manufacturer>Data East Corporation</manufacturer>
+		<year>1987</year>
+		<genre>Sports/Pool and Dart/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pcktgal2" index="" image="">
+		<description>Pocket Gal 2 (English)</description>
+		<cloneof>pcktgal</cloneof>
+		<crc>0c7f2905</crc>
+		<manufacturer>Data East Corporation</manufacturer>
+		<year>1989</year>
+		<genre>Sports/Pool and Dart/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pcktgal2j" index="" image="">
+		<description>Pocket Gal 2 (Japanese)</description>
+		<cloneof>pcktgal</cloneof>
+		<crc>0c7f2905</crc>
+		<manufacturer>Data East Corporation</manufacturer>
+		<year>1989</year>
+		<genre>Sports/Pool and Dart/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pktgaldx" index="" image="">
+		<description>Pocket Gal Deluxe (Euro v3.00)</description>
+		<cloneof></cloneof>
+		<crc>b04baf3a</crc>
+		<manufacturer>Data East Corporation</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Pool and Dart/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pktgaldxb" index="" image="">
+		<description>Pocket Gal Deluxe (Euro v3.00, bootleg)</description>
+		<cloneof>pktgaldx</cloneof>
+		<crc>67ce30aa</crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Pool and Dart/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pktgaldxj" index="" image="">
+		<description>Pocket Gal Deluxe (Japan v3.00)</description>
+		<cloneof>pktgaldx</cloneof>
+		<crc>62dc4137</crc>
+		<manufacturer>Data East Corporation (Nihon System license)</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Pool and Dart/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pkladies" index="" image="">
+		<description>Poker Ladies</description>
+		<cloneof></cloneof>
+		<crc>86585a94</crc>
+		<manufacturer>Mitchell</manufacturer>
+		<year>1989</year>
+		<genre>Casino/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pkladiesla" index="" image="">
+		<description>Poker Ladies (Leprechaun ver. 401)</description>
+		<cloneof>pkladies</cloneof>
+		<crc>fa18e16a</crc>
+		<manufacturer>Leprechaun</manufacturer>
+		<year>1989</year>
+		<genre>Casino/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pkladiesl" index="" image="">
+		<description>Poker Ladies (Leprechaun ver. 510)</description>
+		<cloneof>pkladies</cloneof>
+		<crc>ea1740a6</crc>
+		<manufacturer>Leprechaun</manufacturer>
+		<year>1989</year>
+		<genre>Casino/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="popbingo" index="" image="">
+		<description>Pop Bingo</description>
+		<cloneof></cloneof>
+		<crc>b24513c6</crc>
+		<manufacturer>Dooyong</manufacturer>
+		<year>1996</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="primella" index="" image="">
+		<description>Primella</description>
+		<cloneof>gundl94</cloneof>
+		<crc>82fea4e0</crc>
+		<manufacturer>Dooyong (NTC license)</manufacturer>
+		<year>1994</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="promutrva" index="" image="">
+		<description>Progressive Music Trivia (Question set 2)</description>
+		<cloneof>promutrv</cloneof>
+		<crc>e37d48be</crc>
+		<manufacturer>Enerdyne Technologies Inc.</manufacturer>
+		<year>1985</year>
+		<genre>Quiz/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pushman" index="" image="">
+		<description>Pushman (Korea, set 1)</description>
+		<cloneof></cloneof>
+		<crc>330762bc</crc>
+		<manufacturer>Comad</manufacturer>
+		<year>1990</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pushmana" index="" image="">
+		<description>Pushman (Korea, set 2)</description>
+		<cloneof>pushman</cloneof>
+		<crc>871d0858</crc>
+		<manufacturer>Comad</manufacturer>
+		<year>1990</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="puzlbang" index="" image="">
+		<description>Puzzle Bang Bang (Korea, version 2.8 / 990106)</description>
+		<cloneof>suplup</cloneof>
+		<crc>fd21c5ff</crc>
+		<manufacturer>Omega System</manufacturer>
+		<year>1999</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pclubys" index="" image="">
+		<description>Puzzle Club (Yun Sung, set 1)</description>
+		<cloneof></cloneof>
+		<crc>62e28e6d</crc>
+		<manufacturer>Yun Sung</manufacturer>
+		<year>2000</year>
+		<genre>Multiplay/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pclubysa" index="" image="">
+		<description>Puzzle Club (Yun Sung, set 2)</description>
+		<cloneof>pclubys</cloneof>
+		<crc>885aa07a</crc>
+		<manufacturer>Yun Sung</manufacturer>
+		<year>2000</year>
+		<genre>Multiplay/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="rongrong" index="" image="">
+		<description>Puzzle Game Rong Rong (Europe)</description>
+		<cloneof></cloneof>
+		<crc>062fa1b6</crc>
+		<manufacturer>Nakanihon (Activision license)</manufacturer>
+		<year>1994</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="rongrongg" index="" image="">
+		<description>Puzzle Game Rong Rong (Germany)</description>
+		<cloneof>rongrong</cloneof>
+		<crc>9a5d2885</crc>
+		<manufacturer>Nakanihon (Activision license)</manufacturer>
+		<year>1994</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="rongrongj" index="" image="">
+		<description>Puzzle Game Rong Rong (Japan)</description>
+		<cloneof>rongrong</cloneof>
+		<crc>27142684</crc>
+		<manufacturer>Nakanihon (Activision license)</manufacturer>
+		<year>1994</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pzlestar" index="" image="">
+		<description>Puzzle Star (Sang Ho Soft)</description>
+		<cloneof></cloneof>
+		<crc>0b327a3b</crc>
+		<manufacturer>Sang Ho Soft</manufacturer>
+		<year>1991</year>
+		<genre>/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pzletime" index="" image="">
+		<description>Puzzle Time (prototype)</description>
+		<cloneof></cloneof>
+		<crc>78b027dc</crc>
+		<manufacturer>Elettronica Video-Games S.R.L.</manufacturer>
+		<year>199?</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="puzznici" index="" image="">
+		<description>Puzznic (Italian bootleg)</description>
+		<cloneof>puzznic</cloneof>
+		<crc>4612f5e0</crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1989</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="puzznicj" index="" image="">
+		<description>Puzznic (Japan)</description>
+		<cloneof>puzznic</cloneof>
+		<crc>a4150b6c</crc>
+		<manufacturer>Taito Corporation</manufacturer>
+		<year>1989</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="puzznic" index="" image="">
+		<description>Puzznic (World)</description>
+		<cloneof></cloneof>
+		<crc>156d6de1</crc>
+		<manufacturer>Taito Corporation Japan</manufacturer>
+		<year>1989</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="qmhayaku" index="true" image="q">
+		<description>Quiz-Mahjong Hayaku Yatteyo! (Japan)</description>
+		<cloneof></cloneof>
+		<crc>5a73cdf8</crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1991</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="rbmk" index="true" image="r">
+		<description>Real Battle Mahjong King</description>
+		<cloneof></cloneof>
+		<crc>83b3c505</crc>
+		<manufacturer>GMS</manufacturer>
+		<year>1998</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="rmhaihai" index="" image="">
+		<description>Real Mahjong Haihai (Japan)</description>
+		<cloneof></cloneof>
+		<crc>e7af7ba2</crc>
+		<manufacturer>Alba</manufacturer>
+		<year>1985</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="rmhaijin" index="" image="">
+		<description>Real Mahjong Haihai Jinji Idou Hen (Japan)</description>
+		<cloneof></cloneof>
+		<crc>474c9ace</crc>
+		<manufacturer>Alba</manufacturer>
+		<year>1986</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="rmhaisei" index="" image="">
+		<description>Real Mahjong Haihai Seichouhen (Japan)</description>
+		<cloneof></cloneof>
+		<crc>7c35692b</crc>
+		<manufacturer>Visco</manufacturer>
+		<year>1986</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="rmhaihib" index="" image="">
+		<description>Real Mahjong Haihai [BET] (Japan)</description>
+		<cloneof>rmhaihai</cloneof>
+		<crc>f3e13cc8</crc>
+		<manufacturer>Alba</manufacturer>
+		<year>1985</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="nekkyoku" index="" image="">
+		<description>Rettou Juudan Nekkyoku Janshi - Higashi Nippon Hen (Japan)</description>
+		<cloneof></cloneof>
+		<crc>bb52d959</crc>
+		<manufacturer>Video System Co.</manufacturer>
+		<year>1988</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="royalngt" index="" image="">
+		<description>Royal Night [BET] (Japan 840220 RN 2-00)</description>
+		<cloneof>ngtbunny</cloneof>
+		<crc>abbf38b9</crc>
+		<manufacturer>Royal Denshi</manufacturer>
+		<year>1984</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ryuuha" index="" image="">
+		<description>Ryuuha [BET] (Japan 871027)</description>
+		<cloneof>iemoto</cloneof>
+		<crc>2f995640</crc>
+		<manufacturer>Central Denshi</manufacturer>
+		<year>1987</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="kirarast" index="" image="">
+		<description>Ryuusei Janshi Kirara Star</description>
+		<cloneof></cloneof>
+		<crc>eb7faf5f</crc>
+		<manufacturer>Jaleco</manufacturer>
+		<year>1996</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sadari" index="true" image="s">
+		<description>Sadari</description>
+		<cloneof></cloneof>
+		<crc>bd953217</crc>
+		<manufacturer>Dooyong (NTC license)</manufacturer>
+		<year>1993</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="3kokushi" index="" image="">
+		<description>Sankokushi (Japan)</description>
+		<cloneof></cloneof>
+		<crc>6104ea35</crc>
+		<manufacturer>Mitchell</manufacturer>
+		<year>1996</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="scandal" index="" image="">
+		<description>Scandal Mahjong (Japan 890213)</description>
+		<cloneof></cloneof>
+		<crc>97e73a9c</crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1989</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="scandalm" index="" image="">
+		<description>Scandal Mahjong [BET] (Japan 890217)</description>
+		<cloneof>scandal</cloneof>
+		<crc>9811bab6</crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1989</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="secolove" index="" image="">
+		<description>Second Love (Japan 861201)</description>
+		<cloneof></cloneof>
+		<crc>5aad556e</crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1986</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="seiha" index="" image="">
+		<description>Seiha (Japan 870725)</description>
+		<cloneof></cloneof>
+		<crc>ad5ba5b5</crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1987</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="seiham" index="" image="">
+		<description>Seiha [BET] (Japan 870723)</description>
+		<cloneof>seiha</cloneof>
+		<crc>0c9a081b</crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1987</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sextriv" index="" image="">
+		<description>Sex Triv</description>
+		<cloneof></cloneof>
+		<crc>f587bd69</crc>
+		<manufacturer>Status Games</manufacturer>
+		<year>1985</year>
+		<genre>Quiz/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sextriv1" index="" image="">
+		<description>Sexual Trivia (Version 1.02SB, set 1)</description>
+		<cloneof></cloneof>
+		<crc>73abcd12</crc>
+		<manufacturer>Kinky Kit and Game Co.</manufacturer>
+		<year>1985</year>
+		<genre>Quiz/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sextriv2" index="" image="">
+		<description>Sexual Trivia (Version 1.02SB, set 2)</description>
+		<cloneof>sextriv1</cloneof>
+		<crc>73abcd12</crc>
+		<manufacturer>Kinky Kit and Game Co.</manufacturer>
+		<year>1985</year>
+		<genre>Quiz/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sexyboom" index="" image="">
+		<description>Sexy Boom</description>
+		<cloneof></cloneof>
+		<crc>7827a079</crc>
+		<manufacturer>Sang Ho Soft</manufacturer>
+		<year>1992</year>
+		<genre>/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sexygal" index="" image="">
+		<description>Sexy Gal (Japan 850501 SXG 1-00)</description>
+		<cloneof></cloneof>
+		<crc>53425b74</crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1985</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sexyparo" index="" image="">
+		<description>Sexy Parodius (ver JAA)</description>
+		<cloneof></cloneof>
+		<crc>d5fa95f5</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1996</year>
+		<genre>Shooter/Flying/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="shisen" index="" image="">
+		<description>Shisensho - Joshiryo-Hen (Japan)</description>
+		<cloneof>matchit</cloneof>
+		<crc>de2ecf05</crc>
+		<manufacturer>Tamtex</manufacturer>
+		<year>1989</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sichuan2" index="" image="">
+		<description>Sichuan II (hack, set 1)</description>
+		<cloneof>matchit</cloneof>
+		<crc>98a2459b</crc>
+		<manufacturer>hack</manufacturer>
+		<year>1989</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sichuan2a" index="" image="">
+		<description>Sichuan II (hack, set 2)</description>
+		<cloneof>matchit</cloneof>
+		<crc>f8ac05ef</crc>
+		<manufacturer>hack</manufacturer>
+		<year>1989</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sliver" index="" image="">
+		<description>Sliver</description>
+		<cloneof></cloneof>
+		<crc>4906367f</crc>
+		<manufacturer>Hollow Corp</manufacturer>
+		<year>1996</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sos" index="" image="">
+		<description>SOS</description>
+		<cloneof></cloneof>
+		<crc>f70bdafb</crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1980</year>
+		<genre>Shooter/Flying/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="splash10" index="" image="">
+		<description>Splash! (Ver. 1.0 World)</description>
+		<cloneof>splash</cloneof>
+		<crc>38ba6632</crc>
+		<manufacturer>Gaelco</manufacturer>
+		<year>1992</year>
+		<genre>Miscellaneous/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="splash" index="" image="">
+		<description>Splash! (Ver. 1.2 World)</description>
+		<cloneof></cloneof>
+		<crc>b38fda40</crc>
+		<manufacturer>Gaelco</manufacturer>
+		<year>1992</year>
+		<genre>Miscellaneous/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="steaser" index="" image="">
+		<description>Strip Teaser (Italy, Version 1.22)</description>
+		<cloneof></cloneof>
+		<crc>7963e960</crc>
+		<manufacturer>unknown</manufacturer>
+		<year>1993</year>
+		<genre>Casino/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sjryuko1" index="" image="">
+		<description>Sukeban Jansi Ryuko (set 1, System 16A, FD1089B 317-5021)</description>
+		<cloneof>sjryuko</cloneof>
+		<crc>1af3cd0b</crc>
+		<manufacturer>White Board</manufacturer>
+		<year>1987</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sjryuko" index="" image="">
+		<description>Sukeban Jansi Ryuko (set 2, System 16B, FD1089B 317-5021)</description>
+		<cloneof></cloneof>
+		<crc>5987ee1b</crc>
+		<manufacturer>White Board</manufacturer>
+		<year>1988</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="usg32" index="" image="">
+		<description>Super Duper Casino (California V3.2)</description>
+		<cloneof></cloneof>
+		<crc>bc313387</crc>
+		<manufacturer>U.S. Games</manufacturer>
+		<year>1987</year>
+		<genre>Multiplay/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hparadis" index="" image="">
+		<description>Super Hana Paradise (Japan)</description>
+		<cloneof></cloneof>
+		<crc>bd3a3a8f</crc>
+		<manufacturer>Dynax</manufacturer>
+		<year>1994</year>
+		<genre>Tabletop/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="suplup" index="" image="">
+		<description>Super Lup Lup Puzzle / Zhuan Zhuan Puzzle (version 4.0 / 990518)</description>
+		<cloneof></cloneof>
+		<crc>61fb2dbe</crc>
+		<manufacturer>Omega System</manufacturer>
+		<year>1999</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="marukin" index="" image="">
+		<description>Super Marukin-Ban (Japan 901017)</description>
+		<cloneof></cloneof>
+		<crc>04357973</crc>
+		<manufacturer>Yuga</manufacturer>
+		<year>1990</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="supmodel" index="" image="">
+		<description>Super Model</description>
+		<cloneof></cloneof>
+		<crc>714b7e74</crc>
+		<manufacturer>Comad &amp; New Japan System</manufacturer>
+		<year>1994</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="spbactnj" index="" image="">
+		<description>Super Pinball Action (Japan)</description>
+		<cloneof>spbactn</cloneof>
+		<crc>b5b2d824</crc>
+		<manufacturer>Tecmo</manufacturer>
+		<year>1991</year>
+		<genre>Pinball/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="spbactn" index="" image="">
+		<description>Super Pinball Action (US)</description>
+		<cloneof></cloneof>
+		<crc>6741bd3f</crc>
+		<manufacturer>Tecmo</manufacturer>
+		<year>1991</year>
+		<genre>Pinball/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="srmp6" index="" image="">
+		<description>Super Real Mahjong P6 (Japan)</description>
+		<cloneof></cloneof>
+		<crc>8f4318a5</crc>
+		<manufacturer>Seta</manufacturer>
+		<year>1995</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="srmp7" index="" image="">
+		<description>Super Real Mahjong P7 (Japan)</description>
+		<cloneof></cloneof>
+		<crc>fad3ac6a</crc>
+		<manufacturer>Seta</manufacturer>
+		<year>1997</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="srmp1" index="" image="">
+		<description>Super Real Mahjong Part 1 (Japan)</description>
+		<cloneof></cloneof>
+		<crc>71a00a3d</crc>
+		<manufacturer>Seta</manufacturer>
+		<year>1987</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="srmp2" index="" image="">
+		<description>Super Real Mahjong Part 2 (Japan)</description>
+		<cloneof></cloneof>
+		<crc>0d6c131f</crc>
+		<manufacturer>Seta</manufacturer>
+		<year>1987</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="srmp3" index="" image="">
+		<description>Super Real Mahjong Part 3 (Japan)</description>
+		<cloneof></cloneof>
+		<crc>939d126f</crc>
+		<manufacturer>Seta</manufacturer>
+		<year>1988</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="srmp4" index="" image="">
+		<description>Super Real Mahjong PIV (Japan)</description>
+		<cloneof></cloneof>
+		<crc>19aaf46e</crc>
+		<manufacturer>Seta</manufacturer>
+		<year>1993</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="srmp4o" index="" image="">
+		<description>Super Real Mahjong PIV (Japan, older set)</description>
+		<cloneof>srmp4</cloneof>
+		<crc>dede3e64</crc>
+		<manufacturer>Seta</manufacturer>
+		<year>1993</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="srmvs" index="" image="">
+		<description>Super Real Mahjong VS</description>
+		<cloneof></cloneof>
+		<crc>5ec82be9</crc>
+		<manufacturer>Seta</manufacturer>
+		<year>1999</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ss2005a" index="" image="">
+		<description>Super Shanghai 2005 (Rev A) (GDL-0031A)</description>
+		<cloneof>ss2005</cloneof>
+		<crc>08c0add7</crc>
+		<manufacturer>Starfish</manufacturer>
+		<year>2005</year>
+		<genre>Mature/Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sshangha" index="" image="">
+		<description>Super Shanghai Dragon&apos;s Eye (Japan)</description>
+		<cloneof></cloneof>
+		<crc>bc466edf</crc>
+		<manufacturer>Hot-B</manufacturer>
+		<year>1992</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sshanghab" index="" image="">
+		<description>Super Shanghai Dragon&apos;s Eye (World, bootleg)</description>
+		<cloneof>sshangha</cloneof>
+		<crc>bc7ed254</crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1992</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="stoffy" index="" image="">
+		<description>Super Toffy</description>
+		<cloneof></cloneof>
+		<crc>3c156610</crc>
+		<manufacturer>Midas (Unico license)</manufacturer>
+		<year>1994</year>
+		<genre>Maze/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="supertr2" index="" image="">
+		<description>Super Triv II</description>
+		<cloneof></cloneof>
+		<crc>e9f0e271</crc>
+		<manufacturer>Status Games</manufacturer>
+		<year>1986</year>
+		<genre>Quiz/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="supertr3" index="" image="">
+		<description>Super Triv III</description>
+		<cloneof></cloneof>
+		<crc>f04a19d7</crc>
+		<manufacturer>Status Games</manufacturer>
+		<year>1988</year>
+		<genre>Quiz/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sweetgal" index="" image="">
+		<description>Sweet Gal (Japan 850510 SWG 1-02)</description>
+		<cloneof>sexygal</cloneof>
+		<crc>0f6c4bf0</crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1985</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hotgmck" index="true" image="t">
+		<description>Taisen Hot Gimmick (Japan)</description>
+		<cloneof></cloneof>
+		<crc>23ed4aa5</crc>
+		<manufacturer>Psikyo</manufacturer>
+		<year>1997</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hotgmck3" index="" image="">
+		<description>Taisen Hot Gimmick 3 Digital Surfing (Japan)</description>
+		<cloneof></cloneof>
+		<crc>3b06a4a3</crc>
+		<manufacturer>Psikyo</manufacturer>
+		<year>1999</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hotgm4ev" index="" image="">
+		<description>Taisen Hot Gimmick 4 Ever (Japan)</description>
+		<cloneof></cloneof>
+		<crc>3334c21e</crc>
+		<manufacturer>Psikyo</manufacturer>
+		<year>2000</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hgkairak" index="" image="">
+		<description>Taisen Hot Gimmick Kairakuten (Japan)</description>
+		<cloneof></cloneof>
+		<crc>1c1a034d</crc>
+		<manufacturer>Psikyo</manufacturer>
+		<year>1998</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="fromanc2" index="" image="">
+		<description>Taisen Idol-Mahjong Final Romance 2 (Japan)</description>
+		<cloneof></cloneof>
+		<crc>96c90f9e</crc>
+		<manufacturer>Video System Co.</manufacturer>
+		<year>1995</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="fromanc4" index="" image="">
+		<description>Taisen Mahjong FinalRomance 4 (Japan)</description>
+		<cloneof></cloneof>
+		<crc>46a47839</crc>
+		<manufacturer>Video System Co.</manufacturer>
+		<year>1998</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="fromancr" index="" image="">
+		<description>Taisen Mahjong FinalRomance R (Japan)</description>
+		<cloneof></cloneof>
+		<crc>378eeb9c</crc>
+		<manufacturer>Video System Co.</manufacturer>
+		<year>1995</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hyhoo" index="" image="">
+		<description>Taisen Quiz HYHOO (Japan)</description>
+		<cloneof></cloneof>
+		<crc>c2852861</crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1987</year>
+		<genre>Quiz/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hyhoo2" index="" image="">
+		<description>Taisen Quiz HYHOO 2 (Japan)</description>
+		<cloneof></cloneof>
+		<crc>d8733cdc</crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1987</year>
+		<genre>Quiz/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="taiwanmb" index="" image="">
+		<description>Taiwan Mahjong [BET] (Japan 881208)</description>
+		<cloneof></cloneof>
+		<crc>2165310e</crc>
+		<manufacturer>Miki Syouji</manufacturer>
+		<year>1988</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tgtball" index="" image="">
+		<description>Target Ball (Nude)</description>
+		<cloneof></cloneof>
+		<crc>8dbeab12</crc>
+		<manufacturer>Yun Sung</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Pool and Dart/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="teljan" index="" image="">
+		<description>Tel Jan</description>
+		<cloneof></cloneof>
+		<crc>7e2b836c</crc>
+		<manufacturer>Electro Design</manufacturer>
+		<year>1999</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="telmahjn" index="" image="">
+		<description>Telephone Mahjong (Japan 890111)</description>
+		<cloneof></cloneof>
+		<crc>851bff09</crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1988</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="couple" index="" image="">
+		<description>The Couples (set 1)</description>
+		<cloneof></cloneof>
+		<crc>bc70337a</crc>
+		<manufacturer>Merit</manufacturer>
+		<year>1988</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="couplep" index="" image="">
+		<description>The Couples (set 2)</description>
+		<cloneof>couple</cloneof>
+		<crc>4601ace6</crc>
+		<manufacturer>Merit</manufacturer>
+		<year>1988</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="couplei" index="" image="">
+		<description>The Couples (set 3)</description>
+		<cloneof>couple</cloneof>
+		<crc>760fa29e</crc>
+		<manufacturer>Merit</manufacturer>
+		<year>1988</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="themj" index="" image="">
+		<description>The Mah-jong (Japan)</description>
+		<cloneof></cloneof>
+		<crc>a58563c3</crc>
+		<manufacturer>Visco</manufacturer>
+		<year>1987</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="roldfrog" index="" image="">
+		<description>The Return of Lady Frog (set 1)</description>
+		<cloneof></cloneof>
+		<crc>724cf022</crc>
+		<manufacturer>Microhard</manufacturer>
+		<year>1993</year>
+		<genre>Shooter/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="roldfroga" index="" image="">
+		<description>The Return of Lady Frog (set 2)</description>
+		<cloneof>roldfrog</cloneof>
+		<crc>724cf022</crc>
+		<manufacturer>Microhard</manufacturer>
+		<year>1993</year>
+		<genre>Shooter/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tokimbsj" index="" image="">
+		<description>Tokimeki Bishoujo [BET] (Japan)</description>
+		<cloneof>tokyogal</cloneof>
+		<crc>b335c300</crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1989</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tmmjprd" index="" image="">
+		<description>Tokimeki Mahjong Paradise - Dear My Love</description>
+		<cloneof></cloneof>
+		<crc>a1efd960</crc>
+		<manufacturer>Media / Sonnet</manufacturer>
+		<year>1997</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tmpdoki" index="" image="">
+		<description>Tokimeki Mahjong Paradise - Doki Doki Hen</description>
+		<cloneof>tmmjprd</cloneof>
+		<crc>c0ee1942</crc>
+		<manufacturer>Media / Sonnet</manufacturer>
+		<year>1998</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tokimosh" index="" image="">
+		<description>Tokimeki Memorial Oshiete Your Heart (GE755 JAA)</description>
+		<cloneof></cloneof>
+		<crc>ad498d2d</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1997</year>
+		<genre>Quiz/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tokimosp" index="" image="">
+		<description>Tokimeki Memorial Oshiete Your Heart Seal version PLUS (GE756 JAB)</description>
+		<cloneof></cloneof>
+		<crc>ad498d2d</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1997</year>
+		<genre>Quiz/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tokyogal" index="" image="">
+		<description>Tokyo Gal Zukan (Japan)</description>
+		<cloneof></cloneof>
+		<crc>ad4eecec</crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1989</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tontonb" index="" image="">
+		<description>Tonton [BET] (Japan set 1)</description>
+		<cloneof></cloneof>
+		<crc>d8d67b59</crc>
+		<manufacturer>Dynax</manufacturer>
+		<year>1987</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="torus" index="" image="">
+		<description>Torus</description>
+		<cloneof></cloneof>
+		<crc>55d3ef3e</crc>
+		<manufacturer>Yun Sung</manufacturer>
+		<year>1996</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="togenkyo" index="" image="">
+		<description>Tougenkyou (Japan 890418)</description>
+		<cloneof></cloneof>
+		<crc>a0cc6700</crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1989</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="trvgns" index="" image="">
+		<description>Trivia Genius</description>
+		<cloneof>trvmstr</cloneof>
+		<crc>a17f172c</crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1985</year>
+		<genre>Quiz/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="trvmstr" index="" image="">
+		<description>Trivia Master (set 1)</description>
+		<cloneof></cloneof>
+		<crc>4ccd0537</crc>
+		<manufacturer>Enerdyne Technologies Inc.</manufacturer>
+		<year>1985</year>
+		<genre>Quiz/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="trvmstra" index="" image="">
+		<description>Trivia Master (set 2)</description>
+		<cloneof>trvmstr</cloneof>
+		<crc>4c175c45</crc>
+		<manufacturer>Enerdyne Technologies Inc.</manufacturer>
+		<year>1985</year>
+		<genre>Quiz/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="trvmstrc" index="" image="">
+		<description>Trivia Master (set 4)</description>
+		<cloneof>trvmstr</cloneof>
+		<crc>9a80c5a7</crc>
+		<manufacturer>Enerdyne Technologies Inc.</manufacturer>
+		<year>1985</year>
+		<genre>Quiz/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="trucocl" index="" image="">
+		<description>Truco Clemente</description>
+		<cloneof></cloneof>
+		<crc>c9511c37</crc>
+		<manufacturer>Miky SRL</manufacturer>
+		<year>1991</year>
+		<genre>Casino/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="twinbrat" index="" image="">
+		<description>Twin Brats (set 1)</description>
+		<cloneof></cloneof>
+		<crc>33a9bb82</crc>
+		<manufacturer>Elettronica Video-Games S.R.L.</manufacturer>
+		<year>1995</year>
+		<genre>Maze/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="twinbrata" index="" image="">
+		<description>Twin Brats (set 2)</description>
+		<cloneof>twinbrat</cloneof>
+		<crc>5e75f568</crc>
+		<manufacturer>Elettronica Video-Games S.R.L.</manufacturer>
+		<year>1995</year>
+		<genre>Maze/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="twins" index="" image="">
+		<description>Twins (set 1)</description>
+		<cloneof></cloneof>
+		<crc>d5ef7b0d</crc>
+		<manufacturer>Electronic Devices</manufacturer>
+		<year>1994</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="twinsa" index="" image="">
+		<description>Twins (set 2)</description>
+		<cloneof>twins</cloneof>
+		<crc>4f07862e</crc>
+		<manufacturer>Electronic Devices</manufacturer>
+		<year>1994</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ultramhm" index="true" image="u">
+		<description>Ultra Maru-hi Mahjong (Japan)</description>
+		<cloneof></cloneof>
+		<crc>152811b1</crc>
+		<manufacturer>Apple</manufacturer>
+		<year>1993</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="untoucha" index="" image="">
+		<description>Untouchable (Japan)</description>
+		<cloneof></cloneof>
+		<crc>4df04e41</crc>
+		<manufacturer>Dynax</manufacturer>
+		<year>1987</year>
+		<genre>Casino/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="vipclub" index="true" image="v">
+		<description>Vip Club - Maru-hi Ippatsu Kaihou [BET] (Japan 880310)</description>
+		<cloneof>orangec</cloneof>
+		<crc>49acc59a</crc>
+		<manufacturer>Daiichi Denshi</manufacturer>
+		<year>1988</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="vmahjong" index="" image="">
+		<description>Virtual Mahjong (J 961214 V1.000)</description>
+		<cloneof></cloneof>
+		<crc>59ed40f4</crc>
+		<manufacturer>Micronet</manufacturer>
+		<year>1997</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="myfairld" index="" image="">
+		<description>Virtual Mahjong 2 - My Fair Lady (J 980608 V1.000)</description>
+		<cloneof></cloneof>
+		<crc>59ed40f4</crc>
+		<manufacturer>Micronet</manufacturer>
+		<year>1998</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="vivdolls" index="" image="">
+		<description>Vivid Dolls</description>
+		<cloneof></cloneof>
+		<crc>5ec82be9</crc>
+		<manufacturer>Visco</manufacturer>
+		<year>1998</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ryouran" index="" image="">
+		<description>VS Mahjong Otome Ryouran</description>
+		<cloneof></cloneof>
+		<crc>7e2b836c</crc>
+		<manufacturer>Electro Design</manufacturer>
+		<year>1998</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="bnstars1" index="" image="">
+		<description>Vs. Janshi Brandnew Stars</description>
+		<cloneof></cloneof>
+		<crc>2eb6a503</crc>
+		<manufacturer>Jaleco</manufacturer>
+		<year>1997</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="bnstars" index="" image="">
+		<description>Vs. Janshi Brandnew Stars (MegaSystem32 Version)</description>
+		<cloneof>bnstars1</cloneof>
+		<crc>75eeec8f</crc>
+		<manufacturer>Jaleco</manufacturer>
+		<year>1997</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mj4simai" index="true" image="w">
+		<description>Wakakusamonogatari Mahjong Yonshimai (Japan)</description>
+		<cloneof></cloneof>
+		<crc>7be9c781</crc>
+		<manufacturer>Maboroshi Ware</manufacturer>
+		<year>1996</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="suzume" index="" image="">
+		<description>Watashiha Suzumechan (Japan)</description>
+		<cloneof></cloneof>
+		<crc>e9706967</crc>
+		<manufacturer>Dyna Electronics</manufacturer>
+		<year>1986</year>
+		<genre>Tabletop/Mahjong/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="wiggie" index="" image="">
+		<description>Wiggie Waggie</description>
+		<cloneof></cloneof>
+		<crc>24b58f16</crc>
+		<manufacturer>Promat</manufacturer>
+		<year>1994</year>
+		<genre>Breakout/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="wondstck" index="" image="">
+		<description>Wonder Stick</description>
+		<cloneof></cloneof>
+		<crc>9995b743</crc>
+		<manufacturer>Yun Sung</manufacturer>
+		<year>????</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="wownfant" index="" image="">
+		<description>WOW New Fantasia</description>
+		<cloneof></cloneof>
+		<crc>9942d200</crc>
+		<manufacturer>Comad</manufacturer>
+		<year>2002</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="xfiles" index="true" image="x">
+		<description>X-Files</description>
+		<cloneof></cloneof>
+		<crc>3b2c2bc1</crc>
+		<manufacturer>dgPIX Entertainment Inc.</manufacturer>
+		<year>1999</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="saklove" index="true" image="y">
+		<description>Ying Hua Lian 2.0 (China, Ver. 1.02)</description>
+		<cloneof></cloneof>
+		<crc>02319bfb</crc>
+		<manufacturer>Subsino</manufacturer>
+		<year>1998</year>
+		<genre>Casino/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="zerozone" index="true" image="z">
+		<description>Zero Zone</description>
+		<cloneof></cloneof>
+		<crc>83718b9b</crc>
+		<manufacturer>Comad</manufacturer>
+		<year>1993</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="drgnwrldv10c" index="" image="">
+		<description>Zhong Guo Long (China, V010C)</description>
+		<cloneof>drgnwrld</cloneof>
+		<crc>3b3c29bb</crc>
+		<manufacturer>IGS</manufacturer>
+		<year>1995</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="drgnwrldv20j" index="" image="">
+		<description>Zhong Guo Long (Japan, V020J)</description>
+		<cloneof>drgnwrld</cloneof>
+		<crc>9e018d1a</crc>
+		<manufacturer>IGS / Alta</manufacturer>
+		<year>1995</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="drgnwrldv21j" index="" image="">
+		<description>Zhong Guo Long (Japan, V021J)</description>
+		<cloneof>drgnwrld</cloneof>
+		<crc>2f87f6e4</crc>
+		<manufacturer>IGS / Alta</manufacturer>
+		<year>1995</year>
+		<genre>Puzzle/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="zipzap" index="" image="">
+		<description>Zip &amp; Zap</description>
+		<cloneof></cloneof>
+		<crc>2901fae1</crc>
+		<manufacturer>Barko Corp</manufacturer>
+		<year>1995</year>
+		<genre>Breakout/Mature</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

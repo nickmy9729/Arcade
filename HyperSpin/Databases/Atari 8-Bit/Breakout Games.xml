@@ -1,0 +1,279 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Atari 8-Bit</listname>
+		<lastlistupdate>05/17/2015</lastlistupdate>
+		<listversion>1.0</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="Acrobat (Germany)" index="true" image="a">
+		<description>Acrobat (Germany)</description>
+		<cloneof></cloneof>
+		<crc>DF346EAF</crc>
+		<manufacturer>Münzenloher GmbH</manufacturer>
+		<year>19xx</year>
+		<genre>Breakout</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Arcanoid IV (Poland) (Unl)" index="" image="">
+		<description>Arcanoid IV (Poland) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>F393EBE8</crc>
+		<manufacturer>Rambit</manufacturer>
+		<year>1988</year>
+		<genre>Breakout</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Arkanoid (Europe)" index="" image="">
+		<description>Arkanoid (Europe)</description>
+		<cloneof></cloneof>
+		<crc>B22B2F1E</crc>
+		<manufacturer>Imagine</manufacturer>
+		<year>1987</year>
+		<genre>Breakout</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Arkanoid II (Netherlands) (Unl)" index="" image="">
+		<description>Arkanoid II (Netherlands) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>C480201C</crc>
+		<manufacturer>Pro Soft Amsterdam</manufacturer>
+		<year>1987</year>
+		<genre>Breakout</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ball-Cracker (Germany)" index="true" image="b">
+		<description>Ball-Cracker (Germany)</description>
+		<cloneof></cloneof>
+		<crc>71D41261</crc>
+		<manufacturer>Secret Games</manufacturer>
+		<year>1991</year>
+		<genre>Breakout</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Balloon Pop (USA)" index="" image="">
+		<description>Balloon Pop (USA)</description>
+		<cloneof></cloneof>
+		<crc>687C40C8</crc>
+		<manufacturer>White Bag Software</manufacturer>
+		<year>1986</year>
+		<genre>Breakout</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Barkonid (Europe)" index="" image="">
+		<description>Barkonid (Europe)</description>
+		<cloneof></cloneof>
+		<crc>974ADBF5</crc>
+		<manufacturer>MHS</manufacturer>
+		<year>1986</year>
+		<genre>Breakout</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Blip! (Hungary) (Unl)" index="" image="">
+		<description>Blip! (Hungary) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>5FE826E1</crc>
+		<manufacturer>Hard Software</manufacturer>
+		<year>1992</year>
+		<genre>Breakout</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Break It (Germany) (Unl)" index="" image="">
+		<description>Break It (Germany) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>926AF6D1</crc>
+		<manufacturer>Oliver Cyranka</manufacturer>
+		<year>1988</year>
+		<genre>Breakout</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Clowns &amp; Balloons (USA)" index="true" image="c">
+		<description>Clowns &amp; Balloons (USA)</description>
+		<cloneof></cloneof>
+		<crc>33179615</crc>
+		<manufacturer>Datasoft</manufacturer>
+		<year>1982</year>
+		<genre>Breakout</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Crack-Up! (Europe)" index="" image="">
+		<description>Crack-Up! (Europe)</description>
+		<cloneof></cloneof>
+		<crc>5EDD82A7</crc>
+		<manufacturer>Atlantis Software</manufacturer>
+		<year>1989</year>
+		<genre>Breakout</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Exploding Wall (Europe)" index="true" image="e">
+		<description>Exploding Wall (Europe)</description>
+		<cloneof></cloneof>
+		<crc>F9048F31</crc>
+		<manufacturer>Byte Back</manufacturer>
+		<year>1989</year>
+		<genre>Breakout</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Galaxi Barkonid (Germany)" index="true" image="g">
+		<description>Galaxi Barkonid (Germany)</description>
+		<cloneof></cloneof>
+		<crc>5E3EE2D7</crc>
+		<manufacturer>MHS Studio</manufacturer>
+		<year>1991</year>
+		<genre>Breakout</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Jinks (Europe)" index="true" image="j">
+		<description>Jinks (Europe)</description>
+		<cloneof></cloneof>
+		<crc>53518E88</crc>
+		<manufacturer>AMC-Verlag</manufacturer>
+		<year>1991</year>
+		<genre>Breakout</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Kiki Pong (Europe) (Unl)" index="true" image="k">
+		<description>Kiki Pong (Europe) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>20E2C42B</crc>
+		<manufacturer>Bartek Gatz</manufacturer>
+		<year>2003</year>
+		<genre>Breakout</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Laser Tennis (USA)" index="true" image="l">
+		<description>Laser Tennis (USA)</description>
+		<cloneof></cloneof>
+		<crc>E4F6E199</crc>
+		<manufacturer>Allsoft</manufacturer>
+		<year>1983</year>
+		<genre>Breakout</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Magneto (USA)" index="true" image="m">
+		<description>Magneto (USA)</description>
+		<cloneof></cloneof>
+		<crc>F3856C2E</crc>
+		<manufacturer>Aim Software</manufacturer>
+		<year>19xx</year>
+		<genre>Breakout</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Muff (Poland)" index="" image="">
+		<description>Muff (Poland)</description>
+		<cloneof></cloneof>
+		<crc>9BAD954D</crc>
+		<manufacturer>ASF</manufacturer>
+		<year>1992</year>
+		<genre>Breakout</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mutant Bats (Europe)" index="" image="">
+		<description>Mutant Bats (Europe)</description>
+		<cloneof></cloneof>
+		<crc>7FB7A6BB</crc>
+		<manufacturer>Red Rat Software</manufacturer>
+		<year>1986</year>
+		<genre>Breakout</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Nexuss MCMLXXXVIII - Part I (Poland)" index="true" image="n">
+		<description>Nexuss MCMLXXXVIII - Part I (Poland)</description>
+		<cloneof></cloneof>
+		<crc>9FD0448E</crc>
+		<manufacturer>EGR General Programming</manufacturer>
+		<year>1988</year>
+		<genre>Breakout</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pong (USA)" index="true" image="p">
+		<description>Pong (USA)</description>
+		<cloneof></cloneof>
+		<crc>CBAC14E9</crc>
+		<manufacturer>Robert Champagne</manufacturer>
+		<year>19xx</year>
+		<genre>Breakout</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pongblast (Poland) (Unl)" index="" image="">
+		<description>Pongblast (Poland) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>CFD15E40</crc>
+		<manufacturer>RND Group</manufacturer>
+		<year>2003</year>
+		<genre>Breakout</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="See-Saw Scramble (Europe)" index="true" image="s">
+		<description>See-Saw Scramble (Europe)</description>
+		<cloneof></cloneof>
+		<crc>387546FA</crc>
+		<manufacturer>Romik Software</manufacturer>
+		<year>1983</year>
+		<genre>Breakout</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sqoid (USA)" index="" image="">
+		<description>Sqoid (USA)</description>
+		<cloneof></cloneof>
+		<crc>767344C6</crc>
+		<manufacturer>Bit-Soft</manufacturer>
+		<year>1988</year>
+		<genre>Breakout</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Breakout (USA)" index="" image="">
+		<description>Super Breakout (USA)</description>
+		<cloneof></cloneof>
+		<crc>E543757D</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1979</year>
+		<genre>Breakout</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Technoid (Poland)" index="true" image="t">
+		<description>Technoid (Poland)</description>
+		<cloneof></cloneof>
+		<crc>27B429FB</crc>
+		<manufacturer>StanBit</manufacturer>
+		<year>19xx</year>
+		<genre>Breakout</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Unicum (Germany) (Unl)" index="true" image="u">
+		<description>Unicum (Germany) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>E255BAF1</crc>
+		<manufacturer>Happy Computer</manufacturer>
+		<year>1988</year>
+		<genre>Breakout</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

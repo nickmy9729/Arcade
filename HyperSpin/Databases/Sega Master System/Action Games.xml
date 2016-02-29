@@ -1,0 +1,459 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Sega Master System</listname>
+		<lastlistupdate>10/27/2011</lastlistupdate>
+		<listversion>1.1 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="Addams Family, The (Europe)" index="true" image="a">
+		<description>Addams Family, The (Europe)</description>
+		<cloneof></cloneof>
+		<crc>72420F38</crc>
+		<manufacturer>Flying Edge</manufacturer>
+		<year>1992</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Alf (USA)" index="" image="">
+		<description>Alf (USA)</description>
+		<cloneof></cloneof>
+		<crc>82038AD4</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1989</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Alien 3 (Europe)" index="" image="">
+		<description>Alien 3 (Europe)</description>
+		<cloneof></cloneof>
+		<crc>B618B144</crc>
+		<manufacturer>Arena</manufacturer>
+		<year>1992</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Asterix (Europe) (En,Fr) (v1.1)" index="" image="">
+		<description>Asterix (Europe) (En,Fr) (v1.1)</description>
+		<cloneof></cloneof>
+		<crc>8C9D5BE8</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1991</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Aztec Adventure - The Golden Road to Paradise (World)" index="" image="">
+		<description>Aztec Adventure - The Golden Road to Paradise (World)</description>
+		<cloneof></cloneof>
+		<crc>FF614EB3</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1988</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Back to the Future Part II (Europe)" index="true" image="b">
+		<description>Back to the Future Part II (Europe)</description>
+		<cloneof></cloneof>
+		<crc>E5FF50D8</crc>
+		<manufacturer>Imageworks</manufacturer>
+		<year>1990</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Back to the Future Part III (Europe)" index="" image="">
+		<description>Back to the Future Part III (Europe)</description>
+		<cloneof></cloneof>
+		<crc>2D48C1D3</crc>
+		<manufacturer>Imageworks</manufacturer>
+		<year>1993</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Batman Returns (Europe)" index="" image="">
+		<description>Batman Returns (Europe)</description>
+		<cloneof></cloneof>
+		<crc>B154EC38</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1993</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bonanza Bros. (Europe)" index="" image="">
+		<description>Bonanza Bros. (Europe)</description>
+		<cloneof></cloneof>
+		<crc>CAEA8002</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1990</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bram Stoker&apos;s Dracula (Europe)" index="" image="">
+		<description>Bram Stoker&apos;s Dracula (Europe)</description>
+		<cloneof></cloneof>
+		<crc>1B10A951</crc>
+		<manufacturer>Sony Imagesoft</manufacturer>
+		<year>1993</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Choplifter (USA, Europe)" index="true" image="c">
+		<description>Choplifter (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>4A21C15F</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1986</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dead Angle (USA, Europe)" index="true" image="d">
+		<description>Dead Angle (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>E2F7193E</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1989</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Desert Strike (Europe) (En,Fr,De,Es)" index="" image="">
+		<description>Desert Strike (Europe) (En,Fr,De,Es)</description>
+		<cloneof></cloneof>
+		<crc>6C1433F9</crc>
+		<manufacturer>Domark</manufacturer>
+		<year>1992</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dick Tracy (USA, Europe)" index="" image="">
+		<description>Dick Tracy (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>F6FAB48D</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1990</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dynamite Duke (Europe)" index="" image="">
+		<description>Dynamite Duke (Europe)</description>
+		<cloneof></cloneof>
+		<crc>07306947</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1989</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="E-SWAT - City Under Siege (USA, Europe) (Hard Version)" index="true" image="e">
+		<description>E-SWAT - City Under Siege (USA, Europe) (Hard Version)</description>
+		<cloneof></cloneof>
+		<crc>C10FCE39</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1990</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fantasy Zone - The Maze (USA, Europe)" index="true" image="f">
+		<description>Fantasy Zone - The Maze (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>D29889AD</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1988</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Flintstones, The (Europe)" index="" image="">
+		<description>Flintstones, The (Europe)</description>
+		<cloneof></cloneof>
+		<crc>CA5C78A5</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1993</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gauntlet (Europe)" index="true" image="g">
+		<description>Gauntlet (Europe)</description>
+		<cloneof></cloneof>
+		<crc>D9190956</crc>
+		<manufacturer>U.S. Gold</manufacturer>
+		<year>1990</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ghost House (USA, Europe)" index="" image="">
+		<description>Ghost House (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>F1F8FF2D</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1986</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ghostbusters (USA, Europe)" index="" image="">
+		<description>Ghostbusters (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>1DDC3059</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1987</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hang-On &amp; Safari Hunt (USA)" index="true" image="h">
+		<description>Hang-On &amp; Safari Hunt (USA)</description>
+		<cloneof></cloneof>
+		<crc>E167A561</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1986</year>
+		<genre>Action/Motorcycle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Home Alone (Europe)" index="" image="">
+		<description>Home Alone (Europe)</description>
+		<cloneof></cloneof>
+		<crc>C9DBF936</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1993</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Incredible Crash Dummies, The (Europe)" index="true" image="i">
+		<description>Incredible Crash Dummies, The (Europe)</description>
+		<cloneof></cloneof>
+		<crc>B4584DDE</crc>
+		<manufacturer>Flying Edge</manufacturer>
+		<year>1993</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Indiana Jones and the Last Crusade (Europe)" index="" image="">
+		<description>Indiana Jones and the Last Crusade (Europe)</description>
+		<cloneof></cloneof>
+		<crc>8AEB574B</crc>
+		<manufacturer>U.S. Gold</manufacturer>
+		<year>1990</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Jungle Book, The (Europe)" index="true" image="j">
+		<description>Jungle Book, The (Europe)</description>
+		<cloneof></cloneof>
+		<crc>695A9A15</crc>
+		<manufacturer>Virgin Interactive</manufacturer>
+		<year>1993</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Marble Madness (Europe)" index="true" image="m">
+		<description>Marble Madness (Europe)</description>
+		<cloneof></cloneof>
+		<crc>BF6F3E5F</crc>
+		<manufacturer>Virgin Interactive</manufacturer>
+		<year>1992</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Master of Darkness (Europe)" index="" image="">
+		<description>Master of Darkness (Europe)</description>
+		<cloneof></cloneof>
+		<crc>96FB4D4B</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1992</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Maze Hunter 3-D (USA, Europe)" index="" image="">
+		<description>Maze Hunter 3-D (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>31B8040B</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1987</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ms. Pac-Man (Europe)" index="" image="">
+		<description>Ms. Pac-Man (Europe)</description>
+		<cloneof></cloneof>
+		<crc>3CD816C6</crc>
+		<manufacturer>Tengen</manufacturer>
+		<year>1987</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ninja, The (USA, Europe)" index="true" image="n">
+		<description>Ninja, The (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>66A15BD9</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1987</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pac-Mania (Europe)" index="true" image="p">
+		<description>Pac-Mania (Europe)</description>
+		<cloneof></cloneof>
+		<crc>BE57A9A5</crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1991</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Paperboy (USA)" index="" image="">
+		<description>Paperboy (USA)</description>
+		<cloneof></cloneof>
+		<crc>327A0B4C</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1990</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Poseidon Wars 3-D (USA, Europe)" index="" image="">
+		<description>Poseidon Wars 3-D (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>ABD48AD2</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1989</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Predator 2 (Europe)" index="" image="">
+		<description>Predator 2 (Europe)</description>
+		<cloneof></cloneof>
+		<crc>0047B615</crc>
+		<manufacturer>Arena</manufacturer>
+		<year>1991</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Psychic World (Europe)" index="" image="">
+		<description>Psychic World (Europe)</description>
+		<cloneof></cloneof>
+		<crc>5C0B1F0F</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1991</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rambo III (USA, Europe)" index="true" image="r">
+		<description>Rambo III (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>DA5A7013</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1988</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rampage (USA, Europe)" index="" image="">
+		<description>Rampage (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>42FC47EE</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>1988</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rescue Mission (USA, Europe)" index="" image="">
+		<description>Rescue Mission (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>79AC8E7F</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1988</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Simpsons, The - Bart vs. The World (Europe)" index="true" image="s">
+		<description>Simpsons, The - Bart vs. The World (Europe)</description>
+		<cloneof></cloneof>
+		<crc>F6B2370A</crc>
+		<manufacturer>Flying Edge</manufacturer>
+		<year>1993</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Spider-Man vs. The Kingpin (USA, Europe)" index="" image="">
+		<description>Spider-Man vs. The Kingpin (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>908FF25C</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1991</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Spy vs. Spy (USA, Europe)" index="" image="">
+		<description>Spy vs. Spy (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>78D7FAAB</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1988</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Submarine Attack (Europe)" index="" image="">
+		<description>Submarine Attack (Europe)</description>
+		<cloneof></cloneof>
+		<crc>D8F2F1B9</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1993</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Smash T.V. (Europe)" index="" image="">
+		<description>Super Smash T.V. (Europe)</description>
+		<cloneof></cloneof>
+		<crc>E0B1AFF8</crc>
+		<manufacturer>Flying Edge</manufacturer>
+		<year>1992</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Wanted (USA, Europe)" index="true" image="w">
+		<description>Wanted (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>5359762D</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1989</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

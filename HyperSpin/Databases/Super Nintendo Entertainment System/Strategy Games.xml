@@ -1,0 +1,379 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Super Nintendo Entertainment System</listname>
+		<lastlistupdate>11/26/2011</lastlistupdate>
+		<listversion>1.3 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="Aerobiz (USA)" index="true" image="a">
+		<description>Aerobiz (USA)</description>
+		<cloneof></cloneof>
+		<crc>54302a46</crc>
+		<manufacturer>Koei</manufacturer>
+		<year>1993</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Aerobiz Supersonic (USA)" index="" image="">
+		<description>Aerobiz Supersonic (USA)</description>
+		<cloneof></cloneof>
+		<crc>efafab12</crc>
+		<manufacturer>Koei</manufacturer>
+		<year>1993</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cannon Fodder (Europe)" index="true" image="c">
+		<description>Cannon Fodder (Europe)</description>
+		<cloneof></cloneof>
+		<crc>f3b5cbb1</crc>
+		<manufacturer>Virgin Interactive</manufacturer>
+		<year>1994</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Carrier Aces (USA)" index="" image="">
+		<description>Carrier Aces (USA)</description>
+		<cloneof></cloneof>
+		<crc>8bc5b8de</crc>
+		<manufacturer>Cybersoft</manufacturer>
+		<year>1995</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Civilization (USA)" index="" image="">
+		<description>Civilization (USA)</description>
+		<cloneof></cloneof>
+		<crc>41fdba82</crc>
+		<manufacturer>Microprose</manufacturer>
+		<year>1994</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gemfire (USA)" index="true" image="g">
+		<description>Gemfire (USA)</description>
+		<cloneof></cloneof>
+		<crc>ee801a54</crc>
+		<manufacturer>Koei</manufacturer>
+		<year>1992</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Genghis Khan II - Clan of the Gray Wolf (USA)" index="" image="">
+		<description>Genghis Khan II - Clan of the Gray Wolf (USA)</description>
+		<cloneof></cloneof>
+		<crc>d7875512</crc>
+		<manufacturer>Koei</manufacturer>
+		<year>1993</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Harvest Moon (USA)" index="true" image="h">
+		<description>Harvest Moon (USA)</description>
+		<cloneof></cloneof>
+		<crc>f829129e</crc>
+		<manufacturer>Natsume</manufacturer>
+		<year>1997</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Liberty or Death (USA)" index="true" image="l">
+		<description>Liberty or Death (USA)</description>
+		<cloneof></cloneof>
+		<crc>75e362a6</crc>
+		<manufacturer>Koei</manufacturer>
+		<year>1994</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mega lo Mania (Europe)" index="true" image="m">
+		<description>Mega lo Mania (Europe)</description>
+		<cloneof></cloneof>
+		<crc>e8042edf</crc>
+		<manufacturer>Imagineer</manufacturer>
+		<year>1994</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Metal Marines (USA)" index="" image="">
+		<description>Metal Marines (USA)</description>
+		<cloneof></cloneof>
+		<crc>66787df6</crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1993</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="New Horizons (USA)" index="true" image="n">
+		<description>New Horizons (USA)</description>
+		<cloneof></cloneof>
+		<crc>3c3c63e6</crc>
+		<manufacturer>Koei</manufacturer>
+		<year>1994</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Nobunaga&apos;s Ambition (USA)" index="" image="">
+		<description>Nobunaga&apos;s Ambition (USA)</description>
+		<cloneof></cloneof>
+		<crc>49da3583</crc>
+		<manufacturer>Koei</manufacturer>
+		<year>1993</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Nobunaga&apos;s Ambition - Lord of Darkness (USA)" index="" image="">
+		<description>Nobunaga&apos;s Ambition - Lord of Darkness (USA)</description>
+		<cloneof></cloneof>
+		<crc>4d7b39cd</crc>
+		<manufacturer>Koei</manufacturer>
+		<year>1994</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ogre Battle - The March of the Black Queen (USA)" index="true" image="o">
+		<description>Ogre Battle - The March of the Black Queen (USA)</description>
+		<cloneof></cloneof>
+		<crc>acfdb7b8</crc>
+		<manufacturer>Enix</manufacturer>
+		<year>1993</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Operation Europe - Path to Victory 1939-45 (USA)" index="" image="">
+		<description>Operation Europe - Path to Victory 1939-45 (USA)</description>
+		<cloneof></cloneof>
+		<crc>f84c2bb6</crc>
+		<manufacturer>Koei</manufacturer>
+		<year>1994</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="P.T.O. - Pacific Theater of Operations (USA)" index="true" image="p">
+		<description>P.T.O. - Pacific Theater of Operations (USA)</description>
+		<cloneof></cloneof>
+		<crc>e51bbac8</crc>
+		<manufacturer>Koei</manufacturer>
+		<year>1993</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="P.T.O. II - Pacific Theater of Operations (USA)" index="" image="">
+		<description>P.T.O. II - Pacific Theater of Operations (USA)</description>
+		<cloneof></cloneof>
+		<crc>a614d268</crc>
+		<manufacturer>Koei</manufacturer>
+		<year>1995</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Populous (USA)" index="" image="">
+		<description>Populous (USA)</description>
+		<cloneof></cloneof>
+		<crc>2df4aa0f</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1991</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Populous II - Trials of the Olympian Gods (Europe)" index="" image="">
+		<description>Populous II - Trials of the Olympian Gods (Europe)</description>
+		<cloneof></cloneof>
+		<crc>6c28cc39</crc>
+		<manufacturer>Imagineer</manufacturer>
+		<year>1993</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="PowerMonger (Europe)" index="" image="">
+		<description>PowerMonger (Europe)</description>
+		<cloneof></cloneof>
+		<crc>bc06f982</crc>
+		<manufacturer>Imagineer</manufacturer>
+		<year>1993</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rise of the Phoenix (USA)" index="true" image="r">
+		<description>Rise of the Phoenix (USA)</description>
+		<cloneof></cloneof>
+		<crc>908b90b1</crc>
+		<manufacturer>Koei</manufacturer>
+		<year>1995</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Romance of the Three Kingdoms II (USA)" index="" image="">
+		<description>Romance of the Three Kingdoms II (USA)</description>
+		<cloneof></cloneof>
+		<crc>8033574a</crc>
+		<manufacturer>Koei</manufacturer>
+		<year>1995</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Romance of the Three Kingdoms III - Dragon of Destiny (USA)" index="" image="">
+		<description>Romance of the Three Kingdoms III - Dragon of Destiny (USA)</description>
+		<cloneof></cloneof>
+		<crc>523b0d02</crc>
+		<manufacturer>Koei</manufacturer>
+		<year>1994</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Romance of the Three Kingdoms IV - Wall of Fire (USA)" index="" image="">
+		<description>Romance of the Three Kingdoms IV - Wall of Fire (USA)</description>
+		<cloneof></cloneof>
+		<crc>82af5b69</crc>
+		<manufacturer>Koei</manufacturer>
+		<year>1995</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="SimAnt (USA)" index="true" image="s">
+		<description>SimAnt (USA)</description>
+		<cloneof></cloneof>
+		<crc>d08c05df</crc>
+		<manufacturer>Maxis</manufacturer>
+		<year>1993</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="SimCity (USA)" index="" image="">
+		<description>SimCity (USA)</description>
+		<cloneof></cloneof>
+		<crc>8aedd3a1</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1991</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="SimCity 2000 (USA)" index="" image="">
+		<description>SimCity 2000 (USA)</description>
+		<cloneof></cloneof>
+		<crc>2d5dc011</crc>
+		<manufacturer>Black Pearl</manufacturer>
+		<year>1996</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="SimEarth - The Living Planet (USA)" index="" image="">
+		<description>SimEarth - The Living Planet (USA)</description>
+		<cloneof></cloneof>
+		<crc>7fa5b218</crc>
+		<manufacturer>FCI, Inc.</manufacturer>
+		<year>1993</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Battleship (USA)" index="" image="">
+		<description>Super Battleship (USA)</description>
+		<cloneof></cloneof>
+		<crc>6fcea1a1</crc>
+		<manufacturer>Mindscape</manufacturer>
+		<year>1993</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Syndicate (USA)" index="" image="">
+		<description>Syndicate (USA)</description>
+		<cloneof></cloneof>
+		<crc>d74570d3</crc>
+		<manufacturer>Ocean</manufacturer>
+		<year>1995</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Theme Park (Europe)" index="true" image="t">
+		<description>Theme Park (Europe)</description>
+		<cloneof></cloneof>
+		<crc>ca0e041c</crc>
+		<manufacturer>Ocean</manufacturer>
+		<year>1996</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Uncharted Waters (USA)" index="true" image="u">
+		<description>Uncharted Waters (USA)</description>
+		<cloneof></cloneof>
+		<crc>95724a2f</crc>
+		<manufacturer>Koei</manufacturer>
+		<year>1992</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Utopia - The Creation of a Nation (USA)" index="" image="">
+		<description>Utopia - The Creation of a Nation (USA)</description>
+		<cloneof></cloneof>
+		<crc>252a96c7</crc>
+		<manufacturer>Jaleco</manufacturer>
+		<year>1993</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="War 2410 (USA)" index="true" image="w">
+		<description>War 2410 (USA)</description>
+		<cloneof></cloneof>
+		<crc>ad2dc53a</crc>
+		<manufacturer>Advanced Productions</manufacturer>
+		<year>1995</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="War 3010 - The Revolution (USA)" index="" image="">
+		<description>War 3010 - The Revolution (USA)</description>
+		<cloneof></cloneof>
+		<crc>98c974be</crc>
+		<manufacturer>Advanced Productions Inc.</manufacturer>
+		<year>1996</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Worms (Europe)" index="" image="">
+		<description>Worms (Europe)</description>
+		<cloneof></cloneof>
+		<crc>90d0fac0</crc>
+		<manufacturer>Ocean</manufacturer>
+		<year>1996</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

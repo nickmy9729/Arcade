@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Nintendo 64</listname>
+		<lastlistupdate>11/15/2011</lastlistupdate>
+		<listversion>1.1 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="FIFA - Road to World Cup 98 (USA) (En,Fr,De,Es,It,Nl,Sv)" index="true" image="f">
+		<description>FIFA - Road to World Cup 98 (USA) (En,Fr,De,Es,It,Nl,Sv)</description>
+		<cloneof></cloneof>
+		<crc>9504B3DF</crc>
+		<manufacturer>Electronic Arts</manufacturer>
+		<year></year>
+		<genre>Soccer/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="FIFA 99 (USA) (En,Fr,De,Es,It,Nl,Pt,Sv)" index="" image="">
+		<description>FIFA 99 (USA) (En,Fr,De,Es,It,Nl,Pt,Sv)</description>
+		<cloneof></cloneof>
+		<crc>D69DD3D1</crc>
+		<manufacturer>Electronic Arts</manufacturer>
+		<year>1998</year>
+		<genre>Soccer/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="FIFA Soccer 64 (USA) (En,Fr,De)" index="" image="">
+		<description>FIFA Soccer 64 (USA) (En,Fr,De)</description>
+		<cloneof></cloneof>
+		<crc>3B22F9F2</crc>
+		<manufacturer>EA Sports</manufacturer>
+		<year>1997</year>
+		<genre>Soccer/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="International Superstar Soccer &apos;98 (USA)" index="true" image="i">
+		<description>International Superstar Soccer &apos;98 (USA)</description>
+		<cloneof></cloneof>
+		<crc>D685F2EC</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1998</year>
+		<genre>Soccer/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="International Superstar Soccer 2000 (USA) (En,Es)" index="" image="">
+		<description>International Superstar Soccer 2000 (USA) (En,Es)</description>
+		<cloneof></cloneof>
+		<crc>BB1824B8</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>2000</year>
+		<genre>Soccer/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="International Superstar Soccer 64 (USA)" index="" image="">
+		<description>International Superstar Soccer 64 (USA)</description>
+		<cloneof></cloneof>
+		<crc>91CB6803</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1997</year>
+		<genre>Soccer/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mia Hamm Soccer 64 (USA) (En,Es)" index="true" image="m">
+		<description>Mia Hamm Soccer 64 (USA) (En,Es)</description>
+		<cloneof></cloneof>
+		<crc>3AA4BFF5</crc>
+		<manufacturer>SouthPeak Games</manufacturer>
+		<year>2000</year>
+		<genre>Soccer/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Premier Manager 64 (Europe)" index="true" image="p">
+		<description>Premier Manager 64 (Europe)</description>
+		<cloneof></cloneof>
+		<crc>74A0C415</crc>
+		<manufacturer>Gremlin Interactive</manufacturer>
+		<year>1999</year>
+		<genre>Soccer/Sports</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="World Cup 98 (USA) (En,Fr,De,Es,It,Nl,Sv,Da)" index="true" image="w">
+		<description>World Cup 98 (USA) (En,Fr,De,Es,It,Nl,Sv,Da)</description>
+		<cloneof></cloneof>
+		<crc>B875CD94</crc>
+		<manufacturer>EA Sports</manufacturer>
+		<year>1998</year>
+		<genre>Soccer/Sports</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

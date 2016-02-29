@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Sega Game Gear</listname>
+		<lastlistupdate>11/01/2011</lastlistupdate>
+		<listversion>1.1 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="Aerial Assault (World)" index="true" image="a">
+		<description>Aerial Assault (World)</description>
+		<cloneof></cloneof>
+		<crc>3E549B7A</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1992</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fantasy Zone Gear (Japan, Europe)" index="true" image="f">
+		<description>Fantasy Zone Gear (Japan, Europe)</description>
+		<cloneof></cloneof>
+		<crc>D69097E8</crc>
+		<manufacturer>Sims</manufacturer>
+		<year>1991</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Halley Wars (USA, Europe)" index="true" image="h">
+		<description>Halley Wars (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>7E9DEA46</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1991</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Power Strike II (Japan, Europe)" index="true" image="p">
+		<description>Power Strike II (Japan, Europe)</description>
+		<cloneof></cloneof>
+		<crc>09DE1528</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1994</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Space Invaders (USA, Europe)" index="true" image="s">
+		<description>Super Space Invaders (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>DFE38E24</crc>
+		<manufacturer>Domark</manufacturer>
+		<year>1993</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

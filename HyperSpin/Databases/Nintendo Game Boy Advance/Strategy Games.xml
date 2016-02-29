@@ -1,0 +1,289 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Nintendo Game Boy Advance</listname>
+		<lastlistupdate>10/27/2011</lastlistupdate>
+		<listversion>1.1 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="Advance Wars (USA) (Rev 1)" index="true" image="a">
+		<description>Advance Wars (USA) (Rev 1)</description>
+		<cloneof></cloneof>
+		<crc>26FD0FC9</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2001</year>
+		<genre>Strategy</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Advance Wars 2 - Black Hole Rising (USA, Australia)" index="" image="">
+		<description>Advance Wars 2 - Black Hole Rising (USA, Australia)</description>
+		<cloneof></cloneof>
+		<crc>5AD0E571</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2003</year>
+		<genre>Strategy</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Creatures (Europe) (En,Fr,De)" index="true" image="c">
+		<description>Creatures (Europe) (En,Fr,De)</description>
+		<cloneof></cloneof>
+		<crc>68206301</crc>
+		<manufacturer>Swing! Deutschland</manufacturer>
+		<year>2002</year>
+		<genre>Strategy</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Defender of the Crown (USA)" index="true" image="d">
+		<description>Defender of the Crown (USA)</description>
+		<cloneof></cloneof>
+		<crc>DE6698FE</crc>
+		<manufacturer>Metro3D</manufacturer>
+		<year>2002</year>
+		<genre>Strategy</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fire Emblem (USA, Australia)" index="true" image="f">
+		<description>Fire Emblem (USA, Australia)</description>
+		<cloneof></cloneof>
+		<crc>2A524221</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2003</year>
+		<genre>Strategy</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fire Emblem - The Sacred Stones (USA, Australia)" index="" image="">
+		<description>Fire Emblem - The Sacred Stones (USA, Australia)</description>
+		<cloneof></cloneof>
+		<crc>A47246AE</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2005</year>
+		<genre>Strategy</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fortress (USA, Europe)" index="" image="">
+		<description>Fortress (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>BEE67855</crc>
+		<manufacturer>Majesco Games</manufacturer>
+		<year>2001</year>
+		<genre>Strategy</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Harvest Moon - Friends of Mineral Town (USA)" index="true" image="h">
+		<description>Harvest Moon - Friends of Mineral Town (USA)</description>
+		<cloneof></cloneof>
+		<crc>8E923168</crc>
+		<manufacturer>Natsume</manufacturer>
+		<year>2003</year>
+		<genre>Strategy</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Harvest Moon - More Friends of Mineral Town (USA)" index="" image="">
+		<description>Harvest Moon - More Friends of Mineral Town (USA)</description>
+		<cloneof></cloneof>
+		<crc>1736B957</crc>
+		<manufacturer>Natsume</manufacturer>
+		<year>2005</year>
+		<genre>Strategy</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Jurassic Park III - Park Builder (USA)" index="true" image="j">
+		<description>Jurassic Park III - Park Builder (USA)</description>
+		<cloneof></cloneof>
+		<crc>EDDDCF19</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>2001</year>
+		<genre>Strategy</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lord of the Rings, The - The Third Age (USA, Europe) (En,Fr,De,Es,It)" index="true" image="l">
+		<description>Lord of the Rings, The - The Third Age (USA, Europe) (En,Fr,De,Es,It)</description>
+		<cloneof></cloneof>
+		<crc>2DEF3656</crc>
+		<manufacturer>EA Games</manufacturer>
+		<year>2004</year>
+		<genre>Strategy</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mech Platoon (USA)" index="true" image="m">
+		<description>Mech Platoon (USA)</description>
+		<cloneof></cloneof>
+		<crc>769FDE96</crc>
+		<manufacturer>Kemco</manufacturer>
+		<year>2002</year>
+		<genre>Strategy</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Monster Rancher Advance (USA)" index="" image="">
+		<description>Monster Rancher Advance (USA)</description>
+		<cloneof></cloneof>
+		<crc>42CFA4B5</crc>
+		<manufacturer>Tecmo</manufacturer>
+		<year>2001</year>
+		<genre>Strategy</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Monster Rancher Advance 2 (USA)" index="" image="">
+		<description>Monster Rancher Advance 2 (USA)</description>
+		<cloneof></cloneof>
+		<crc>1D695B1B</crc>
+		<manufacturer>Tecmo</manufacturer>
+		<year>2002</year>
+		<genre>Strategy</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Onimusha Tactics (USA)" index="true" image="o">
+		<description>Onimusha Tactics (USA)</description>
+		<cloneof></cloneof>
+		<crc>70475D7F</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>2003</year>
+		<genre>Strategy</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Paws &amp; Claws - Pet Resort (USA)" index="true" image="p">
+		<description>Paws &amp; Claws - Pet Resort (USA)</description>
+		<cloneof></cloneof>
+		<crc>E58DA71E</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2006</year>
+		<genre>Strategy</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Puppy Luv - Spa and Resort (USA)" index="" image="">
+		<description>Puppy Luv - Spa and Resort (USA)</description>
+		<cloneof></cloneof>
+		<crc>04146DD6</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2007</year>
+		<genre>Strategy</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rebelstar - Tactical Command (USA)" index="true" image="r">
+		<description>Rebelstar - Tactical Command (USA)</description>
+		<cloneof></cloneof>
+		<crc>FB6C590F</crc>
+		<manufacturer>Namco</manufacturer>
+		<year>2005</year>
+		<genre>Strategy</genre>
+		<rating>ESRB - E10+ (Everyone 10+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sea Trader - Rise of Taipan (USA)" index="true" image="s">
+		<description>Sea Trader - Rise of Taipan (USA)</description>
+		<cloneof></cloneof>
+		<crc>7597E8C1</crc>
+		<manufacturer>Jaleco Entertainment</manufacturer>
+		<year>2003</year>
+		<genre>Strategy</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sheep (Europe) (En,Fr,De,Es,It)" index="" image="">
+		<description>Sheep (Europe) (En,Fr,De,Es,It)</description>
+		<cloneof></cloneof>
+		<crc>75A92925</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>2002</year>
+		<genre>Strategy</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Shining Force - Resurrection of the Dark Dragon (USA)" index="" image="">
+		<description>Shining Force - Resurrection of the Dark Dragon (USA)</description>
+		<cloneof></cloneof>
+		<crc>563AA3A0</crc>
+		<manufacturer>Atlus Co.</manufacturer>
+		<year>2004</year>
+		<genre>Strategy</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sim City 2000 (USA)" index="" image="">
+		<description>Sim City 2000 (USA)</description>
+		<cloneof></cloneof>
+		<crc>733751B3</crc>
+		<manufacturer>Destination Software</manufacturer>
+		<year>2003</year>
+		<genre>Strategy</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Robot Taisen - Original Generation (USA)" index="" image="">
+		<description>Super Robot Taisen - Original Generation (USA)</description>
+		<cloneof></cloneof>
+		<crc>58E86266</crc>
+		<manufacturer>Atlus Co.</manufacturer>
+		<year>2006</year>
+		<genre>Strategy</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Robot Taisen - Original Generation 2 (USA)" index="" image="">
+		<description>Super Robot Taisen - Original Generation 2 (USA)</description>
+		<cloneof></cloneof>
+		<crc>2AEE0380</crc>
+		<manufacturer>Atlus Co.</manufacturer>
+		<year>2006</year>
+		<genre>Strategy</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tactics Ogre - The Knight of Lodis (USA)" index="true" image="t">
+		<description>Tactics Ogre - The Knight of Lodis (USA)</description>
+		<cloneof></cloneof>
+		<crc>6649D2CE</crc>
+		<manufacturer>Atlus Co.</manufacturer>
+		<year>2002</year>
+		<genre>Strategy</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Yggdra Union - We&apos;ll Never Fight Alone (USA)" index="true" image="y">
+		<description>Yggdra Union - We&apos;ll Never Fight Alone (USA)</description>
+		<cloneof></cloneof>
+		<crc>3BFA68F7</crc>
+		<manufacturer>Atlus Co.</manufacturer>
+		<year>2006</year>
+		<genre>Strategy</genre>
+		<rating>ESRB - T (Teen)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Yu Yu Hakusho - Ghostfiles - Tournament Tactics (USA, Europe)" index="" image="">
+		<description>Yu Yu Hakusho - Ghostfiles - Tournament Tactics (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>AEF6B7CC</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>2004</year>
+		<genre>Strategy</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Zone of the Enders - The Fist of Mars (USA)" index="true" image="z">
+		<description>Zone of the Enders - The Fist of Mars (USA)</description>
+		<cloneof></cloneof>
+		<crc>24244415</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>2002</year>
+		<genre>Strategy</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

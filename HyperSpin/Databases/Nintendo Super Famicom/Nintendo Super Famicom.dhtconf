@@ -1,0 +1,8 @@
+<DonsHyperSpinListGenerator VersionMajor="4">
+  <Wheel>Nintendo Super Famicom</Wheel>
+  <OutputFile>M:\Arcade\HyperSpin\Databases\Nintendo Super Famicom\Nintendo Super Famicom.xml</OutputFile>
+  <SourceFile>M:\Hyperlists\Nintendo Super Famicom.xml</SourceFile>
+  <ExcludeFile>M:\Arcade\HyperSpin\Databases\Nintendo Super Famicom\Nintendo Super Famicom_excluded.xml</ExcludeFile>
+  <MameXmlFile>
+  </MameXmlFile>
+</DonsHyperSpinListGenerator>

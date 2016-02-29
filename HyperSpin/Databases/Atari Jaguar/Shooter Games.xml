@@ -1,0 +1,129 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Atari Jaguar</listname>
+		<lastlistupdate>06/08/2013</lastlistupdate>
+		<listversion>1.1 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="Alien vs Predator (World)" index="true" image="a">
+		<description>Alien vs Predator (World)</description>
+		<cloneof></cloneof>
+		<crc>DC187F82</crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1994</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - PG (Parental Guidance)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cybermorph (World) (Rev 2)" index="true" image="c">
+		<description>Cybermorph (World) (Rev 2)</description>
+		<cloneof></cloneof>
+		<crc>ECF854E7</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1993</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Defender 2000 (World)" index="true" image="d">
+		<description>Defender 2000 (World)</description>
+		<cloneof></cloneof>
+		<crc>27594C6A</crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1996</year>
+		<genre>Shooter</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Doom (World)" index="" image="">
+		<description>Doom (World)</description>
+		<cloneof></cloneof>
+		<crc>5E2CDBC0</crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1994</year>
+		<genre>Shooter</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Protector - Special Edition (World)" index="true" image="p">
+		<description>Protector - Special Edition (World)</description>
+		<cloneof></cloneof>
+		<crc>A56D0798</crc>
+		<manufacturer>Songbird Productions</manufacturer>
+		<year>2002</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Raiden (World)" index="true" image="r">
+		<description>Raiden (World)</description>
+		<cloneof></cloneof>
+		<crc>0509C85E</crc>
+		<manufacturer>Fabtek</manufacturer>
+		<year>1994</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Skyhammer (World)" index="true" image="s">
+		<description>Skyhammer (World)</description>
+		<cloneof></cloneof>
+		<crc>3C044941</crc>
+		<manufacturer>Songbird Productions</manufacturer>
+		<year>2000</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tempest 2000 (World)" index="true" image="t">
+		<description>Tempest 2000 (World)</description>
+		<cloneof></cloneof>
+		<crc>6B2B95AD</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1994</year>
+		<genre>Shooter</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Total Carnage (World)" index="" image="">
+		<description>Total Carnage (World)</description>
+		<cloneof></cloneof>
+		<crc>C654681B</crc>
+		<manufacturer>Songbird Productions</manufacturer>
+		<year>2005</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Trevor McFur in the Crescent Galaxy (World)" index="" image="">
+		<description>Trevor McFur in the Crescent Galaxy (World)</description>
+		<cloneof></cloneof>
+		<crc>1E451446</crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1993</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Wolfenstein 3D (World)" index="true" image="w">
+		<description>Wolfenstein 3D (World)</description>
+		<cloneof></cloneof>
+		<crc>E91BD644</crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1994</year>
+		<genre>Shooter</genre>
+		<rating>ESRB - M (Mature)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Zero 5 (World)" index="true" image="z">
+		<description>Zero 5 (World)</description>
+		<cloneof></cloneof>
+		<crc>61C7EEC0</crc>
+		<manufacturer>Telegames, Inc.</manufacturer>
+		<year>1997</year>
+		<genre>Shooter</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

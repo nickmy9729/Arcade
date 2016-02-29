@@ -1,0 +1,179 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Nintendo Entertainment System</listname>
+		<lastlistupdate>07/28/2013</lastlistupdate>
+		<listversion>1.1 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="Baby Boomer (USA) (Unl)" index="true" image="b">
+		<description>Baby Boomer (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>BBE40DC4</crc>
+		<manufacturer>Color Dreams</manufacturer>
+		<year>1989</year>
+		<genre>Gun</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Barker Bill&apos;s Trick Shooting (USA)" index="" image="">
+		<description>Barker Bill&apos;s Trick Shooting (USA)</description>
+		<cloneof></cloneof>
+		<crc>4318A2F8</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1990</year>
+		<genre>Gun</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Chiller (USA) (Unl)" index="true" image="c">
+		<description>Chiller (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>B79F2651</crc>
+		<manufacturer>American Game Cartridges, Inc.</manufacturer>
+		<year>1990</year>
+		<genre>Gun</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Duck Hunt (World)" index="true" image="d">
+		<description>Duck Hunt (World)</description>
+		<cloneof></cloneof>
+		<crc>24598791</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1985</year>
+		<genre>Gun</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Freedom Force (USA)" index="true" image="f">
+		<description>Freedom Force (USA)</description>
+		<cloneof></cloneof>
+		<crc>3E58A87E</crc>
+		<manufacturer>SunSoft</manufacturer>
+		<year>1988</year>
+		<genre>Gun</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gotcha! - The Sport! (USA)" index="true" image="g">
+		<description>Gotcha! - The Sport! (USA)</description>
+		<cloneof></cloneof>
+		<crc>4E959173</crc>
+		<manufacturer>LJN Ltd.</manufacturer>
+		<year>1987</year>
+		<genre>Gun</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gumshoe (USA, Europe)" index="" image="">
+		<description>Gumshoe (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>BEB8AB01</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1986</year>
+		<genre>Gun</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hogan&apos;s Alley (World)" index="true" image="h">
+		<description>Hogan&apos;s Alley (World)</description>
+		<cloneof></cloneof>
+		<crc>FF24D794</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1985</year>
+		<genre>Gun</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Laser Invasion (USA)" index="true" image="l">
+		<description>Laser Invasion (USA)</description>
+		<cloneof></cloneof>
+		<crc>B0480AE9</crc>
+		<manufacturer>Ultra</manufacturer>
+		<year>1991</year>
+		<genre>Gun</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mechanized Attack (USA)" index="true" image="m">
+		<description>Mechanized Attack (USA)</description>
+		<cloneof></cloneof>
+		<crc>5EE6008E</crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1990</year>
+		<genre>Gun</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Operation Wolf (USA) (Rev 0A)" index="true" image="o">
+		<description>Operation Wolf (USA) (Rev 0A)</description>
+		<cloneof></cloneof>
+		<crc>EDC3662B</crc>
+		<manufacturer>Taito Corporation</manufacturer>
+		<year>1989</year>
+		<genre>Gun</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Shooting Range (USA)" index="true" image="s">
+		<description>Shooting Range (USA)</description>
+		<cloneof></cloneof>
+		<crc>851EB9BE</crc>
+		<manufacturer>Bandai</manufacturer>
+		<year>1989</year>
+		<genre>Gun</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Mario Bros. + Duck Hunt (USA)" index="" image="">
+		<description>Super Mario Bros. + Duck Hunt (USA)</description>
+		<cloneof></cloneof>
+		<crc>D26EFD78</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1988</year>
+		<genre>Gun/Platform</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Mario Bros. + Duck Hunt + World Class Track Meet (USA) (Rev A)" index="" image="">
+		<description>Super Mario Bros. + Duck Hunt + World Class Track Meet (USA) (Rev A)</description>
+		<cloneof></cloneof>
+		<crc>60E63537</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1990</year>
+		<genre>Gun/Platform/Track &amp; Field</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Mario Bros. + Tetris + Nintendo World Cup (Europe) (Rev A)" index="" image="">
+		<description>Super Mario Bros. + Tetris + Nintendo World Cup (Europe) (Rev A)</description>
+		<cloneof></cloneof>
+		<crc>F46EF39A</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1988</year>
+		<genre>Gun/Platform/Soccer</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="To the Earth (USA)" index="true" image="t">
+		<description>To the Earth (USA)</description>
+		<cloneof></cloneof>
+		<crc>DE8FD935</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1989</year>
+		<genre>Gun</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Wild Gunman (World) (Rev A)" index="true" image="w">
+		<description>Wild Gunman (World) (Rev A)</description>
+		<cloneof></cloneof>
+		<crc>5112DC21</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1985</year>
+		<genre>Gun</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

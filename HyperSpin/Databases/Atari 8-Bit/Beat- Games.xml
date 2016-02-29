@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Atari 8-Bit</listname>
+		<lastlistupdate>05/17/2015</lastlistupdate>
+		<listversion>1.0</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="Droga Wojownika (Poland)" index="true" image="d">
+		<description>Droga Wojownika (Poland)</description>
+		<cloneof></cloneof>
+		<crc>DB867533</crc>
+		<manufacturer>ASF</manufacturer>
+		<year>1993</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Joe Blade (Europe)" index="true" image="j">
+		<description>Joe Blade (Europe)</description>
+		<cloneof></cloneof>
+		<crc>2F126FDF</crc>
+		<manufacturer>Players</manufacturer>
+		<year>1988</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Karateka (USA)" index="true" image="k">
+		<description>Karateka (USA)</description>
+		<cloneof></cloneof>
+		<crc>6F93C6F5</crc>
+		<manufacturer>Broderbund</manufacturer>
+		<year>1985</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ninja (USA)" index="true" image="n">
+		<description>Ninja (USA)</description>
+		<cloneof></cloneof>
+		<crc>7178B4B4</crc>
+		<manufacturer>Mastertronic</manufacturer>
+		<year>1986</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Riot (Poland)" index="true" image="r">
+		<description>Riot (Poland)</description>
+		<cloneof></cloneof>
+		<crc>C8A25359</crc>
+		<manufacturer>Domain Software</manufacturer>
+		<year>1992</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

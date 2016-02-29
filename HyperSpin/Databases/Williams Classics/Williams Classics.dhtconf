@@ -1,0 +1,8 @@
+<DonsHyperSpinListGenerator VersionMajor="4">
+  <Wheel>Williams Classics</Wheel>
+  <OutputFile>M:\Arcade\HyperSpin\Databases\Williams Classics\Williams Classics.xml</OutputFile>
+  <SourceFile>M:\Hyperlists\Williams Classics.xml</SourceFile>
+  <ExcludeFile>M:\Arcade\HyperSpin\Databases\Williams Classics\Williams Classics_excluded.xml</ExcludeFile>
+  <MameXmlFile>
+  </MameXmlFile>
+</DonsHyperSpinListGenerator>

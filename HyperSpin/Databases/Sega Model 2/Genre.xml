@@ -1,0 +1,16 @@
+<menu>
+  <game name="Baseball Games"/>
+  <game name="Beat-'Em-Up Games"/>
+  <game name="Driving Games"/>
+  <game name="Fighter Games"/>
+  <game name="Flying Games"/>
+  <game name="Gun Games" />
+  <game name="Motorcycle Games" />
+  <game name="Shoot- Games" />
+  <game name="Shooter Games" />
+  <game name="Skateboarding Games" />
+  <game name="Skiing Games" />
+  <game name="Soccer Games" />
+  <game name="Sports Games" />
+  <game name="Water Games" />
+</menu>

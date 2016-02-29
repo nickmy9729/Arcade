@@ -1,0 +1,269 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Nintendo Game Boy Color</listname>
+		<lastlistupdate>06/08/2013</lastlistupdate>
+		<listversion>1.1 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="Azure Dreams (USA)" index="true" image="a">
+		<description>Azure Dreams (USA)</description>
+		<cloneof></cloneof>
+		<crc>71d52876</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>2000</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bomberman Quest (USA)" index="true" image="b">
+		<description>Bomberman Quest (USA)</description>
+		<cloneof></cloneof>
+		<crc>a089c656</crc>
+		<manufacturer>Electro Brain</manufacturer>
+		<year>1999</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Casper (USA)" index="true" image="c">
+		<description>Casper (USA)</description>
+		<cloneof></cloneof>
+		<crc>c775d653</crc>
+		<manufacturer>Interplay</manufacturer>
+		<year>2000</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Crystalis (USA)" index="" image="">
+		<description>Crystalis (USA)</description>
+		<cloneof></cloneof>
+		<crc>909bb02d</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2000</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Daikatana (Europe)" index="true" image="d">
+		<description>Daikatana (Europe)</description>
+		<cloneof></cloneof>
+		<crc>d9062e49</crc>
+		<manufacturer>Kemco</manufacturer>
+		<year>2000</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dinosaur&apos;us (Europe)" index="" image="">
+		<description>Dinosaur&apos;us (Europe)</description>
+		<cloneof></cloneof>
+		<crc>f4609fe3</crc>
+		<manufacturer>Electronic Arts</manufacturer>
+		<year>2001</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dragon Ball Z - Legendary Super Warriors (USA)" index="" image="">
+		<description>Dragon Ball Z - Legendary Super Warriors (USA)</description>
+		<cloneof></cloneof>
+		<crc>025aa88a</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>2002</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dragon Warrior I &amp; II (USA)" index="" image="">
+		<description>Dragon Warrior I &amp; II (USA)</description>
+		<cloneof></cloneof>
+		<crc>71d693da</crc>
+		<manufacturer>Enix Corporation</manufacturer>
+		<year>2000</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dragon Warrior III (USA)" index="" image="">
+		<description>Dragon Warrior III (USA)</description>
+		<cloneof></cloneof>
+		<crc>0fd9c59c</crc>
+		<manufacturer>Enix Corportation</manufacturer>
+		<year>2001</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dragon Warrior Monsters (USA)" index="" image="">
+		<description>Dragon Warrior Monsters (USA)</description>
+		<cloneof></cloneof>
+		<crc>e56c35b1</crc>
+		<manufacturer>Eidos Interactive</manufacturer>
+		<year>2000</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dragon Warrior Monsters 2 - Cobi&apos;s Journey (USA)" index="" image="">
+		<description>Dragon Warrior Monsters 2 - Cobi&apos;s Journey (USA)</description>
+		<cloneof></cloneof>
+		<crc>ab7bfdd5</crc>
+		<manufacturer>Enix Corporation</manufacturer>
+		<year>2001</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dragon Warrior Monsters 2 - Tara&apos;s Adventure (USA)" index="" image="">
+		<description>Dragon Warrior Monsters 2 - Tara&apos;s Adventure (USA)</description>
+		<cloneof></cloneof>
+		<crc>35ec5fb2</crc>
+		<manufacturer>Enix Corporation</manufacturer>
+		<year>2001</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hamtaro - Ham-Hams Unite! (USA)" index="true" image="h">
+		<description>Hamtaro - Ham-Hams Unite! (USA)</description>
+		<cloneof></cloneof>
+		<crc>1271117f</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2002</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hercules - The Legendary Journeys (Europe)" index="" image="">
+		<description>Hercules - The Legendary Journeys (Europe)</description>
+		<cloneof></cloneof>
+		<crc>c0ede71f</crc>
+		<manufacturer>Titus Software</manufacturer>
+		<year>2002</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lufia - The Legend Returns (USA)" index="true" image="l">
+		<description>Lufia - The Legend Returns (USA)</description>
+		<cloneof></cloneof>
+		<crc>5bae3c04</crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>2001</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Magi Nation (USA)" index="true" image="m">
+		<description>Magi Nation (USA)</description>
+		<cloneof></cloneof>
+		<crc>5042450b</crc>
+		<manufacturer>Interactive Imagination</manufacturer>
+		<year>2001</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Metal Walker (USA)" index="" image="">
+		<description>Metal Walker (USA)</description>
+		<cloneof></cloneof>
+		<crc>3be68391</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>2001</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pokemon - Crystal Version (USA, Europe) (Rev A)" index="true" image="p">
+		<description>Pokemon - Crystal Version (USA, Europe) (Rev A)</description>
+		<cloneof></cloneof>
+		<crc>3358e30a</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2001</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pokemon - Gold Version (USA, Europe)" index="" image="">
+		<description>Pokemon - Gold Version (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>6bde3c3e</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2000</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pokemon - Silver Version (USA, Europe)" index="" image="">
+		<description>Pokemon - Silver Version (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>8ad48636</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2000</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Quest RPG - Brian&apos;s Journey (USA)" index="true" image="q">
+		<description>Quest RPG - Brian&apos;s Journey (USA)</description>
+		<cloneof></cloneof>
+		<crc>9ac27645</crc>
+		<manufacturer>SunSoft</manufacturer>
+		<year>2000</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Revelations - The Demon Slayer (USA)" index="true" image="r">
+		<description>Revelations - The Demon Slayer (USA)</description>
+		<cloneof></cloneof>
+		<crc>d1a65d74</crc>
+		<manufacturer>Atlus Co.</manufacturer>
+		<year>1999</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Robopon - Sun Version (USA)" index="" image="">
+		<description>Robopon - Sun Version (USA)</description>
+		<cloneof></cloneof>
+		<crc>32caef11</crc>
+		<manufacturer>Atlus Co.</manufacturer>
+		<year>2000</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Shadowgate Classic (USA, Europe) (Rev A)" index="true" image="s">
+		<description>Shadowgate Classic (USA, Europe) (Rev A)</description>
+		<cloneof></cloneof>
+		<crc>d337f450</crc>
+		<manufacturer>Kemco</manufacturer>
+		<year>1999</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Survival Kids (USA)" index="" image="">
+		<description>Survival Kids (USA)</description>
+		<cloneof></cloneof>
+		<crc>c46aba56</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1999</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Towers - Lord Baniff&apos;s Deceit (USA, Europe)" index="true" image="t">
+		<description>Towers - Lord Baniff&apos;s Deceit (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>7b9b2468</crc>
+		<manufacturer>Vatical Entertainment</manufacturer>
+		<year>2000</year>
+		<genre>Role-Playing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

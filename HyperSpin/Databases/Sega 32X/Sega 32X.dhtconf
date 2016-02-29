@@ -1,0 +1,8 @@
+<DonsHyperSpinListGenerator VersionMajor="4">
+  <Wheel>Sega 32X</Wheel>
+  <OutputFile>M:\Arcade\HyperSpin\Databases\Sega 32X\Sega 32X.xml</OutputFile>
+  <SourceFile>M:\Hyperlists\Sega 32X.xml</SourceFile>
+  <ExcludeFile>M:\Arcade\HyperSpin\Databases\Sega 32X\Sega 32X_excluded.xml</ExcludeFile>
+  <MameXmlFile>
+  </MameXmlFile>
+</DonsHyperSpinListGenerator>

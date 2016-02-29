@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>SNK Neo Geo Pocket Color</listname>
+		<lastlistupdate>10/25/2011</lastlistupdate>
+		<listversion>1.2 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="Pocket Reversi (Europe)" index="true" image="p">
+		<description>Pocket Reversi (Europe)</description>
+		<cloneof></cloneof>
+		<crc>20F09880</crc>
+		<manufacturer>SNK</manufacturer>
+		<year>2000</year>
+		<genre>Board Games</genre>
+		<rating>PEGI - 3 (Everyone 3+)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

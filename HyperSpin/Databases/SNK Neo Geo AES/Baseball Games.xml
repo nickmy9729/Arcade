@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>SNK Neo Geo</listname>
+		<lastlistupdate>08/28/2012</lastlistupdate>
+		<listversion>.141 Ongoing</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="2020bb" index="true" image="2">
+		<description>2020 Super Baseball (set 1)</description>
+		<cloneof></cloneof>
+		<crc>9036d879</crc>
+		<manufacturer>SNK / Pallas</manufacturer>
+		<year>1991</year>
+		<genre>Sports/Baseball</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="bstars2" index="true" image="b">
+		<description>Baseball Stars 2</description>
+		<cloneof></cloneof>
+		<crc>9036d879</crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Baseball</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="bstars" index="" image="">
+		<description>Baseball Stars Professional (set 1)</description>
+		<cloneof></cloneof>
+		<crc>9036d879</crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1990</year>
+		<genre>Sports/Baseball</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

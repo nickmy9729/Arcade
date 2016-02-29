@@ -1,0 +1,659 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Nintendo Game Boy</listname>
+		<lastlistupdate>06/08/2013</lastlistupdate>
+		<listversion>1.1 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="A-mazing Tater (USA)" index="true" image="a">
+		<description>A-mazing Tater (USA)</description>
+		<cloneof></cloneof>
+		<crc>d229ac62</crc>
+		<manufacturer>Atlus Co.</manufacturer>
+		<year>1992</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Adventures of Lolo (Europe)" index="" image="">
+		<description>Adventures of Lolo (Europe)</description>
+		<cloneof></cloneof>
+		<crc>176d2eeb</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1995</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Altered Space - A 3-D Alien Adventure (USA)" index="" image="">
+		<description>Altered Space - A 3-D Alien Adventure (USA)</description>
+		<cloneof></cloneof>
+		<crc>141675d3</crc>
+		<manufacturer>Sony Imagesoft</manufacturer>
+		<year>1991</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Boggle Plus (USA)" index="true" image="b">
+		<description>Boggle Plus (USA)</description>
+		<cloneof></cloneof>
+		<crc>70c8c799</crc>
+		<manufacturer>Parker Bros</manufacturer>
+		<year>1992</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Boulder Dash (Europe)" index="" image="">
+		<description>Boulder Dash (Europe)</description>
+		<cloneof></cloneof>
+		<crc>644aec3e</crc>
+		<manufacturer>Victor Interactive Software</manufacturer>
+		<year>1990</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Boxxle (USA, Europe) (Rev A)" index="" image="">
+		<description>Boxxle (USA, Europe) (Rev A)</description>
+		<cloneof></cloneof>
+		<crc>c09cee99</crc>
+		<manufacturer>Pony Canyon</manufacturer>
+		<year>1990</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Boxxle II (USA)" index="" image="">
+		<description>Boxxle II (USA)</description>
+		<cloneof></cloneof>
+		<crc>c08e9756</crc>
+		<manufacturer>FCI, Inc</manufacturer>
+		<year>1992</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Brain Bender (USA)" index="" image="">
+		<description>Brain Bender (USA)</description>
+		<cloneof></cloneof>
+		<crc>fbb1f2a1</crc>
+		<manufacturer>Electro Brain</manufacturer>
+		<year>1991</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="BreakThru! (USA)" index="" image="">
+		<description>BreakThru! (USA)</description>
+		<cloneof></cloneof>
+		<crc>5b8f0df2</crc>
+		<manufacturer>Spectrum Holobyte</manufacturer>
+		<year>1995</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bust-A-Move 2 - Arcade Edition (USA, Europe)" index="" image="">
+		<description>Bust-A-Move 2 - Arcade Edition (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>b94724e6</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1998</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bust-A-Move 3 DX (Europe)" index="" image="">
+		<description>Bust-A-Move 3 DX (Europe)</description>
+		<cloneof></cloneof>
+		<crc>e555c612</crc>
+		<manufacturer>Taito Corporation</manufacturer>
+		<year>1998</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Castelian (USA)" index="true" image="c">
+		<description>Castelian (USA)</description>
+		<cloneof></cloneof>
+		<crc>f2d739e4</crc>
+		<manufacturer>Triffix</manufacturer>
+		<year>1991</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Catrap (USA)" index="" image="">
+		<description>Catrap (USA)</description>
+		<cloneof></cloneof>
+		<crc>adb96150</crc>
+		<manufacturer>Asmik Ace Entertainment, Inc</manufacturer>
+		<year>1990</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cool Ball (USA)" index="" image="">
+		<description>Cool Ball (USA)</description>
+		<cloneof></cloneof>
+		<crc>e045b886</crc>
+		<manufacturer>Takara</manufacturer>
+		<year>1994</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Daedalian Opus (USA)" index="true" image="d">
+		<description>Daedalian Opus (USA)</description>
+		<cloneof></cloneof>
+		<crc>b6b51fce</crc>
+		<manufacturer>Vic Tokai</manufacturer>
+		<year>1990</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="David Crane&apos;s The Rescue of Princess Blobette (USA)" index="" image="">
+		<description>David Crane\&apos;s The Rescue of Princess Blobette (USA)</description>
+		<cloneof></cloneof>
+		<crc>8210a03f</crc>
+		<manufacturer>Absolute Entertainment</manufacturer>
+		<year>1991</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dexterity (USA, Europe)" index="" image="">
+		<description>Dexterity (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>659e2283</crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1990</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dig Dug (USA)" index="" image="">
+		<description>Dig Dug (USA)</description>
+		<cloneof></cloneof>
+		<crc>6c742478</crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1992</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dr. Mario (World) (Rev A)" index="" image="">
+		<description>Dr. Mario (World) (Rev A)</description>
+		<cloneof></cloneof>
+		<crc>f0225dd0</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1990</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fidgetts, The (USA, Europe)" index="true" image="f">
+		<description>Fidgetts, The (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>b3fd3e36</crc>
+		<manufacturer>Jaleco Entertainment</manufacturer>
+		<year>1997</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Flipull (USA)" index="" image="">
+		<description>Flipull (USA)</description>
+		<cloneof></cloneof>
+		<crc>a2f30b4b</crc>
+		<manufacturer>Taito Corporation</manufacturer>
+		<year>1990</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Franky, Joe &amp; Dirk... On the Tiles (Europe)" index="" image="">
+		<description>Franky, Joe &amp; Dirk... On the Tiles (Europe)</description>
+		<cloneof></cloneof>
+		<crc>caf5b372</crc>
+		<manufacturer>Elite Systems Ltd</manufacturer>
+		<year>1993</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Game Boy Gallery (Europe)" index="true" image="g">
+		<description>Game Boy Gallery (Europe)</description>
+		<cloneof></cloneof>
+		<crc>263fd152</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1995</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Godzilla (USA, Europe)" index="" image="">
+		<description>Godzilla (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>fe4f80b7</crc>
+		<manufacturer>Compile</manufacturer>
+		<year>1990</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hatris (Japan, USA)" index="true" image="h">
+		<description>Hatris (Japan, USA)</description>
+		<cloneof></cloneof>
+		<crc>7635f28b</crc>
+		<manufacturer>Bullet-Proof Software</manufacturer>
+		<year>1991</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Humans, The (USA)" index="" image="">
+		<description>Humans, The (USA)</description>
+		<cloneof></cloneof>
+		<crc>1df2e81d</crc>
+		<manufacturer>GameTek</manufacturer>
+		<year>1992</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hyper Lode Runner (World) (Rev A)" index="" image="">
+		<description>Hyper Lode Runner (World) (Rev A)</description>
+		<cloneof></cloneof>
+		<crc>b3a86164</crc>
+		<manufacturer>Bandai</manufacturer>
+		<year>1990</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ishido - The Way of Stones (USA)" index="true" image="i">
+		<description>Ishido - The Way of Stones (USA)</description>
+		<cloneof></cloneof>
+		<crc>85b98a77</crc>
+		<manufacturer>Ascii</manufacturer>
+		<year>1990</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Kirby&apos;s Star Stacker (USA, Europe)" index="true" image="k">
+		<description>Kirby\&apos;s Star Stacker (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>91300898</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1997</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Klax (USA)" index="" image="">
+		<description>Klax (USA)</description>
+		<cloneof></cloneof>
+		<crc>72660774</crc>
+		<manufacturer>Mindscape Inc.</manufacturer>
+		<year>1991</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Krusty&apos;s Fun House (USA, Europe)" index="" image="">
+		<description>Krusty\&apos;s Fun House (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>1cedb141</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1993</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lazlos&apos; Leap (USA)" index="true" image="l">
+		<description>Lazlos\&apos; Leap (USA)</description>
+		<cloneof></cloneof>
+		<crc>31fb404b</crc>
+		<manufacturer>DTMC</manufacturer>
+		<year>1992</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lemmings (USA)" index="" image="">
+		<description>Lemmings (USA)</description>
+		<cloneof></cloneof>
+		<crc>f2d1c19d</crc>
+		<manufacturer>Ocean</manufacturer>
+		<year>1994</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lemmings 2 - The Tribes (Europe)" index="" image="">
+		<description>Lemmings 2 - The Tribes (Europe)</description>
+		<cloneof></cloneof>
+		<crc>9800bd49</crc>
+		<manufacturer>Psygnosis</manufacturer>
+		<year>1994</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lock&apos;n Chase (World)" index="" image="">
+		<description>Lock\&apos;n Chase (World)</description>
+		<cloneof></cloneof>
+		<crc>dab91c7a</crc>
+		<manufacturer>SunSoft</manufacturer>
+		<year>1990</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Loopz (World)" index="" image="">
+		<description>Loopz (World)</description>
+		<cloneof></cloneof>
+		<crc>531a3e16</crc>
+		<manufacturer>Mindscape Inc.</manufacturer>
+		<year>1991</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lucle (Japan, Europe)" index="" image="">
+		<description>Lucle (Japan, Europe)</description>
+		<cloneof></cloneof>
+		<crc>a3d5c8d7</crc>
+		<manufacturer>Vic Tokai</manufacturer>
+		<year>1994</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Marble Madness (USA, Europe)" index="true" image="m">
+		<description>Marble Madness (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>b9725e66</crc>
+		<manufacturer>Mindscape Inc.</manufacturer>
+		<year>1991</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mario&apos;s Picross (USA, Europe)" index="" image="">
+		<description>Mario\&apos;s Picross (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>f2d652ad</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1995</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Maus, Die (Europe)" index="" image="">
+		<description>Maus, Die (Europe)</description>
+		<cloneof></cloneof>
+		<crc>478f573c</crc>
+		<manufacturer>Infogrames</manufacturer>
+		<year>1997</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Megalit (USA, Europe)" index="" image="">
+		<description>Megalit (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>f315b842</crc>
+		<manufacturer>Takara</manufacturer>
+		<year>1992</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mole Mania (USA, Europe)" index="" image="">
+		<description>Mole Mania (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>2c36c74c</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1997</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pac-Attack (USA)" index="true" image="p">
+		<description>Pac-Attack (USA)</description>
+		<cloneof></cloneof>
+		<crc>94e0af9c</crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1994</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Palamedes (Europe)" index="" image="">
+		<description>Palamedes (Europe)</description>
+		<cloneof></cloneof>
+		<crc>526942e1</crc>
+		<manufacturer>Hot B</manufacturer>
+		<year>1990</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pipe Dream (USA)" index="" image="">
+		<description>Pipe Dream (USA)</description>
+		<cloneof></cloneof>
+		<crc>f59cedea</crc>
+		<manufacturer>Bullet-Proof Software</manufacturer>
+		<year>1990</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pyramids of Ra (USA)" index="" image="">
+		<description>Pyramids of Ra (USA)</description>
+		<cloneof></cloneof>
+		<crc>abef175b</crc>
+		<manufacturer>Matchbox Toys</manufacturer>
+		<year>1993</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Q Billion (USA)" index="true" image="q">
+		<description>Q Billion (USA)</description>
+		<cloneof></cloneof>
+		<crc>7202e973</crc>
+		<manufacturer>Seta Corporation</manufacturer>
+		<year>1990</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Quarth (USA, Europe)" index="" image="">
+		<description>Quarth (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>bfb112ad</crc>
+		<manufacturer>Ultra Soft</manufacturer>
+		<year>1990</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Shanghai (USA)" index="true" image="s">
+		<description>Shanghai (USA)</description>
+		<cloneof></cloneof>
+		<crc>580fcb18</crc>
+		<manufacturer>HAL</manufacturer>
+		<year>1990</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Snoopy - Magic Show (USA, Europe)" index="" image="">
+		<description>Snoopy - Magic Show (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>2b7a5034</crc>
+		<manufacturer>Seika</manufacturer>
+		<year>1990</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Solomon&apos;s Club (USA)" index="" image="">
+		<description>Solomon\&apos;s Club (USA)</description>
+		<cloneof></cloneof>
+		<crc>cea9622a</crc>
+		<manufacturer>Tecmo</manufacturer>
+		<year>1991</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Splitz (Europe)" index="" image="">
+		<description>Splitz (Europe)</description>
+		<cloneof></cloneof>
+		<crc>112487c9</crc>
+		<manufacturer>Imagineer</manufacturer>
+		<year>1993</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Spot (USA)" index="" image="">
+		<description>Spot (USA)</description>
+		<cloneof></cloneof>
+		<crc>fcd61b98</crc>
+		<manufacturer>Virgin Interactive</manufacturer>
+		<year>1991</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tesserae (USA)" index="true" image="t">
+		<description>Tesserae (USA)</description>
+		<cloneof></cloneof>
+		<crc>c77e316f</crc>
+		<manufacturer>GameTek</manufacturer>
+		<year>1993</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tetris (World) (Rev A)" index="" image="">
+		<description>Tetris (World) (Rev A)</description>
+		<cloneof></cloneof>
+		<crc>46df91ad</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1989</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tetris 2 (USA, Europe)" index="" image="">
+		<description>Tetris 2 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>ea19a9d9</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1993</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tetris Attack (USA, Europe) (Rev A)" index="" image="">
+		<description>Tetris Attack (USA, Europe) (Rev A)</description>
+		<cloneof></cloneof>
+		<crc>5ee45a4d</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1996</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tetris Blast (USA, Europe)" index="" image="">
+		<description>Tetris Blast (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>7be5a73f</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1996</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tetris Plus (USA, Europe)" index="" image="">
+		<description>Tetris Plus (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>dafc3bff</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1997</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Wild Snake (USA)" index="true" image="w">
+		<description>Wild Snake (USA)</description>
+		<cloneof></cloneof>
+		<crc>72462125</crc>
+		<manufacturer>Spectrum Holobyte</manufacturer>
+		<year>1994</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Wordtris (USA)" index="" image="">
+		<description>Wordtris (USA)</description>
+		<cloneof></cloneof>
+		<crc>075a8231</crc>
+		<manufacturer>Spectrum Holobyte</manufacturer>
+		<year>1992</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="WordZap (USA)" index="" image="">
+		<description>WordZap (USA)</description>
+		<cloneof></cloneof>
+		<crc>e8e57b50</crc>
+		<manufacturer>Jaleco Entertainment</manufacturer>
+		<year>1992</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Yoshi (USA)" index="true" image="y">
+		<description>Yoshi (USA)</description>
+		<cloneof></cloneof>
+		<crc>f2f4bcca</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1992</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Yoshi&apos;s Cookie (USA, Europe)" index="" image="">
+		<description>Yoshi\&apos;s Cookie (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>75336712</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1993</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Zoop (USA, Europe)" index="true" image="z">
+		<description>Zoop (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>14f8b6bb</crc>
+		<manufacturer>Yanoman</manufacturer>
+		<year>1995</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

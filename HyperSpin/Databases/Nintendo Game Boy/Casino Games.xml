@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Nintendo Game Boy</listname>
+		<lastlistupdate>06/08/2013</lastlistupdate>
+		<listversion>1.1 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="Caesars Palace (USA) (Rev A)" index="true" image="c">
+		<description>Caesars Palace (USA) (Rev A)</description>
+		<cloneof></cloneof>
+		<crc>87a9d605</crc>
+		<manufacturer>Arcadia Systems</manufacturer>
+		<year>1991</year>
+		<genre>Casino</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="High Stakes Gambling (USA)" index="true" image="h">
+		<description>High Stakes Gambling (USA)</description>
+		<cloneof></cloneof>
+		<crc>6b17abe5</crc>
+		<manufacturer>Electro Brain</manufacturer>
+		<year>1992</year>
+		<genre>Casino</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Solitaire FunPak (USA, Europe)" index="true" image="s">
+		<description>Solitaire FunPak (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>35a5234a</crc>
+		<manufacturer>Interplay</manufacturer>
+		<year>1994</year>
+		<genre>Casino</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Vegas Stakes (USA, Europe)" index="true" image="v">
+		<description>Vegas Stakes (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>c8be05d8</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1995</year>
+		<genre>Casino</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

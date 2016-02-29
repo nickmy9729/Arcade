@@ -1,0 +1,8 @@
+<DonsHyperSpinListGenerator VersionMajor="4">
+  <Wheel>Konami Classics</Wheel>
+  <OutputFile>M:\Arcade\HyperSpin\Databases\Konami Classics\Konami Classics.xml</OutputFile>
+  <SourceFile>M:\Hyperlists\Konami Classics.xml</SourceFile>
+  <ExcludeFile>M:\Arcade\HyperSpin\Databases\Konami Classics\Konami Classics_excluded.xml</ExcludeFile>
+  <MameXmlFile>
+  </MameXmlFile>
+</DonsHyperSpinListGenerator>

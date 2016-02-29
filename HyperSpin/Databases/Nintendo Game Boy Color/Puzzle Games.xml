@@ -1,0 +1,299 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Nintendo Game Boy Color</listname>
+		<lastlistupdate>06/08/2013</lastlistupdate>
+		<listversion>1.1 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="Ballistic (USA)" index="true" image="b">
+		<description>Ballistic (USA)</description>
+		<cloneof></cloneof>
+		<crc>a9050f72</crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1999</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Blue&apos;s Clues - Blue&apos;s Alphabet Book (USA)" index="" image="">
+		<description>Blue&apos;s Clues - Blue&apos;s Alphabet Book (USA)</description>
+		<cloneof></cloneof>
+		<crc>748d1345</crc>
+		<manufacturer>Mattel</manufacturer>
+		<year>2001</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bust-A-Move 4 (USA, Europe)" index="" image="">
+		<description>Bust-A-Move 4 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>8e818e6f</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1999</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bust-A-Move Millennium (USA, Europe)" index="" image="">
+		<description>Bust-A-Move Millennium (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>f8da0c4a</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>2000</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cool Bricks (Europe)" index="true" image="c">
+		<description>Cool Bricks (Europe)</description>
+		<cloneof></cloneof>
+		<crc>04fe7790</crc>
+		<manufacturer>SCi</manufacturer>
+		<year>1999</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Denki Blocks! (Europe)" index="true" image="d">
+		<description>Denki Blocks! (Europe)</description>
+		<cloneof></cloneof>
+		<crc>38f00974</crc>
+		<manufacturer>Rage Software</manufacturer>
+		<year>2001</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="E.T. The Extra Terrestrial - Digital Companion (USA)" index="true" image="e">
+		<description>E.T. The Extra Terrestrial - Digital Companion (USA)</description>
+		<cloneof></cloneof>
+		<crc>84872999</crc>
+		<manufacturer>NewKidCo</manufacturer>
+		<year>2001</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hello Kitty&apos;s Cube Frenzy (USA)" index="true" image="h">
+		<description>Hello Kitty&apos;s Cube Frenzy (USA)</description>
+		<cloneof></cloneof>
+		<crc>937729f6</crc>
+		<manufacturer>NewKidCo</manufacturer>
+		<year>1999</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hexcite - The Shapes of Victory (USA, Europe)" index="" image="">
+		<description>Hexcite - The Shapes of Victory (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>84084e5f</crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>1999</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Klax (USA)" index="true" image="k">
+		<description>Klax (USA)</description>
+		<cloneof></cloneof>
+		<crc>7181cbd0</crc>
+		<manufacturer>Midway</manufacturer>
+		<year>1999</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Klustar (USA)" index="" image="">
+		<description>Klustar (USA)</description>
+		<cloneof></cloneof>
+		<crc>3f8d6041</crc>
+		<manufacturer>Infogrames</manufacturer>
+		<year>1999</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lemmings (USA)" index="true" image="l">
+		<description>Lemmings (USA)</description>
+		<cloneof></cloneof>
+		<crc>97e5ce2f</crc>
+		<manufacturer>Take-Two Interactive</manufacturer>
+		<year>2000</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Logical (USA)" index="" image="">
+		<description>Logical (USA)</description>
+		<cloneof></cloneof>
+		<crc>d67275f7</crc>
+		<manufacturer>SunSoft</manufacturer>
+		<year>1999</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Magical Tetris Challenge (USA)" index="true" image="m">
+		<description>Magical Tetris Challenge (USA)</description>
+		<cloneof></cloneof>
+		<crc>f53cf66c</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>2000</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Marble Madness (USA, Europe)" index="" image="">
+		<description>Marble Madness (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>4ec78785</crc>
+		<manufacturer>Midway</manufacturer>
+		<year>1999</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Maus, Die (Europe)" index="" image="">
+		<description>Maus, Die (Europe)</description>
+		<cloneof></cloneof>
+		<crc>e7bd4a49</crc>
+		<manufacturer>Infogrames</manufacturer>
+		<year>1999</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Microsoft - The 6 in 1 Puzzle Collection Entertainment Pack (USA)" index="" image="">
+		<description>Microsoft - The 6 in 1 Puzzle Collection Entertainment Pack (USA)</description>
+		<cloneof></cloneof>
+		<crc>0777b8d7</crc>
+		<manufacturer>Classified Games</manufacturer>
+		<year>2000</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Microsoft - The Best of Entertainment Pack (USA)" index="" image="">
+		<description>Microsoft - The Best of Entertainment Pack (USA)</description>
+		<cloneof></cloneof>
+		<crc>d2d88cfa</crc>
+		<manufacturer>Electro Source</manufacturer>
+		<year>2001</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pocket Bomberman (USA, Europe)" index="true" image="p">
+		<description>Pocket Bomberman (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>fa2a66e9</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1998</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pokemon Puzzle Challenge (USA)" index="" image="">
+		<description>Pokemon Puzzle Challenge (USA)</description>
+		<cloneof></cloneof>
+		<crc>d06bba96</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2000</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Puchi Carat (Europe)" index="" image="">
+		<description>Puchi Carat (Europe)</description>
+		<cloneof></cloneof>
+		<crc>a9a89dda</crc>
+		<manufacturer>Tommo</manufacturer>
+		<year>2000</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Puzzle Master (USA)" index="" image="">
+		<description>Puzzle Master (USA)</description>
+		<cloneof></cloneof>
+		<crc>06eb7a01</crc>
+		<manufacturer>Metro3D</manufacturer>
+		<year>1999</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Puzzled (USA)" index="" image="">
+		<description>Puzzled (USA)</description>
+		<cloneof></cloneof>
+		<crc>f03ffdaf</crc>
+		<manufacturer>Conspiracy Entertainment</manufacturer>
+		<year>2001</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rainbow Islands (Europe)" index="true" image="r">
+		<description>Rainbow Islands (Europe)</description>
+		<cloneof></cloneof>
+		<crc>6decc6b3</crc>
+		<manufacturer>TDK Core</manufacturer>
+		<year>2001</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rox (USA, Europe)" index="" image="">
+		<description>Rox (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>2e944775</crc>
+		<manufacturer>Titus Software</manufacturer>
+		<year>2001</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tetris DX (World)" index="true" image="t">
+		<description>Tetris DX (World)</description>
+		<cloneof></cloneof>
+		<crc>69989152</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1999</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Toki Tori (USA, Europe)" index="" image="">
+		<description>Toki Tori (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>0a0f9289</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>2001</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Trouballs (USA)" index="" image="">
+		<description>Trouballs (USA)</description>
+		<cloneof></cloneof>
+		<crc>260eed04</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>2001</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Wetrix GB (Europe)" index="true" image="w">
+		<description>Wetrix GB (Europe)</description>
+		<cloneof></cloneof>
+		<crc>9cbfaa3d</crc>
+		<manufacturer>Infogrames</manufacturer>
+		<year>2000</year>
+		<genre>Puzzle</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

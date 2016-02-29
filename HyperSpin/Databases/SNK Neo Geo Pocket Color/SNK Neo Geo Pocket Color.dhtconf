@@ -1,0 +1,8 @@
+<DonsHyperSpinListGenerator VersionMajor="4">
+  <Wheel>SNK Neo Geo Pocket Color</Wheel>
+  <OutputFile>M:\Arcade\HyperSpin\Databases\SNK Neo Geo Pocket Color\SNK Neo Geo Pocket Color.xml</OutputFile>
+  <SourceFile>M:\Hyperlists\SNK Neo Geo Pocket Color.xml</SourceFile>
+  <ExcludeFile>M:\Arcade\HyperSpin\Databases\SNK Neo Geo Pocket Color\SNK Neo Geo Pocket Color_excluded.xml</ExcludeFile>
+  <MameXmlFile>
+  </MameXmlFile>
+</DonsHyperSpinListGenerator>

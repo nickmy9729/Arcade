@@ -1,0 +1,8 @@
+<DonsHyperSpinListGenerator VersionMajor="4">
+  <Wheel>Atari 5200</Wheel>
+  <OutputFile>M:\Arcade\HyperSpin\Databases\Atari 5200\Atari 5200.xml</OutputFile>
+  <SourceFile>M:\Hyperlists\Atari 5200.xml</SourceFile>
+  <ExcludeFile>M:\Arcade\HyperSpin\Databases\Atari 5200\Atari 5200_excluded.xml</ExcludeFile>
+  <MameXmlFile>
+  </MameXmlFile>
+</DonsHyperSpinListGenerator>

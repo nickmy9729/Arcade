@@ -1,0 +1,149 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Atari 2600</listname>
+		<lastlistupdate>07/20/2013</lastlistupdate>
+		<listversion>1.0 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="Bachelor Party (USA)" index="true" image="b">
+		<description>Bachelor Party (USA)</description>
+		<cloneof></cloneof>
+		<crc>D9CD6C95</crc>
+		<manufacturer>Mystique - American Multiple Industries</manufacturer>
+		<year>1982</year>
+		<genre>Mature</genre>
+		<rating>HSRS - AD (Adult)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bachelorette Party (USA)" index="" image="">
+		<description>Bachelorette Party (USA)</description>
+		<cloneof>Bachelor Party (USA)</cloneof>
+		<crc>E8189EEB</crc>
+		<manufacturer>PlayAround - J.H.M.</manufacturer>
+		<year>1982</year>
+		<genre>Mature</genre>
+		<rating>HSRS - AD (Adult)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Beat &apos;Em &amp; Eat &apos;Em (USA)" index="" image="">
+		<description>Beat &apos;Em &amp; Eat &apos;Em (USA)</description>
+		<cloneof></cloneof>
+		<crc>C90D4F84</crc>
+		<manufacturer>Mystique - American Multiple Industries</manufacturer>
+		<year>1982</year>
+		<genre>Mature</genre>
+		<rating>HSRS - AD (Adult)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Burning Desire (Australia)" index="" image="">
+		<description>Burning Desire (Australia)</description>
+		<cloneof></cloneof>
+		<crc>F2593D9B</crc>
+		<manufacturer>Mystique - American Multiple Industries</manufacturer>
+		<year>1982</year>
+		<genre>Mature</genre>
+		<rating>HSRS - AD (Adult)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cathouse Blues (USA)" index="true" image="c">
+		<description>Cathouse Blues (USA)</description>
+		<cloneof>Cathouse Blues (Australia)</cloneof>
+		<crc>3C4E3F41</crc>
+		<manufacturer>PlayAround - J.H.M.</manufacturer>
+		<year>1982</year>
+		<genre>Mature</genre>
+		<rating>HSRS - AD (Adult)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Custer&apos;s Revenge (USA)" index="" image="">
+		<description>Custer&apos;s Revenge (USA)</description>
+		<cloneof></cloneof>
+		<crc>21283941</crc>
+		<manufacturer>Mystique - American Multiple Industries</manufacturer>
+		<year>1982</year>
+		<genre>Mature</genre>
+		<rating>HSRS - AD (Adult)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="General Re-Treat (Europe)" index="true" image="g">
+		<description>General Re-Treat (Europe)</description>
+		<cloneof>Custer&apos;s Revenge (USA)</cloneof>
+		<crc>72A59BE5</crc>
+		<manufacturer>PlayAround - J.H.M.</manufacturer>
+		<year>1982</year>
+		<genre>Mature</genre>
+		<rating>HSRS - AD (Adult)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gigolo (USA)" index="" image="">
+		<description>Gigolo (USA)</description>
+		<cloneof>Cathouse Blues (Australia)</cloneof>
+		<crc>4E16A8DC</crc>
+		<manufacturer>PlayAround - J.H.M.</manufacturer>
+		<year>1982</year>
+		<genre>Mature</genre>
+		<rating>HSRS - AD (Adult)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Harem (USA)" index="true" image="h">
+		<description>Harem (USA)</description>
+		<cloneof></cloneof>
+		<crc>E4466537</crc>
+		<manufacturer>Multivision</manufacturer>
+		<year>1982</year>
+		<genre>Mature</genre>
+		<rating>HSRS - AD (Adult)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Jungle Fever (USA)" index="true" image="j">
+		<description>Jungle Fever (USA)</description>
+		<cloneof>Jungle Fever (Australia)</cloneof>
+		<crc>0123617B</crc>
+		<manufacturer>PlayAround - J.H.M.</manufacturer>
+		<year>1982</year>
+		<genre>Mature</genre>
+		<rating>HSRS - AD (Adult)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Knight on the Town (USA)" index="true" image="k">
+		<description>Knight on the Town (USA)</description>
+		<cloneof>Knight on the Town (Australia)</cloneof>
+		<crc>ACEA70A6</crc>
+		<manufacturer>PlayAround - J.H.M.</manufacturer>
+		<year>1982</year>
+		<genre>Mature</genre>
+		<rating>HSRS - AD (Adult)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lady in Wading (USA)" index="true" image="l">
+		<description>Lady in Wading (USA)</description>
+		<cloneof>Knight on the Town (Australia)</cloneof>
+		<crc>F197BBCC</crc>
+		<manufacturer>PlayAround - J.H.M.</manufacturer>
+		<year>1982</year>
+		<genre>Mature</genre>
+		<rating>HSRS - AD (Adult)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Philly Flasher (USA)" index="true" image="p">
+		<description>Philly Flasher (USA)</description>
+		<cloneof>Beat &apos;Em &amp; Eat &apos;Em (USA)</cloneof>
+		<crc>6AC647A1</crc>
+		<manufacturer>PlayAround - J.H.M.</manufacturer>
+		<year>1982</year>
+		<genre>Mature</genre>
+		<rating>HSRS - AD (Adult)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="X-Man (USA)" index="true" image="x">
+		<description>X-Man (USA)</description>
+		<cloneof></cloneof>
+		<crc>91659AF1</crc>
+		<manufacturer>Universal Gamex Corporation</manufacturer>
+		<year>1983</year>
+		<genre>Mature</genre>
+		<rating>HSRS - AD (Adult)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

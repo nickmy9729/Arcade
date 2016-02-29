@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Sega Genesis</listname>
+		<lastlistupdate>02/21/2013</lastlistupdate>
+		<listversion>1.2 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="Clue (USA)" index="true" image="c">
+		<description>Clue (USA)</description>
+		<cloneof></cloneof>
+		<crc>7753a296</crc>
+		<manufacturer>Sculptured Software</manufacturer>
+		<year>1992</year>
+		<genre>Board Games</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Monopoly (USA)" index="true" image="m">
+		<description>Monopoly (USA)</description>
+		<cloneof></cloneof>
+		<crc>c10268da</crc>
+		<manufacturer>Sculptured Software</manufacturer>
+		<year>1992</year>
+		<genre>Board Games</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Risk (USA)" index="true" image="r">
+		<description>Risk (USA)</description>
+		<cloneof></cloneof>
+		<crc>80416d0d</crc>
+		<manufacturer>Sculptured Software</manufacturer>
+		<year>1994</year>
+		<genre>Board Games</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Battleship (USA)" index="true" image="s">
+		<description>Super Battleship (USA)</description>
+		<cloneof></cloneof>
+		<crc>99ca1bfb</crc>
+		<manufacturer>Synergistic Software</manufacturer>
+		<year>1993</year>
+		<genre>Board Games</genre>
+		<rating>HSRS - GA (General Audience)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

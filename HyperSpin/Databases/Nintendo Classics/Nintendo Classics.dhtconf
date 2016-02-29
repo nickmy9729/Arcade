@@ -1,0 +1,8 @@
+<DonsHyperSpinListGenerator VersionMajor="4">
+  <Wheel>Nintendo Classics</Wheel>
+  <OutputFile>M:\Arcade\HyperSpin\Databases\Nintendo Classics\Nintendo Classics.xml</OutputFile>
+  <SourceFile>M:\Hyperlists\Nintendo Classics.xml</SourceFile>
+  <ExcludeFile>M:\Arcade\HyperSpin\Databases\Nintendo Classics\Nintendo Classics_excluded.xml</ExcludeFile>
+  <MameXmlFile>
+  </MameXmlFile>
+</DonsHyperSpinListGenerator>

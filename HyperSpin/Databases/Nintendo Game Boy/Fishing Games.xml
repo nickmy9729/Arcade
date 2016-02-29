@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Nintendo Game Boy</listname>
+		<lastlistupdate>06/08/2013</lastlistupdate>
+		<listversion>1.1 Final</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="Black Bass - Lure Fishing (USA)" index="true" image="b">
+		<description>Black Bass - Lure Fishing (USA)</description>
+		<cloneof></cloneof>
+		<crc>2db3dace</crc>
+		<manufacturer>Hot B</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Fishing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Legend of the River King GB (USA)" index="true" image="l">
+		<description>Legend of the River King GB (USA)</description>
+		<cloneof></cloneof>
+		<crc>a6e685dc</crc>
+		<manufacturer>Natsume</manufacturer>
+		<year>1998</year>
+		<genre>Sports/Fishing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Black Bass (USA)" index="true" image="s">
+		<description>Super Black Bass (USA)</description>
+		<cloneof></cloneof>
+		<crc>6b497842</crc>
+		<manufacturer>Hot B</manufacturer>
+		<year>1998</year>
+		<genre>Sports/Fishing</genre>
+		<rating>ESRB - E (Everyone)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>
